@@ -19760,7 +19760,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 8
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19768,7 +19768,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19776,7 +19776,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19784,7 +19784,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19792,7 +19792,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19800,7 +19800,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19808,7 +19808,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19816,7 +19816,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19824,7 +19824,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19832,7 +19832,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19840,7 +19840,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19848,7 +19848,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19856,7 +19856,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19864,7 +19864,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19872,7 +19872,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -19880,7 +19880,7 @@ export const CompEduDuration:string = `[
     "Observation Value": 10
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",

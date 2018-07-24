@@ -1,37196 +1,37238 @@
-[
+export const GDPCapitaConst2011:string = `[
   {
     "Country or Area": "Afghanistan",
     "Year": 2016,
-    "Value": 67375381133.9281,
+    "Value": 1802.69556558913,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2015,
-    "Value": 64988542713.1535,
+    "Value": 1809.01648820483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2014,
-    "Value": 63459994842.4248,
+    "Value": 1838.96024375534,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2013,
-    "Value": 60707816633.8425,
+    "Value": 1848.70002618354,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2012,
-    "Value": 57500127993.256,
+    "Value": 1839.27357927778,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2011,
-    "Value": 49338254430.557,
+    "Value": 1660.73985617959,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2010,
-    "Value": 45555113006.3501,
+    "Value": 1614.25500126115,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2009,
-    "Value": 41505186409.2602,
+    "Value": 1531.17399271735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2008,
-    "Value": 34037462001.3289,
+    "Value": 1298.14315888036,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2007,
-    "Value": 32219074824.5206,
+    "Value": 1284.77521302624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2006,
-    "Value": 27592569518.5013,
+    "Value": 1161.12488912197,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2005,
-    "Value": 25361507049.8761,
+    "Value": 1136.12321410151,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2004,
-    "Value": 22101051954.6374,
+    "Value": 1062.24936045108,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2003,
-    "Value": 21284923743.126,
+    "Value": 1099.19450675044,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Afghanistan",
     "Year": 2002,
-    "Value": 19243809662.7756,
+    "Value": 1063.63557365313,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2016,
-    "Value": 33190279056.2483,
+    "Value": 11359.1704039362,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2015,
-    "Value": 32502377301.2625,
+    "Value": 10971.2925173789,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2014,
-    "Value": 32529186105.1036,
+    "Value": 10701.1207857986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2013,
-    "Value": 30603881456.6191,
+    "Value": 10492.8062825121,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2012,
-    "Value": 30530320547.2104,
+    "Value": 10369.8233819184,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2011,
-    "Value": 29655546965.6768,
+    "Value": 10207.7646993323,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2010,
-    "Value": 28073789440.2204,
+    "Value": 9927.18184117512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2009,
-    "Value": 25800962689.3577,
+    "Value": 9524.64930321377,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2008,
-    "Value": 24251493149.7688,
+    "Value": 9153.78820562203,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2007,
-    "Value": 21655106012.17,
+    "Value": 8754.56951284933,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2006,
-    "Value": 19846079990.7792,
+    "Value": 8204.5882455338,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2005,
-    "Value": 17896917935.8918,
+    "Value": 7733.006932655,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2004,
-    "Value": 16717730018.9676,
+    "Value": 7277.214907886,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2003,
-    "Value": 15546789901.0441,
+    "Value": 6855.44887574892,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2002,
-    "Value": 14506495975.7715,
+    "Value": 6457.0500213448,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2001,
-    "Value": 13639532693.3445,
+    "Value": 6176.37067804796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 2000,
-    "Value": 12445742205.9707,
+    "Value": 5668.57477726735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 1999,
-    "Value": 11473514055.0684,
+    "Value": 5280.52786659886,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 1998,
-    "Value": 10041377978.6524,
+    "Value": 4623.02640073499,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 1997,
-    "Value": 8934962899.0874,
+    "Value": 4214.35815259863,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 1996,
-    "Value": 9852403151.85813,
+    "Value": 4697.15323281589,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 1995,
-    "Value": 8868713893.04579,
+    "Value": 4278.68966272931,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 1994,
-    "Value": 7667714308.45625,
+    "Value": 3753.16990379019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 1993,
-    "Value": 6932535057.32132,
+    "Value": 3444.32179181322,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 1992,
-    "Value": 6178307613.30152,
+    "Value": 3123.51250298198,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 1991,
-    "Value": 6509276807.76548,
+    "Value": 3345.50404927247,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Albania",
     "Year": 1990,
-    "Value": 8946888684.96944,
+    "Value": 4722.83816576759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2016,
-    "Value": 609630693492.105,
+    "Value": 13921.1800218255,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2015,
-    "Value": 582721202680.838,
+    "Value": 13724.723852895,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2014,
-    "Value": 555561406651.09,
+    "Value": 13483.3378622219,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2013,
-    "Value": 525841885570.943,
+    "Value": 13253.6154761387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2012,
-    "Value": 503548082189.252,
+    "Value": 13161.9616734309,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2011,
-    "Value": 478298761774.961,
+    "Value": 12990.345016498,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2010,
-    "Value": 455452361679.776,
+    "Value": 12870.6026985154,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2009,
-    "Value": 434178151684.126,
+    "Value": 12647.5403044562,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2008,
-    "Value": 423985231158.452,
+    "Value": 12660.4032440006,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2007,
-    "Value": 406240468963.718,
+    "Value": 12570.6547026998,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2006,
-    "Value": 382798013901.654,
+    "Value": 12348.4812120361,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2005,
-    "Value": 365235633218.176,
+    "Value": 12322.4842607049,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2004,
-    "Value": 334111414658.308,
+    "Value": 11797.1848486236,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2003,
-    "Value": 311759423443.314,
+    "Value": 11459.8935602271,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2002,
-    "Value": 285129633300.678,
+    "Value": 10826.4876450259,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2001,
-    "Value": 265903338500.221,
+    "Value": 10382.1868362393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 2000,
-    "Value": 252385915568.68,
+    "Value": 10211.0018566908,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 1999,
-    "Value": 237691548683.807,
+    "Value": 9968.96771197831,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 1998,
-    "Value": 226849733525.566,
+    "Value": 9796.73993556183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 1997,
-    "Value": 213524506285.161,
+    "Value": 9461.35511679608,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 1996,
-    "Value": 207647399392.286,
+    "Value": 9509.68765695727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 1995,
-    "Value": 195893034599.098,
+    "Value": 9295.42011356466,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 1994,
-    "Value": 184865917500.795,
+    "Value": 9126.2716238864,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 1993,
-    "Value": 182657617586.347,
+    "Value": 9400.05442441546,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 1992,
-    "Value": 182239748741.94,
+    "Value": 9815.46382267098,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 1991,
-    "Value": 175027588457.271,
+    "Value": 9869.48837022995,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Algeria",
     "Year": 1990,
-    "Value": 171446801450.824,
+    "Value": 10236.840658348,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2016,
-    "Value": 185965990691.642,
+    "Value": 5984.64042160033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2015,
-    "Value": 184853251530.85,
+    "Value": 6231.06799206401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2014,
-    "Value": 177531801342.134,
+    "Value": 6260.13268066975,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2013,
-    "Value": 166406882655.461,
+    "Value": 6185.01382919907,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2012,
-    "Value": 153315808792.932,
+    "Value": 5998.63860099119,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2011,
-    "Value": 143162097316.44,
+    "Value": 5911.25433387322,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2010,
-    "Value": 134976922759.291,
+    "Value": 5895.11408790181,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2009,
-    "Value": 128953968329.478,
+    "Value": 5908.0514270678,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2008,
-    "Value": 124966743631.321,
+    "Value": 5978.3348726785,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2007,
-    "Value": 107683724421.64,
+    "Value": 5443.12621515764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2006,
-    "Value": 85561283210.1864,
+    "Value": 4601.1154879667,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2005,
-    "Value": 68754610654.4012,
+    "Value": 3949.27280047762,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2004,
-    "Value": 56325455002.0093,
+    "Value": 3461.01808359261,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2003,
-    "Value": 49439320643.8649,
+    "Value": 3234.99657925578,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2002,
-    "Value": 46055962673.4746,
+    "Value": 3184.02594574066,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2001,
-    "Value": 48742596951.3517,
+    "Value": 3540.23202549842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 2000,
-    "Value": 45726453705.2664,
+    "Value": 3508.90512526976,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 1999,
-    "Value": 43401794411.2997,
+    "Value": 3511.19857342183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 1998,
-    "Value": 41406142195.3761,
+    "Value": 3498.72563240139,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 1997,
-    "Value": 38351851582.7467,
+    "Value": 3365.9838304013,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 1996,
-    "Value": 34945786282.757,
+    "Value": 3205.95093838327,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 1995,
-    "Value": 30862652597.0763,
+    "Value": 2966.55462629496,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 1994,
-    "Value": 27384156308.201,
+    "Value": 2770.12724428741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 1993,
-    "Value": 25906791101.7047,
+    "Value": 2763.82462146268,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 1992,
-    "Value": 33605213160.2357,
+    "Value": 3793.64554016524,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 1991,
-    "Value": 35291341120.6238,
+    "Value": 4209.48208913989,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Angola",
     "Year": 1990,
-    "Value": 34569336016.9061,
+    "Value": 4394.33014126642,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2016,
-    "Value": 2287971867.07668,
+    "Value": 21013.0176273358,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2015,
-    "Value": 2144576098.13766,
+    "Value": 20154.9474879241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2014,
-    "Value": 2038789782.18186,
+    "Value": 19573.8341184873,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2013,
-    "Value": 1905621556.50359,
+    "Value": 18823.754452753,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2012,
-    "Value": 1877286002.02322,
+    "Value": 19047.2002426242,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2011,
-    "Value": 1780882314.40936,
+    "Value": 18605.3167543472,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2010,
-    "Value": 1781905588.09698,
+    "Value": 19212.7201307541,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2009,
-    "Value": 1896988531.85962,
+    "Value": 20942.3011801149,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2008,
-    "Value": 2142038853.26263,
+    "Value": 24111.3770844998,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2007,
-    "Value": 2101461972.9043,
+    "Value": 24408.1814889805,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2006,
-    "Value": 1873508762.88087,
+    "Value": 22606.8408513208,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2005,
-    "Value": 1612427296.03157,
+    "Value": 20289.7106373404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2004,
-    "Value": 1468026728.70415,
+    "Value": 19282.2297905624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2003,
-    "Value": 1351227709.24328,
+    "Value": 18437.5082472791,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2002,
-    "Value": 1249138575.76664,
+    "Value": 17591.3401918852,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2001,
-    "Value": 1217781356.44271,
+    "Value": 17660.5219212823,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 2000,
-    "Value": 1252707763.31664,
+    "Value": 18908.4941850646,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 1999,
-    "Value": 1148014225.3573,
+    "Value": 18102.2030900696,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 1998,
-    "Value": 1090284125.4627,
+    "Value": 17887.8075742041,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 1997,
-    "Value": 1029853196.84411,
+    "Value": 17543.7315286641,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 1996,
-    "Value": 960000899.107752,
+    "Value": 17097.9758766223,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 1995,
-    "Value": 884378197.020933,
+    "Value": 16476.3332796269,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 1994,
-    "Value": 905797985.062694,
+    "Value": 17683.7510162052,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 1993,
-    "Value": 831416120.538621,
+    "Value": 16999.1768058194,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 1992,
-    "Value": 771365618.19644,
+    "Value": 16503.1720979053,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 1991,
-    "Value": 745538080.523614,
+    "Value": 16585.6715162132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Antigua and Barbuda",
     "Year": 1990,
-    "Value": 706150129.974454,
+    "Value": 16381.018356894,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2016,
-    "Value": 6798621226928.2,
+    "Value": 15506.2298215933,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2015,
-    "Value": 6493312345229.55,
+    "Value": 15304.9964447023,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2014,
-    "Value": 6215024423990.34,
+    "Value": 15125.9678290388,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2013,
-    "Value": 5934780718810.41,
+    "Value": 15023.8671055779,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2012,
-    "Value": 5642027863138.47,
+    "Value": 14836.3303585466,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2011,
-    "Value": 5271235862915.48,
+    "Value": 14445.863000172,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2010,
-    "Value": 5016442154171.21,
+    "Value": 14359.5534580839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2009,
-    "Value": 4728730227226.11,
+    "Value": 14028.270098059,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2008,
-    "Value": 4648696734399.21,
+    "Value": 14239.8384215972,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2007,
-    "Value": 4307592343731.59,
+    "Value": 13779.7877947403,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2006,
-    "Value": 4014121831569.98,
+    "Value": 13500.1617021899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2005,
-    "Value": 3668857650895.34,
+    "Value": 13018.7634966162,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2004,
-    "Value": 3365083641962.3,
+    "Value": 12608.7079608841,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2003,
-    "Value": 2999526362495.92,
+    "Value": 11804.3347663768,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2002,
-    "Value": 2816096240369.28,
+    "Value": 11547.3526884896,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2001,
-    "Value": 2757583776936.42,
+    "Value": 11729.3466785413,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 2000,
-    "Value": 2648953663108.66,
+    "Value": 11769.070458851,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 1999,
-    "Value": 2464786336412.72,
+    "Value": 11434.9238453332,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 1998,
-    "Value": 2371554765172.45,
+    "Value": 11410.3282797273,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 1997,
-    "Value": 2221084850557.1,
+    "Value": 11035.7209659802,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 1996,
-    "Value": 2094559551623.2,
+    "Value": 10820.1503127878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 1995,
-    "Value": 1967370776883.64,
+    "Value": 10586.4500765718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 1994,
-    "Value": 1876376414799.53,
+    "Value": 10623.498257306,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 1993,
-    "Value": 1784189994366.08,
+    "Value": 10579.4856321881,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 1992,
-    "Value": 1690679310298.86,
+    "Value": 10536.4037849635,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 1991,
-    "Value": 1574668490425.31,
+    "Value": 10220.0654871549,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Arab World",
     "Year": 1990,
-    "Value": 1519163384695.37,
+    "Value": 10464.2867668647,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2016,
-    "Value": 874314718852.371,
+    "Value": 18489.4348925861,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2015,
-    "Value": 883130036290.714,
+    "Value": 19101.2973920688,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2014,
-    "Value": 851124258669.714,
+    "Value": 18797.5479465897,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2013,
-    "Value": 857668563139.116,
+    "Value": 19482.190295091,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2012,
-    "Value": 824212325824.212,
+    "Value": 19224.8743997107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2011,
-    "Value": 817697534663.575,
+    "Value": 19629.3518451916,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2010,
-    "Value": 755779970405.514,
+    "Value": 18712.0630773436,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2009,
-    "Value": 678009476231.364,
+    "Value": 17168.3789365496,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2008,
-    "Value": 715230331983.68,
+    "Value": 18436.8624668727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2007,
-    "Value": 674119601920.088,
+    "Value": 17900.7063421587,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2006,
-    "Value": 602383491807.77,
+    "Value": 16592.264892395,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2005,
-    "Value": 540901160462.916,
+    "Value": 15518.6785097698,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2004,
-    "Value": 481425332916.43,
+    "Value": 14410.1505153775,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2003,
-    "Value": 429738214437.589,
+    "Value": 13361.4000434323,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2002,
-    "Value": 387126040868.739,
+    "Value": 12412.6059887095,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2001,
-    "Value": 427889367078.785,
+    "Value": 14085.5751760246,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 2000,
-    "Value": 437650782125.831,
+    "Value": 14899.8700458711,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 1999,
-    "Value": 431316608578.626,
+    "Value": 15186.130197286,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 1998,
-    "Value": 439701467329.774,
+    "Value": 15894.5580528952,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 1997,
-    "Value": 418854176199.749,
+    "Value": 15479.3791285386,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 1996,
-    "Value": 380910288162.906,
+    "Value": 14485.5076845653,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 1995,
-    "Value": 354489689716.293,
+    "Value": 13893.5226589826,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 1994,
-    "Value": 357416483365.292,
+    "Value": 14481.1082032399,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 1993,
-    "Value": 330670113260.973,
+    "Value": 13861.946177794,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 1992,
-    "Value": 304971050545.622,
+    "Value": 13266.0528630404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 1991,
-    "Value": 266367660566.608,
+    "Value": 12015.6271048557,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Argentina",
     "Year": 1990,
-    "Value": 228799009367.14,
+    "Value": 10815.7151226019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2016,
-    "Value": 25834207818.2338,
+    "Value": 8190.23928885988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2015,
-    "Value": 25457851257.4174,
+    "Value": 8195.93364956571,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2014,
-    "Value": 24403817572.2174,
+    "Value": 7971.11792762162,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2013,
-    "Value": 23140511632.7678,
+    "Value": 7727.92909156213,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2012,
-    "Value": 22045237581.6534,
+    "Value": 7511.13248214738,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2011,
-    "Value": 20192628679.6198,
+    "Value": 7022.10394338388,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2010,
-    "Value": 18896045357.2528,
+    "Value": 6702.84800627941,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2009,
-    "Value": 18266187204.2737,
+    "Value": 6532.96423059787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2008,
-    "Value": 21116494555.207,
+    "Value": 7558.36164780203,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2007,
-    "Value": 19373470462.0354,
+    "Value": 7010.62705596386,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2006,
-    "Value": 16590220303.9001,
+    "Value": 6110.22619140708,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2005,
-    "Value": 14219082018.8533,
+    "Value": 5356.61442371328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2004,
-    "Value": 12098309164.0948,
+    "Value": 4673.98472583689,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2003,
-    "Value": 10658796162.5021,
+    "Value": 4206.97511756609,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2002,
-    "Value": 9163746289.10092,
+    "Value": 3669.44339048777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2001,
-    "Value": 7973754958.90504,
+    "Value": 3224.14127527107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 2000,
-    "Value": 7116035771.37072,
+    "Value": 2924.7473797168,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 1999,
-    "Value": 6570077114.78049,
+    "Value": 2744.43020482128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 1998,
-    "Value": 6264326458.80065,
+    "Value": 2639.94931837894,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 1997,
-    "Value": 5775463511.32173,
+    "Value": 2441.18183351899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 1996,
-    "Value": 5495760948.78006,
+    "Value": 2336.51656159442,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 1995,
-    "Value": 5098201644.42749,
+    "Value": 2173.36283006068,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 1994,
-    "Value": 4671695181.65911,
+    "Value": 1992.01948539874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 1993,
-    "Value": 4339987551.13206,
+    "Value": 1845.31970707182,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 1992,
-    "Value": 4648166189.03595,
+    "Value": 1976.52923651447,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 1991,
-    "Value": 7808540587.87169,
+    "Value": 3335.60189918844,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Armenia",
     "Year": 1990,
-    "Value": 8558329069.54703,
+    "Value": 3742.43737068264,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Aruba",
     "Year": 2011,
-    "Value": 3671232222.36581,
+    "Value": 35973.780509792,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2016,
-    "Value": 1113995695786.19,
+    "Value": 44260.5759713751,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2015,
-    "Value": 1099405837195.72,
+    "Value": 43719.5021648696,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2014,
-    "Value": 1094631353490.46,
+    "Value": 43315.3609984013,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2013,
-    "Value": 1055562657769.93,
+    "Value": 42867.167107896,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2012,
-    "Value": 968590657191.184,
+    "Value": 42534.5069587227,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2011,
-    "Value": 933417248380.598,
+    "Value": 41782.2849420662,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2010,
-    "Value": 864245373568.176,
+    "Value": 41384.9235523277,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2009,
-    "Value": 873431259805.71,
+    "Value": 41207.1289946073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2008,
-    "Value": 796991764436.238,
+    "Value": 41316.6000535698,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2007,
-    "Value": 762076157158.235,
+    "Value": 40649.6642171307,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2006,
-    "Value": 711710029225.176,
+    "Value": 39426.0204015126,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2005,
-    "Value": 664703433413.332,
+    "Value": 38854.8372008842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2004,
-    "Value": 631690037657.333,
+    "Value": 38148.9191860349,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2003,
-    "Value": 591172681125.164,
+    "Value": 37057.4914139004,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2002,
-    "Value": 564334937036.566,
+    "Value": 36400.7274378688,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2001,
-    "Value": 531870800749.396,
+    "Value": 35480.6986118529,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 2000,
-    "Value": 504548845169.941,
+    "Value": 35281.3953623126,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 1999,
-    "Value": 478815682948.456,
+    "Value": 34374.9840375352,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 1998,
-    "Value": 453355937261.792,
+    "Value": 33112.1125202038,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 1997,
-    "Value": 425980526683.123,
+    "Value": 32036.5556170595,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 1996,
-    "Value": 403679473019.459,
+    "Value": 31166.630406948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 1995,
-    "Value": 378735543126.54,
+    "Value": 30379.1896485469,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 1994,
-    "Value": 359469731942.264,
+    "Value": 29597.2658604688,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 1993,
-    "Value": 338727496594.203,
+    "Value": 28747.4833776289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 1992,
-    "Value": 318992295941.887,
+    "Value": 27896.9387867124,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 1991,
-    "Value": 308134817326.706,
+    "Value": 28114.7887501603,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Australia",
     "Year": 1990,
-    "Value": 296442308467.07,
+    "Value": 28582.7072994352,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2016,
-    "Value": 441389420554.209,
+    "Value": 44490.8155945223,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2015,
-    "Value": 431124111140.868,
+    "Value": 44353.8752139122,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2014,
-    "Value": 416955271489.502,
+    "Value": 44345.3096528388,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2013,
-    "Value": 406370494341.228,
+    "Value": 44303.444636945,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2012,
-    "Value": 391635006784.261,
+    "Value": 44551.6175741173,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2011,
-    "Value": 373031463577.163,
+    "Value": 44452.7327457999,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2010,
-    "Value": 351656321269.447,
+    "Value": 43336.1978527647,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2009,
-    "Value": 341401690154.2,
+    "Value": 42618.5288387609,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2008,
-    "Value": 343812802543,
+    "Value": 44417.7806037669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2007,
-    "Value": 326723912983.451,
+    "Value": 43878.134032345,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2006,
-    "Value": 311132183093.519,
+    "Value": 42482.1005452241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2005,
-    "Value": 288086851811.747,
+    "Value": 41308.6390980498,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2004,
-    "Value": 275845880322.891,
+    "Value": 40719.3500830979,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2003,
-    "Value": 260750191461.438,
+    "Value": 39893.3519596778,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2002,
-    "Value": 251984858807.042,
+    "Value": 39787.3057714365,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2001,
-    "Value": 239177323579.334,
+    "Value": 39332.2488551353,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 2000,
-    "Value": 235342994296.19,
+    "Value": 38956.9807260522,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 1999,
-    "Value": 220639956878.73,
+    "Value": 37778.2466142029,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 1998,
-    "Value": 212604013721.235,
+    "Value": 36540.0378403064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 1997,
-    "Value": 202486786906.001,
+    "Value": 35322.6789526552,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 1996,
-    "Value": 195186005357.057,
+    "Value": 34599.7957976886,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 1995,
-    "Value": 188046489688.834,
+    "Value": 33835.0725541099,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 1994,
-    "Value": 179417707445.074,
+    "Value": 33006.312823538,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 1993,
-    "Value": 171557875632.037,
+    "Value": 32356.3508544766,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 1992,
-    "Value": 166692765490.75,
+    "Value": 32453.3064334403,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 1991,
-    "Value": 159635617847.137,
+    "Value": 32139.5943174924,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Austria",
     "Year": 1990,
-    "Value": 149353118854.938,
+    "Value": 31382.0363275346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2016,
-    "Value": 168386921731.694,
+    "Value": 16001.3233967209,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2015,
-    "Value": 171584834018.457,
+    "Value": 16698.8636532538,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2014,
-    "Value": 167897205046.009,
+    "Value": 16715.1055213058,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2013,
-    "Value": 161703059598.88,
+    "Value": 16593.1887600482,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2012,
-    "Value": 150414031877.609,
+    "Value": 15888.2179950886,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2011,
-    "Value": 144514131462.76,
+    "Value": 15754.1523626148,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2010,
-    "Value": 141497529647.474,
+    "Value": 15950.2574578784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2009,
-    "Value": 133318471842.669,
+    "Value": 15393.8932908055,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2008,
-    "Value": 120933045859.918,
+    "Value": 14364.9942336723,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2007,
-    "Value": 107072181205.494,
+    "Value": 13243.2128559113,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2006,
-    "Value": 83404506136.5201,
+    "Value": 10711.1822716451,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2005,
-    "Value": 60162435044.7109,
+    "Value": 8051.67483806248,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2004,
-    "Value": 46113109804.6625,
+    "Value": 6435.44812947118,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2003,
-    "Value": 40725100374.2,
+    "Value": 5891.13710833521,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2002,
-    "Value": 35907280254.4702,
+    "Value": 5338.07631838764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2001,
-    "Value": 31975038896.4589,
+    "Value": 4862.6190309313,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 2000,
-    "Value": 28446401577.8736,
+    "Value": 4458.99842303434,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 1999,
-    "Value": 25034653525.1852,
+    "Value": 4046.6074672842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 1998,
-    "Value": 22958395782.3192,
+    "Value": 3801.00252072188,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 1997,
-    "Value": 20647193888.5411,
+    "Value": 3488.41002547603,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 1996,
-    "Value": 19186921180.7761,
+    "Value": 3329.13480415802,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 1995,
-    "Value": 18601118782.8909,
+    "Value": 3319.76734895474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 1994,
-    "Value": 20658827705.9402,
+    "Value": 3807.50790708691,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 1993,
-    "Value": 25190961047.1709,
+    "Value": 4806.13270233044,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 1992,
-    "Value": 31996789308.4074,
+    "Value": 6345.5169997564,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 1991,
-    "Value": 40418168682.0032,
+    "Value": 8323.49934468511,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Azerbaijan",
     "Year": 1990,
-    "Value": 39391924924.6846,
+    "Value": 8513.31069277994,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2015,
-    "Value": 64169533255.3094,
+    "Value": 43926.474036316,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2014,
-    "Value": 61714863730.3954,
+    "Value": 43837.3440580026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2013,
-    "Value": 58099570205.4921,
+    "Value": 42680.2013445965,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2012,
-    "Value": 54238348812.608,
+    "Value": 40960.3331839838,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2011,
-    "Value": 51341141014.8994,
+    "Value": 40164.5827403304,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2010,
-    "Value": 49324077606.9671,
+    "Value": 40570.5356928307,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2009,
-    "Value": 46704561332.1065,
+    "Value": 40717.1804076523,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2008,
-    "Value": 45204453727.9856,
+    "Value": 42218.1484889764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2007,
-    "Value": 41728762475.5237,
+    "Value": 42755.4262028945,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2006,
-    "Value": 37534482925.9419,
+    "Value": 42673.0806319225,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2005,
-    "Value": 34203236183.4612,
+    "Value": 43201.8066853191,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2004,
-    "Value": 31036186419.3829,
+    "Value": 43355.3056525645,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2003,
-    "Value": 28234575455.8361,
+    "Value": 43187.4991847906,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2002,
-    "Value": 26109731936.7224,
+    "Value": 43147.4963779058,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2001,
-    "Value": 24818015160.7668,
+    "Value": 43887.0711920261,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 2000,
-    "Value": 23675279805.7374,
+    "Value": 44942.3690225206,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 1999,
-    "Value": 21983410784.4815,
+    "Value": 44562.3398016227,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 1998,
-    "Value": 20759410084.9973,
+    "Value": 44315.4592535893,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 1997,
-    "Value": 19597800847.2328,
+    "Value": 43624.1594258385,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 1996,
-    "Value": 18689947802.5646,
+    "Value": 43504.5115981395,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 1995,
-    "Value": 17630264881.5677,
+    "Value": 42896.7142454249,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 1994,
-    "Value": 16617019657.3553,
+    "Value": 42334.375610445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 1993,
-    "Value": 16311535423.5464,
+    "Value": 43499.0891903771,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 1992,
-    "Value": 14115761128.3262,
+    "Value": 39506.1787854484,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 1991,
-    "Value": 12935754981.7821,
+    "Value": 37996.6430763657,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bahrain",
     "Year": 1990,
-    "Value": 11255108050.4929,
+    "Value": 35113.3329386605,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2016,
-    "Value": 583326953570.824,
+    "Value": 3319.35355606232,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2015,
-    "Value": 537727433736.509,
+    "Value": 3132.56754015214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2014,
-    "Value": 499245005715.946,
+    "Value": 2973.0415646346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2013,
-    "Value": 462415702168.173,
+    "Value": 2835.76661976407,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2012,
-    "Value": 429252817813.651,
+    "Value": 2706.58674530986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2011,
-    "Value": 395684471605.039,
+    "Value": 2570.85014525476,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2010,
-    "Value": 364140854585.653,
+    "Value": 2442.72888765696,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2009,
-    "Value": 340760579977.767,
+    "Value": 2339.86576916766,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2008,
-    "Value": 321949477684.351,
+    "Value": 2252.16873338547,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2007,
-    "Value": 297843872857.018,
+    "Value": 2148.47399345425,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2006,
-    "Value": 270994233918.351,
+    "Value": 2031.27129311695,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2005,
-    "Value": 246472416034.399,
+    "Value": 1929.93874339681,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2004,
-    "Value": 224139419248.384,
+    "Value": 1838.76198025346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2003,
-    "Value": 207280610211.284,
+    "Value": 1775.97815407773,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2002,
-    "Value": 194031856405.822,
+    "Value": 1725.63200463028,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2001,
-    "Value": 184043639225.26,
+    "Value": 1692.82911877697,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 2000,
-    "Value": 171248156731.994,
+    "Value": 1641.95876843278,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 1999,
-    "Value": 159020639186.08,
+    "Value": 1590.25166657181,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 1998,
-    "Value": 149635575668.415,
+    "Value": 1550.31803503193,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 1997,
-    "Value": 140742788887.851,
+    "Value": 1504.87169006458,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 1996,
-    "Value": 132428597254.634,
+    "Value": 1470.90745239521,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 1995,
-    "Value": 124426667319.526,
+    "Value": 1437.6397305204,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 1994,
-    "Value": 115946602029.696,
+    "Value": 1397.31861864065,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 1993,
-    "Value": 109279414286.934,
+    "Value": 1374.41890576168,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 1992,
-    "Value": 101936972087.392,
+    "Value": 1341.76334138033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 1991,
-    "Value": 94520597789.6556,
+    "Value": 1301.69965941864,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bangladesh",
     "Year": 1990,
-    "Value": 88395044692.3496,
+    "Value": 1287.93366418737,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2016,
-    "Value": 5148340003.33959,
+    "Value": 16750.5259265839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2015,
-    "Value": 4981708069.45328,
+    "Value": 16460.1541131793,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2014,
-    "Value": 4884104290.19138,
+    "Value": 16360.5546106727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2013,
-    "Value": 4797128256.74131,
+    "Value": 16408.3175094623,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2012,
-    "Value": 4720458698.97206,
+    "Value": 16460.6714588784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2011,
-    "Value": 4622083018.24387,
+    "Value": 16472.0832008577,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2010,
-    "Value": 4508048680.36235,
+    "Value": 16457.9159049246,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2009,
-    "Value": 4441886878.82581,
+    "Value": 16479.2126052511,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2008,
-    "Value": 4594054744.27042,
+    "Value": 17244.4616402797,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2007,
-    "Value": 4487897874.18754,
+    "Value": 17249.1505473935,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2006,
-    "Value": 4295766521.6498,
+    "Value": 17018.5712309159,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2005,
-    "Value": 3944145488.05429,
+    "Value": 16166.1510821623,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2004,
-    "Value": 3675462175.43968,
+    "Value": 15601.8831939352,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2003,
-    "Value": 3527478535.29162,
+    "Value": 15432.5194860997,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2002,
-    "Value": 3385016523.12155,
+    "Value": 15147.958961114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2001,
-    "Value": 3307670217.46143,
+    "Value": 15073.0898123298,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 2000,
-    "Value": 3312386630.94113,
+    "Value": 15486.5170615087,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 1999,
-    "Value": 3100617274.94576,
+    "Value": 14877.2907877633,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 1998,
-    "Value": 3043963674.29136,
+    "Value": 14882.7603609721,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 1997,
-    "Value": 2902708924.44093,
+    "Value": 14400.1593665707,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 1996,
-    "Value": 2724709639.52366,
+    "Value": 13800.3141706205,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 1995,
-    "Value": 2573777298.45224,
+    "Value": 13323.0833500335,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 1994,
-    "Value": 2471194629.1608,
+    "Value": 13105.5609962718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 1993,
-    "Value": 2372255132.28734,
+    "Value": 12893.8128859491,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 1992,
-    "Value": 2298734646.68545,
+    "Value": 12835.6334932971,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 1991,
-    "Value": 2383353234.1613,
+    "Value": 13658.8463391039,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Barbados",
     "Year": 1990,
-    "Value": 2400185901.20592,
+    "Value": 14262.3440090399,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2016,
-    "Value": 171657569998.029,
+    "Value": 16752.0987720631,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2015,
-    "Value": 174107319951.791,
+    "Value": 17229.5551904045,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2014,
-    "Value": 179098188060.304,
+    "Value": 17944.2098463253,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2013,
-    "Value": 172960371298.501,
+    "Value": 17656.1193383189,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2012,
-    "Value": 168486170512.449,
+    "Value": 17479.9293997571,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2011,
-    "Value": 162623060502.26,
+    "Value": 17166.6956434719,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2010,
-    "Value": 150964389938.614,
+    "Value": 16235.1714534334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2009,
-    "Value": 138359512404.504,
+    "Value": 15035.6996456718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2008,
-    "Value": 137042603104.487,
+    "Value": 14972.2694585184,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2007,
-    "Value": 121965584131.666,
+    "Value": 13539.6024068277,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2006,
-    "Value": 109395778054.181,
+    "Value": 12410.3301926286,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2005,
-    "Value": 96486388219.0376,
+    "Value": 11213.2494312467,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2004,
-    "Value": 85446604658.7525,
+    "Value": 10180.0029861629,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2003,
-    "Value": 74616536617.3852,
+    "Value": 9072.0661853019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2002,
-    "Value": 68344122111.6079,
+    "Value": 8416.04256596209,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2001,
-    "Value": 64077915095.2434,
+    "Value": 7960.98605535452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 2000,
-    "Value": 59823343550.7406,
+    "Value": 7562.88399875478,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 1999,
-    "Value": 55285764458.0535,
+    "Value": 7114.68495785746,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 1998,
-    "Value": 52661959813.5235,
+    "Value": 6851.85969471413,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 1997,
-    "Value": 48059574230.5103,
+    "Value": 6290.91431596248,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 1996,
-    "Value": 42415506106.7242,
+    "Value": 5623.24002093197,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 1995,
-    "Value": 40520496632.1502,
+    "Value": 5451.83351668447,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 1994,
-    "Value": 44299817612.5648,
+    "Value": 6065.00200674514,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 1993,
-    "Value": 49124239774.8449,
+    "Value": 6860.58198003115,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 1992,
-    "Value": 51929229505.565,
+    "Value": 7441.58841045073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 1991,
-    "Value": 56163561163.8038,
+    "Value": 8249.6109981033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belarus",
     "Year": 1990,
-    "Value": 55014543407.2095,
+    "Value": 8353.90616482524,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2016,
-    "Value": 526430376659.528,
+    "Value": 42094.5790495614,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2015,
-    "Value": 512196954286.848,
+    "Value": 41722.9218634283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2014,
-    "Value": 500226439427.453,
+    "Value": 41384.1473316774,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2013,
-    "Value": 486673712361.97,
+    "Value": 40928.136605999,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2012,
-    "Value": 471332758408.878,
+    "Value": 41046.481185763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2011,
-    "Value": 455705357904.872,
+    "Value": 41248.725342013,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2010,
-    "Value": 436815047186.968,
+    "Value": 41085.9189401366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2009,
-    "Value": 410288228983.352,
+    "Value": 40355.5731175835,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2008,
-    "Value": 408408771079.89,
+    "Value": 41619.3400813337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2007,
-    "Value": 391729878689.736,
+    "Value": 41623.4417399595,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2006,
-    "Value": 373301236596.679,
+    "Value": 40532.2730382074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2005,
-    "Value": 349276733932.28,
+    "Value": 39802.9722724017,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2004,
-    "Value": 336076452097.055,
+    "Value": 39201.5271563108,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2003,
-    "Value": 322223602965.99,
+    "Value": 37990.7133086751,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2002,
-    "Value": 314972060002.29,
+    "Value": 37856.8647131311,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2001,
-    "Value": 298131493167.802,
+    "Value": 37361.718437763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 2000,
-    "Value": 286870940183.284,
+    "Value": 37188.6436930907,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 1999,
-    "Value": 262228511791.511,
+    "Value": 35971.8504151917,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 1998,
-    "Value": 250421944983.757,
+    "Value": 34813.8621527162,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 1997,
-    "Value": 243499704742.652,
+    "Value": 34212.4882853649,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 1996,
-    "Value": 232446071044.133,
+    "Value": 33068.3953782617,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 1995,
-    "Value": 228383980211.078,
+    "Value": 32613.4078364629,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 1994,
-    "Value": 218507176274.698,
+    "Value": 31920.5561312755,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 1993,
-    "Value": 207265470589.62,
+    "Value": 31018.1395921895,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 1992,
-    "Value": 204414866054.256,
+    "Value": 31441.977285362,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 1991,
-    "Value": 196845888628.847,
+    "Value": 31093.8610724912,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belgium",
     "Year": 1990,
-    "Value": 187075811803.213,
+    "Value": 30647.8213478709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2016,
-    "Value": 3104994353.98984,
+    "Value": 7846.01583191982,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2015,
-    "Value": 3084209259.78861,
+    "Value": 8061.33183075712,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2014,
-    "Value": 2965941973.10201,
+    "Value": 8005.48489669257,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2013,
-    "Value": 2815073567.89052,
+    "Value": 7903.47103611784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2012,
-    "Value": 2734400316.62323,
+    "Value": 7974.26291343671,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2011,
-    "Value": 2586033030.36327,
+    "Value": 7855.69828660257,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2010,
-    "Value": 2481511350.03126,
+    "Value": 7875.25594808055,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2009,
-    "Value": 2372690403.7659,
+    "Value": 7808.3094157545,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2008,
-    "Value": 2338133534.1686,
+    "Value": 7949.62914265935,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2007,
-    "Value": 2221431983.99902,
+    "Value": 7901.21370804003,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2006,
-    "Value": 2140210222.26534,
+    "Value": 8020.80392405522,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2005,
-    "Value": 1985433465.42776,
+    "Value": 7871.59167827899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2004,
-    "Value": 1875184702.30321,
+    "Value": 7873.49216827621,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2003,
-    "Value": 1743902597.01416,
+    "Value": 7718.15004372434,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2002,
-    "Value": 1563946042.53145,
+    "Value": 7246.14646507412,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2001,
-    "Value": 1465298343.85006,
+    "Value": 7088.5499349075,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 2000,
-    "Value": 1364224761.07324,
+    "Value": 6959.30381603376,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 1999,
-    "Value": 1180013129.22355,
+    "Value": 6370.06285239756,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 1998,
-    "Value": 1068416383.20921,
+    "Value": 6078.19402534199,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 1997,
-    "Value": 1018831759.2803,
+    "Value": 6088.44743232969,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 1996,
-    "Value": 967392056.791816,
+    "Value": 6098.21100986759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 1995,
-    "Value": 936666055.126102,
+    "Value": 6207.32558635658,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 1994,
-    "Value": 911658519.578756,
+    "Value": 6329.35637506378,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 1993,
-    "Value": 891253862.240976,
+    "Value": 6449.14259043834,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 1992,
-    "Value": 819128296.239966,
+    "Value": 6171.28755205282,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 1991,
-    "Value": 714836074.299981,
+    "Value": 5600.28530601375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Belize",
     "Year": 1990,
-    "Value": 626088356.513989,
+    "Value": 5164.84829399418,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2016,
-    "Value": 23567258733.8495,
+    "Value": 2009.96138385757,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2015,
-    "Value": 22379387461.5552,
+    "Value": 1987.16714645212,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2014,
-    "Value": 21685116018.6028,
+    "Value": 2001.12916130051,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2013,
-    "Value": 20029425217.0217,
+    "Value": 1934.59577170696,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2012,
-    "Value": 18388394739.0262,
+    "Value": 1855.84342847873,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2011,
-    "Value": 17227124154.8024,
+    "Value": 1820.89469315629,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2010,
-    "Value": 16392960557.8805,
+    "Value": 1818.77846075906,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2009,
-    "Value": 15859440470.1681,
+    "Value": 1831.76251754635,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2008,
-    "Value": 15383136311.8055,
+    "Value": 1841.24980105023,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2007,
-    "Value": 14383350251.0893,
+    "Value": 1805.62256823782,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2006,
-    "Value": 13219119497.2434,
+    "Value": 1752.95773973829,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2005,
-    "Value": 12338111332.6274,
+    "Value": 1735.97415014991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2004,
-    "Value": 11752340790.9703,
+    "Value": 1757.90297863214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2003,
-    "Value": 10952669661.9743,
+    "Value": 1734.69529970284,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2002,
-    "Value": 10381010530.1817,
+    "Value": 1728.69687889668,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2001,
-    "Value": 9770280733.79246,
+    "Value": 1703.01513026645,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 2000,
-    "Value": 9069163095.3746,
+    "Value": 1666.46746353098,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 1999,
-    "Value": 8376520572.0259,
+    "Value": 1621.90086797704,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 1998,
-    "Value": 7831926569.19514,
+    "Value": 1585.78506587644,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 1997,
-    "Value": 7452642550.72559,
+    "Value": 1571.16906095909,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 1996,
-    "Value": 6929832339.05287,
+    "Value": 1531.64280725026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 1995,
-    "Value": 6523498026.22222,
+    "Value": 1515.06774041106,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 1994,
-    "Value": 6025938758.34472,
+    "Value": 1476.5393429105,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 1993,
-    "Value": 5783520743.93818,
+    "Value": 1497.74263989156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 1992,
-    "Value": 5337601927.05743,
+    "Value": 1465.57057864765,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 1991,
-    "Value": 5068722233.68237,
+    "Value": 1473.86252559355,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Benin",
     "Year": 1990,
-    "Value": 4706554345.96153,
+    "Value": 1462.67742107927,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2013,
-    "Value": 3408396102.46194,
+    "Value": 50669.3147696996,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2012,
-    "Value": 3440624524.06218,
+    "Value": 52137.3003731125,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2011,
-    "Value": 3550019929.12843,
+    "Value": 54984.5103947777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2010,
-    "Value": 3598375440.29922,
+    "Value": 56395.0078003539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2009,
-    "Value": 3630994134.05189,
+    "Value": 57151.9191321066,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2008,
-    "Value": 3804672577.23871,
+    "Value": 60675.9820859495,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2007,
-    "Value": 3675320493.92403,
+    "Value": 60117.4599095649,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2006,
-    "Value": 3480978665.79403,
+    "Value": 58784.5932914465,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2005,
-    "Value": 3199827284.68298,
+    "Value": 56017.19161965,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2004,
-    "Value": 3049030896.26684,
+    "Value": 55452.6388804958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2003,
-    "Value": 2900115311.49629,
+    "Value": 54549.8011627024,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2002,
-    "Value": 2749634057.3413,
+    "Value": 53096.9254922092,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2001,
-    "Value": 2748681686.01862,
+    "Value": 54245.1496398132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 2000,
-    "Value": 2506413532.19836,
+    "Value": 51140.236844667,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 1999,
-    "Value": 2241778544.64523,
+    "Value": 47199.8414462497,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 1998,
-    "Value": 2135744469.81497,
+    "Value": 45911.6864997413,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 1997,
-    "Value": 2033508194.31502,
+    "Value": 44514.1094159639,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 1996,
-    "Value": 1911367369.49348,
+    "Value": 42816.9632444088,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 1995,
-    "Value": 1829523585.14358,
+    "Value": 41999.2594636705,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 1994,
-    "Value": 1716628217.20874,
+    "Value": 40518.4078179105,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 1993,
-    "Value": 1670838770.57534,
+    "Value": 40557.2201557525,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 1992,
-    "Value": 1584342981.69336,
+    "Value": 39584.3298590314,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 1991,
-    "Value": 1549957914.21421,
+    "Value": 39322.1091825364,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bermuda",
     "Year": 1990,
-    "Value": 1554988500.09769,
+    "Value": 40553.2585214927,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2016,
-    "Value": 7100718433.69422,
+    "Value": 8253.29378307761,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2015,
-    "Value": 6492474179.70676,
+    "Value": 7743.33799567847,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2014,
-    "Value": 6025306502.13021,
+    "Value": 7366.42412644897,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2013,
-    "Value": 5597477745.42739,
+    "Value": 7070.79246817221,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2012,
-    "Value": 5392970630.40252,
+    "Value": 7032.74666006521,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2011,
-    "Value": 5039821055.27253,
+    "Value": 6805.87845575689,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2010,
-    "Value": 4576726813.72953,
+    "Value": 6419.67559908811,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2009,
-    "Value": 4046781423.42001,
+    "Value": 5851.67801870576,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2008,
-    "Value": 3765596225.85911,
+    "Value": 5592.16284779378,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2007,
-    "Value": 3525063410.01063,
+    "Value": 5446.36248611985,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2006,
-    "Value": 2911729974.13034,
+    "Value": 4719.66536448846,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2005,
-    "Value": 2643853103.09401,
+    "Value": 4521.98567794256,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2004,
-    "Value": 2391126002.75453,
+    "Value": 4329.15984613234,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2003,
-    "Value": 2197559185.20423,
+    "Value": 4198.5874279696,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2002,
-    "Value": 2001215500.94871,
+    "Value": 4009.25195557952,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2001,
-    "Value": 1780002948.1246,
+    "Value": 3723.98155129683,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 2000,
-    "Value": 1608393321.7217,
+    "Value": 3538.77361646938,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 1999,
-    "Value": 1470647930.69414,
+    "Value": 3403.55184513624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 1998,
-    "Value": 1341385646.55363,
+    "Value": 3241.36525402581,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 1997,
-    "Value": 1252888266.94654,
+    "Value": 3137.937414193,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 1996,
-    "Value": 1168986422.03893,
+    "Value": 3032.22813949343,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 1995,
-    "Value": 1087506908.17278,
+    "Value": 2896.949918925,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 1994,
-    "Value": 994907511.864074,
+    "Value": 2697.03838953366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 1993,
-    "Value": 928215150.100891,
+    "Value": 2537.30384522117,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 1992,
-    "Value": 888985219.769416,
+    "Value": 2448.53037239605,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 1991,
-    "Value": 830941297.341342,
+    "Value": 2315.74053813835,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bhutan",
     "Year": 1990,
-    "Value": 807467719.935313,
+    "Value": 2325.24188426706,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2016,
-    "Value": 78765064174.5228,
+    "Value": 6707.95618414272,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2015,
-    "Value": 74592283426.475,
+    "Value": 6531.51939817124,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2014,
-    "Value": 70373867340.5809,
+    "Value": 6324.82725807651,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2013,
-    "Value": 65553554781.0873,
+    "Value": 6090.69557009272,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2012,
-    "Value": 60406456609.646,
+    "Value": 5792.93305144957,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2011,
-    "Value": 56423688392.2173,
+    "Value": 5598.50844451487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2010,
-    "Value": 52547684328.3957,
+    "Value": 5407.47022023569,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2009,
-    "Value": 49856209963.9535,
+    "Value": 5278.03826758065,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2008,
-    "Value": 47873330022.2333,
+    "Value": 5191.13190436962,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2007,
-    "Value": 44232621785.9186,
+    "Value": 4972.49156342578,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2006,
-    "Value": 41205235130.8427,
+    "Value": 4836.43247556525,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2005,
-    "Value": 38147113648.2302,
+    "Value": 4694.9165699442,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2004,
-    "Value": 35393060315.0351,
+    "Value": 4575.17290508943,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2003,
-    "Value": 33065954261.1355,
+    "Value": 4470.30909186235,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2002,
-    "Value": 31563692397.132,
+    "Value": 4431.30610689627,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2001,
-    "Value": 30332541008.4975,
+    "Value": 4403.71693251038,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 2000,
-    "Value": 29165604150.0362,
+    "Value": 4412.255625581,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 1999,
-    "Value": 27819051784.0502,
+    "Value": 4386.79236379529,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 1998,
-    "Value": 27283279111.0135,
+    "Value": 4453.29486000423,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 1997,
-    "Value": 25697924708.5643,
+    "Value": 4323.76161478576,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 1996,
-    "Value": 24072883762.9773,
+    "Value": 4201.55800924018,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 1995,
-    "Value": 22653311223.7107,
+    "Value": 4106.16907030112,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 1994,
-    "Value": 21198752964.1764,
+    "Value": 4000.83228728931,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 1993,
-    "Value": 19831430419.8189,
+    "Value": 3898.64643442917,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 1992,
-    "Value": 18577429059.8563,
+    "Value": 3813.52651668108,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 1991,
-    "Value": 17869169615.4946,
+    "Value": 3826.43247858039,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bolivia",
     "Year": 1990,
-    "Value": 16428348865.1178,
+    "Value": 3707.2450502719,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2016,
-    "Value": 42806918100.9276,
+    "Value": 11327.4874128933,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2015,
-    "Value": 40756987110.0864,
+    "Value": 10932.0487091922,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2014,
-    "Value": 39811579969.692,
+    "Value": 10516.6948372653,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2013,
-    "Value": 39027142463.683,
+    "Value": 10284.6862672289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2012,
-    "Value": 37145655844.0627,
+    "Value": 9929.47179575646,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2011,
-    "Value": 36525703316.1297,
+    "Value": 9901.61020154702,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2010,
-    "Value": 34670788258.2089,
+    "Value": 9720.34217718095,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2009,
-    "Value": 33731299239.8806,
+    "Value": 9573.73887363665,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2008,
-    "Value": 33896654956.5515,
+    "Value": 9824.10569696296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2007,
-    "Value": 30802203849.7838,
+    "Value": 9278.97388549683,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2006,
-    "Value": 27895782414.0217,
+    "Value": 8763.50925372467,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2005,
-    "Value": 24402918845.4567,
+    "Value": 8311.68843452059,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2004,
-    "Value": 22085179210.2977,
+    "Value": 7642.8446379287,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2003,
-    "Value": 20213632218.9738,
+    "Value": 7207.32345528631,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2002,
-    "Value": 19310512227.3298,
+    "Value": 6936.4324809606,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2001,
-    "Value": 17857682851.1276,
+    "Value": 6595.20561166194,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 2000,
-    "Value": 17057953926.9376,
+    "Value": 6324.92467470179,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 1999,
-    "Value": 15808941056.4785,
+    "Value": 6007.29088120533,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 1998,
-    "Value": 14206806451.09,
+    "Value": 5493.72143124854,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 1997,
-    "Value": 12157683332.2104,
+    "Value": 4749.88977139315,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 1996,
-    "Value": 8894369620.79334,
+    "Value": 3508.28963294121,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 1995,
-    "Value": 4622680533.02716,
+    "Value": 1826.06114015451,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bosnia and Herzegovina",
     "Year": 1994,
-    "Value": 3748539857.79158,
+    "Value": 1471.40531373452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2016,
-    "Value": 38157039481.4941,
+    "Value": 15723.237064964,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2015,
-    "Value": 36125994894.0192,
+    "Value": 15356.457617167,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2014,
-    "Value": 36356472470.6079,
+    "Value": 15914.6702328332,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2013,
-    "Value": 34292608602.1029,
+    "Value": 15568.2733737967,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2012,
-    "Value": 30309452915.6587,
+    "Value": 14244.4943119099,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2011,
-    "Value": 28491602197.6691,
+    "Value": 13889.2704704923,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2010,
-    "Value": 26323148832.6222,
+    "Value": 13334.1987970857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2009,
-    "Value": 23954182468.4641,
+    "Value": 12499.4074012934,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2008,
-    "Value": 25743618768.2686,
+    "Value": 13768.3384387427,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2007,
-    "Value": 23764167894.3264,
+    "Value": 13175.1796275222,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2006,
-    "Value": 21378657605.3427,
+    "Value": 12362.9291865381,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2005,
-    "Value": 19140535956.5179,
+    "Value": 11583.2195902436,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2004,
-    "Value": 17735708196.2093,
+    "Value": 11239.0325837069,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2003,
-    "Value": 16806327456.0012,
+    "Value": 11094.5013909952,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2002,
-    "Value": 15749209931.9197,
+    "Value": 10749.2510299364,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2001,
-    "Value": 14623516448.7236,
+    "Value": 10278.6258212434,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 2000,
-    "Value": 14261949629.0655,
+    "Value": 10410.7026764195,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 1999,
-    "Value": 13672861753.8509,
+    "Value": 10378.8151968105,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 1998,
-    "Value": 12279671332.481,
+    "Value": 9635.30771432846,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 1997,
-    "Value": 12060758337.5045,
+    "Value": 9753.10960795733,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 1996,
-    "Value": 10976756703.7463,
+    "Value": 9217.41422776574,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 1995,
-    "Value": 10186131615.455,
+    "Value": 8903.74629489617,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 1994,
-    "Value": 9322604958.43897,
+    "Value": 8516.85969609395,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 1993,
-    "Value": 8808767046.60053,
+    "Value": 8427.24816359058,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 1992,
-    "Value": 8442290765.15846,
+    "Value": 8489.52511647583,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 1991,
-    "Value": 8020179344.17248,
+    "Value": 8476.56985216693,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Botswana",
     "Year": 1990,
-    "Value": 7223077604.70088,
+    "Value": 8110.44046511801,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2016,
-    "Value": 3140510785295.86,
+    "Value": 14023.6916227341,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2015,
-    "Value": 3216576411327.64,
+    "Value": 14666.0181678984,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2014,
-    "Value": 3306707166377.33,
+    "Value": 15370.9963698253,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2013,
-    "Value": 3232120155064.12,
+    "Value": 15430.2682759225,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2012,
-    "Value": 3087961712327.26,
+    "Value": 15118.138451117,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2011,
-    "Value": 2974955344832.28,
+    "Value": 14973.0984736747,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2010,
-    "Value": 2803358677828.85,
+    "Value": 14539.0845345652,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2009,
-    "Value": 2575633551297.78,
+    "Value": 13653.0139581162,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2008,
-    "Value": 2559442370944.87,
+    "Value": 13806.0149203547,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2007,
-    "Value": 2388522431028.49,
+    "Value": 13271.0470442056,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2006,
-    "Value": 2193463250323.83,
+    "Value": 12644.9392239091,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2005,
-    "Value": 2046983381568.72,
+    "Value": 12299.3797443019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2004,
-    "Value": 1921638611571.74,
+    "Value": 12058.3213738903,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2003,
-    "Value": 1768357755782.59,
+    "Value": 11542.5788204106,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2002,
-    "Value": 1714225670184.82,
+    "Value": 11560.0372749018,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2001,
-    "Value": 1638286185076.12,
+    "Value": 11369.0138803598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 2000,
-    "Value": 1579825656914.56,
+    "Value": 11370.7294551211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 1999,
-    "Value": 1483659771918.62,
+    "Value": 11081.4106943102,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 1998,
-    "Value": 1454474765595.23,
+    "Value": 11197.4554572599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 1997,
-    "Value": 1434007401512.97,
+    "Value": 11334.5712545585,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 1996,
-    "Value": 1363583258025.24,
+    "Value": 11137.344105555,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 1995,
-    "Value": 1310213182315.97,
+    "Value": 11072.4815606742,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 1994,
-    "Value": 1229156151324.56,
+    "Value": 10776.1959043364,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 1993,
-    "Value": 1142591043838.45,
+    "Value": 10397.9314762653,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 1992,
-    "Value": 1066293211085.6,
+    "Value": 10099.5533065974,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 1991,
-    "Value": 1047418788940.29,
+    "Value": 10319.7021758669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brazil",
     "Year": 1990,
-    "Value": 998580461904.443,
+    "Value": 10344.6366813993,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2016,
-    "Value": 32764093388.7601,
+    "Value": 71788.7832343468,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2015,
-    "Value": 33169145011.8645,
+    "Value": 74600.1642971982,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2014,
-    "Value": 33000357671.0113,
+    "Value": 76089.2865740815,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2013,
-    "Value": 33198634079.3721,
+    "Value": 79070.2459316149,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2012,
-    "Value": 33380677923.158,
+    "Value": 81993.9320766154,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2011,
-    "Value": 32480415591.3426,
+    "Value": 82434.8830910215,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2010,
-    "Value": 30674522788.4179,
+    "Value": 80552.8644713138,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2009,
-    "Value": 29536750160.1467,
+    "Value": 79512.7550128728,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2008,
-    "Value": 29840677843.9092,
+    "Value": 81905.6581289731,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2007,
-    "Value": 29845498470.0439,
+    "Value": 84503.538755155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2006,
-    "Value": 29026929720.5407,
+    "Value": 85424.5583581664,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2005,
-    "Value": 26975422917.601,
+    "Value": 82967.1127639163,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2004,
-    "Value": 26033626780.5263,
+    "Value": 83942.2194070735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2003,
-    "Value": 25209794211.9456,
+    "Value": 84970.735531184,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2002,
-    "Value": 24019411800.0271,
+    "Value": 84125.4405877487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2001,
-    "Value": 22774411458.8823,
+    "Value": 82596.776218302,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 2000,
-    "Value": 21672273336.5833,
+    "Value": 82049.5808598868,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 1999,
-    "Value": 20603021669.3021,
+    "Value": 81476.1517217496,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 1998,
-    "Value": 19691466873.1848,
+    "Value": 80813.3369073958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 1997,
-    "Value": 19589467240.8939,
+    "Value": 83138.2235244123,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 1996,
-    "Value": 19547410416.9876,
+    "Value": 86411.9644582628,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 1995,
-    "Value": 18659869330.6749,
+    "Value": 86116.0177289558,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 1994,
-    "Value": 17495082540.9245,
+    "Value": 84607.1745727311,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 1993,
-    "Value": 16608130559.1503,
+    "Value": 84290.3666377931,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 1992,
-    "Value": 16172904605.5886,
+    "Value": 86423.2835638991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 1991,
-    "Value": 15094182874.3403,
+    "Value": 84879.7921309364,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Brunei",
     "Year": 1990,
-    "Value": 14162413937.8744,
+    "Value": 84672.3914994667,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2016,
-    "Value": 137157988818.159,
+    "Value": 17794.5266125572,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2015,
-    "Value": 130030994314.276,
+    "Value": 17000.1672471067,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2014,
-    "Value": 126483139626.252,
+    "Value": 16302.3128852496,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2013,
-    "Value": 120830913263.961,
+    "Value": 15997.3345909471,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2012,
-    "Value": 118415405415.354,
+    "Value": 15772.0860006387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2011,
-    "Value": 115193448838.247,
+    "Value": 15676.1441294193,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2010,
-    "Value": 110553774079.997,
+    "Value": 15283.2684107728,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2009,
-    "Value": 105291320932.28,
+    "Value": 14984.5927868509,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2008,
-    "Value": 107360378637.334,
+    "Value": 15442.1377322192,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2007,
-    "Value": 97340790018.8567,
+    "Value": 14795.878526782,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2006,
-    "Value": 86444929779.9731,
+    "Value": 13640.5277010349,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2005,
-    "Value": 78696490474.7814,
+    "Value": 12680.9574782327,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2004,
-    "Value": 70795326820.9528,
+    "Value": 11736.5517809625,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2003,
-    "Value": 65150881563.2691,
+    "Value": 10931.6655247109,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2002,
-    "Value": 60865147233.2125,
+    "Value": 10321.3476356398,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2001,
-    "Value": 55615918620.289,
+    "Value": 9526.40570122381,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 2000,
-    "Value": 52080544339.4317,
+    "Value": 8958.10255483821,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 1999,
-    "Value": 47223109590.9652,
+    "Value": 8488.60803060118,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 1998,
-    "Value": 49610097004.7099,
+    "Value": 8942.84347811256,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 1997,
-    "Value": 47263014142.9427,
+    "Value": 8582.96263138359,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 1996,
-    "Value": 47026763306.8395,
+    "Value": 8625.7517786288,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 1995,
-    "Value": 44717891724.9498,
+    "Value": 8446.24086446036,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 1994,
-    "Value": 42586229332.5352,
+    "Value": 8174.88781024661,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 1993,
-    "Value": 40954269745.4086,
+    "Value": 8001.7022651638,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 1992,
-    "Value": 40603524936.2878,
+    "Value": 8057.39607719406,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 1991,
-    "Value": 42812032925.4744,
+    "Value": 8596.50562274218,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Bulgaria",
     "Year": 1990,
-    "Value": 45254866600.0214,
+    "Value": 9296.94377125701,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2016,
-    "Value": 33023117895.202,
+    "Value": 1642.18583388009,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2015,
-    "Value": 30785885528.9011,
+    "Value": 1596.3345381736,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2014,
-    "Value": 29313969112.3192,
+    "Value": 1582.33369667322,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2013,
-    "Value": 27602824638.9527,
+    "Value": 1562.30470766267,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2012,
-    "Value": 25676772178.7537,
+    "Value": 1521.45429478715,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2011,
-    "Value": 23684085089.3575,
+    "Value": 1472.71648241138,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2010,
-    "Value": 21762797284.5776,
+    "Value": 1423.37770598198,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2009,
-    "Value": 20403830708.482,
+    "Value": 1392.20019360498,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2008,
-    "Value": 19667490920.6703,
+    "Value": 1393.69699328809,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2007,
-    "Value": 17977728232.4829,
+    "Value": 1338.83837475586,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2006,
-    "Value": 16574400246.0399,
+    "Value": 1305.92487685024,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2005,
-    "Value": 15134014521.7473,
+    "Value": 1266.36153727954,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2004,
-    "Value": 13493452593.3472,
+    "Value": 1200.41706167989,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2003,
-    "Value": 12569430860.902,
+    "Value": 1183.09487974235,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2002,
-    "Value": 11431735282.6762,
+    "Value": 1129.74053824911,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2001,
-    "Value": 10789241053.7084,
+    "Value": 1114.20225286606,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 2000,
-    "Value": 9894481756.16562,
+    "Value": 1075.39533703334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 1999,
-    "Value": 9501391912.27137,
+    "Value": 1086.61619839277,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 1998,
-    "Value": 8713051671.82595,
+    "Value": 1040.667437642,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 1997,
-    "Value": 8032514302.92664,
+    "Value": 997.364751381498,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 1996,
-    "Value": 7428128268.53463,
+    "Value": 964.586920602274,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 1995,
-    "Value": 6571158670.97532,
+    "Value": 893.240680831447,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 1994,
-    "Value": 6088844516.7725,
+    "Value": 868.463532306393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 1993,
-    "Value": 5884583261.45538,
+    "Value": 880.89149248784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 1992,
-    "Value": 5555529167.94154,
+    "Value": 874.806444566451,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 1991,
-    "Value": 5419099749.54696,
+    "Value": 896.598477820563,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burkina Faso",
     "Year": 1990,
-    "Value": 4808412462.15791,
+    "Value": 844.342167576777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2016,
-    "Value": 8185162007.94273,
+    "Value": 721.176561528182,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2015,
-    "Value": 8128418495.14686,
+    "Value": 748.41527127932,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2014,
-    "Value": 8369392756.40303,
+    "Value": 803.172837396172,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2013,
-    "Value": 7855690248.84843,
+    "Value": 790.714517573484,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2012,
-    "Value": 7391277397.29409,
+    "Value": 778.735483594131,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2011,
-    "Value": 6977151645.62124,
+    "Value": 771.509423734821,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2010,
-    "Value": 6561000838.55437,
+    "Value": 763.831930213843,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2009,
-    "Value": 6245390585.02127,
+    "Value": 760.061723427025,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2008,
-    "Value": 5990540954.70769,
+    "Value": 759.339932485036,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2007,
-    "Value": 5592951683.66964,
+    "Value": 747.676474687463,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2006,
-    "Value": 5199140913.05533,
+    "Value": 738.092490310413,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2005,
-    "Value": 4786437294.98027,
+    "Value": 724.160012349081,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2004,
-    "Value": 4595865283.15994,
+    "Value": 741.766251653457,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2003,
-    "Value": 4266639000.63352,
+    "Value": 730.90295129817,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2002,
-    "Value": 4235048651.30674,
+    "Value": 763.177201007773,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2001,
-    "Value": 3993448844.89887,
+    "Value": 751.388912965823,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 2000,
-    "Value": 3825818400.26165,
+    "Value": 754.096280212503,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 1999,
-    "Value": 3773027793.83032,
+    "Value": 775.364107582963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 1998,
-    "Value": 3754074760.34593,
+    "Value": 794.998070315624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 1997,
-    "Value": 3545365949.82059,
+    "Value": 768.168390676507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 1996,
-    "Value": 3542026147.14977,
+    "Value": 789.751666666058,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 1995,
-    "Value": 3781004169.5258,
+    "Value": 869.808033784771,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 1994,
-    "Value": 4022323848.66314,
+    "Value": 959.173830077497,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 1993,
-    "Value": 4095359449.3554,
+    "Value": 1014.69065326086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 1992,
-    "Value": 4266408487.578,
+    "Value": 1103.29910902375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 1991,
-    "Value": 4129612098.19916,
+    "Value": 1115.73855046451,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Burundi",
     "Year": 1990,
-    "Value": 3806386335.99296,
+    "Value": 1087.48872825938,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2016,
-    "Value": 87519381830.0347,
+    "Value": 3424.76420967961,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2015,
-    "Value": 79767612664.157,
+    "Value": 3241.61205578957,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2014,
-    "Value": 72500725108.6772,
+    "Value": 3054.53487387382,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2013,
-    "Value": 65465432147.342,
+    "Value": 2879.85021689505,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2012,
-    "Value": 59165494347.5907,
+    "Value": 2712.3780260472,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2011,
-    "Value": 52476906028.6953,
+    "Value": 2511.42019511915,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2010,
-    "Value": 53774598836.3684,
+    "Value": 2690.25800198952,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2009,
-    "Value": 52075061301.6215,
+    "Value": 2698.55434934798,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2008,
-    "Value": 50055049171.1185,
+    "Value": 2672.3370818306,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2007,
-    "Value": 47874676248.6701,
+    "Value": 2662.33111403082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2006,
-    "Value": 45824775161.2498,
+    "Value": 2670.22935592571,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2005,
-    "Value": 43795016422.1551,
+    "Value": 2682.44886081623,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2004,
-    "Value": 41711816068.3431,
+    "Value": 2686.66566770196,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2003,
-    "Value": 40101591089.0438,
+    "Value": 2701.76948254129,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2002,
-    "Value": 39859480455.9552,
+    "Value": 2788.34736345124,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2001,
-    "Value": 39922605253.016,
+    "Value": 2889.94570963636,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 2000,
-    "Value": 38985762279.3184,
+    "Value": 2947.60657282953,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 1999,
-    "Value": 38923464147.9491,
+    "Value": 3081.19861899627,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 1998,
-    "Value": 37726550583.7737,
+    "Value": 3111.50076965202,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 1997,
-    "Value": 35567783077.8508,
+    "Value": 3049.48682118826,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 1996,
-    "Value": 33707427086.1257,
+    "Value": 3027.80288023441,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 1995,
-    "Value": 30728041174.8125,
+    "Value": 2898.40074511118,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 1994,
-    "Value": 28098051895.3191,
+    "Value": 2793.44069652895,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 1993,
-    "Value": 27291160591.3161,
+    "Value": 2864.70880439947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 1992,
-    "Value": 26708332257.2324,
+    "Value": 2970.47508007571,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 1991,
-    "Value": 26177090434.8436,
+    "Value": 3083.89094459281,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "CÃ´te d'Ivoire",
     "Year": 1990,
-    "Value": 25323486247.1707,
+    "Value": 3193.75853118149,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2016,
-    "Value": 3534829651.73887,
+    "Value": 6074.75454769943,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2015,
-    "Value": 3358681196.20685,
+    "Value": 5918.58844965639,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2014,
-    "Value": 3287601950.80086,
+    "Value": 5928.19902448464,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2013,
-    "Value": 3210020369.84865,
+    "Value": 5963.90797586859,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2012,
-    "Value": 3133843838.04161,
+    "Value": 5986.93905614958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2011,
-    "Value": 3044224922.25246,
+    "Value": 5991.77849034175,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2010,
-    "Value": 2868785586.78554,
+    "Value": 5828.24158804338,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2009,
-    "Value": 2793200080.73774,
+    "Value": 5806.64623179574,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2008,
-    "Value": 2807818687.15961,
+    "Value": 5944.03882515291,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2007,
-    "Value": 2582078171.25397,
+    "Value": 5633.93311188662,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2006,
-    "Value": 2183838467.14877,
+    "Value": 4949.22589963308,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2005,
-    "Value": 1962096115.1267,
+    "Value": 4643.45538406626,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2004,
-    "Value": 1778025748.29576,
+    "Value": 4407.34003125796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2003,
-    "Value": 1570317014.36804,
+    "Value": 4064.84364942079,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2002,
-    "Value": 1477895454.68533,
+    "Value": 3971.28824924707,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2001,
-    "Value": 1382934545.35524,
+    "Value": 3844.50836427626,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 2000,
-    "Value": 1322605071.32851,
+    "Value": 3835.23860571342,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 1999,
-    "Value": 1131539591.20283,
+    "Value": 3425.0879254688,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 1998,
-    "Value": 1002030078.71614,
+    "Value": 3145.61974658276,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 1997,
-    "Value": 880995510.552964,
+    "Value": 2858.33347095896,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 1996,
-    "Value": 779502548.631705,
+    "Value": 2632.97945091646,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 1995,
-    "Value": 687518032.663875,
+    "Value": 2423.28884251226,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 1994,
-    "Value": 589669857.644285,
+    "Value": 2177.55063286709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 1993,
-    "Value": 484451749.286538,
+    "Value": 1877.28557933156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 1992,
-    "Value": 435287089.540116,
+    "Value": 1774.6271706324,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 1991,
-    "Value": 383625991.692719,
+    "Value": 1641.51685078283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cabo Verde",
     "Year": 1990,
-    "Value": 366127313.339244,
+    "Value": 1656.90750326105,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2016,
-    "Value": 58903418891.7993,
+    "Value": 3465.12556490306,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2015,
-    "Value": 54380283347.5732,
+    "Value": 3290.95245385442,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2014,
-    "Value": 50260518427.9365,
+    "Value": 3124.31929344274,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2013,
-    "Value": 46113481995.7199,
+    "Value": 2966.16402021674,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2012,
-    "Value": 42242827358.747,
+    "Value": 2807.00705507884,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2011,
-    "Value": 38652011936.303,
+    "Value": 2658.70924674351,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2010,
-    "Value": 35369652415.8202,
+    "Value": 2522.92682475402,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2009,
-    "Value": 32976465254.0082,
+    "Value": 2417.87628133189,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2008,
-    "Value": 32699568534.9031,
+    "Value": 2452.2781590927,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2007,
-    "Value": 30059045876.6928,
+    "Value": 2332.72684570598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2006,
-    "Value": 26566670712.1475,
+    "Value": 2148.33268830403,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2005,
-    "Value": 23268527557.9946,
+    "Value": 1969.29117771877,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2004,
-    "Value": 19905653509.7717,
+    "Value": 1766.41779791937,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2003,
-    "Value": 17557421177.5708,
+    "Value": 1627.06586575225,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2002,
-    "Value": 15864724244.924,
+    "Value": 1525.43801275412,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2001,
-    "Value": 14660366486.4727,
+    "Value": 1458.07818030064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 2000,
-    "Value": 13253748703.9595,
+    "Value": 1375.96898955266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 1999,
-    "Value": 11914285529.8664,
+    "Value": 1293.66159374289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 1998,
-    "Value": 10485865541.8871,
+    "Value": 1184.48274480819,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 1997,
-    "Value": 9878472842.42253,
+    "Value": 1158.12474539836,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 1996,
-    "Value": 9195480416.72602,
+    "Value": 1128.02042006194,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 1995,
-    "Value": 8566949227.75879,
+    "Value": 1102.9199015634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 1994,
-    "Value": 7883964710.8512,
+    "Value": 1070.13082863755,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cambodia",
     "Year": 1993,
-    "Value": 7075818112.28116,
+    "Value": 1015.03100605502,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2016,
-    "Value": 84600836788.8828,
+    "Value": 3346.81779272084,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2015,
-    "Value": 79975809954.955,
+    "Value": 3289.06454559229,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2014,
-    "Value": 74885692657.1221,
+    "Value": 3196.36152634263,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2013,
-    "Value": 69477344512.2197,
+    "Value": 3100.17130995318,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2012,
-    "Value": 64867501724.1774,
+    "Value": 3021.20596968087,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2011,
-    "Value": 60926183398.9526,
+    "Value": 2969.0475747898,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2010,
-    "Value": 57326557790.6288,
+    "Value": 2929.82911281962,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2009,
-    "Value": 54760660616.8445,
+    "Value": 2911.29666861693,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2008,
-    "Value": 53178702548.5052,
+    "Value": 2927.84464777934,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2007,
-    "Value": 50397348456.4099,
+    "Value": 2907.82660691982,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2006,
-    "Value": 46796801515.9895,
+    "Value": 2848.72465800691,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2005,
-    "Value": 43884550665.7699,
+    "Value": 2829.190690079,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2004,
-    "Value": 41674423401.3293,
+    "Value": 2848.65422813997,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2003,
-    "Value": 37983514248.2066,
+    "Value": 2739.68510375741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2002,
-    "Value": 35614333412.4906,
+    "Value": 2689.89173735827,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2001,
-    "Value": 33650053715.5061,
+    "Value": 2648.54670534783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 2000,
-    "Value": 31523323420.5547,
+    "Value": 2603.77159248619,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 1999,
-    "Value": 29764325619.7208,
+    "Value": 2578.98146028484,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 1998,
-    "Value": 28109247370.7554,
+    "Value": 2535.5584131079,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 1997,
-    "Value": 26609431048.1345,
+    "Value": 2487.66354577167,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 1996,
-    "Value": 24861108730.6138,
+    "Value": 2424.40269475401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 1995,
-    "Value": 23395111632.3734,
+    "Value": 2383.74857308258,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 1994,
-    "Value": 22148623128.0276,
+    "Value": 2365.55239479005,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 1993,
-    "Value": 21236052918.3759,
+    "Value": 2380.03788878214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 1992,
-    "Value": 22529596385.5569,
+    "Value": 2657.99214404389,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 1991,
-    "Value": 22732166992.6489,
+    "Value": 2822.219192001,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cameroon",
     "Year": 1990,
-    "Value": 22870960795.3467,
+    "Value": 3020.49191137826,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2016,
-    "Value": 1625360824248.35,
+    "Value": 43238.2596047198,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2015,
-    "Value": 1599827259064.89,
+    "Value": 43149.4758370305,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2014,
-    "Value": 1617561717808.96,
+    "Value": 43079.1425247165,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2013,
-    "Value": 1550271241830.07,
+    "Value": 42339.3788754169,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2012,
-    "Value": 1464565119752.66,
+    "Value": 41794.5389176845,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2011,
-    "Value": 1427466965184.4,
+    "Value": 41565.2712210369,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2010,
-    "Value": 1361137270766.35,
+    "Value": 40699.3551293841,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2009,
-    "Value": 1304488409235.99,
+    "Value": 39924.1959013064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2008,
-    "Value": 1339060588630.82,
+    "Value": 41611.2508139689,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2007,
-    "Value": 1297164596823.72,
+    "Value": 41647.3878092126,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2006,
-    "Value": 1238000856192.8,
+    "Value": 41203.3504026759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2005,
-    "Value": 1167581267653.45,
+    "Value": 40471.2605251176,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2004,
-    "Value": 1079987051623.94,
+    "Value": 39604.3548611707,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2003,
-    "Value": 1019620715104.12,
+    "Value": 38805.6711138179,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2002,
-    "Value": 967558830682.98,
+    "Value": 38500.3170770124,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2001,
-    "Value": 934754350420.289,
+    "Value": 37712.1282353891,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 2000,
-    "Value": 898024619550.475,
+    "Value": 37431.9169780243,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 1999,
-    "Value": 843506520771.576,
+    "Value": 35903.1545325561,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 1998,
-    "Value": 790002907846.55,
+    "Value": 34424.0520624146,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 1997,
-    "Value": 752318791365.374,
+    "Value": 33425.815129343,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 1996,
-    "Value": 709302287086.741,
+    "Value": 32394.5778686681,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 1995,
-    "Value": 685541305829.193,
+    "Value": 32226.226936923,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 1994,
-    "Value": 654022346738.947,
+    "Value": 31646.8102566853,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 1993,
-    "Value": 612855674286.265,
+    "Value": 30578.4456206007,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 1992,
-    "Value": 583129596299.343,
+    "Value": 30115.2812355584,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 1991,
-    "Value": 565142895475.078,
+    "Value": 30220.3607817756,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Canada",
     "Year": 1990,
-    "Value": 558816722642.658,
+    "Value": 31299.6545691346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2016,
-    "Value": 111367504778.706,
+    "Value": 14252.5245659994,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2015,
-    "Value": 110544596183.292,
+    "Value": 14408.2866755568,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2014,
-    "Value": 109342257979.233,
+    "Value": 14491.1383009888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2013,
-    "Value": 107003713759.267,
+    "Value": 14524.5170177021,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2012,
-    "Value": 103460792191.314,
+    "Value": 14360.7024977741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2011,
-    "Value": 100338390351.224,
+    "Value": 14274.8721445493,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2010,
-    "Value": 97213763562.6674,
+    "Value": 14206.6869680023,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2009,
-    "Value": 94532622545.5701,
+    "Value": 14073.3917141117,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2008,
-    "Value": 97180530739.5901,
+    "Value": 14670.950629251,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2007,
-    "Value": 93681030081.7467,
+    "Value": 14512.875686085,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2006,
-    "Value": 88205194329.277,
+    "Value": 14119.6995119983,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2005,
-    "Value": 79704791979.5349,
+    "Value": 13238.2984604107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2004,
-    "Value": 74410220962.7635,
+    "Value": 12843.1110944948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2003,
-    "Value": 69215840552.6449,
+    "Value": 12359.8954482067,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2002,
-    "Value": 63469359028.3853,
+    "Value": 11640.8687901185,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2001,
-    "Value": 60037204086.6287,
+    "Value": 11259.5913448393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 2000,
-    "Value": 57404787168.2092,
+    "Value": 11089.6873400824,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 1999,
-    "Value": 54142662109.3811,
+    "Value": 10773.6897010978,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 1998,
-    "Value": 51244423576.7379,
+    "Value": 10426.8668775969,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 1997,
-    "Value": 49304104207.0534,
+    "Value": 10214.7840485893,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 1996,
-    "Value": 46960226951.6075,
+    "Value": 9971.13026787898,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 1995,
-    "Value": 44618727280.8714,
+    "Value": 9724.87081002894,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 1994,
-    "Value": 42406286899.9789,
+    "Value": 9517.4815536968,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 1993,
-    "Value": 40424449180.4503,
+    "Value": 9351.26202900673,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 1992,
-    "Value": 38334476082.6112,
+    "Value": 9163.68619816094,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 1991,
-    "Value": 37373858901.7266,
+    "Value": 9219.09132958735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Caribbean small states",
     "Year": 1990,
-    "Value": 35372137909.8152,
+    "Value": 9088.49638780158,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cayman Islands",
     "Year": 2011,
-    "Value": 2823463451.74062,
+    "Value": 49903.0285395752,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2016,
-    "Value": 3210292273.25564,
+    "Value": 647.880444824102,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2015,
-    "Value": 3032442660.39751,
+    "Value": 626.410872523764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2014,
-    "Value": 2862513275.68583,
+    "Value": 601.785891773644,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2013,
-    "Value": 2783101445.53791,
+    "Value": 597.67490678348,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2012,
-    "Value": 4326803265.11516,
+    "Value": 946.135707091973,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2011,
-    "Value": 4080711501.63792,
+    "Value": 911.655946889643,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2010,
-    "Value": 3870412845.06079,
+    "Value": 888.007249982842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2009,
-    "Value": 3710661655.2454,
+    "Value": 870.419762563777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2008,
-    "Value": 3620805764.55707,
+    "Value": 867.381124798183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2007,
-    "Value": 3479669083.97936,
+    "Value": 863.754566067001,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2006,
-    "Value": 3240171990.04586,
+    "Value": 840.260088983104,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2005,
-    "Value": 3000438943.1597,
+    "Value": 816.34381793334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2004,
-    "Value": 2880742045.84595,
+    "Value": 823.535091249503,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2003,
-    "Value": 2645080017.47261,
+    "Value": 791.274556468038,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2002,
-    "Value": 2741329688.62989,
+    "Value": 852.271180170122,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2001,
-    "Value": 2605648733.10956,
+    "Value": 838.709641838263,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 2000,
-    "Value": 2438709624.19257,
+    "Value": 819.37384426573,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 1999,
-    "Value": 2445325701.40478,
+    "Value": 858.229066262775,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 1998,
-    "Value": 2324776994.27552,
+    "Value": 846.627097706992,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 1997,
-    "Value": 2196575882.11136,
+    "Value": 827.03004752115,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 1996,
-    "Value": 2050916734.87674,
+    "Value": 804.031705643388,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 1995,
-    "Value": 2098072237.90701,
+    "Value": 858.281040099522,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 1994,
-    "Value": 1917170136.81241,
+    "Value": 821.485176715767,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 1993,
-    "Value": 1789534125.69485,
+    "Value": 804.393710503944,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 1992,
-    "Value": 1742105066.95595,
+    "Value": 823.82528489783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 1991,
-    "Value": 1820209676.81077,
+    "Value": 904.090131600669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central African Republic",
     "Year": 1990,
-    "Value": 1771362951.01069,
+    "Value": 932.258534941896,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2016,
-    "Value": 2765437372112.79,
+    "Value": 25229.8889616977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2015,
-    "Value": 2667373153831.76,
+    "Value": 24409.0507605128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2014,
-    "Value": 2581977992669.1,
+    "Value": 23462.8287988116,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2013,
-    "Value": 2485890361584.17,
+    "Value": 22737.811595669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2012,
-    "Value": 2385830027248.01,
+    "Value": 22359.9096689031,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2011,
-    "Value": 2309299518648.74,
+    "Value": 22167.7066856978,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2010,
-    "Value": 2169507180743.34,
+    "Value": 21427.6206323104,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2009,
-    "Value": 2047559558271.87,
+    "Value": 20955.6329865737,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2008,
-    "Value": 2053069352010.81,
+    "Value": 21702.4906959114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2007,
-    "Value": 1862061601007.33,
+    "Value": 20812.0736487872,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2006,
-    "Value": 1682624485518.3,
+    "Value": 19482.7541432498,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2005,
-    "Value": 1517673566985.97,
+    "Value": 18229.6584689183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2004,
-    "Value": 1433754694004.57,
+    "Value": 17333.4411110639,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2003,
-    "Value": 1317559154564.71,
+    "Value": 16349.3212585662,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2002,
-    "Value": 1242448944035.12,
+    "Value": 15595.7968933219,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2001,
-    "Value": 1163484854172.36,
+    "Value": 14960.9743496498,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 2000,
-    "Value": 1085170549278.47,
+    "Value": 14424.4525423037,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 1999,
-    "Value": 1023270898705.84,
+    "Value": 13779.9909340575,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 1998,
-    "Value": 990501586316.815,
+    "Value": 13505.0004416333,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 1997,
-    "Value": 950375898837.528,
+    "Value": 13131.5883223981,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 1996,
-    "Value": 908154687239.22,
+    "Value": 12765.7314368746,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 1995,
-    "Value": 855302911580.991,
+    "Value": 12198.5898982901,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 1994,
-    "Value": 791887847103.633,
+    "Value": 11521.124348967,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 1993,
-    "Value": 744586623191.317,
+    "Value": 11059.9262656926,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 1992,
-    "Value": 715601165907.662,
+    "Value": 10895.4486589066,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 1991,
-    "Value": 712201032254.487,
+    "Value": 11112.7477880049,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Central Europe and the Baltics",
     "Year": 1990,
-    "Value": 762581169744.807,
+    "Value": 12270.2936729264,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2016,
-    "Value": 28771062616.0006,
+    "Value": 1845.91467919154,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2015,
-    "Value": 30546908991.9218,
+    "Value": 2047.63717935419,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2014,
-    "Value": 29684874520.0996,
+    "Value": 2076.65000798778,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2013,
-    "Value": 27279255628.699,
+    "Value": 2007.07731906164,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2012,
-    "Value": 25398008886.9034,
+    "Value": 1962.87772988916,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2011,
-    "Value": 22904148162.6154,
+    "Value": 1863.84560539765,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2010,
-    "Value": 22422247379.3592,
+    "Value": 1925.19511802507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2009,
-    "Value": 19508303017.4763,
+    "Value": 1752.11993132482,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2008,
-    "Value": 18577715352.2936,
+    "Value": 1736.9191731815,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2007,
-    "Value": 17680570346.4353,
+    "Value": 1741.48705571567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2006,
-    "Value": 16676652291.4241,
+    "Value": 1743.61785104156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2005,
-    "Value": 16075362213.0523,
+    "Value": 1793.4069355977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2004,
-    "Value": 13273590051.449,
+    "Value": 1584.67315022753,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2003,
-    "Value": 9667313925.85274,
+    "Value": 1231.11510069665,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2002,
-    "Value": 8262006050.97005,
+    "Value": 1115.03749703809,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2001,
-    "Value": 7500231190.10462,
+    "Value": 1067.94775846556,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 2000,
-    "Value": 6567471998.92685,
+    "Value": 993.182982156452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 1999,
-    "Value": 6478341584.90664,
+    "Value": 1039.46558007659,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 1998,
-    "Value": 6424566558.31205,
+    "Value": 1084.72943431809,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 1997,
-    "Value": 5942494824.44332,
+    "Value": 1050.22930604438,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 1996,
-    "Value": 5529874707.73113,
+    "Value": 1028.6423080009,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 1995,
-    "Value": 5313077101.49549,
+    "Value": 1040.91613658048,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 1994,
-    "Value": 5140957018.32379,
+    "Value": 1062.90820805483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 1993,
-    "Value": 4570521763.00625,
+    "Value": 996.955548386955,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 1992,
-    "Value": 5296352663.30467,
+    "Value": 1221.23750025815,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 1991,
-    "Value": 4794667827.33607,
+    "Value": 1167.35017123585,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chad",
     "Year": 1990,
-    "Value": 4275313690.56475,
+    "Value": 1110.43797952483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2016,
-    "Value": 415398370601.869,
+    "Value": 22706.7205369643,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2015,
-    "Value": 402279639766.34,
+    "Value": 22536.6176878913,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2014,
-    "Value": 405364133666.283,
+    "Value": 22226.4524735619,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2013,
-    "Value": 394291936706.7,
+    "Value": 21998.3071454447,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2012,
-    "Value": 374241571983.029,
+    "Value": 21330.2399109073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2011,
-    "Value": 350575241993.673,
+    "Value": 20437.704525923,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2010,
-    "Value": 310389431496.483,
+    "Value": 19442.0503154635,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2009,
-    "Value": 273078008452.423,
+    "Value": 18547.4615343093,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2008,
-    "Value": 275776919796.27,
+    "Value": 19031.6164297818,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2007,
-    "Value": 279893064399.043,
+    "Value": 18572.5683881681,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2006,
-    "Value": 257425510715.415,
+    "Value": 17890.5997209251,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2005,
-    "Value": 206274402670.143,
+    "Value": 17007.5798219092,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2004,
-    "Value": 188990720216.54,
+    "Value": 16258.3889455787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2003,
-    "Value": 171564089321.744,
+    "Value": 15332.2970279137,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2002,
-    "Value": 161598809364.931,
+    "Value": 14895.5401923208,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2001,
-    "Value": 154359660007.691,
+    "Value": 14613.8038698458,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 2000,
-    "Value": 146094759877.009,
+    "Value": 14315.4260570701,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 1999,
-    "Value": 135619915026.88,
+    "Value": 13758.9144334018,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 1998,
-    "Value": 134128516359.703,
+    "Value": 13991.4230511506,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 1997,
-    "Value": 127188156495.91,
+    "Value": 13587.5067817272,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 1996,
-    "Value": 116401760524.21,
+    "Value": 12819.8977019941,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 1995,
-    "Value": 105309764506.942,
+    "Value": 12172.2585583541,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 1994,
-    "Value": 92699651308.0141,
+    "Value": 11336.7842689097,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 1993,
-    "Value": 85014003752.2561,
+    "Value": 10956.1145552922,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 1992,
-    "Value": 76846378529.914,
+    "Value": 10437.9848863787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 1991,
-    "Value": 66577956636.3448,
+    "Value": 9538.65463138555,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Chile",
     "Year": 1990,
-    "Value": 59683808378.2909,
+    "Value": 8991.84647717044,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2016,
-    "Value": 21409404739620,
+    "Value": 14399.4476596052,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2015,
-    "Value": 19814259252456.6,
+    "Value": 13569.8915267324,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2014,
-    "Value": 18336440188215.3,
+    "Value": 12758.647789259,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2013,
-    "Value": 16788028344180.3,
+    "Value": 11951.2479591608,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2012,
-    "Value": 15331822766014.4,
+    "Value": 11145.7515754935,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2011,
-    "Value": 13957938676634.1,
+    "Value": 10384.3665989406,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2010,
-    "Value": 12484966957331.1,
+    "Value": 9525.81848339164,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2009,
-    "Value": 11148546705256.6,
+    "Value": 8651.72590128034,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2008,
-    "Value": 10113837109441.1,
+    "Value": 7947.78795240087,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2007,
-    "Value": 9045938594758.71,
+    "Value": 7285.27441480908,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2006,
-    "Value": 7713673777916.61,
+    "Value": 6411.0425444815,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2005,
-    "Value": 6639272110941.52,
+    "Value": 5719.45536599539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2004,
-    "Value": 5774279848423.22,
+    "Value": 5164.64109457187,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2003,
-    "Value": 5103705283662.81,
+    "Value": 4718.32634605353,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2002,
-    "Value": 4547550139902.42,
+    "Value": 4314.79134256322,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2001,
-    "Value": 4104067209345.2,
+    "Value": 3980.36449828146,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 2000,
-    "Value": 3703735286946.91,
+    "Value": 3700.74364786842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 1999,
-    "Value": 3337893655564.26,
+    "Value": 3438.07468502092,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 1998,
-    "Value": 3053459470024.17,
+    "Value": 3221.00262081845,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 1997,
-    "Value": 2801135217763.58,
+    "Value": 3015.69963078252,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 1996,
-    "Value": 2521267972305.11,
+    "Value": 2789.25280006157,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 1995,
-    "Value": 2252435843311.46,
+    "Value": 2564.07131651646,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 1994,
-    "Value": 1988672809227.01,
+    "Value": 2336.27772051927,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 1993,
-    "Value": 1722420096596.99,
+    "Value": 2090.03840956191,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 1992,
-    "Value": 1477498389013.65,
+    "Value": 1856.72218055136,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 1991,
-    "Value": 1264767322914.5,
+    "Value": 1645.66636638566,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "China",
     "Year": 1990,
-    "Value": 1119937622111.38,
+    "Value": 1526.40869902494,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2016,
-    "Value": 688636985839.904,
+    "Value": 13124.3248435936,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2015,
-    "Value": 666890641028.306,
+    "Value": 12985.3831345266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2014,
-    "Value": 640197317998.058,
+    "Value": 12715.9673914398,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2013,
-    "Value": 602441503586.977,
+    "Value": 12296.2955351848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2012,
-    "Value": 565312941430.359,
+    "Value": 11840.2404334565,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2011,
-    "Value": 533512971123.156,
+    "Value": 11496.4777054381,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2010,
-    "Value": 490405414019.866,
+    "Value": 10900.5052821616,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2009,
-    "Value": 465980311955.698,
+    "Value": 10599.9626049907,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2008,
-    "Value": 454954372409.911,
+    "Value": 10547.2603938218,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2007,
-    "Value": 430917812047.264,
+    "Value": 10306.9474882958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2006,
-    "Value": 392651515088.77,
+    "Value": 9760.13492630678,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2005,
-    "Value": 357035290426.492,
+    "Value": 9263.73017273061,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2004,
-    "Value": 330356877670.274,
+    "Value": 8963.59532934742,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2003,
-    "Value": 305237688642.174,
+    "Value": 8625.24656969163,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2002,
-    "Value": 287986000427.438,
+    "Value": 8415.7591194705,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2001,
-    "Value": 276703300818.335,
+    "Value": 8327.07075920399,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 2000,
-    "Value": 266073563933.271,
+    "Value": 8308.22294990052,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 1999,
-    "Value": 249141670248.919,
+    "Value": 8073.37269322374,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 1998,
-    "Value": 256155274210.202,
+    "Value": 8553.38091403262,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 1997,
-    "Value": 251969496694.073,
+    "Value": 8634.46908838063,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 1996,
-    "Value": 239513576559.014,
+    "Value": 8478.95110360675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 1995,
-    "Value": 230481160763.06,
+    "Value": 8442.85081332772,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 1994,
-    "Value": 214607461759.865,
+    "Value": 8160.12071339933,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 1993,
-    "Value": 198548578365.538,
+    "Value": 7844.02273663591,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 1992,
-    "Value": 189452586341.59,
+    "Value": 7799.9089739139,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 1991,
-    "Value": 176354802447.352,
+    "Value": 7562.69769462864,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Colombia",
     "Year": 1990,
-    "Value": 166873796725.497,
+    "Value": 7533.5183848011,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2016,
-    "Value": 1210791124.56337,
+    "Value": 1411.15233885964,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2015,
-    "Value": 1169802783.12167,
+    "Value": 1413.05927704673,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2014,
-    "Value": 1145623715.11642,
+    "Value": 1432.08874813164,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2013,
-    "Value": 1102692440.71349,
+    "Value": 1437.00490702868,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2012,
-    "Value": 1048470452.30015,
+    "Value": 1422.22948677119,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2011,
-    "Value": 999520790.689932,
+    "Value": 1414.61172325694,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2010,
-    "Value": 954485238.55446,
+    "Value": 1412.50268663997,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2009,
-    "Value": 922669570.510442,
+    "Value": 1415.84568986876,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2008,
-    "Value": 898200402.453273,
+    "Value": 1422.62234877284,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2007,
-    "Value": 877408189.273452,
+    "Value": 1451.4216109325,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2006,
-    "Value": 847878415.887397,
+    "Value": 1474.82742892889,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2005,
-    "Value": 801393684.873587,
+    "Value": 1471.55941417734,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2004,
-    "Value": 754989440.248589,
+    "Value": 1465.45730073842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2003,
-    "Value": 720945615.081098,
+    "Value": 1472.41387809092,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2002,
-    "Value": 692284249.682112,
+    "Value": 1476.84427985897,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2001,
-    "Value": 666326872.608039,
+    "Value": 1478.57821644879,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 2000,
-    "Value": 636628152.175767,
+    "Value": 1480.91767363897,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 1999,
-    "Value": 561546841.432756,
+    "Value": 1370.11538911918,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 1998,
-    "Value": 542641793.703915,
+    "Value": 1379.36515245113,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 1997,
-    "Value": 530017627.93726,
+    "Value": 1398.34025742988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 1996,
-    "Value": 500910596.095141,
+    "Value": 1380.82433867905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 1995,
-    "Value": 498367402.82886,
+    "Value": 1437.83280170583,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 1994,
-    "Value": 471175391.560177,
+    "Value": 1427.11043134379,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 1993,
-    "Value": 487057579.260762,
+    "Value": 1550.21408504501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 1992,
-    "Value": 461855430.514043,
+    "Value": 1549.20253137585,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 1991,
-    "Value": 416067453.82878,
+    "Value": 1469.78049063992,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Comoros",
     "Year": 1990,
-    "Value": 425629993.70001,
+    "Value": 1599.9515501721,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2016,
-    "Value": 29305807046.4877,
+    "Value": 5301.39594111599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2015,
-    "Value": 29486460881.875,
+    "Value": 5542.89298198573,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2014,
-    "Value": 28418050783.4014,
+    "Value": 5538.05294137178,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2013,
-    "Value": 26144458606.4727,
+    "Value": 5317.08629189111,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2012,
-    "Value": 24873123620.645,
+    "Value": 5271.16806023104,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2011,
-    "Value": 23529134688.7973,
+    "Value": 5213.94692099844,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2010,
-    "Value": 22290682819.1171,
+    "Value": 5186.34478845194,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2009,
-    "Value": 20249559887.7948,
+    "Value": 4918.07201183644,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2008,
-    "Value": 18700227525.1694,
+    "Value": 4730.0337965244,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2007,
-    "Value": 17372426680.6774,
+    "Value": 4637.21291552922,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2006,
-    "Value": 17194122704.3496,
+    "Value": 4875.93729603982,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2005,
-    "Value": 15702416660.6591,
+    "Value": 4742.93598023691,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2004,
-    "Value": 14117964621.4361,
+    "Value": 4539.27390370056,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2003,
-    "Value": 13278504166.5754,
+    "Value": 4515.66544358996,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2002,
-    "Value": 12913876061.544,
+    "Value": 4604.5745018184,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2001,
-    "Value": 12161409284.9379,
+    "Value": 4524.17156289357,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 2000,
-    "Value": 11454855437.6227,
+    "Value": 4480.14767745898,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 1999,
-    "Value": 10411243514.102,
+    "Value": 4283.32408783285,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 1998,
-    "Value": 10526124950.7022,
+    "Value": 4523.62715342227,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 1997,
-    "Value": 10037942563.8122,
+    "Value": 4487.20949840949,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 1996,
-    "Value": 9931084313.78363,
+    "Value": 4645.97846769372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 1995,
-    "Value": 9351800144.48485,
+    "Value": 4582.10681925786,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 1994,
-    "Value": 8809643910.23663,
+    "Value": 4530.73030425264,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 1993,
-    "Value": 9127447278.12793,
+    "Value": 4928.00190152461,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 1992,
-    "Value": 9003534420.407,
+    "Value": 5114.784771474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 1991,
-    "Value": 8578794911.96062,
+    "Value": 5122.26094091054,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Congo",
     "Year": 1990,
-    "Value": 8108225096.57104,
+    "Value": 5140.41614581672,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2016,
-    "Value": 80678055111.8516,
+    "Value": 15401.4925046929,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2015,
-    "Value": 76356423037.8028,
+    "Value": 14914.2067461734,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2014,
-    "Value": 72130362838.743,
+    "Value": 14392.042244228,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2013,
-    "Value": 68358928475.9526,
+    "Value": 14035.2879800483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2012,
-    "Value": 65779909102.7084,
+    "Value": 13878.0474026459,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2011,
-    "Value": 61633610781.5746,
+    "Value": 13397.2305422386,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2010,
-    "Value": 57893323066.3122,
+    "Value": 12999.9921931442,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2009,
-    "Value": 54496197524.5591,
+    "Value": 12543.9779041253,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2008,
-    "Value": 54615523831.059,
+    "Value": 12834.9361639356,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2007,
-    "Value": 51184898040.0594,
+    "Value": 12433.2015695093,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2006,
-    "Value": 46093166733.9502,
+    "Value": 11656.2142927348,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2005,
-    "Value": 41701060169.0323,
+    "Value": 11025.4767645764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2004,
-    "Value": 38895503390.9083,
+    "Value": 10768.7413593648,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2003,
-    "Value": 36281243855.006,
+    "Value": 10473.9163443814,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2002,
-    "Value": 34119953252.4774,
+    "Value": 10201.5877158544,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2001,
-    "Value": 32533176738.6429,
+    "Value": 10040.5741368168,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 2000,
-    "Value": 30735484481.7253,
+    "Value": 9878.28869075949,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 1999,
-    "Value": 28969767627.2244,
+    "Value": 9712.48538441644,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 1998,
-    "Value": 27450643061.8086,
+    "Value": 9545.7858385427,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 1997,
-    "Value": 25388462980.2293,
+    "Value": 9129.62040116832,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 1996,
-    "Value": 23645396862.6162,
+    "Value": 8855.11497576914,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 1995,
-    "Value": 22937551651.8489,
+    "Value": 8960.61542662766,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 1994,
-    "Value": 21579523340.6023,
+    "Value": 8820.05014555589,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 1993,
-    "Value": 20222418026.0431,
+    "Value": 8655.23266488668,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 1992,
-    "Value": 18445152065.233,
+    "Value": 8289.6653713996,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 1991,
-    "Value": 16515224040.0763,
+    "Value": 7787.09436164032,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Costa Rica",
     "Year": 1990,
-    "Value": 15582452254.5383,
+    "Value": 7787.16176176319,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2016,
-    "Value": 97773347057.9037,
+    "Value": 21527.9676744908,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2015,
-    "Value": 94547735027.492,
+    "Value": 20759.0481463138,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2014,
-    "Value": 92595343541.5507,
+    "Value": 20136.2186593413,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2013,
-    "Value": 92184615968.8385,
+    "Value": 20153.4681736144,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2012,
-    "Value": 90186303633.039,
+    "Value": 20313.5370341477,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2011,
-    "Value": 88627869347.1932,
+    "Value": 20704.4371932848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2010,
-    "Value": 84763800256.4603,
+    "Value": 20118.2108286706,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2009,
-    "Value": 86133519624.1306,
+    "Value": 20414.1928479761,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2008,
-    "Value": 89785437045.8232,
+    "Value": 22014.7146824303,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2007,
-    "Value": 83285887079.0964,
+    "Value": 21564.5120242025,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2006,
-    "Value": 75156886024.185,
+    "Value": 20489.85593493,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2005,
-    "Value": 66005278329.2191,
+    "Value": 19545.361263237,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2004,
-    "Value": 62557035620.0649,
+    "Value": 18776.7371047218,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2003,
-    "Value": 58259998876.8658,
+    "Value": 18036.1271816318,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2002,
-    "Value": 54539766371.46,
+    "Value": 17086.4766914874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2001,
-    "Value": 50212111877.1519,
+    "Value": 16234.7259306183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 2000,
-    "Value": 47593876987.3055,
+    "Value": 15745.3204570369,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 1999,
-    "Value": 44395625702.8536,
+    "Value": 14747.1653487373,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 1998,
-    "Value": 44250441906.0636,
+    "Value": 15061.7179665056,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 1997,
-    "Value": 42839052302.1127,
+    "Value": 14556.7898062528,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 1996,
-    "Value": 39516160346.671,
+    "Value": 13886.6130916181,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Croatia",
     "Year": 1995,
-    "Value": 36729395174.4765,
+    "Value": 12624.5947436829,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2016,
-    "Value": 27852748943.5298,
+    "Value": 31331.3930028654,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2015,
-    "Value": 26721697953.5576,
+    "Value": 30549.1009696787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2014,
-    "Value": 25902067920.2566,
+    "Value": 29786.1743939368,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2013,
-    "Value": 26393181699.176,
+    "Value": 29879.5672096594,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2012,
-    "Value": 27572480131.0132,
+    "Value": 31690.7027653422,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2011,
-    "Value": 28242946705.1167,
+    "Value": 33192.3798467826,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2010,
-    "Value": 27589875427.8071,
+    "Value": 33941.1380158355,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2009,
-    "Value": 27377919819.2248,
+    "Value": 34387.348365288,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2008,
-    "Value": 27393400781.4903,
+    "Value": 35960.3527189252,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2007,
-    "Value": 25309971659.5588,
+    "Value": 35502.9559707513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2006,
-    "Value": 22891371442.8834,
+    "Value": 34599.024510009,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2005,
-    "Value": 20804344537.9732,
+    "Value": 33662.852895003,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2004,
-    "Value": 18987727361.8781,
+    "Value": 32924.933503185,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2003,
-    "Value": 17455192842.7868,
+    "Value": 31909.9326343317,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2002,
-    "Value": 17006109402.7632,
+    "Value": 31519.7240606795,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2001,
-    "Value": 16320322474.7872,
+    "Value": 30834.9098059246,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 2000,
-    "Value": 15066652940.1844,
+    "Value": 30085.7741218715,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 1999,
-    "Value": 13651922942.2067,
+    "Value": 28761.0951648828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 1998,
-    "Value": 12857613634.4298,
+    "Value": 27745.0509959616,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 1997,
-    "Value": 11977943331.3866,
+    "Value": 26689.9652985977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 1996,
-    "Value": 11308426303.0337,
+    "Value": 26393.827157117,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 1995,
-    "Value": 10990312352.2787,
+    "Value": 26465.0946930655,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 1994,
-    "Value": 9925281582.01353,
+    "Value": 24845.3379658846,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 1993,
-    "Value": 9177016011.11855,
+    "Value": 23951.4227074934,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 1992,
-    "Value": 8901435006.0799,
+    "Value": 24366.2899287947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 1991,
-    "Value": 7955251181.88643,
+    "Value": 22873.1673271774,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Cyprus",
     "Year": 1990,
-    "Value": 7642473116.22726,
+    "Value": 23300.6747702401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2016,
-    "Value": 367171714568.769,
+    "Value": 31338.8752118175,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2015,
-    "Value": 352963164296.751,
+    "Value": 30605.4205211471,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2014,
-    "Value": 339582593690.886,
+    "Value": 29119.6166119074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2013,
-    "Value": 320535090730.576,
+    "Value": 28379.7461179156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2012,
-    "Value": 305309362168.598,
+    "Value": 28527.1387345992,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2011,
-    "Value": 302260233093.211,
+    "Value": 28797.4179611691,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2010,
-    "Value": 290082521082.694,
+    "Value": 28352.9493964403,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2009,
-    "Value": 288193592561.302,
+    "Value": 27803.5871622193,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2008,
-    "Value": 289157145081.601,
+    "Value": 29373.1092319296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2007,
-    "Value": 269009250203.695,
+    "Value": 28844.0671946539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2006,
-    "Value": 243476796290.456,
+    "Value": 27473.6271233445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2005,
-    "Value": 224201378156.886,
+    "Value": 25781.2047057911,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2004,
-    "Value": 212167092486.591,
+    "Value": 24233.5969865534,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2003,
-    "Value": 198015910705.695,
+    "Value": 23107.2038753806,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2002,
-    "Value": 185474094813.637,
+    "Value": 22297.2247461099,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2001,
-    "Value": 179496614505.691,
+    "Value": 21892.48252523,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 2000,
-    "Value": 166011289693.972,
+    "Value": 21193.9017140583,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 1999,
-    "Value": 157590965153.011,
+    "Value": 20269.6986562541,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 1998,
-    "Value": 153326795623.563,
+    "Value": 19962.9612888893,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 1997,
-    "Value": 151716315875.736,
+    "Value": 20009.8318097638,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 1996,
-    "Value": 150399040803.327,
+    "Value": 20107.8534574349,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 1995,
-    "Value": 142015838271.454,
+    "Value": 19270.6993868643,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 1994,
-    "Value": 130966409797.242,
+    "Value": 18130.891018021,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 1993,
-    "Value": 124611994683.076,
+    "Value": 17624.68477675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 1992,
-    "Value": 121640756026.553,
+    "Value": 17632.0996214391,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 1991,
-    "Value": 119535190891.904,
+    "Value": 17739.9967006919,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Czech Republic",
     "Year": 1990,
-    "Value": 130887055130.137,
+    "Value": 20023.1359867147,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2016,
-    "Value": 63117271756.9472,
+    "Value": 743.316918910081,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2015,
-    "Value": 60861489789.5456,
+    "Value": 750.088577159449,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2014,
-    "Value": 56313800268.6909,
+    "Value": 725.107860233659,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2013,
-    "Value": 50535145171.1217,
+    "Value": 684.733143098702,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2012,
-    "Value": 45857150581.808,
+    "Value": 652.7772864037,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2011,
-    "Value": 42019985292.7179,
+    "Value": 629.856388836565,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2010,
-    "Value": 38525355485.9947,
+    "Value": 609.404402826866,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2009,
-    "Value": 35544357956.4591,
+    "Value": 588.393410590813,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2008,
-    "Value": 34297249203.9116,
+    "Value": 591.350894930251,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2007,
-    "Value": 31665924641.7283,
+    "Value": 575.332013426892,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2006,
-    "Value": 29028033507.9672,
+    "Value": 559.390893518448,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2005,
-    "Value": 26739968621.1456,
+    "Value": 548.508795945046,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2004,
-    "Value": 24408873288.9752,
+    "Value": 533.536362754966,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2003,
-    "Value": 22255968527.6215,
+    "Value": 515.846758770152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2002,
-    "Value": 20668022936.1518,
+    "Value": 503.832121235056,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2001,
-    "Value": 19772687633.2375,
+    "Value": 503.982464741981,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 2000,
-    "Value": 19746845528.8115,
+    "Value": 529.206208896995,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 1999,
-    "Value": 20740887191.1977,
+    "Value": 583.081521532266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 1998,
-    "Value": 21339495428.6185,
+    "Value": 623.463744734813,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 1997,
-    "Value": 21458919482.3687,
+    "Value": 648.366449893093,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 1996,
-    "Value": 22353432058.8919,
+    "Value": 703.97155974239,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 1995,
-    "Value": 22179609961.9412,
+    "Value": 731.336860150501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 1994,
-    "Value": 21575438316.3129,
+    "Value": 750.093414578074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 1993,
-    "Value": 21983196056.0813,
+    "Value": 809.479574908967,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 1992,
-    "Value": 24814605298.391,
+    "Value": 972.738758531964,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 1991,
-    "Value": 27107880775.3121,
+    "Value": 1130.17390249044,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dem. Rep. Congo",
     "Year": 1990,
-    "Value": 28647038672.3355,
+    "Value": 1280.45493261813,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2016,
-    "Value": 280838687287.439,
+    "Value": 45991.2247756847,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2015,
-    "Value": 276642629927.426,
+    "Value": 45458.697148831,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2014,
-    "Value": 270330621883.304,
+    "Value": 45057.0741699595,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2013,
-    "Value": 262368103968.458,
+    "Value": 44564.4521554649,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2012,
-    "Value": 250524580732.023,
+    "Value": 44336.8124612297,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2011,
-    "Value": 247352304134.257,
+    "Value": 44403.3941459257,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2010,
-    "Value": 238780830983.336,
+    "Value": 43998.4366716285,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2009,
-    "Value": 222759960760.249,
+    "Value": 43382.6254590015,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2008,
-    "Value": 226767494179.349,
+    "Value": 45865.7959577936,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2007,
-    "Value": 212787294572.816,
+    "Value": 46373.5166625592,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2006,
-    "Value": 202812925312.361,
+    "Value": 46159.9137391637,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2005,
-    "Value": 185074447122.437,
+    "Value": 44567.9313092661,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2004,
-    "Value": 177919475305.656,
+    "Value": 43670.4452995124,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2003,
-    "Value": 165944158948.695,
+    "Value": 42645.5831253435,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2002,
-    "Value": 164720380732.307,
+    "Value": 42595.5872217462,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2001,
-    "Value": 157945510465.261,
+    "Value": 42533.5392582329,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 2000,
-    "Value": 153020263325.322,
+    "Value": 42337.7143693512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 1999,
-    "Value": 141846322306.411,
+    "Value": 40945.2792350717,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 1998,
-    "Value": 136809498689.626,
+    "Value": 39904.5956145279,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 1997,
-    "Value": 131671933908.588,
+    "Value": 39180.6865580516,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 1996,
-    "Value": 124765825559.436,
+    "Value": 38101.4055156612,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 1995,
-    "Value": 118585535668.174,
+    "Value": 37237.7232792657,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 1994,
-    "Value": 112749128801.208,
+    "Value": 36332.217340493,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 1993,
-    "Value": 104810699413.806,
+    "Value": 34609.5830852322,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 1992,
-    "Value": 102364018450.973,
+    "Value": 34721.3817813856,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 1991,
-    "Value": 98161557505.9861,
+    "Value": 34167.7192804575,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Denmark",
     "Year": 1990,
-    "Value": 93693710860.431,
+    "Value": 33785.6501434745,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2015,
-    "Value": 3100252971.34004,
+    "Value": 3139.27353522704,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2014,
-    "Value": 2879792353.52655,
+    "Value": 2996.94103148031,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2013,
-    "Value": 2668882507.96505,
+    "Value": 2876.09420224424,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2012,
-    "Value": 2501397365.11718,
+    "Value": 2787.33041139445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2011,
-    "Value": 2342710799.37195,
+    "Value": 2705.40558882684,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2010,
-    "Value": 2197162421.78165,
+    "Value": 2634.71324617292,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2009,
-    "Value": 2097512651.12169,
+    "Value": 2589.46196042016,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2008,
-    "Value": 1981958872.76175,
+    "Value": 2507.04848119708,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2007,
-    "Value": 1837267655.14433,
+    "Value": 2409.2282713199,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2006,
-    "Value": 1702795705.97464,
+    "Value": 2330.30473373075,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2005,
-    "Value": 1576376666.68129,
+    "Value": 2260.35113984683,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2004,
-    "Value": 1480315643.24524,
+    "Value": 2226.44576491283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2003,
-    "Value": 1387604061.73444,
+    "Value": 2178.69903401912,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2002,
-    "Value": 1318290651.32916,
+    "Value": 2146.20732885914,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2001,
-    "Value": 1265228425.22441,
+    "Value": 2130.00441157765,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 2000,
-    "Value": 1212214272.69512,
+    "Value": 2131.26264400737,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 1999,
-    "Value": 1180331112.15181,
+    "Value": 2175.43654172963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 1998,
-    "Value": 1137748882.0186,
+    "Value": 2190.00244827913,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 1997,
-    "Value": 1124416525.97426,
+    "Value": 2252.90170061598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 1996,
-    "Value": 1113803472.71361,
+    "Value": 2330.73489723224,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 1995,
-    "Value": 1140783879.1902,
+    "Value": 2482.03495207566,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 1994,
-    "Value": 1157866325.33094,
+    "Value": 2604.8926540143,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 1993,
-    "Value": 1144466426.89912,
+    "Value": 2645.99806834584,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 1992,
-    "Value": 1197129942.87944,
+    "Value": 2849.46087068692,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 1991,
-    "Value": 1170659298.75413,
+    "Value": 2888.53024372283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Djibouti",
     "Year": 1990,
-    "Value": 1183577869.05462,
+    "Value": 3101.67007837869,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2016,
-    "Value": 805127818.057363,
+    "Value": 10151.3425233946,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2015,
-    "Value": 774549288.195239,
+    "Value": 9941.89481767398,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2014,
-    "Value": 786239776.119827,
+    "Value": 10255.216803569,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2013,
-    "Value": 739629628.487295,
+    "Value": 9871.67259323732,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2012,
-    "Value": 732324277.382995,
+    "Value": 9981.10157055408,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2011,
-    "Value": 726881593.078524,
+    "Value": 10135.2741721538,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2010,
-    "Value": 713826795.903173,
+    "Value": 10198.2735161701,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2009,
-    "Value": 700502494.159995,
+    "Value": 10160.1522549326,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2008,
-    "Value": 703451404.176323,
+    "Value": 10302.82784101,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2007,
-    "Value": 644056302.427623,
+    "Value": 9634.76728176898,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2006,
-    "Value": 590062269.115928,
+    "Value": 9080.26156036944,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2005,
-    "Value": 556179995.493147,
+    "Value": 8844.29336148169,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2004,
-    "Value": 539317915.85439,
+    "Value": 8883.29752424248,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2003,
-    "Value": 508362525.504212,
+    "Value": 8638.77145141762,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2002,
-    "Value": 462843881.686227,
+    "Value": 8053.00132577894,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2001,
-    "Value": 463980396.360498,
+    "Value": 8214.82081900806,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 2000,
-    "Value": 451506247.36126,
+    "Value": 8175.43518534864,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 1999,
-    "Value": 439810065.863134,
+    "Value": 8118.41731874231,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 1998,
-    "Value": 430241186.521621,
+    "Value": 8018.92633958788,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 1997,
-    "Value": 405438990.050187,
+    "Value": 7588.68023462289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 1996,
-    "Value": 392761295.878609,
+    "Value": 7436.01019121304,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 1995,
-    "Value": 375792161.741147,
+    "Value": 7221.98606218189,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 1994,
-    "Value": 360986023.905403,
+    "Value": 7081.63767666024,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 1993,
-    "Value": 348476018.358271,
+    "Value": 6997.68790121954,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 1992,
-    "Value": 334750576.700835,
+    "Value": 6905.27819560082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 1991,
-    "Value": 320723484.762783,
+    "Value": 6778.96529685568,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominica",
     "Year": 1990,
-    "Value": 308516477.95905,
+    "Value": 6730.02285645796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2016,
-    "Value": 161914147983.16,
+    "Value": 14098.875869884,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2015,
-    "Value": 149912344158.807,
+    "Value": 13371.524988334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2014,
-    "Value": 138548943621.228,
+    "Value": 12639.0915494073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2013,
-    "Value": 126482286400.92,
+    "Value": 11887.6731055271,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2012,
-    "Value": 118836739439.76,
+    "Value": 11490.6818164732,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2011,
-    "Value": 113515770428.131,
+    "Value": 11320.9030559829,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2010,
-    "Value": 107873359624.723,
+    "Value": 11123.5309648031,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2009,
-    "Value": 98388692086.8735,
+    "Value": 10406.3319083392,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2008,
-    "Value": 96731892070.7885,
+    "Value": 10449.1883005539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2007,
-    "Value": 91920694287.3284,
+    "Value": 10265.0373171296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2006,
-    "Value": 82363583247.6438,
+    "Value": 9576.5777370166,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2005,
-    "Value": 72203618702.7507,
+    "Value": 8778.49253761958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2004,
-    "Value": 64022542812.4299,
+    "Value": 8153.06536310454,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2003,
-    "Value": 61502328341.1341,
+    "Value": 8168.84554767806,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2002,
-    "Value": 60453077324.0351,
+    "Value": 8315.21162800119,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2001,
-    "Value": 56281394497.1075,
+    "Value": 7982.39770221508,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 2000,
-    "Value": 54049495741.2957,
+    "Value": 7963.70566947502,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 1999,
-    "Value": 50017651924.4117,
+    "Value": 7656.73290044229,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 1998,
-    "Value": 46163701817.884,
+    "Value": 7289.70641441061,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 1997,
-    "Value": 42676227450.2674,
+    "Value": 6923.03798741888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 1996,
-    "Value": 38848566911.4263,
+    "Value": 6517.23090549839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 1995,
-    "Value": 35612427285.8011,
+    "Value": 6188.7605105259,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 1994,
-    "Value": 33068198060.3727,
+    "Value": 5971.93538352293,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 1993,
-    "Value": 31650143260.9346,
+    "Value": 5946.07091204594,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 1992,
-    "Value": 28832165827.5843,
+    "Value": 5651.65401729212,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 1991,
-    "Value": 25507880423.3027,
+    "Value": 5213.78753283561,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Dominican Republic",
     "Year": 1990,
-    "Value": 24455305077.6714,
+    "Value": 5267.102183053,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2016,
-    "Value": 29092827268795.2,
+    "Value": 8545.53335120594,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2015,
-    "Value": 27372844290158,
+    "Value": 8245.50187504073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2014,
-    "Value": 25910252124976,
+    "Value": 7965.30110521395,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2013,
-    "Value": 24255561011323.9,
+    "Value": 7713.7515937247,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2012,
-    "Value": 22806334529688.2,
+    "Value": 7477.07794939007,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2011,
-    "Value": 21552882661200.3,
+    "Value": 7297.63618952149,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2010,
-    "Value": 20012898316743.1,
+    "Value": 7044.11189382764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2009,
-    "Value": 18459248025563.5,
+    "Value": 6693.97753809531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2008,
-    "Value": 17863896254021.2,
+    "Value": 6659.58074778529,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2007,
-    "Value": 16775912437000.2,
+    "Value": 6514.54575551948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2006,
-    "Value": 15287291453091.5,
+    "Value": 6202.69506792956,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2005,
-    "Value": 13856695437944.4,
+    "Value": 5916.35510168375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2004,
-    "Value": 12580713702409.6,
+    "Value": 5640.42608096768,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2003,
-    "Value": 11473153071841.9,
+    "Value": 5378.19653432915,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2002,
-    "Value": 10686435708923.8,
+    "Value": 5184.38910513724,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2001,
-    "Value": 10311117237377.8,
+    "Value": 5153.10372156084,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 2000,
-    "Value": 9901340932307.1,
+    "Value": 5158.06385750135,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 1999,
-    "Value": 9250233465510.11,
+    "Value": 5025.02056185418,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 1998,
-    "Value": 8868872182669.35,
+    "Value": 4996.59603889241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 1997,
-    "Value": 8610625746549.07,
+    "Value": 5004.64498169899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 1996,
-    "Value": 8110203267543.56,
+    "Value": 4884.27605895447,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 1995,
-    "Value": 7546804585696.07,
+    "Value": 4711.93636642157,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 1994,
-    "Value": 7175828435175.07,
+    "Value": 4643.84747270672,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 1993,
-    "Value": 6798406299548.28,
+    "Value": 4585.64177589946,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 1992,
-    "Value": 6297658008068.03,
+    "Value": 4532.58789900599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 1991,
-    "Value": 5891133359206.44,
+    "Value": 4432.39098086491,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Early-demographic dividend",
     "Year": 1990,
-    "Value": 5428003969561.91,
+    "Value": 4316.31132870005,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2016,
-    "Value": 39136729138902.1,
+    "Value": 15775.8311462348,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2015,
-    "Value": 36772075967726.3,
+    "Value": 15133.8650838485,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2014,
-    "Value": 34591339340167.3,
+    "Value": 14511.5575040211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2013,
-    "Value": 32424556959092,
+    "Value": 13890.6192228952,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2012,
-    "Value": 30140119297055,
+    "Value": 13235.5412736914,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2011,
-    "Value": 28007501783878.4,
+    "Value": 12605.0093451499,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2010,
-    "Value": 25862988706931,
+    "Value": 11960.7727351675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2009,
-    "Value": 23648841805815.3,
+    "Value": 11128.705554086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2008,
-    "Value": 22620481072317,
+    "Value": 10814.4338835125,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2007,
-    "Value": 21109360276102.4,
+    "Value": 10354.3948044806,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2006,
-    "Value": 18948179298872.8,
+    "Value": 9611.56180343816,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2005,
-    "Value": 17127522831243.9,
+    "Value": 9021.29392074857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2004,
-    "Value": 15617370778579.6,
+    "Value": 8526.37808643426,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2003,
-    "Value": 14276624981681.2,
+    "Value": 8068.54987001771,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2002,
-    "Value": 13289088003400.9,
+    "Value": 7696.93705069745,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2001,
-    "Value": 12417962627805.1,
+    "Value": 7385.87124216043,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 2000,
-    "Value": 11688751212794.6,
+    "Value": 7178.25467398205,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 1999,
-    "Value": 10767633349064.5,
+    "Value": 6845.10504792633,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 1998,
-    "Value": 10178109932434.4,
+    "Value": 6635.35747817567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 1997,
-    "Value": 10074137235403.5,
+    "Value": 6709.77922148987,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 1996,
-    "Value": 9467595661809.71,
+    "Value": 6487.47994079275,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 1995,
-    "Value": 8742769737215.4,
+    "Value": 6174.54659183949,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 1994,
-    "Value": 8036955854299.41,
+    "Value": 5864.54491445637,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 1993,
-    "Value": 7403499107473.05,
+    "Value": 5587.82420335698,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 1992,
-    "Value": 6845495191530.05,
+    "Value": 5356.41478884005,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 1991,
-    "Value": 6345728791873.13,
+    "Value": 5149.25866150627,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific",
     "Year": 1990,
-    "Value": 5816831394008.37,
+    "Value": 4952.23777773,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2016,
-    "Value": 28417595503840.9,
+    "Value": 12833.2039813986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2015,
-    "Value": 26406703440999.3,
+    "Value": 12165.4488397962,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2014,
-    "Value": 24548823374174.9,
+    "Value": 11514.4999060424,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2013,
-    "Value": 22610513026050.7,
+    "Value": 10874.4698199096,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2012,
-    "Value": 20775611014863.8,
+    "Value": 10227.2687346134,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2011,
-    "Value": 18987189529370.4,
+    "Value": 9588.01791991722,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2010,
-    "Value": 17186106932350.3,
+    "Value": 8921.0934994344,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2009,
-    "Value": 15492996021821.4,
+    "Value": 8198.49874914372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2008,
-    "Value": 14319443387137.3,
+    "Value": 7689.95668091715,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2007,
-    "Value": 12984909343106.4,
+    "Value": 7161.91991229333,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2006,
-    "Value": 11302088344599.6,
+    "Value": 6447.0664539963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2005,
-    "Value": 9930440601533.55,
+    "Value": 5883.89996555399,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2004,
-    "Value": 8791796948800.82,
+    "Value": 5420.16029948707,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2003,
-    "Value": 7869515794882.09,
+    "Value": 5025.803118207,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2002,
-    "Value": 7109798885434.37,
+    "Value": 4670.47225803799,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2001,
-    "Value": 6503844734522.08,
+    "Value": 4376.67176104797,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 2000,
-    "Value": 5971251472683.34,
+    "Value": 4148.4925512614,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 1999,
-    "Value": 5438630575961.32,
+    "Value": 3902.84842112698,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 1998,
-    "Value": 5060473251075.8,
+    "Value": 3726.13719127337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 1997,
-    "Value": 4962743246782.5,
+    "Value": 3735.86964045077,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 1996,
-    "Value": 4571920465620.02,
+    "Value": 3542.41057710267,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 1995,
-    "Value": 4127373230999.62,
+    "Value": 3296.24387924594,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 1994,
-    "Value": 3690231277618.29,
+    "Value": 3046.64937414821,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 1993,
-    "Value": 3272016475158,
+    "Value": 2794.96948979938,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 1992,
-    "Value": 2894100854060.32,
+    "Value": 2564.81185195596,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 1991,
-    "Value": 2565838041660.62,
+    "Value": 2358.47445403995,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (excluding high income)",
     "Year": 1990,
-    "Value": 2305355253598.17,
+    "Value": 2222.97510387785,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2016,
-    "Value": 28363433507800.8,
+    "Value": 12969.1952281511,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2015,
-    "Value": 26356387895170.2,
+    "Value": 12294.7346922335,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2014,
-    "Value": 24502033805396.6,
+    "Value": 11637.171401187,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2013,
-    "Value": 22567421034850.3,
+    "Value": 10990.6116410857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2012,
-    "Value": 20736040211369.2,
+    "Value": 10336.7673807241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2011,
-    "Value": 18951034006024.3,
+    "Value": 9690.91252078277,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2010,
-    "Value": 17153388277237.1,
+    "Value": 9017.04685955756,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2009,
-    "Value": 15463515042938.8,
+    "Value": 8286.88771501578,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2008,
-    "Value": 14292235653101.1,
+    "Value": 7773.07986827709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2007,
-    "Value": 12960272295520.5,
+    "Value": 7239.52867113517,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2006,
-    "Value": 11280672501938.9,
+    "Value": 6517.07285585539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2005,
-    "Value": 9911655010702.35,
+    "Value": 5947.90172034916,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2004,
-    "Value": 8775184046467.02,
+    "Value": 5479.17924036521,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2003,
-    "Value": 7854648834794.25,
+    "Value": 5080.53580942774,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2002,
-    "Value": 7096399684234.68,
+    "Value": 4721.34746845016,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2001,
-    "Value": 6491589803662.55,
+    "Value": 4424.35127265371,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 2000,
-    "Value": 5960004526814.34,
+    "Value": 4193.71912812173,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 1999,
-    "Value": 5428406151126.98,
+    "Value": 3945.47438133279,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 1998,
-    "Value": 5050982809900.28,
+    "Value": 3766.94404669784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 1997,
-    "Value": 4953433741659.27,
+    "Value": 3776.89383101398,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 1996,
-    "Value": 4563352474788.46,
+    "Value": 3581.40371103998,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 1995,
-    "Value": 4119635671484.89,
+    "Value": 3332.55704927564,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 1994,
-    "Value": 3683311283158.18,
+    "Value": 3080.19022591981,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 1993,
-    "Value": 3265884836699.84,
+    "Value": 2825.6857791654,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 1992,
-    "Value": 2888710726638.35,
+    "Value": 2592.95221748022,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 1991,
-    "Value": 2561084856141.96,
+    "Value": 2384.31852852733,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "East Asia & Pacific (IDA & IBRD)",
     "Year": 1990,
-    "Value": 2301084609454.29,
+    "Value": 2247.32458178474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2016,
-    "Value": 184201713009.49,
+    "Value": 10424.2641539122,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2015,
-    "Value": 184794331040.131,
+    "Value": 10749.1288738874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2014,
-    "Value": 182631287359.881,
+    "Value": 10901.4185562194,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2013,
-    "Value": 172861925156.819,
+    "Value": 10665.4625828373,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2012,
-    "Value": 162096444039.91,
+    "Value": 10322.1789023463,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2011,
-    "Value": 150664137576.237,
+    "Value": 9926.90344109607,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2010,
-    "Value": 136848941123.964,
+    "Value": 9352.34423681593,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2009,
-    "Value": 130593880442.387,
+    "Value": 9183.55255782892,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2008,
-    "Value": 128879488764.204,
+    "Value": 9285.8644065728,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2007,
-    "Value": 118844885897.797,
+    "Value": 8879.63685410588,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2006,
-    "Value": 113283044857.005,
+    "Value": 8837.38068581679,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2005,
-    "Value": 105270798941.469,
+    "Value": 8607.76540862608,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2004,
-    "Value": 96863794836.965,
+    "Value": 8311.70135430078,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2003,
-    "Value": 87118288144.7048,
+    "Value": 7808.19220073005,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2002,
-    "Value": 83150964937.2421,
+    "Value": 7727.71734878832,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2001,
-    "Value": 78670825175.3788,
+    "Value": 7550.25727509423,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 2000,
-    "Value": 73948445630.6881,
+    "Value": 7387.61587918906,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 1999,
-    "Value": 71522291124.6492,
+    "Value": 7443.33564543541,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 1998,
-    "Value": 73948995262.5953,
+    "Value": 7964.48606899267,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 1997,
-    "Value": 70841032128.5689,
+    "Value": 7867.05793296081,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 1996,
-    "Value": 66759716909.3079,
+    "Value": 7696.58340221155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 1995,
-    "Value": 64446776915.9882,
+    "Value": 7726.19208586756,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 1994,
-    "Value": 61739377828.1012,
+    "Value": 7720.72431642205,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 1993,
-    "Value": 57983766614.6723,
+    "Value": 7571.24487350364,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 1992,
-    "Value": 55540310861.2094,
+    "Value": 7595.02533464365,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 1991,
-    "Value": 53178108421.8386,
+    "Value": 7611.73325454516,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ecuador",
     "Year": 1990,
-    "Value": 49347419555.7681,
+    "Value": 7472.02512840139,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2016,
-    "Value": 1064900429873.37,
+    "Value": 10319.256927452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2015,
-    "Value": 1008158140349.96,
+    "Value": 10095.6101677121,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2014,
-    "Value": 955565141640.716,
+    "Value": 9879.79935855302,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2013,
-    "Value": 912121545942.48,
+    "Value": 9814.21213021382,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2012,
-    "Value": 878427114733.389,
+    "Value": 9822.42018054691,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2011,
-    "Value": 843842460027.439,
+    "Value": 9823.82328675711,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2010,
-    "Value": 812316743803.415,
+    "Value": 9857.46828190066,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2009,
-    "Value": 763245439180.146,
+    "Value": 9561.84756856866,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2008,
-    "Value": 723669582166.874,
+    "Value": 9305.41495471612,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2007,
-    "Value": 662339380636.641,
+    "Value": 8838.52479551261,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2006,
-    "Value": 602453659313.735,
+    "Value": 8398.87453511458,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2005,
-    "Value": 547005144173.803,
+    "Value": 8001.51654058756,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2004,
-    "Value": 507234344114.975,
+    "Value": 7800.34891861969,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2003,
-    "Value": 474262994919.208,
+    "Value": 7635.66060652718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2002,
-    "Value": 450606183930.473,
+    "Value": 7541.32422926438,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2001,
-    "Value": 433517053525.116,
+    "Value": 7507.68726063693,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 2000,
-    "Value": 409384965326.463,
+    "Value": 7388.35641112331,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 1999,
-    "Value": 379884406117.434,
+    "Value": 7142.67024262616,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 1998,
-    "Value": 352628944674.046,
+    "Value": 6856.41767472909,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 1997,
-    "Value": 335308788633.663,
+    "Value": 6712.63998890105,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 1996,
-    "Value": 312506419454.632,
+    "Value": 6482.55336287529,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 1995,
-    "Value": 292320638929.255,
+    "Value": 6292.66239065116,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 1994,
-    "Value": 273644484445.704,
+    "Value": 6130.74871890015,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 1993,
-    "Value": 257703318995.674,
+    "Value": 6013.88461304189,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 1992,
-    "Value": 244618514813.383,
+    "Value": 5965.07054109887,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 1991,
-    "Value": 229016589490.895,
+    "Value": 5836.66634044749,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Egypt",
     "Year": 1990,
-    "Value": 219273690233.894,
+    "Value": 5909.16157495742,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2016,
-    "Value": 54671279315.5318,
+    "Value": 7989.99725603083,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2015,
-    "Value": 52734626522.6968,
+    "Value": 7845.15757525445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2014,
-    "Value": 50996595382.0349,
+    "Value": 7707.06945900356,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2013,
-    "Value": 49393417062.7261,
+    "Value": 7635.72142503944,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2012,
-    "Value": 47727037752.1451,
+    "Value": 7532.86122217618,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2011,
-    "Value": 45998522378.8336,
+    "Value": 7428.03014889377,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2010,
-    "Value": 44090668436.877,
+    "Value": 7299.87131216445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2009,
-    "Value": 42971948874.5944,
+    "Value": 7233.63803659629,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2008,
-    "Value": 44027470138.3204,
+    "Value": 7500.56927528317,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2007,
-    "Value": 42637281595.0185,
+    "Value": 7438.8803724574,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2006,
-    "Value": 39996215257.1156,
+    "Value": 7195.7399703291,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2005,
-    "Value": 37343204361.8017,
+    "Value": 6956.44957381526,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2004,
-    "Value": 34934442668.0863,
+    "Value": 6748.68143384099,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2003,
-    "Value": 33381807623.5487,
+    "Value": 6658.50870773392,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2002,
-    "Value": 31993311167.1561,
+    "Value": 6543.02470559767,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2001,
-    "Value": 30788886301.1292,
+    "Value": 6430.5423921511,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 2000,
-    "Value": 29597076478.9706,
+    "Value": 6363.80285040381,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 1999,
-    "Value": 28328753879.8556,
+    "Value": 6275.08512265612,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 1998,
-    "Value": 26971493666.5807,
+    "Value": 6114.65816709199,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 1997,
-    "Value": 25717835190.2947,
+    "Value": 5946.14611279002,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 1996,
-    "Value": 24255124463.7944,
+    "Value": 5760.08250003584,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 1995,
-    "Value": 23420809882.1838,
+    "Value": 5724.86426317691,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 1994,
-    "Value": 21563014034.4349,
+    "Value": 5444.8947526599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 1993,
-    "Value": 19909112271.8105,
+    "Value": 5200.79531006151,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 1992,
-    "Value": 18111685911.5801,
+    "Value": 4909.90568405735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 1991,
-    "Value": 16465941073.9307,
+    "Value": 4628.6600676738,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "El Salvador",
     "Year": 1990,
-    "Value": 15385283786.9291,
+    "Value": 4529.78673247883,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2016,
-    "Value": 31829681015.849,
+    "Value": 24162.5275308114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2015,
-    "Value": 34510676418.5758,
+    "Value": 27572.5875067327,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2014,
-    "Value": 37528682710.6234,
+    "Value": 31542.5107724706,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2013,
-    "Value": 36714650894.6021,
+    "Value": 32736.0974323694,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2012,
-    "Value": 37688884731.5401,
+    "Value": 35632.0456431947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2011,
-    "Value": 34166939303.2501,
+    "Value": 34363.1529063453,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2010,
-    "Value": 31425606407.2872,
+    "Value": 33723.3658030152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2009,
-    "Value": 34088542632.2107,
+    "Value": 38738.1520306425,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2008,
-    "Value": 33383158833.8186,
+    "Value": 40015.8191935871,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2007,
-    "Value": 27793851199.0872,
+    "Value": 35570.7250735463,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2006,
-    "Value": 23484422401.5888,
+    "Value": 32300.7371415936,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2005,
-    "Value": 21154488253.1005,
+    "Value": 31372.0827949494,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2004,
-    "Value": 17554826862.867,
+    "Value": 28076.3489776622,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2003,
-    "Value": 12380575097.9363,
+    "Value": 21230.1110744417,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2002,
-    "Value": 10652011227.9517,
+    "Value": 19418.6946732963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2001,
-    "Value": 8781778849.33291,
+    "Value": 16932.0027163883,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 2000,
-    "Value": 5255304481.02058,
+    "Value": 10792.733022619,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 1999,
-    "Value": 4346684148.606,
+    "Value": 9507.22415825884,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 1998,
-    "Value": 3406837251.85996,
+    "Value": 7876.19847857676,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 1997,
-    "Value": 2722904769.11745,
+    "Value": 6620.81890618774,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 1996,
-    "Value": 1070950354.62705,
+    "Value": 2752.92612075478,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 1995,
-    "Value": 631378383.965049,
+    "Value": 1715.2275305108,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 1994,
-    "Value": 526426574.460033,
+    "Value": 1513.07787062634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 1993,
-    "Value": 441812042.528203,
+    "Value": 1342.45289823781,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 1992,
-    "Value": 388662508.580486,
+    "Value": 1250.12851659895,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 1991,
-    "Value": 282013662.104343,
+    "Value": 958.352900750171,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Equatorial Guinea",
     "Year": 1990,
-    "Value": 275747981.8831,
+    "Value": 999.504534579949,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2011,
-    "Value": 6758835465.49469,
+    "Value": 1510.45892910899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2010,
-    "Value": 6093233052.83288,
+    "Value": 1416.36580154238,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2009,
-    "Value": 5890463354.62194,
+    "Value": 1411.84139684816,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2008,
-    "Value": 5627900638.75158,
+    "Value": 1384.10360505986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2007,
-    "Value": 6118169292.55981,
+    "Value": 1563.48830246365,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2006,
-    "Value": 5875729016.79974,
+    "Value": 1574.35215810445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2005,
-    "Value": 5756383485.58679,
+    "Value": 1628.86986333777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2004,
-    "Value": 5436965859.67402,
+    "Value": 1633.41563923412,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2003,
-    "Value": 5215746473.26768,
+    "Value": 1661.87935435208,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2002,
-    "Value": 5253276514.14117,
+    "Value": 1765.60397963655,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2001,
-    "Value": 5022891984.88903,
+    "Value": 1771.68733794085,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 2000,
-    "Value": 4515614053.81925,
+    "Value": 1679.14714337388,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 1999,
-    "Value": 4558369852.62054,
+    "Value": 1781.14765291006,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 1998,
-    "Value": 4489058412.87515,
+    "Value": 1824.01317010876,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 1997,
-    "Value": 4363516718.16299,
+    "Value": 1827.8883507501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 1996,
-    "Value": 3975668545.03797,
+    "Value": 1718.3656251667,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 1995,
-    "Value": 3573524892.81938,
+    "Value": 1586.09224097384,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 1994,
-    "Value": 3403238017.35414,
+    "Value": 1544.37251162224,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 1993,
-    "Value": 2748954780.03629,
+    "Value": 1268.41711033735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Eritrea",
     "Year": 1992,
-    "Value": 2366643660.76838,
+    "Value": 1110.99052630474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2016,
-    "Value": 39135985954.4205,
+    "Value": 28109.81704489,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2015,
-    "Value": 37737670348.7466,
+    "Value": 27549.5813697378,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2014,
-    "Value": 37515048681.8881,
+    "Value": 27113.6859213723,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2013,
-    "Value": 36239295476.4712,
+    "Value": 26282.9088374806,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2012,
-    "Value": 34419815454.1773,
+    "Value": 25691.9996357991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2011,
-    "Value": 32579424941.3604,
+    "Value": 24543.0674715452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2010,
-    "Value": 28763509232.0953,
+    "Value": 22740.9720038708,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2009,
-    "Value": 27355830719.427,
+    "Value": 22187.9264018728,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2008,
-    "Value": 30303860344.3689,
+    "Value": 25968.9728072711,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2007,
-    "Value": 29442013192.9468,
+    "Value": 27383.4695578858,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2006,
-    "Value": 25940225106.6638,
+    "Value": 25298.646049925,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2005,
-    "Value": 22375658814.9278,
+    "Value": 22807.1827469547,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2004,
-    "Value": 19654230829.9691,
+    "Value": 20733.538079237,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2003,
-    "Value": 17906822948.3658,
+    "Value": 19389.4423083658,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2002,
-    "Value": 15987498483.2749,
+    "Value": 17937.8319791363,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2001,
-    "Value": 14313345219.4591,
+    "Value": 16803.5186789525,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 2000,
-    "Value": 13159259164.4808,
+    "Value": 15703.0274678557,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 1999,
-    "Value": 11633853161.7972,
+    "Value": 14270.9983363474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 1998,
-    "Value": 11586571955.7026,
+    "Value": 14436.7289529188,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 1997,
-    "Value": 10970181291.8878,
+    "Value": 13733.2848117095,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 1996,
-    "Value": 9660042194.87467,
+    "Value": 12144.5950918986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Estonia",
     "Year": 1995,
-    "Value": 9027077358.77858,
+    "Value": 11361.8462429184,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2016,
-    "Value": 177614664577.743,
+    "Value": 1608.29347611692,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2015,
-    "Value": 163047900346.269,
+    "Value": 1533.10763199974,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2014,
-    "Value": 146113892212.717,
+    "Value": 1424.52698442707,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2013,
-    "Value": 130184218085.79,
+    "Value": 1325.75513657038,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2012,
-    "Value": 115855054608.745,
+    "Value": 1230.57548379087,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2011,
-    "Value": 104704865663.231,
+    "Value": 1162.78331740492,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2010,
-    "Value": 92272352852.6885,
+    "Value": 1073.82629506882,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2009,
-    "Value": 80993822423.1908,
+    "Value": 979.622512202945,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2008,
-    "Value": 73880033925.7865,
+    "Value": 924.518761953064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2007,
-    "Value": 65402691969.5815,
+    "Value": 856.994839947625,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2006,
-    "Value": 57158998047.7717,
+    "Value": 789.870370145532,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2005,
-    "Value": 50034195897.6479,
+    "Value": 732.38049847164,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2004,
-    "Value": 43350919345.4194,
+    "Value": 673.42600453182,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2003,
-    "Value": 37148739297.1638,
+    "Value": 609.942417701297,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2002,
-    "Value": 37227065857.9433,
+    "Value": 641.527025842593,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2001,
-    "Value": 36117148604.0173,
+    "Value": 650.453496453149,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 2000,
-    "Value": 32605713536.1208,
+    "Value": 618.242218671924,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 1999,
-    "Value": 30054968063.2673,
+    "Value": 599.952105879211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 1998,
-    "Value": 28148876686.4799,
+    "Value": 587.272494089588,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 1997,
-    "Value": 28844139463.7872,
+    "Value": 626.442265180299,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 1996,
-    "Value": 27497046128.6462,
+    "Value": 626.107884335328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 1995,
-    "Value": 24019382187.6788,
+    "Value": 574.837098206082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 1994,
-    "Value": 22170170866.8754,
+    "Value": 560.005934971439,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 1993,
-    "Value": 21037115182.0885,
+    "Value": 561.936986984778,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 1992,
-    "Value": 18161308671.0627,
+    "Value": 514.790155457192,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 1991,
-    "Value": 19442704016.8002,
+    "Value": 584.34181231197,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ethiopia",
     "Year": 1990,
-    "Value": 20262639542.1785,
+    "Value": 651.953090560741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2016,
-    "Value": 14333757189158.5,
+    "Value": 38346.651000331,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2015,
-    "Value": 13869544552428.7,
+    "Value": 37803.263346743,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2014,
-    "Value": 13509700238659.9,
+    "Value": 37148.0748524406,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2013,
-    "Value": 13150558738133.9,
+    "Value": 36779.4735978353,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2012,
-    "Value": 12708845812901.7,
+    "Value": 37004.8297964967,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2011,
-    "Value": 12557654924823.6,
+    "Value": 37437.948427596,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2010,
-    "Value": 12052226500932.2,
+    "Value": 36789.7728051702,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2009,
-    "Value": 11688407064076.4,
+    "Value": 36137.535385288,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2008,
-    "Value": 11953252247632.5,
+    "Value": 37997.2711220607,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2007,
-    "Value": 11451546348644,
+    "Value": 38011.0431142582,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2006,
-    "Value": 10767951214627.6,
+    "Value": 37057.6229887841,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2005,
-    "Value": 9923106241144.59,
+    "Value": 36046.8478475202,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2004,
-    "Value": 9533535905996.29,
+    "Value": 35611.1898373182,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2003,
-    "Value": 9117339992453.92,
+    "Value": 34986.9571182395,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2002,
-    "Value": 8933263779288,
+    "Value": 34903.5942978853,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2001,
-    "Value": 8559034339632.01,
+    "Value": 34704.2329676501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 2000,
-    "Value": 8141886438463.27,
+    "Value": 34087.8992621359,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 1999,
-    "Value": 7639552583489.32,
+    "Value": 32928.9876697195,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 1998,
-    "Value": 7329062782677.2,
+    "Value": 32067.8981390784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 1997,
-    "Value": 6987910517150.19,
+    "Value": 31208.3678018107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 1996,
-    "Value": 6697160097097.36,
+    "Value": 30446.6712567803,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 1995,
-    "Value": 6477302245008.32,
+    "Value": 30000.703322216,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 1994,
-    "Value": 6190451646896.24,
+    "Value": 29346.6199153716,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 1993,
-    "Value": 5915557137272.13,
+    "Value": 28724.1902949245,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 1992,
-    "Value": 5817620125122.01,
+    "Value": 29038.5742386749,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 1991,
-    "Value": 5608869382126.49,
+    "Value": 28769.1770935759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Euro area",
     "Year": 1990,
-    "Value": 5284790119656.66,
+    "Value": 28119.3140864416,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2016,
-    "Value": 28601792355693.1,
+    "Value": 29169.7041782983,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2015,
-    "Value": 27804097930736.3,
+    "Value": 28802.9079396529,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2014,
-    "Value": 27314509933263.7,
+    "Value": 28464.3024288731,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2013,
-    "Value": 26506616513496.7,
+    "Value": 28079.8058708248,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2012,
-    "Value": 25487087249708.6,
+    "Value": 27857.6599609783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2011,
-    "Value": 24745555518256.7,
+    "Value": 27769.8298674557,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2010,
-    "Value": 23129618006977.9,
+    "Value": 27042.8947063972,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2009,
-    "Value": 22087858995220.5,
+    "Value": 26378.0298543853,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2008,
-    "Value": 22632455264704.7,
+    "Value": 27785.9783157127,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2007,
-    "Value": 21099109720601.9,
+    "Value": 27456.6995419108,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2006,
-    "Value": 19630892849189.4,
+    "Value": 26396.9193890972,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2005,
-    "Value": 17688928664334.2,
+    "Value": 25316.0962141118,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2004,
-    "Value": 16730797622045.8,
+    "Value": 24572.1903755044,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2003,
-    "Value": 15707351810960.3,
+    "Value": 23718.9257880507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2002,
-    "Value": 15095422199217.1,
+    "Value": 23188.4447756172,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2001,
-    "Value": 14383038800961.3,
+    "Value": 22728.6301239404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 2000,
-    "Value": 13673833417102.5,
+    "Value": 22225.3959753265,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 1999,
-    "Value": 12675966284188.5,
+    "Value": 21246.0318760423,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 1998,
-    "Value": 12179812645825.8,
+    "Value": 20676.9732434216,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 1997,
-    "Value": 11735198376846.4,
+    "Value": 20301.5333517556,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 1996,
-    "Value": 11219263731872.1,
+    "Value": 19760.817327172,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 1995,
-    "Value": 10820858010920.8,
+    "Value": 19494.91197243,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 1994,
-    "Value": 10410351596947,
+    "Value": 19213.5656570646,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 1993,
-    "Value": 10200824104923.9,
+    "Value": 19375.219058996,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 1992,
-    "Value": 10103289784163.5,
+    "Value": 19782.1114263928,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 1991,
-    "Value": 10035871773023.5,
+    "Value": 20341.3841232712,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia",
     "Year": 1990,
-    "Value": 9749596440654.37,
+    "Value": 20563.9726519188,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2016,
-    "Value": 8146141960652.61,
+    "Value": 18679.2602988856,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2015,
-    "Value": 7967932270470.52,
+    "Value": 18527.6083295747,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2014,
-    "Value": 7998794892494.76,
+    "Value": 18603.9310026331,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2013,
-    "Value": 7761781340035.17,
+    "Value": 18353.5236158746,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2012,
-    "Value": 7425981455766.06,
+    "Value": 17806.7820316261,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2011,
-    "Value": 7018660560636.62,
+    "Value": 17307.7203557377,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2010,
-    "Value": 6151751081943.6,
+    "Value": 16393.7520084875,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2009,
-    "Value": 5717923840790.82,
+    "Value": 15687.2249494777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2008,
-    "Value": 5894185779256.11,
+    "Value": 16771.9101793973,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2007,
-    "Value": 5123362484940.46,
+    "Value": 16085.8542359154,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2006,
-    "Value": 4591374597824.28,
+    "Value": 14935.6449897942,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2005,
-    "Value": 3834246909493.85,
+    "Value": 13824.0942642413,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2004,
-    "Value": 3414133083970.18,
+    "Value": 12936.2260742572,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2003,
-    "Value": 3047663082729.99,
+    "Value": 11968.1166528749,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2002,
-    "Value": 2757542574635.79,
+    "Value": 11199.7697717915,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2001,
-    "Value": 2577468734924.72,
+    "Value": 10615.8036529477,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 2000,
-    "Value": 2432758811271.15,
+    "Value": 10272.5079779256,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 1999,
-    "Value": 2178396332706.83,
+    "Value": 9514.29164033677,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 1998,
-    "Value": 2110197406599.84,
+    "Value": 9292.18328710259,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 1997,
-    "Value": 2092511337709.93,
+    "Value": 9470.25270802137,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 1996,
-    "Value": 2005238623432.39,
+    "Value": 9256.26319192032,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 1995,
-    "Value": 1970648965215.35,
+    "Value": 9295.60502297086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 1994,
-    "Value": 1970920305219.54,
+    "Value": 9489.69144185096,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 1993,
-    "Value": 2173917489361.75,
+    "Value": 10676.0460516023,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 1992,
-    "Value": 2260593854286.35,
+    "Value": 11431.4775116868,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 1991,
-    "Value": 2462873735816.54,
+    "Value": 12900.4705641177,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (excluding high income)",
     "Year": 1990,
-    "Value": 2524562277225.31,
+    "Value": 13707.7079214285,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2016,
-    "Value": 9185886532953.86,
+    "Value": 19292.6643135556,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2015,
-    "Value": 8978171699514.83,
+    "Value": 19095.5539876771,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2014,
-    "Value": 8971987199621.18,
+    "Value": 19088.4944296367,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2013,
-    "Value": 8702106360111.28,
+    "Value": 18795.0646662021,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2012,
-    "Value": 8333148825410.77,
+    "Value": 18268.8419037472,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2011,
-    "Value": 7888430253945.92,
+    "Value": 17783.3482985436,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2010,
-    "Value": 6953269049158.57,
+    "Value": 16857.0493177175,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2009,
-    "Value": 6452074711606.8,
+    "Value": 16144.1834879874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2008,
-    "Value": 6592285324212.99,
+    "Value": 17087.1098742283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2007,
-    "Value": 5763218631057.22,
+    "Value": 16389.3289624473,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2006,
-    "Value": 5168991552105.12,
+    "Value": 15227.02128419,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2005,
-    "Value": 4364591015148.45,
+    "Value": 14119.2858664346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2004,
-    "Value": 3923708422381.09,
+    "Value": 13258.1424086268,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2003,
-    "Value": 3515909890251.34,
+    "Value": 12303.4353375409,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2002,
-    "Value": 3207936647294.07,
+    "Value": 11554.316572172,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2001,
-    "Value": 3002451435394.94,
+    "Value": 10994.1807084867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 2000,
-    "Value": 2840259558596.6,
+    "Value": 10664.4578862286,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 1999,
-    "Value": 2565943306510.72,
+    "Value": 9907.35228665828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 1998,
-    "Value": 2476140557926.4,
+    "Value": 9650.01089380142,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 1997,
-    "Value": 2437173697531.31,
+    "Value": 9760.45354872898,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 1996,
-    "Value": 2323937889506.19,
+    "Value": 9497.52943312438,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 1995,
-    "Value": 2266338426490.95,
+    "Value": 9473.16719628836,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 1994,
-    "Value": 2240715854058.27,
+    "Value": 9583.10116412337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 1993,
-    "Value": 2422619806154.93,
+    "Value": 10612.4813415929,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 1992,
-    "Value": 2493388916238.42,
+    "Value": 11266.683055665,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 1991,
-    "Value": 2682923831379.08,
+    "Value": 12579.8674870052,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Europe & Central Asia (IDA & IBRD)",
     "Year": 1990,
-    "Value": 2753841053272.53,
+    "Value": 13381.4954079509,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2016,
-    "Value": 20255449767929.3,
+    "Value": 36344.6514089507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2015,
-    "Value": 19596026242137.2,
+    "Value": 35740.4718545059,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2014,
-    "Value": 19055363286604.1,
+    "Value": 35011.0746370648,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2013,
-    "Value": 18484924703108.6,
+    "Value": 34498.2466273718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2012,
-    "Value": 17817932948030.7,
+    "Value": 34500.8410481219,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2011,
-    "Value": 17502427713810.7,
+    "Value": 34726.2067192605,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2010,
-    "Value": 16783166578059.3,
+    "Value": 34114.8997698053,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2009,
-    "Value": 16180398714584.8,
+    "Value": 33500.0820247471,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2008,
-    "Value": 16533651763390.1,
+    "Value": 35117.6007056943,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2007,
-    "Value": 15761136345563,
+    "Value": 35008.6545192076,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2006,
-    "Value": 14824584616758,
+    "Value": 34036.0732950721,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2005,
-    "Value": 13652971706918.9,
+    "Value": 33003.9538686421,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2004,
-    "Value": 13131989735681.1,
+    "Value": 32411.0290905833,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2003,
-    "Value": 12472324503062.1,
+    "Value": 31679.4834875334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2002,
-    "Value": 12136340393511.5,
+    "Value": 31336.630946664,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2001,
-    "Value": 11595216954876.9,
+    "Value": 30961.9645231763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 2000,
-    "Value": 11026681400899.4,
+    "Value": 30333.8264342508,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 1999,
-    "Value": 10315087071092.9,
+    "Value": 29242.1596054807,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 1998,
-    "Value": 9908414013941.9,
+    "Value": 28463.2094484822,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 1997,
-    "Value": 9487094436009.68,
+    "Value": 27688.2495422824,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 1996,
-    "Value": 9078070983705.05,
+    "Value": 26966.474600422,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 1995,
-    "Value": 8719740080952.97,
+    "Value": 26455.2801713878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 1994,
-    "Value": 8309248451105.56,
+    "Value": 25786.2604990828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 1993,
-    "Value": 7910250791178.52,
+    "Value": 25131.2701262667,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 1992,
-    "Value": 7734156606292.61,
+    "Value": 25244.4744514175,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 1991,
-    "Value": 7489540582492.91,
+    "Value": 25091.987027764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "European Union",
     "Year": 1990,
-    "Value": 7167581550888.72,
+    "Value": 24880.0757945054,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2016,
-    "Value": 8187660426.56308,
+    "Value": 8447.26421585972,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2015,
-    "Value": 8053912961.89894,
+    "Value": 8477.6447332114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2014,
-    "Value": 7672546780.60609,
+    "Value": 8222.25381602824,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2013,
-    "Value": 7137335543.38618,
+    "Value": 7839.87478602252,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2012,
-    "Value": 6706403172.53697,
+    "Value": 7537.92622654187,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2011,
-    "Value": 6493459112.28588,
+    "Value": 7488.82938057572,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2010,
-    "Value": 6194534328.03906,
+    "Value": 7352.08836002372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2009,
-    "Value": 5944159874.18806,
+    "Value": 7208.00511111528,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2008,
-    "Value": 5982274667.22611,
+    "Value": 7384.0860570468,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2007,
-    "Value": 5807206777.90726,
+    "Value": 7383.26406948114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2006,
-    "Value": 5705195368.33607,
+    "Value": 7513.21710556967,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2005,
-    "Value": 5434468466.91606,
+    "Value": 7426.77876327393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2004,
-    "Value": 5228458717.43898,
+    "Value": 7406.36184195247,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2003,
-    "Value": 4832419842.6333,
+    "Value": 7048.44794072517,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2002,
-    "Value": 4691032349.80812,
+    "Value": 6986.6779564214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2001,
-    "Value": 4476848753.54102,
+    "Value": 6782.28440438871,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 2000,
-    "Value": 4291273557.14878,
+    "Value": 6673.84739081023,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 1999,
-    "Value": 4268359404.87682,
+    "Value": 6829.07467796031,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 1998,
-    "Value": 3863992993.6636,
+    "Value": 6325.18392241167,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 1997,
-    "Value": 3773454001.94199,
+    "Value": 6302.72202210462,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 1996,
-    "Value": 3793413052.69508,
+    "Value": 6513.37598402228,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 1995,
-    "Value": 3554774601.62554,
+    "Value": 6287.00551567732,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 1994,
-    "Value": 3397217852.22647,
+    "Value": 6212.41893503634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 1993,
-    "Value": 3165011474.13986,
+    "Value": 5994.26640312725,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 1992,
-    "Value": 3026981941.24037,
+    "Value": 5951.98319087882,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 1991,
-    "Value": 2789366811.89667,
+    "Value": 5678.8756314892,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fiji",
     "Year": 1990,
-    "Value": 2774422653.07923,
+    "Value": 5891.2900807153,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2016,
-    "Value": 238376056006.602,
+    "Value": 39659.1660392991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2015,
-    "Value": 230530396766.477,
+    "Value": 38941.7636030551,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2014,
-    "Value": 226490007826.192,
+    "Value": 39017.5372069548,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2013,
-    "Value": 224594276070.103,
+    "Value": 39428.3120606313,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2012,
-    "Value": 219916455236.407,
+    "Value": 39912.9413580065,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2011,
-    "Value": 219213912532.236,
+    "Value": 40683.5275821703,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2010,
-    "Value": 207964911617.691,
+    "Value": 39848.1344978775,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2009,
-    "Value": 201933341439.119,
+    "Value": 38867.7994464569,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2008,
-    "Value": 212373304097.574,
+    "Value": 42574.6411365042,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2007,
-    "Value": 199367014217.604,
+    "Value": 42467.2609961997,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2006,
-    "Value": 180988330030.512,
+    "Value": 40546.0807261049,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2005,
-    "Value": 167840485836.573,
+    "Value": 39115.7647931549,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2004,
-    "Value": 162749332733.589,
+    "Value": 38188.2510919027,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2003,
-    "Value": 151088387838.286,
+    "Value": 36852.4439237464,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2002,
-    "Value": 148566373419.174,
+    "Value": 36218.2401573648,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2001,
-    "Value": 144194033054.304,
+    "Value": 35706.1533300355,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 2000,
-    "Value": 138456504796.559,
+    "Value": 34887.1787990067,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 1999,
-    "Value": 127941800557.842,
+    "Value": 33094.8384299002,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 1998,
-    "Value": 121309899420.669,
+    "Value": 31760.2768039513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 1997,
-    "Value": 111887080314.833,
+    "Value": 30205.0204371741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 1996,
-    "Value": 102764657254.796,
+    "Value": 28512.4344000172,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 1995,
-    "Value": 99890841312.4584,
+    "Value": 27596.4128931831,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 1994,
-    "Value": 93899549992.2412,
+    "Value": 26583.533331846,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 1993,
-    "Value": 88458273027.2829,
+    "Value": 25686.5100224016,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 1992,
-    "Value": 87041886830.7755,
+    "Value": 26002.0799527475,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 1991,
-    "Value": 88028553959.7767,
+    "Value": 27047.8399017226,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Finland",
     "Year": 1990,
-    "Value": 90548294247.6313,
+    "Value": 28905.5703241723,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2016,
-    "Value": 2151151807946.15,
+    "Value": 3941.49848091913,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2015,
-    "Value": 2009522528955.36,
+    "Value": 3816.78017507871,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2014,
-    "Value": 1936968535911.06,
+    "Value": 3811.08483487483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2013,
-    "Value": 1838300181085.71,
+    "Value": 3769.02229517816,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2012,
-    "Value": 1707519031124.37,
+    "Value": 3639.46806776509,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2011,
-    "Value": 1569106567254.48,
+    "Value": 3491.57089837899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2010,
-    "Value": 1619865090022.66,
+    "Value": 3766.60586696281,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2009,
-    "Value": 1504602690680.89,
+    "Value": 3626.13909073912,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2008,
-    "Value": 1423260480629.46,
+    "Value": 3544.97414105829,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2007,
-    "Value": 1320684590582.69,
+    "Value": 3432.7474239029,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2006,
-    "Value": 1219808310913.94,
+    "Value": 3333.76161467441,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2005,
-    "Value": 1105532597099.84,
+    "Value": 3192.33512363303,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2004,
-    "Value": 1002826779979.92,
+    "Value": 3066.27423158989,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2003,
-    "Value": 847013446874.252,
+    "Value": 2729.53286324889,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2002,
-    "Value": 877484018546.675,
+    "Value": 2959.7611154982,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2001,
-    "Value": 866430750120.94,
+    "Value": 3047.98560683535,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 2000,
-    "Value": 821668696352.191,
+    "Value": 3032.47049944482,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 1999,
-    "Value": 784401221526.268,
+    "Value": 3032.5804132579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 1998,
-    "Value": 714994214171.298,
+    "Value": 2877.23243476452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 1997,
-    "Value": 624936105136.914,
+    "Value": 2605.71770313693,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 1996,
-    "Value": 566582970840.516,
+    "Value": 2462.99905320786,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 1995,
-    "Value": 519569931246.432,
+    "Value": 2361.658708977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 1994,
-    "Value": 491386132181.366,
+    "Value": 2342.63219416106,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 1993,
-    "Value": 463181988604.552,
+    "Value": 2320.58829557028,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 1992,
-    "Value": 419816397887.427,
+    "Value": 2218.27155260476,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 1991,
-    "Value": 383703037640.624,
+    "Value": 2136.59815485043,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Fragile and conflict affected situations",
     "Year": 1990,
-    "Value": 475341273512.023,
+    "Value": 2809.21119073546,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2016,
-    "Value": 2765543999662.5,
+    "Value": 38061.0942586316,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2015,
-    "Value": 2696176743443.08,
+    "Value": 37765.7508688631,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2014,
-    "Value": 2659363642555.09,
+    "Value": 37531.4282697726,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2013,
-    "Value": 2606140877208.33,
+    "Value": 37366.9307216323,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2012,
-    "Value": 2471783167377.51,
+    "Value": 37344.5376697004,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2011,
-    "Value": 2447562936718.01,
+    "Value": 37457.2848600019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2010,
-    "Value": 2340503450182,
+    "Value": 36872.2280897097,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2009,
-    "Value": 2246978946490.15,
+    "Value": 36340.508687855,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2008,
-    "Value": 2263191793839.03,
+    "Value": 37634.9296395514,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2007,
-    "Value": 2186674308962.28,
+    "Value": 37772.0777505611,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2006,
-    "Value": 2069530910629.92,
+    "Value": 37129.6812135362,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2005,
-    "Value": 1933507045603.84,
+    "Value": 36522.0765589883,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2004,
-    "Value": 1828430471418.62,
+    "Value": 36216.1681701552,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2003,
-    "Value": 1758817514296.64,
+    "Value": 35494.7817219654,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2002,
-    "Value": 1770065439591.06,
+    "Value": 35456.6763421496,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2001,
-    "Value": 1695886843454.56,
+    "Value": 35320.4246114363,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 2000,
-    "Value": 1596433960885.14,
+    "Value": 34896.387306251,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 1999,
-    "Value": 1478039216097.89,
+    "Value": 33825.4328783599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 1998,
-    "Value": 1411897221044.58,
+    "Value": 32879.6558746546,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 1997,
-    "Value": 1340268726282.79,
+    "Value": 31867.7904460013,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 1996,
-    "Value": 1281145851883.89,
+    "Value": 31250.2987640536,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 1995,
-    "Value": 1241924233483.99,
+    "Value": 30931.8118672999,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 1994,
-    "Value": 1191702896221.41,
+    "Value": 30409.6873915525,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 1993,
-    "Value": 1140130076038.19,
+    "Value": 29823.6140156673,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 1992,
-    "Value": 1120498528955.19,
+    "Value": 30137.7576101533,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 1991,
-    "Value": 1078276663246.41,
+    "Value": 29811.1083520776,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "France",
     "Year": 1990,
-    "Value": 1032810859749.7,
+    "Value": 29527.9739515033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2016,
-    "Value": 35839793181.4852,
+    "Value": 16786.0007214473,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2015,
-    "Value": 34605534274.0382,
+    "Value": 16836.6059057727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2014,
-    "Value": 32955844420.451,
+    "Value": 16678.4622846348,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2013,
-    "Value": 31035756976.7199,
+    "Value": 16502.800723963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2012,
-    "Value": 28912216414.9192,
+    "Value": 16159.4926618381,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2011,
-    "Value": 26972902291.1622,
+    "Value": 15893.5162321878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2010,
-    "Value": 24677232638.632,
+    "Value": 15355.7931982373,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2009,
-    "Value": 22765432091.2733,
+    "Value": 14822.2342756909,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2008,
-    "Value": 22564437887.0482,
+    "Value": 15287.9837061927,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2007,
-    "Value": 22887542788.0237,
+    "Value": 16312.4043316918,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2006,
-    "Value": 21030671546.0203,
+    "Value": 15860.2084108551,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2005,
-    "Value": 20993000555.3677,
+    "Value": 16803.3695818458,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2004,
-    "Value": 19808462309.5683,
+    "Value": 16832.3044863926,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2003,
-    "Value": 19146338883.6233,
+    "Value": 17170.8987356978,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2002,
-    "Value": 18359417652.7953,
+    "Value": 17231.1929530881,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2001,
-    "Value": 18126981092.4992,
+    "Value": 17714.1892382638,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 2000,
-    "Value": 17352571542.6677,
+    "Value": 17782.5106657898,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 1999,
-    "Value": 17292100008.2002,
+    "Value": 18581.8455699392,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 1998,
-    "Value": 18702047115.6196,
+    "Value": 20919.2913508214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 1997,
-    "Value": 17879443733.8953,
+    "Value": 20727.6612578701,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 1996,
-    "Value": 16624604704.6614,
+    "Value": 20101.3002950707,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 1995,
-    "Value": 15755413270.3087,
+    "Value": 19895.6277129666,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 1994,
-    "Value": 14702252301.9497,
+    "Value": 19444.7965319576,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 1993,
-    "Value": 13880538304.9773,
+    "Value": 19242.3474082153,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 1992,
-    "Value": 13043201871.8145,
+    "Value": 19006.0925339182,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 1991,
-    "Value": 13159138687.2027,
+    "Value": 20142.4853569857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Gabon",
     "Year": 1990,
-    "Value": 12001643532.4049,
+    "Value": 19500.7230842468,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2016,
-    "Value": 37209842522.3716,
+    "Value": 9276.76624317549,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2015,
-    "Value": 35723350806.287,
+    "Value": 9025.13314265612,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2014,
-    "Value": 34350701514.4092,
+    "Value": 8749.15618927352,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2013,
-    "Value": 32253883092.4081,
+    "Value": 8254.01076569103,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2012,
-    "Value": 30701389989.3012,
+    "Value": 7881.32904812669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2011,
-    "Value": 28345977228.4492,
+    "Value": 7315.0908976643,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2010,
-    "Value": 25902054123.0696,
+    "Value": 6733.78376130988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2009,
-    "Value": 24084382901.6415,
+    "Value": 6254.86760822712,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2008,
-    "Value": 24808387589.3859,
+    "Value": 6408.06033535279,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2007,
-    "Value": 23780806468.0161,
+    "Value": 6183.34349236755,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2006,
-    "Value": 20619103698.4825,
+    "Value": 5432.07754056497,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2005,
-    "Value": 18288455454.4941,
+    "Value": 4902.09293431362,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2004,
-    "Value": 16166424574.3648,
+    "Value": 4414.77666096774,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2003,
-    "Value": 14863202459.6327,
+    "Value": 4116.19608418348,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2002,
-    "Value": 13121614734.7411,
+    "Value": 3658.70749688075,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2001,
-    "Value": 12252542746.2439,
+    "Value": 3445.57944171158,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 2000,
-    "Value": 11430264970.6457,
+    "Value": 3263.85926179743,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 1999,
-    "Value": 10974210429.5672,
+    "Value": 3180.32407760557,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 1998,
-    "Value": 10507319051.8311,
+    "Value": 3067.64146291545,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 1997,
-    "Value": 10081491394.765,
+    "Value": 2946.17687710001,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 1996,
-    "Value": 8968454364.77203,
+    "Value": 2616.96593728235,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 1995,
-    "Value": 7920562507.10104,
+    "Value": 2294.77561882095,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 1994,
-    "Value": 7562125374.83524,
+    "Value": 2177.91996806486,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 1993,
-    "Value": 8264002483.36731,
+    "Value": 2406.21439423382,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 1992,
-    "Value": 11417185093.771,
+    "Value": 3429.67306439336,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 1991,
-    "Value": 20259029237.1652,
+    "Value": 6272.84825599734,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Georgia",
     "Year": 1990,
-    "Value": 24849717235.3469,
+    "Value": 8006.50423395592,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2016,
-    "Value": 4030399290332.84,
+    "Value": 44356.8577288353,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2015,
-    "Value": 3905505162814.39,
+    "Value": 43937.9471317278,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2014,
-    "Value": 3813667439595.18,
+    "Value": 43560.6192440775,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2013,
-    "Value": 3647777961341.48,
+    "Value": 42914.4761126655,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2012,
-    "Value": 3503682457579.97,
+    "Value": 42822.0994035797,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2011,
-    "Value": 3427141297691.63,
+    "Value": 42692.5197566424,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2010,
-    "Value": 3207749144930.94,
+    "Value": 40428.7210307617,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2009,
-    "Value": 3033315825942.01,
+    "Value": 38784.4524824906,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2008,
-    "Value": 3122546169495.16,
+    "Value": 40989.4431148599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2007,
-    "Value": 2998158084981,
+    "Value": 40473.5274498896,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2006,
-    "Value": 2821081046036.69,
+    "Value": 39143.1662435764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2005,
-    "Value": 2636421032609.51,
+    "Value": 37703.9329399406,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2004,
-    "Value": 2593373057071.75,
+    "Value": 37418.0924996579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2003,
-    "Value": 2475027647961.19,
+    "Value": 36977.3460076486,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2002,
-    "Value": 2419132839934.43,
+    "Value": 37262.3512875562,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2001,
-    "Value": 2346940423447.33,
+    "Value": 37325.0525470646,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 2000,
-    "Value": 2243861789953.89,
+    "Value": 36764.5629268974,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 1999,
-    "Value": 2164174489764.9,
+    "Value": 35755.2993074406,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 1998,
-    "Value": 2081690329700.93,
+    "Value": 35081.304207874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 1997,
-    "Value": 2020778030720.17,
+    "Value": 34405.5192090796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 1996,
-    "Value": 1974503816637.4,
+    "Value": 33830.3056593287,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 1995,
-    "Value": 1925931635755.83,
+    "Value": 33653.1296358835,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 1994,
-    "Value": 1854361466192.65,
+    "Value": 33175.7085774638,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 1993,
-    "Value": 1772171270869.42,
+    "Value": 32492.5185329959,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 1992,
-    "Value": 1747696723094.42,
+    "Value": 33022.5755518938,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 1991,
-    "Value": 1676493435378.91,
+    "Value": 32646.5618381478,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Germany",
     "Year": 1990,
-    "Value": 1543634558890.48,
+    "Value": 31287.0698103409,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2016,
-    "Value": 121075938573.871,
+    "Value": 3980.2021060737,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2015,
-    "Value": 115422455395.857,
+    "Value": 3929.68104354841,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2014,
-    "Value": 109881365091.643,
+    "Value": 3868.59106954135,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2013,
-    "Value": 103806530801.695,
+    "Value": 3807.33298484994,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2012,
-    "Value": 95195498334.4671,
+    "Value": 3632.43645541447,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2011,
-    "Value": 85526138706.1051,
+    "Value": 3404.45956595241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2010,
-    "Value": 73475667937.5771,
+    "Value": 3059.4136985984,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2009,
-    "Value": 67274583968.6696,
+    "Value": 2907.57474834725,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2008,
-    "Value": 63681669732.4916,
+    "Value": 2845.22732625269,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2007,
-    "Value": 57220916134.1767,
+    "Value": 2675.43674965951,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2006,
-    "Value": 53415669802.3783,
+    "Value": 2632.0211439025,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2005,
-    "Value": 48706349583.7286,
+    "Value": 2539.32280551284,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2004,
-    "Value": 44559025835.1028,
+    "Value": 2461.31602400049,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2003,
-    "Value": 41066824046.2628,
+    "Value": 2392.31991140175,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2002,
-    "Value": 38273705765.9341,
+    "Value": 2333.6760577053,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2001,
-    "Value": 36071808656.6473,
+    "Value": 2291.01047833942,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 2000,
-    "Value": 33911619209.6488,
+    "Value": 2259.05740510313,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 1999,
-    "Value": 31974081280.314,
+    "Value": 2232.82277362906,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 1998,
-    "Value": 30164895559.1434,
+    "Value": 2191.02578824457,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 1997,
-    "Value": 28501368103.3372,
+    "Value": 2143.48896230006,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 1996,
-    "Value": 26893237983.2257,
+    "Value": 2107.82169085302,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 1995,
-    "Value": 25249013426.598,
+    "Value": 2066.19236747706,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 1994,
-    "Value": 23756204994.0153,
+    "Value": 2036.87097033283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 1993,
-    "Value": 22518079716.7271,
+    "Value": 2025.60310673572,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 1992,
-    "Value": 20977364412.0993,
+    "Value": 1985.9478191155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 1991,
-    "Value": 19743884357.1549,
+    "Value": 1965.72272579596,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ghana",
     "Year": 1990,
-    "Value": 18149263621.3552,
+    "Value": 1919.59663604645,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2016,
-    "Value": 288418450083.695,
+    "Value": 24223.9922921798,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2015,
-    "Value": 288887802488.231,
+    "Value": 24170.3018369872,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2014,
-    "Value": 292335538628.945,
+    "Value": 24081.6305378246,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2013,
-    "Value": 286168672044.05,
+    "Value": 23746.0845699961,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2012,
-    "Value": 279267183855.415,
+    "Value": 24364.2690631745,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2011,
-    "Value": 290296713794.743,
+    "Value": 26141.3195918975,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2010,
-    "Value": 313353297168.706,
+    "Value": 28726.0792836873,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2009,
-    "Value": 337208206395.671,
+    "Value": 30430.419418438,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2008,
-    "Value": 341817992911.939,
+    "Value": 31881.7123475428,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2007,
-    "Value": 323575224575.046,
+    "Value": 32073.9603960134,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2006,
-    "Value": 314336455898.563,
+    "Value": 31136.4469589464,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2005,
-    "Value": 281028288404.685,
+    "Value": 29559.2813870956,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2004,
-    "Value": 278768716559.84,
+    "Value": 29469.5266005245,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2003,
-    "Value": 260836905588.084,
+    "Value": 28119.4073558205,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2002,
-    "Value": 246559427995.662,
+    "Value": 26642.768959863,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2001,
-    "Value": 227898542857.742,
+    "Value": 25731.2092719044,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 2000,
-    "Value": 210883872335.534,
+    "Value": 24839.0759062479,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 1999,
-    "Value": 198711870544.202,
+    "Value": 24000.1358885311,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 1998,
-    "Value": 193170774070.676,
+    "Value": 23374.1527731618,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 1997,
-    "Value": 182800397273.743,
+    "Value": 22622.9137945759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 1996,
-    "Value": 171075087374.998,
+    "Value": 21759.0612321488,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 1995,
-    "Value": 162737865429.072,
+    "Value": 21247.0408971018,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 1994,
-    "Value": 156134541792.358,
+    "Value": 20907.5390114597,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 1993,
-    "Value": 149883267236.526,
+    "Value": 20600.4767595964,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 1992,
-    "Value": 148780603121.789,
+    "Value": 21058.96205484,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 1991,
-    "Value": 144453558228.476,
+    "Value": 21072.9332724706,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Greece",
     "Year": 1990,
-    "Value": 135596712432.371,
+    "Value": 20686.1367611483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2016,
-    "Value": 1523902172.01763,
+    "Value": 13167.0521552704,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2015,
-    "Value": 1451244361.7016,
+    "Value": 12757.9662533519,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2014,
-    "Value": 1348837722.90894,
+    "Value": 12038.4708733182,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2013,
-    "Value": 1234412548.70119,
+    "Value": 11262.6987963032,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2012,
-    "Value": 1186874682.8121,
+    "Value": 11048.5042871569,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2011,
-    "Value": 1179028540.57174,
+    "Value": 11220.828366136,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2010,
-    "Value": 1146410372.78929,
+    "Value": 11177.9997155594,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2009,
-    "Value": 1138397889.09999,
+    "Value": 11276.4865609013,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2008,
-    "Value": 1209835049.71224,
+    "Value": 12117.6480583066,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2007,
-    "Value": 1175404170.04853,
+    "Value": 12043.5898980472,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2006,
-    "Value": 1078875064.8949,
+    "Value": 11384.6569538532,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2005,
-    "Value": 1090247224.12118,
+    "Value": 11893.8208227539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2004,
-    "Value": 932490517.71342,
+    "Value": 10530.1010419973,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2003,
-    "Value": 913449948.001601,
+    "Value": 10627.8139917639,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2002,
-    "Value": 818160829.060687,
+    "Value": 9735.11102673913,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2001,
-    "Value": 779013712.622926,
+    "Value": 9434.79801981238,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 2000,
-    "Value": 777389914.792609,
+    "Value": 9651.48881505027,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 1999,
-    "Value": 724672198.941258,
+    "Value": 9217.7689774813,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 1998,
-    "Value": 667627079.779022,
+    "Value": 8633.43652291863,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 1997,
-    "Value": 591052180.291378,
+    "Value": 7740.44223926457,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 1996,
-    "Value": 553353124.853714,
+    "Value": 7394.60099169228,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 1995,
-    "Value": 520338625.163804,
+    "Value": 7118.56538989116,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 1994,
-    "Value": 499079985.005439,
+    "Value": 7029.73883061964,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 1993,
-    "Value": 480541972.956402,
+    "Value": 6990.01935659345,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 1992,
-    "Value": 478752203.056687,
+    "Value": 7210.8773372878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 1991,
-    "Value": 472100312.214813,
+    "Value": 7328.87825054336,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Grenada",
     "Year": 1990,
-    "Value": 450648632.348535,
+    "Value": 7241.55920764449,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2016,
-    "Value": 131742598078.093,
+    "Value": 7366.76847952713,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2015,
-    "Value": 126212418674.906,
+    "Value": 7292.71910386634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2014,
-    "Value": 119894718821.6,
+    "Value": 7147.42922806486,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2013,
-    "Value": 113061302826.234,
+    "Value": 7005.02692845274,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2012,
-    "Value": 107297400116.985,
+    "Value": 6899.10873916764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2011,
-    "Value": 102317810920.593,
+    "Value": 6844.4956401592,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2010,
-    "Value": 96242501056.0396,
+    "Value": 6714.06359554651,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2009,
-    "Value": 92428615550.923,
+    "Value": 6669.99987459337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2008,
-    "Value": 91252281018.5171,
+    "Value": 6781.89963683618,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2007,
-    "Value": 86653470298.2499,
+    "Value": 6713.1464445112,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2006,
-    "Value": 79401591855.0679,
+    "Value": 6458.00089052801,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2005,
-    "Value": 73102142991.2942,
+    "Value": 6269.15558477064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2004,
-    "Value": 68587283624.8522,
+    "Value": 6213.12985689764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2003,
-    "Value": 64712019569.5851,
+    "Value": 6166.11240985273,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2002,
-    "Value": 61880781025.4762,
+    "Value": 6157.56588845048,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2001,
-    "Value": 58676399100.9894,
+    "Value": 6069.47751437279,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 2000,
-    "Value": 56061343668.2976,
+    "Value": 6070.72005986777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 1999,
-    "Value": 52904775441.3684,
+    "Value": 5994.87089024369,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 1998,
-    "Value": 50177023737.0046,
+    "Value": 5904.3341756626,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 1997,
-    "Value": 47277505397.2091,
+    "Value": 5750.51367763367,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 1996,
-    "Value": 44538274519.7677,
+    "Value": 5634.7559045856,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 1995,
-    "Value": 42483221260.244,
+    "Value": 5598.12003993929,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 1994,
-    "Value": 39653013271.3296,
+    "Value": 5458.01129740901,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 1993,
-    "Value": 37321284747.3492,
+    "Value": 5369.69986988429,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 1992,
-    "Value": 35076451412.2481,
+    "Value": 5289.27562220212,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 1991,
-    "Value": 32711970709.0043,
+    "Value": 5165.02056828565,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guatemala",
     "Year": 1990,
-    "Value": 30540958400.4155,
+    "Value": 5100.7791925832,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2016,
-    "Value": 24375093170.8517,
+    "Value": 1823.33878842807,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2015,
-    "Value": 22572166436.8055,
+    "Value": 1753.0631163132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2014,
-    "Value": 21573656297.5549,
+    "Value": 1734.71842171585,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2013,
-    "Value": 20435502706.1948,
+    "Value": 1711.67747367409,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2012,
-    "Value": 19349571265.9861,
+    "Value": 1684.14140516929,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2011,
-    "Value": 17938470685.355,
+    "Value": 1625.57266316287,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2010,
-    "Value": 16660957765.0024,
+    "Value": 1575.38231056336,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2009,
-    "Value": 15775087615.4766,
+    "Value": 1543.82552823348,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2008,
-    "Value": 15900667606.2542,
+    "Value": 1603.38035289352,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2007,
-    "Value": 14974524377.4937,
+    "Value": 1574.13587956031,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2006,
-    "Value": 13694597311.351,
+    "Value": 1510.10193407857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2005,
-    "Value": 12962758669.8075,
+    "Value": 1504.0146055878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2004,
-    "Value": 12193202702.8062,
+    "Value": 1489.40755934158,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2003,
-    "Value": 11595546751.4646,
+    "Value": 1483.54848696996,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2002,
-    "Value": 11228644576.5893,
+    "Value": 1492.91568281916,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2001,
-    "Value": 10515778161.2538,
+    "Value": 1445.89948837155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 2000,
-    "Value": 9918616222.34811,
+    "Value": 1420.61758524791,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 1999,
-    "Value": 9461120161.21295,
+    "Value": 1410.71499283703,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 1998,
-    "Value": 8976338473.60171,
+    "Value": 1382.96012091812,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 1997,
-    "Value": 8567748911.54367,
+    "Value": 1360.78986405506,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 1996,
-    "Value": 8008604900.51717,
+    "Value": 1326.43415260549,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 1995,
-    "Value": 7529107871.82361,
+    "Value": 1311.94768207296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 1994,
-    "Value": 7050422865.31533,
+    "Value": 1308.50082408452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 1993,
-    "Value": 6639896587.06313,
+    "Value": 1325.48468648977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 1992,
-    "Value": 6174154237.72949,
+    "Value": 1337.33462333603,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 1991,
-    "Value": 5845349760.89205,
+    "Value": 1373.09153511294,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea",
     "Year": 1990,
-    "Value": 5512976581.08686,
+    "Value": 1411.93334950553,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2016,
-    "Value": 2920921323.58729,
+    "Value": 1491.68195282867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2015,
-    "Value": 2727128862.85911,
+    "Value": 1446.46864908346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2014,
-    "Value": 2541982699.27191,
+    "Value": 1398.25432049779,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2013,
-    "Value": 2473310462.27783,
+    "Value": 1421.34027871018,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2012,
-    "Value": 2357250992.34408,
+    "Value": 1412.95372357344,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2011,
-    "Value": 2354948198.33888,
+    "Value": 1475.38909048806,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2010,
-    "Value": 2134722284.74425,
+    "Value": 1400.36271908519,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2009,
-    "Value": 2013828631.57716,
+    "Value": 1371.05876963578,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2008,
-    "Value": 1934583033.0106,
+    "Value": 1359.9158772666,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2007,
-    "Value": 1838399691.19558,
+    "Value": 1349.44147660532,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2006,
-    "Value": 1735130270.31336,
+    "Value": 1338.34592011585,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2005,
-    "Value": 1645406603.13234,
+    "Value": 1338.28632502074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2004,
-    "Value": 1528899714.50933,
+    "Value": 1312.52236093136,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2003,
-    "Value": 1447999216.31192,
+    "Value": 1305.42585051665,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2002,
-    "Value": 1411664347.41294,
+    "Value": 1325.82211585947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2001,
-    "Value": 1404154600.52906,
+    "Value": 1366.49208845203,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 2000,
-    "Value": 1343461179.51479,
+    "Value": 1363.34043628134,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 1999,
-    "Value": 1245952912.73308,
+    "Value": 1316.92567675579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 1998,
-    "Value": 1214715847.07511,
+    "Value": 1326.23962575174,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 1997,
-    "Value": 1671313296.53146,
+    "Value": 1876.12577612586,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 1996,
-    "Value": 1542901445.17679,
+    "Value": 1793.03159901684,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 1995,
-    "Value": 1357741873.37302,
+    "Value": 1637.65571469034,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 1994,
-    "Value": 1273948587.53877,
+    "Value": 1601.85409618809,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 1993,
-    "Value": 1208723072.454,
+    "Value": 1587.79163088337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 1992,
-    "Value": 1156349395.30006,
+    "Value": 1592.84010916082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 1991,
-    "Value": 1118276274.87666,
+    "Value": 1614.46601711103,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guinea-Bissau",
     "Year": 1990,
-    "Value": 1029736756.39032,
+    "Value": 1573.87124513804,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2016,
-    "Value": 6059895526.16823,
+    "Value": 7266.3352852239,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2015,
-    "Value": 5789271023.52264,
+    "Value": 7074.20713695781,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2014,
-    "Value": 5557394304.94463,
+    "Value": 6910.55598963797,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2013,
-    "Value": 5254574081.87175,
+    "Value": 6697.87312395973,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2012,
-    "Value": 4923992557.59363,
+    "Value": 6420.1147615941,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2011,
-    "Value": 4592610458.19144,
+    "Value": 6130.83761606119,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2010,
-    "Value": 4277439725.42395,
+    "Value": 5847.85725499679,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2009,
-    "Value": 4057893971.50427,
+    "Value": 5621.9633011265,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2008,
-    "Value": 3889173155.50512,
+    "Value": 5424.61337979324,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2007,
-    "Value": 3740415571.64542,
+    "Value": 5308.40585233324,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2006,
-    "Value": 3404448150.57054,
+    "Value": 4948.72447835002,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2005,
-    "Value": 3141803929.51315,
+    "Value": 4698.82104023211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2004,
-    "Value": 3104618032.58469,
+    "Value": 4788.10659681991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2003,
-    "Value": 2925181003.3077,
+    "Value": 4634.15548380744,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2002,
-    "Value": 2897115037.45258,
+    "Value": 4681.04552813957,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2001,
-    "Value": 2823636682.72651,
+    "Value": 4630.02555167227,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 2000,
-    "Value": 2699973174.55898,
+    "Value": 4521.90289297271,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 1999,
-    "Value": 2676753287.82392,
+    "Value": 4573.02454105171,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 1998,
-    "Value": 2560367884.09753,
+    "Value": 4425.46033554465,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 1997,
-    "Value": 2576907851.13806,
+    "Value": 4487.24271039241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 1996,
-    "Value": 2385031440.8466,
+    "Value": 4216.71299035243,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 1995,
-    "Value": 2171113039.67401,
+    "Value": 3911.50775010434,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 1994,
-    "Value": 2025745754.50526,
+    "Value": 3740.21953723567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 1993,
-    "Value": 1827748837.85283,
+    "Value": 3468.68722294909,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 1992,
-    "Value": 1649763624.63758,
+    "Value": 3228.32301745305,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 1991,
-    "Value": 1495848054.07561,
+    "Value": 3009.32672891331,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Guyana",
     "Year": 1990,
-    "Value": 1365917581.47118,
+    "Value": 2843.14327636848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2016,
-    "Value": 19348553771.5522,
+    "Value": 1653.96184811414,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2015,
-    "Value": 18833627657.8457,
+    "Value": 1651.22844549164,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2014,
-    "Value": 18408612238.4972,
+    "Value": 1652.85480345734,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2013,
-    "Value": 17589763725.4432,
+    "Value": 1629.35891818513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2012,
-    "Value": 16607051385.165,
+    "Value": 1584.832465652,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2011,
-    "Value": 15849403538.3438,
+    "Value": 1562.27887385753,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2010,
-    "Value": 14715922850.4628,
+    "Value": 1502.03271141224,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2009,
-    "Value": 15384147157.7422,
+    "Value": 1613.08796209673,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2008,
-    "Value": 14811519347.8814,
+    "Value": 1588.67796790177,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2007,
-    "Value": 14404994327.7916,
+    "Value": 1599.80240128378,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2006,
-    "Value": 13577629100.885,
+    "Value": 1572.30243476809,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2005,
-    "Value": 12883151162.3897,
+    "Value": 1561.96044614903,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2004,
-    "Value": 12260241654.4135,
+    "Value": 1558.53223663507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2003,
-    "Value": 12367846441.7482,
+    "Value": 1641.10979480772,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2002,
-    "Value": 12082091567.1121,
+    "Value": 1661.40939437996,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2001,
-    "Value": 11929418892.2778,
+    "Value": 1692.83845498666,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 2000,
-    "Value": 11786714052.5817,
+    "Value": 1739.39251520145,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 1999,
-    "Value": 11425067490.411,
+    "Value": 1754.09934068825,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 1998,
-    "Value": 10955929714.6708,
+    "Value": 1737.98787873327,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 1997,
-    "Value": 10606881041.0179,
+    "Value": 1731.60160833556,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Haiti",
     "Year": 1996,
-    "Value": 10153768315.1834,
+    "Value": 1716.98694778704,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2016,
-    "Value": 1690345780478.32,
+    "Value": 2104.99358963837,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2015,
-    "Value": 1595259561580.24,
+    "Value": 2067.80242265797,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2014,
-    "Value": 1501445347659.24,
+    "Value": 2022.40075188979,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2013,
-    "Value": 1395911454021.68,
+    "Value": 1968.01107436446,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2012,
-    "Value": 1297260531196.21,
+    "Value": 1911.20523160487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2011,
-    "Value": 1202929806126.8,
+    "Value": 1856.22061236193,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2010,
-    "Value": 1122768285638.52,
+    "Value": 1818.59922704564,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2009,
-    "Value": 1048679054888.67,
+    "Value": 1768.15261136394,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2008,
-    "Value": 996729970776.351,
+    "Value": 1741.30085892238,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2007,
-    "Value": 921417788801.233,
+    "Value": 1687.80538883845,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2006,
-    "Value": 839962632917.333,
+    "Value": 1624.45687513244,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2005,
-    "Value": 767612275988.305,
+    "Value": 1573.91934665978,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2004,
-    "Value": 699924875831.801,
+    "Value": 1524.04541841926,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2003,
-    "Value": 644868863684.492,
+    "Value": 1484.69727306691,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2002,
-    "Value": 604561259744.112,
+    "Value": 1460.99985813736,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2001,
-    "Value": 575703420755.129,
+    "Value": 1453.55464743556,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 2000,
-    "Value": 538814906247.604,
+    "Value": 1431.32244188913,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 1999,
-    "Value": 511714370194.843,
+    "Value": 1429.50021899135,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 1998,
-    "Value": 488184861603.987,
+    "Value": 1423.17169455804,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 1997,
-    "Value": 466806514676.937,
+    "Value": 1413.03193619549,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 1996,
-    "Value": 439822660069.952,
+    "Value": 1390.80025270657,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 1995,
-    "Value": 409106836733.879,
+    "Value": 1355.14142625898,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 1994,
-    "Value": 382597562311.212,
+    "Value": 1332.33062986388,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 1993,
-    "Value": 372463212491.188,
+    "Value": 1365.49725773875,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 1992,
-    "Value": 359148409069.917,
+    "Value": 1390.77258784072,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 1991,
-    "Value": 352783150733.332,
+    "Value": 1442.04067867957,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Heavily indebted poor countries (HIPC)",
     "Year": 1990,
-    "Value": 337994996025.47,
+    "Value": 1471.70681579586,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2016,
-    "Value": 55767155118653.9,
+    "Value": 43350.6273016571,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2015,
-    "Value": 54119806403847.3,
+    "Value": 42872.0374837115,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2014,
-    "Value": 52432238454268.1,
+    "Value": 42123.3761251444,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2013,
-    "Value": 50658042967876.9,
+    "Value": 41479.3589722226,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2012,
-    "Value": 48707906520810.2,
+    "Value": 41123.3334477181,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2011,
-    "Value": 47116901293373.6,
+    "Value": 40793.801025333,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2010,
-    "Value": 45085083467094.9,
+    "Value": 40127.6269063357,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2009,
-    "Value": 43162952435861.6,
+    "Value": 39173.7613137079,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2008,
-    "Value": 44031577236819.5,
+    "Value": 40786.4238874404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2007,
-    "Value": 42640014778030,
+    "Value": 40903.2667214529,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2006,
-    "Value": 40370419907204.3,
+    "Value": 40119.640720859,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2005,
-    "Value": 37667445766625.1,
+    "Value": 39164.0041587268,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2004,
-    "Value": 35676270443752.4,
+    "Value": 38315.47350378,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2003,
-    "Value": 33559978184174.3,
+    "Value": 37261.0318160372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2002,
-    "Value": 32259370741893.9,
+    "Value": 36637.8213222861,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2001,
-    "Value": 31044833262331,
+    "Value": 36291.6817861663,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 2000,
-    "Value": 29858102642078.3,
+    "Value": 36005.9599406063,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 1999,
-    "Value": 27907622352797.4,
+    "Value": 34772.8641993693,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 1998,
-    "Value": 26627699610011.8,
+    "Value": 33863.5269328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 1997,
-    "Value": 25613492010402.8,
+    "Value": 33169.272556617,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 1996,
-    "Value": 24339419580509.7,
+    "Value": 32261.9044616992,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 1995,
-    "Value": 23158688601461.6,
+    "Value": 31514.8667260129,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 1994,
-    "Value": 22025149319608.7,
+    "Value": 30867.4391245313,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 1993,
-    "Value": 20866485241404.9,
+    "Value": 30092.5581499116,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 1992,
-    "Value": 20074790094975.3,
+    "Value": 29885.192620389,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 1991,
-    "Value": 19179094436904.9,
+    "Value": 29402.7397914879,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "High income",
     "Year": 1990,
-    "Value": 18243424160118,
+    "Value": 29146.5212017119,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2016,
-    "Value": 43166185106.4436,
+    "Value": 4392.26594675796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2015,
-    "Value": 41137539145.5993,
+    "Value": 4311.17639683289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2014,
-    "Value": 39266636141.0335,
+    "Value": 4231.32506716223,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2013,
-    "Value": 37429721099.5672,
+    "Value": 4177.58027107278,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2012,
-    "Value": 35834494559.5723,
+    "Value": 4136.82205775887,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2011,
-    "Value": 33791210423.4101,
+    "Value": 4046.07625166556,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2010,
-    "Value": 31884663508.9003,
+    "Value": 3971.18299352727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2009,
-    "Value": 30366907263.1603,
+    "Value": 3904.45951854827,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2008,
-    "Value": 30889137475.3709,
+    "Value": 4084.29869915323,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2007,
-    "Value": 29064956817.8257,
+    "Value": 4002.20516646456,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2006,
-    "Value": 26661586553.7078,
+    "Value": 3852.21373403826,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2005,
-    "Value": 24272830900.7515,
+    "Value": 3697.16985429204,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2004,
-    "Value": 22174477022.2463,
+    "Value": 3568.14841595992,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2003,
-    "Value": 20314967763.8835,
+    "Value": 3440.15435860558,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2002,
-    "Value": 19051516027.823,
+    "Value": 3372.35724467309,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2001,
-    "Value": 18084519376.3149,
+    "Value": 3332.93206938922,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 2000,
-    "Value": 17212835066.7193,
+    "Value": 3328.5105885392,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 1999,
-    "Value": 15915047568.9573,
+    "Value": 3230.29848355015,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 1998,
-    "Value": 15977059164.7937,
+    "Value": 3380.35146163521,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 1997,
-    "Value": 15359849531.0134,
+    "Value": 3373.92775202213,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 1996,
-    "Value": 14383135403.6363,
+    "Value": 3301.64454473374,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 1995,
-    "Value": 13635056695.4578,
+    "Value": 3275.71025551082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 1994,
-    "Value": 12835000625.7135,
+    "Value": 3236.49407819279,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 1993,
-    "Value": 12733496747.1973,
+    "Value": 3372.66106517279,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 1992,
-    "Value": 11708152669.6684,
+    "Value": 3266.19999329877,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 1991,
-    "Value": 10837665415.9977,
+    "Value": 3181.94887902318,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Honduras",
     "Year": 1990,
-    "Value": 10158204331.5896,
+    "Value": 3171.67135710824,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2016,
-    "Value": 430056603297.597,
+    "Value": 54353.9074269292,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2015,
-    "Value": 416126671469.399,
+    "Value": 53595.244814402,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2014,
-    "Value": 402036506346.852,
+    "Value": 52789.4551932641,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2013,
-    "Value": 384331658304.275,
+    "Value": 51732.4760265572,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2012,
-    "Value": 366845370110.61,
+    "Value": 50378.3323809228,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2011,
-    "Value": 354187869989.884,
+    "Value": 50085.9593288483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2010,
-    "Value": 331082639351.235,
+    "Value": 48107.7222260692,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2009,
-    "Value": 306354744116.3,
+    "Value": 45390.4803676521,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2008,
-    "Value": 311710968723.977,
+    "Value": 46635.1355971901,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2007,
-    "Value": 299344198866.129,
+    "Value": 45937.4430329063,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2006,
-    "Value": 273878402941.597,
+    "Value": 43520.5135691056,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2005,
-    "Value": 248255920496.154,
+    "Value": 40922.9573744732,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2004,
-    "Value": 223969737243.691,
+    "Value": 38274.3622822337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2003,
-    "Value": 200529717207.609,
+    "Value": 35486.6627706186,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2002,
-    "Value": 190778333276.137,
+    "Value": 34366.3189941379,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2001,
-    "Value": 184831764615.349,
+    "Value": 33956.2828015822,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 2000,
-    "Value": 179705647488.519,
+    "Value": 34016.6779395359,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 1999,
-    "Value": 163200579627.198,
+    "Value": 31875.153097622,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 1998,
-    "Value": 156809861591.241,
+    "Value": 31394.0810927874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 1997,
-    "Value": 164822231918.65,
+    "Value": 33635.9377278881,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 1996,
-    "Value": 154185778811.247,
+    "Value": 32271.3920856981,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 1995,
-    "Value": 145236546512.912,
+    "Value": 32358.0768841425,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 1994,
-    "Value": 138970413354.177,
+    "Value": 32239.8904496522,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 1993,
-    "Value": 128328624696.32,
+    "Value": 31097.1496828618,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 1992,
-    "Value": 118027339781.887,
+    "Value": 29788.719757023,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 1991,
-    "Value": 108624201988.78,
+    "Value": 28276.8601412023,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hong Kong SAR, China",
     "Year": 1990,
-    "Value": 99454290871.0665,
+    "Value": 26974.2627013224,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2016,
-    "Value": 262041834312.371,
+    "Value": 25664.136004531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2015,
-    "Value": 257370942502.808,
+    "Value": 25034.4507306605,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2014,
-    "Value": 251838809626.466,
+    "Value": 24161.4255236519,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2013,
-    "Value": 242016438352.832,
+    "Value": 23119.0169671733,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2012,
-    "Value": 229105535641.04,
+    "Value": 22582.0728072234,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2011,
-    "Value": 227766313841.215,
+    "Value": 22841.2103381104,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2010,
-    "Value": 215559086914.522,
+    "Value": 22404.2391969471,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2009,
-    "Value": 206948229806.84,
+    "Value": 22202.1570188671,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2008,
-    "Value": 207576476549.375,
+    "Value": 23734.2445282406,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2007,
-    "Value": 191329714415.587,
+    "Value": 23491.7478872702,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2006,
-    "Value": 184309350979.65,
+    "Value": 23353.8502011068,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2005,
-    "Value": 172304968126.275,
+    "Value": 22452.8159282563,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2004,
-    "Value": 164255078915.479,
+    "Value": 21466.2223742387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2003,
-    "Value": 156676209065.556,
+    "Value": 20397.8448812483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2002,
-    "Value": 147803542541.548,
+    "Value": 19585.7223042541,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2001,
-    "Value": 134903846957.251,
+    "Value": 18683.9818474509,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 2000,
-    "Value": 121266320391.927,
+    "Value": 17951.7355199383,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 1999,
-    "Value": 111535353333.808,
+    "Value": 17181.9447549103,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 1998,
-    "Value": 106803446956.623,
+    "Value": 16604.1857490724,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 1997,
-    "Value": 101030818483.111,
+    "Value": 15892.4175432641,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 1996,
-    "Value": 96291604655.8893,
+    "Value": 15347.791725828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 1995,
-    "Value": 94778504734.7813,
+    "Value": 15319.2827952507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 1994,
-    "Value": 91479508060.1116,
+    "Value": 15073.4472910359,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 1993,
-    "Value": 87008981707.2158,
+    "Value": 14621.89845685,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 1992,
-    "Value": 85479374145.2426,
+    "Value": 14689.8633456283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Hungary",
     "Year": 1991,
-    "Value": 86216073089.3037,
+    "Value": 15148.286167219,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2016,
-    "Value": 60779565039085.7,
+    "Value": 12077.4782090518,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2015,
-    "Value": 57419086762070.7,
+    "Value": 11656.1681211598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2014,
-    "Value": 54720980270634.9,
+    "Value": 11289.1097426045,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2013,
-    "Value": 51407573973073.1,
+    "Value": 10891.1782056145,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2012,
-    "Value": 48166758854234.5,
+    "Value": 10460.8797205472,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2011,
-    "Value": 45036114814190.8,
+    "Value": 10065.1724454431,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2010,
-    "Value": 41154999380224.1,
+    "Value": 9575.26918912567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2009,
-    "Value": 37645345988460.1,
+    "Value": 8984.57893870531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2008,
-    "Value": 36152317107134.2,
+    "Value": 8843.17859237367,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2007,
-    "Value": 33119677975994.6,
+    "Value": 8457.78172818606,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2006,
-    "Value": 29543924613837.3,
+    "Value": 7840.24420766915,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2005,
-    "Value": 26132940643878.4,
+    "Value": 7317.68774898082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2004,
-    "Value": 23520165190065.9,
+    "Value": 6896.27334700037,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2003,
-    "Value": 21214337765222.8,
+    "Value": 6468.97998827239,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2002,
-    "Value": 19625284888877.8,
+    "Value": 6180.38494004718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2001,
-    "Value": 18501855058875.6,
+    "Value": 5984.86555814319,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 2000,
-    "Value": 17432434334406.2,
+    "Value": 5839.27680188543,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 1999,
-    "Value": 16118141923751.5,
+    "Value": 5589.44658798429,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 1998,
-    "Value": 15269533433500.4,
+    "Value": 5449.42058423805,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 1997,
-    "Value": 14763486649902.4,
+    "Value": 5415.25565730269,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 1996,
-    "Value": 13812826454031.7,
+    "Value": 5228.8905832266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 1995,
-    "Value": 12868437923085.9,
+    "Value": 5041.11795866268,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 1994,
-    "Value": 12110796539495.7,
+    "Value": 4915.81693825343,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 1993,
-    "Value": 11473096936915.3,
+    "Value": 4864.10344657539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 1992,
-    "Value": 10695153472812.1,
+    "Value": 4802.78667784156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 1991,
-    "Value": 10230406427463.9,
+    "Value": 4827.11449976336,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IBRD only",
     "Year": 1990,
-    "Value": 9778108171046.33,
+    "Value": 4868.31014677155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2016,
-    "Value": 17022081152.1598,
+    "Value": 45630.937980276,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2015,
-    "Value": 15713588571.6241,
+    "Value": 43048.1249676837,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2014,
-    "Value": 14583740176.4729,
+    "Value": 41701.1370921494,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2013,
-    "Value": 13863990528.6585,
+    "Value": 41259.795921202,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2012,
-    "Value": 13051870458.9192,
+    "Value": 39931.6093229716,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2011,
-    "Value": 12639952183.7649,
+    "Value": 39621.9356635285,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2010,
-    "Value": 12255813954.0489,
+    "Value": 38978.0056117875,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2009,
-    "Value": 13063050584.2814,
+    "Value": 40189.6328281014,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2008,
-    "Value": 13546447207.7384,
+    "Value": 43336.255053899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2007,
-    "Value": 12690831451.7614,
+    "Value": 43488.9080413062,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2006,
-    "Value": 11758109211.8511,
+    "Value": 40789.413633578,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2005,
-    "Value": 10968632156.2982,
+    "Value": 39769.5021811038,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2004,
-    "Value": 10305075815.9784,
+    "Value": 37865.3758078382,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2003,
-    "Value": 9352359120.92645,
+    "Value": 35337.0515426308,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2002,
-    "Value": 9255816665.90985,
+    "Value": 34735.0257196478,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2001,
-    "Value": 8996967496.34803,
+    "Value": 34936.5112770652,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 2000,
-    "Value": 8300022349.59559,
+    "Value": 34096.8358438119,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 1999,
-    "Value": 8152438497.16901,
+    "Value": 33021.3299387037,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 1998,
-    "Value": 7831688867.08912,
+    "Value": 32136.3767595735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 1997,
-    "Value": 7307375952.38927,
+    "Value": 30480.6503614371,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 1996,
-    "Value": 6720597484.50549,
+    "Value": 29292.1915987342,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 1995,
-    "Value": 6448925928.94623,
+    "Value": 28105.8874079043,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 1994,
-    "Value": 6309814020.45215,
+    "Value": 28225.8603837292,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 1993,
-    "Value": 5963130041.99832,
+    "Value": 27479.8857729219,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 1992,
-    "Value": 5749038011.36073,
+    "Value": 27400.8338326375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 1991,
-    "Value": 5817171871.99924,
+    "Value": 28716.187836592,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iceland",
     "Year": 1990,
-    "Value": 5642395982.70136,
+    "Value": 29116.0698726124,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2016,
-    "Value": 66425807873400,
+    "Value": 9881.32498008081,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2015,
-    "Value": 62796478073093.8,
+    "Value": 9574.77643930428,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2014,
-    "Value": 59832306379625.6,
+    "Value": 9304.22838061629,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2013,
-    "Value": 56158047966411,
+    "Value": 8997.10014390314,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2012,
-    "Value": 52588461118427.5,
+    "Value": 8664.49111641471,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2011,
-    "Value": 49180553830688.5,
+    "Value": 8363.85374818889,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2010,
-    "Value": 45041212926295.1,
+    "Value": 7992.72095099949,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2009,
-    "Value": 41271855515201.3,
+    "Value": 7533.90788886085,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2008,
-    "Value": 39583589281815.6,
+    "Value": 7423.92646857175,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2007,
-    "Value": 36319801011909.7,
+    "Value": 7124.70011611518,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2006,
-    "Value": 32464755124333.2,
+    "Value": 6636.20525067057,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2005,
-    "Value": 28783994174760.6,
+    "Value": 6219.20818083484,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2004,
-    "Value": 25938515900328.5,
+    "Value": 5883.07226781361,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2003,
-    "Value": 23336335891588.2,
+    "Value": 5520.3509068197,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2002,
-    "Value": 21593906720597.1,
+    "Value": 5289.56824286877,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2001,
-    "Value": 20374464794162.6,
+    "Value": 5140.26392959514,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 2000,
-    "Value": 19189876274559.4,
+    "Value": 5026.62654288529,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 1999,
-    "Value": 17765573469759.5,
+    "Value": 4829.76800064026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 1998,
-    "Value": 16840263710465.2,
+    "Value": 4722.45803418277,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 1997,
-    "Value": 16268212350444.9,
+    "Value": 4698.7312147486,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 1996,
-    "Value": 15245653924391.4,
+    "Value": 4554.32717615723,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 1995,
-    "Value": 14208813960796.1,
+    "Value": 4402.01772095347,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 1994,
-    "Value": 13378679141761.9,
+    "Value": 4304.50822186799,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 1993,
-    "Value": 12689472554864.8,
+    "Value": 4271.28750851231,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 1992,
-    "Value": 11861056964907,
+    "Value": 4231.15561193911,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 1991,
-    "Value": 11352167710832.9,
+    "Value": 4260.53628380605,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA & IBRD total",
     "Year": 1990,
-    "Value": 10845295171165.7,
+    "Value": 4302.66585035675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2016,
-    "Value": 2710565907705.53,
+    "Value": 4822.69372275169,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2015,
-    "Value": 2613566989918.79,
+    "Value": 4818.18480197316,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2014,
-    "Value": 2484444942773.54,
+    "Value": 4738.12631091152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2013,
-    "Value": 2307629775301.75,
+    "Value": 4585.75592849027,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2012,
-    "Value": 2157065975589.11,
+    "Value": 4459.11424241466,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2011,
-    "Value": 2028047659118.94,
+    "Value": 4370.81297943479,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2010,
-    "Value": 1900941356081.3,
+    "Value": 4283.47446853552,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2009,
-    "Value": 1782295655462.82,
+    "Value": 4164.17217384039,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2008,
-    "Value": 1687009556829.2,
+    "Value": 4064.75107129041,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2007,
-    "Value": 1593542497226.2,
+    "Value": 4005.99920904602,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2006,
-    "Value": 1465254719105.3,
+    "Value": 3868.55869732161,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2005,
-    "Value": 1331520566639.99,
+    "Value": 3705.90165519289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2004,
-    "Value": 1223494544238.61,
+    "Value": 3594.09119139327,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2003,
-    "Value": 1027756186035.68,
+    "Value": 3171.59708671163,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2002,
-    "Value": 951736933283.807,
+    "Value": 3062.50776500939,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2001,
-    "Value": 910154532317.007,
+    "Value": 3040.48767555944,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 2000,
-    "Value": 863071539143.027,
+    "Value": 3015.84634485037,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 1999,
-    "Value": 811597617415.233,
+    "Value": 2967.37601976168,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 1998,
-    "Value": 781432759502.741,
+    "Value": 2967.87803769589,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 1997,
-    "Value": 752776625254.589,
+    "Value": 2958.82275046517,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 1996,
-    "Value": 726220817011.873,
+    "Value": 2973.551575095,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 1995,
-    "Value": 681004680197.814,
+    "Value": 2908.78875078559,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 1994,
-    "Value": 650802896935.461,
+    "Value": 2907.53495398499,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 1993,
-    "Value": 623762979198.149,
+    "Value": 2917.17162677006,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 1992,
-    "Value": 601569825675.202,
+    "Value": 2954.14841292337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 1991,
-    "Value": 576014635701.754,
+    "Value": 2969.13707389955,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA blend",
     "Year": 1990,
-    "Value": 547125227409.046,
+    "Value": 2992.24890860103,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2016,
-    "Value": 2984808527424.76,
+    "Value": 2627.89638757542,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2015,
-    "Value": 2808586990820.42,
+    "Value": 2560.80587840809,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2014,
-    "Value": 2669086245689.47,
+    "Value": 2515.50776645125,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2013,
-    "Value": 2480441652732.18,
+    "Value": 2433.45177706151,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2012,
-    "Value": 2297774734368.67,
+    "Value": 2342.60288942902,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2011,
-    "Value": 2147229451494.32,
+    "Value": 2280.20515606901,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2010,
-    "Value": 2017672810711.23,
+    "Value": 2236.94192808579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2009,
-    "Value": 1876121599587.6,
+    "Value": 2153.98468964107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2008,
-    "Value": 1772697021995.81,
+    "Value": 2098.38203003258,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2007,
-    "Value": 1633351819419.81,
+    "Value": 2017.58932906567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2006,
-    "Value": 1481672514968.58,
+    "Value": 1923.46404976445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2005,
-    "Value": 1345888746671.66,
+    "Value": 1844.05864781689,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2004,
-    "Value": 1219246736065.58,
+    "Value": 1766.16955551061,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2003,
-    "Value": 1118323292043.55,
+    "Value": 1705.48470405409,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2002,
-    "Value": 1039650609250.46,
+    "Value": 1657.30889366006,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2001,
-    "Value": 984337688414.335,
+    "Value": 1633.02472231739,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 2000,
-    "Value": 913313527594.068,
+    "Value": 1588.54324504821,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 1999,
-    "Value": 854528852768.851,
+    "Value": 1558.06285491356,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 1998,
-    "Value": 806534504968.532,
+    "Value": 1530.07070474138,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 1997,
-    "Value": 767118065476.333,
+    "Value": 1507.44270688103,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 1996,
-    "Value": 720984192427.701,
+    "Value": 1476.99461207926,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 1995,
-    "Value": 672880193342.32,
+    "Value": 1440.25972045878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 1994,
-    "Value": 629218168391.385,
+    "Value": 1411.71372053595,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 1993,
-    "Value": 605246155000.36,
+    "Value": 1424.82546532681,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 1992,
-    "Value": 577896360771.085,
+    "Value": 1431.89613908727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 1991,
-    "Value": 559712393416.951,
+    "Value": 1458.98421986025,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA only",
     "Year": 1990,
-    "Value": 533174990031.538,
+    "Value": 1476.43479070024,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2016,
-    "Value": 5711725536242.53,
+    "Value": 3364.07206229401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2015,
-    "Value": 5440983655819.09,
+    "Value": 3319.29793206566,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2014,
-    "Value": 5171459767385.68,
+    "Value": 3261.91828522262,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2013,
-    "Value": 4804672617399.66,
+    "Value": 3155.72276095842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2012,
-    "Value": 4471175665467.16,
+    "Value": 3052.81576693358,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2011,
-    "Value": 4191149288933.48,
+    "Value": 2981.58055173988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2010,
-    "Value": 3933303101509.87,
+    "Value": 2922.73068849356,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2009,
-    "Value": 3672775893953,
+    "Value": 2827.37053212437,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2008,
-    "Value": 3473414806158.63,
+    "Value": 2757.05863816009,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2007,
-    "Value": 3241800636135.6,
+    "Value": 2685.06534689542,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2006,
-    "Value": 2961594292425.83,
+    "Value": 2577.37363085998,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2005,
-    "Value": 2690763937692.04,
+    "Value": 2470.52024961749,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2004,
-    "Value": 2455842979146.02,
+    "Value": 2382.57349063319,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2003,
-    "Value": 2152604833432.08,
+    "Value": 2197.04730976823,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2002,
-    "Value": 1997237700754.74,
+    "Value": 2129.06295570303,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2001,
-    "Value": 1900656133976.83,
+    "Value": 2106.89004419866,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 2000,
-    "Value": 1783414234648.87,
+    "Value": 2071.04314387579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 1999,
-    "Value": 1673004704294.69,
+    "Value": 2035.3725683623,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 1998,
-    "Value": 1595599369476.97,
+    "Value": 2018.66989723389,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 1997,
-    "Value": 1527866954675.52,
+    "Value": 2001.76417358894,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 1996,
-    "Value": 1456097833477.21,
+    "Value": 1988.5649724907,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 1995,
-    "Value": 1362452831079.78,
+    "Value": 1943.08663268975,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 1994,
-    "Value": 1289121325345.39,
+    "Value": 1925.70242152142,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 1993,
-    "Value": 1237587979988.7,
+    "Value": 1938.18893012357,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 1992,
-    "Value": 1188164186925.57,
+    "Value": 1956.75803409157,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 1991,
-    "Value": 1143575265865.68,
+    "Value": 1979.48165240186,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "IDA total",
     "Year": 1990,
-    "Value": 1087639068698.13,
+    "Value": 1998.98998200413,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2016,
-    "Value": 8700621810823.89,
+    "Value": 6092.64809658276,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2015,
-    "Value": 8020964874590.34,
+    "Value": 5754.0645968093,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2014,
-    "Value": 7346460690565.28,
+    "Value": 5389.90438446372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2013,
-    "Value": 6713106674685.18,
+    "Value": 5073.60548933442,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2012,
-    "Value": 6209845313194.64,
+    "Value": 4827.55965576551,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2011,
-    "Value": 5782035485240.71,
+    "Value": 4635.879136587,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2010,
-    "Value": 5312415376238.81,
+    "Value": 4404.69700530452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2009,
-    "Value": 4759946371628.33,
+    "Value": 4049.8051147141,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2008,
-    "Value": 4354793096904.09,
+    "Value": 3786.63267681024,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2007,
-    "Value": 4111053078875.02,
+    "Value": 3698.77749042598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2006,
-    "Value": 3647022562137.89,
+    "Value": 3419.93110735311,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2005,
-    "Value": 3238319300040.35,
+    "Value": 3178.82872375339,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2004,
-    "Value": 2870819522583.74,
+    "Value": 2955.20482377028,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2003,
-    "Value": 2588877240191.45,
+    "Value": 2783.00435524793,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2002,
-    "Value": 2353285623613.82,
+    "Value": 2623.33027850996,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2001,
-    "Value": 2232771859100.25,
+    "Value": 2570.42788703915,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 2000,
-    "Value": 2082560895168.27,
+    "Value": 2495.04663284552,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 1999,
-    "Value": 1960907867704.13,
+    "Value": 2445.75107851051,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 1998,
-    "Value": 1774393457911.17,
+    "Value": 2288.04783902726,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 1997,
-    "Value": 1653108387296.21,
+    "Value": 2194.90258962263,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 1996,
-    "Value": 1562031968311.71,
+    "Value": 2149.36550383555,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 1995,
-    "Value": 1426345226824.84,
+    "Value": 2036.79592888386,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 1994,
-    "Value": 1298824697188.81,
+    "Value": 1930.11304679864,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 1993,
-    "Value": 1192361508071.35,
+    "Value": 1845.14908066551,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 1992,
-    "Value": 1111830811950.51,
+    "Value": 1796.53234951419,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 1991,
-    "Value": 1030551994476.92,
+    "Value": 1737.61504297567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "India",
     "Year": 1990,
-    "Value": 986924774747.255,
+    "Value": 1754.85732984082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2016,
-    "Value": 3031296280045.3,
+    "Value": 10764.5479973228,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2015,
-    "Value": 2850158800105.52,
+    "Value": 10367.6952975884,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2014,
-    "Value": 2688484959720.5,
+    "Value": 10003.0890293448,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2013,
-    "Value": 2515160326744.32,
+    "Value": 9643.2748298101,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2012,
-    "Value": 2344875011463.56,
+    "Value": 9251.17553694602,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2011,
-    "Value": 2171518784772.08,
+    "Value": 8837.82012171405,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2010,
-    "Value": 2003952398637.54,
+    "Value": 8433.49735678452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2009,
-    "Value": 1863773890433.36,
+    "Value": 8044.97033037879,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2008,
-    "Value": 1767892938161.5,
+    "Value": 7792.62993124944,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2007,
-    "Value": 1635525273179.47,
+    "Value": 7450.60215836214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2006,
-    "Value": 1498073700341.18,
+    "Value": 7102.11454033631,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2005,
-    "Value": 1377637561965.65,
+    "Value": 6824.60631146103,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2004,
-    "Value": 1262805876647.16,
+    "Value": 6546.49432383401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2003,
-    "Value": 1170143065139.01,
+    "Value": 6319.67041666311,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2002,
-    "Value": 1094924503976.06,
+    "Value": 6115.56787071506,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2001,
-    "Value": 1031938365374.71,
+    "Value": 5934.13704964754,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 2000,
-    "Value": 973477182950.846,
+    "Value": 5805.808706435,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 1999,
-    "Value": 907184286026.749,
+    "Value": 5611.21741579876,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 1998,
-    "Value": 886497384272.979,
+    "Value": 5645.57439683887,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 1997,
-    "Value": 1009493322832.81,
+    "Value": 6591.19909453828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 1996,
-    "Value": 947953854514.788,
+    "Value": 6387.01385748148,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 1995,
-    "Value": 863452383274.176,
+    "Value": 6012.81102693366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 1994,
-    "Value": 781566653785.711,
+    "Value": 5642.40286544823,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 1993,
-    "Value": 711624208899.192,
+    "Value": 5331.06566273875,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 1992,
-    "Value": 652685194583.404,
+    "Value": 5088.86885787168,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 1991,
-    "Value": 599205113307.156,
+    "Value": 4859.92632306717,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Indonesia",
     "Year": 1990,
-    "Value": 542411572413.78,
+    "Value": 4625.3772597013,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2016,
-    "Value": 1601439919817.08,
+    "Value": 18497.6770080338,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2015,
-    "Value": 1394460754379.02,
+    "Value": 16500.9005123887,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2014,
-    "Value": 1397963127988.29,
+    "Value": 16924.2006778247,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2013,
-    "Value": 1312879236701.87,
+    "Value": 16383.2603498945,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2012,
-    "Value": 1294525463521.8,
+    "Value": 16625.9192212314,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2011,
-    "Value": 1373350831357.53,
+    "Value": 18192.1055960587,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2010,
-    "Value": 1310887443155.51,
+    "Value": 17942.8328426148,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2009,
-    "Value": 1224097683691.07,
+    "Value": 17162.0533627338,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2008,
-    "Value": 1202755146531,
+    "Value": 17187.2876265221,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2007,
-    "Value": 1176663921116.73,
+    "Value": 17338.1264807961,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2006,
-    "Value": 1059731432894.61,
+    "Value": 16211.4740638051,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2005,
-    "Value": 979186770931.181,
+    "Value": 15616.2546585476,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2004,
-    "Value": 919337196011.76,
+    "Value": 15308.4547866627,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2003,
-    "Value": 857545603903.692,
+    "Value": 14843.6822278162,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2002,
-    "Value": 773918821729.866,
+    "Value": 13829.9606104982,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2001,
-    "Value": 705242491501.617,
+    "Value": 12965.3258284492,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 2000,
-    "Value": 673419456777.067,
+    "Value": 12847.1054309081,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 1999,
-    "Value": 622073144900.812,
+    "Value": 12337.0595228915,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 1998,
-    "Value": 600667367263.882,
+    "Value": 12314.7807297841,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 1997,
-    "Value": 582110604216.229,
+    "Value": 12292.7897472834,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 1996,
-    "Value": 564689837723.221,
+    "Value": 12351.058497121,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 1995,
-    "Value": 521451055236.857,
+    "Value": 11806.6847044587,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 1994,
-    "Value": 498820567603.548,
+    "Value": 11694.0393665602,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 1993,
-    "Value": 496864387817.808,
+    "Value": 12044.0670860338,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 1992,
-    "Value": 492563076854.466,
+    "Value": 12377.1462614159,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 1991,
-    "Value": 466209592810.237,
+    "Value": 12166.8330439799,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iran",
     "Year": 1990,
-    "Value": 400290133169.983,
+    "Value": 11014.8835497083,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2016,
-    "Value": 645425060468.206,
+    "Value": 16086.9180587168,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2015,
-    "Value": 574139150927.233,
+    "Value": 14928.8863956129,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2014,
-    "Value": 541965451350.494,
+    "Value": 14696.6405774947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2013,
-    "Value": 528709451803.37,
+    "Value": 15078.1607562217,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2012,
-    "Value": 488219872853.551,
+    "Value": 14625.9740102981,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2011,
-    "Value": 420751532114.547,
+    "Value": 13261.6014514347,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2010,
-    "Value": 383313651239.971,
+    "Value": 12717.5975271684,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2009,
-    "Value": 355901703665.243,
+    "Value": 12299.4004613796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2008,
-    "Value": 341673078751.186,
+    "Value": 12217.4484631342,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2007,
-    "Value": 309623562762.394,
+    "Value": 11575.2873771111,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2006,
-    "Value": 297498713918.46,
+    "Value": 11703.4733210203,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2005,
-    "Value": 262015170154.148,
+    "Value": 10895.4631525707,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2004,
-    "Value": 243147300956.316,
+    "Value": 10710.5550384425,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2003,
-    "Value": 153505297893.07,
+    "Value": 7134.57479914787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2002,
-    "Value": 224971667527.601,
+    "Value": 10959.015806273,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2001,
-    "Value": 237992176661.111,
+    "Value": 12105.0247334334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 2000,
-    "Value": 227446062792.176,
+    "Value": 12176.8146177274,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 1999,
-    "Value": 219301217272.092,
+    "Value": 12368.6427898568,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 1998,
-    "Value": 183697587919.288,
+    "Value": 10845.2369116237,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 1997,
-    "Value": 134754053207.028,
+    "Value": 8296.62274618878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 1996,
-    "Value": 109278123213.562,
+    "Value": 7061.0355683001,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 1995,
-    "Value": 96665644784.9363,
+    "Value": 6560.74195941463,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 1994,
-    "Value": 92724914782.4372,
+    "Value": 6624.89226942445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 1993,
-    "Value": 87422977904.5229,
+    "Value": 6575.40253891491,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 1992,
-    "Value": 65539494548.5082,
+    "Value": 5198.14868186293,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 1991,
-    "Value": 48327715200.6362,
+    "Value": 4033.03106054422,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Iraq",
     "Year": 1990,
-    "Value": 130089498957.343,
+    "Value": 11521.7305360535,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2016,
-    "Value": 339477467511.109,
+    "Value": 63301.1939388627,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2015,
-    "Value": 322444903021.935,
+    "Value": 61543.2077715665,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2014,
-    "Value": 237518219478.634,
+    "Value": 49327.3993232073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2013,
-    "Value": 222253521821.239,
+    "Value": 45722.5324057102,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2012,
-    "Value": 213299844971.035,
+    "Value": 45097.0675166764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2011,
-    "Value": 206778775557.327,
+    "Value": 45179.8301512647,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2010,
-    "Value": 197448756572.956,
+    "Value": 44030.4141487055,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2009,
-    "Value": 188732122437.341,
+    "Value": 43487.4882191988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2008,
-    "Value": 198800108846.764,
+    "Value": 46062.6463288934,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2007,
-    "Value": 205657555032.726,
+    "Value": 48937.5146623164,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2006,
-    "Value": 188940262643.739,
+    "Value": 47879.0184523247,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2005,
-    "Value": 168219035155.435,
+    "Value": 46613.5583275408,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2004,
-    "Value": 157450011192.901,
+    "Value": 44940.960725494,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2003,
-    "Value": 144815446146.622,
+    "Value": 42903.6906954887,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2002,
-    "Value": 138447224482.356,
+    "Value": 42289.0798908424,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2001,
-    "Value": 125933819658.64,
+    "Value": 40455.3185513234,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 2000,
-    "Value": 114814294658.294,
+    "Value": 38849.8884983738,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 1999,
-    "Value": 101361285702.093,
+    "Value": 35935.8467658179,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 1998,
-    "Value": 92962221941.8961,
+    "Value": 32854.746724159,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 1997,
-    "Value": 83091904862.8553,
+    "Value": 30598.3231465736,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 1996,
-    "Value": 74477052919.031,
+    "Value": 28023.1432698203,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 1995,
-    "Value": 68337941522.1881,
+    "Value": 26199.7504138261,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 1994,
-    "Value": 61059073004.4825,
+    "Value": 24020.2115511547,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 1993,
-    "Value": 56532810945.8346,
+    "Value": 22802.6046236619,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 1992,
-    "Value": 53771112332.2789,
+    "Value": 22315.9843665593,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 1991,
-    "Value": 50871916849.5022,
+    "Value": 21741.8669981948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ireland",
     "Year": 1990,
-    "Value": 48301136496.8825,
+    "Value": 21453.2565317152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2016,
-    "Value": 318408778839.172,
+    "Value": 32688.4081041526,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2015,
-    "Value": 300752368875.762,
+    "Value": 32024.3527705394,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2014,
-    "Value": 280044858639.519,
+    "Value": 31702.0835366295,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2013,
-    "Value": 275062324726.284,
+    "Value": 31250.8020070636,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2012,
-    "Value": 250826823058.747,
+    "Value": 30582.1537050861,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2011,
-    "Value": 237310354994.711,
+    "Value": 30558.3912790325,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2010,
-    "Value": 219775591982.999,
+    "Value": 29743.0058727916,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2009,
-    "Value": 205843260905.172,
+    "Value": 28787.4986881339,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2008,
-    "Value": 200257082931.988,
+    "Value": 29082.0688545181,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2007,
-    "Value": 197425549025.007,
+    "Value": 28744.3565597032,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2006,
-    "Value": 181111295944.354,
+    "Value": 27662.3457586937,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2005,
-    "Value": 172004763895.648,
+    "Value": 26761.2304619564,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2004,
-    "Value": 171778044179.891,
+    "Value": 26156.0406384087,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2003,
-    "Value": 159208774238.279,
+    "Value": 25459.0837426006,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2002,
-    "Value": 165652951590.042,
+    "Value": 25725.4673524689,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2001,
-    "Value": 160540999966.415,
+    "Value": 26206.4363738654,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 2000,
-    "Value": 156818414660.374,
+    "Value": 26824.7051153215,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 1999,
-    "Value": 138425337345.537,
+    "Value": 25462.8748535625,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 1998,
-    "Value": 131699628178.583,
+    "Value": 25208.1114328526,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 1997,
-    "Value": 125080777296.748,
+    "Value": 24759.6019667777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 1996,
-    "Value": 118197960681.374,
+    "Value": 24489.3359609783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 1995,
-    "Value": 109494022542.836,
+    "Value": 23870.0126541468,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 1994,
-    "Value": 100613842293.604,
+    "Value": 22997.030002801,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 1993,
-    "Value": 91705491257.1027,
+    "Value": 21968.4751155977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 1992,
-    "Value": 86032542562.9128,
+    "Value": 21668.2196138002,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 1991,
-    "Value": 78058353983.8089,
+    "Value": 20814.9564095729,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Israel",
     "Year": 1990,
-    "Value": 70125850307.6456,
+    "Value": 20520.4105012446,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2016,
-    "Value": 2326893826135.11,
+    "Value": 34655.2627627333,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2015,
-    "Value": 2225175543596.08,
+    "Value": 34302.0374026544,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2014,
-    "Value": 2192713251239.79,
+    "Value": 33945.8438783585,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2013,
-    "Value": 2176320732837.02,
+    "Value": 34219.8327781897,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2012,
-    "Value": 2157547299764.22,
+    "Value": 35227.6248251817,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2011,
-    "Value": 2158285168982.73,
+    "Value": 36347.3424784176,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2010,
-    "Value": 2077210827549.69,
+    "Value": 36201.1615672134,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2009,
-    "Value": 2039248259114.77,
+    "Value": 35710.4200015019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2008,
-    "Value": 2082637866310.06,
+    "Value": 37954.1606640052,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2007,
-    "Value": 1986354257167.68,
+    "Value": 38612.0116543642,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2006,
-    "Value": 1880153086065.99,
+    "Value": 38243.8063277255,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2005,
-    "Value": 1742085789561.7,
+    "Value": 37604.360624075,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2004,
-    "Value": 1699288073351.44,
+    "Value": 37434.1000868702,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2003,
-    "Value": 1666628237930.6,
+    "Value": 37090.4052236178,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2002,
-    "Value": 1634258866845.82,
+    "Value": 37199.3523731905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2001,
-    "Value": 1592760970010.89,
+    "Value": 37162.42333617,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 2000,
-    "Value": 1538738704061.94,
+    "Value": 36535.8187670132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 1999,
-    "Value": 1453166048109.8,
+    "Value": 35244.7565357214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 1998,
-    "Value": 1418489592116.92,
+    "Value": 34709.2728108162,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 1997,
-    "Value": 1354446847115.55,
+    "Value": 34167.0952615886,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 1996,
-    "Value": 1305691746904.4,
+    "Value": 33569.0629900554,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 1995,
-    "Value": 1266757034478.24,
+    "Value": 33152.0409902736,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 1994,
-    "Value": 1206059385475.6,
+    "Value": 32222.360688622,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 1993,
-    "Value": 1156061002216.61,
+    "Value": 31550.2719115402,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 1992,
-    "Value": 1138906917526.56,
+    "Value": 31841.1091489015,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 1991,
-    "Value": 1104310968739.25,
+    "Value": 31599.1206761956,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Italy",
     "Year": 1990,
-    "Value": 1052544947699.95,
+    "Value": 31141.9028555525,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2016,
-    "Value": 25417329794.0451,
+    "Value": 8179.62033999721,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2015,
-    "Value": 24757094992.7347,
+    "Value": 8095.26186704479,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2014,
-    "Value": 24274811682.2198,
+    "Value": 8051.24402830602,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2013,
-    "Value": 23685124441.4851,
+    "Value": 8025.47136114805,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2012,
-    "Value": 23193014436.7037,
+    "Value": 8016.04318975377,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2011,
-    "Value": 22916503999.9595,
+    "Value": 8099.15557308659,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2010,
-    "Value": 22070786540.6636,
+    "Value": 7996.01948795873,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2009,
-    "Value": 22128953545.1684,
+    "Value": 8153.00192561391,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2008,
-    "Value": 22957735784.5968,
+    "Value": 8565.22862647495,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2007,
-    "Value": 22700324871.3314,
+    "Value": 8680.92090347008,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2006,
-    "Value": 21799692475.7627,
+    "Value": 8605.46006923613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2005,
-    "Value": 20554023906.842,
+    "Value": 8410.55745152552,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2004,
-    "Value": 19736878573.9297,
+    "Value": 8384.6101697865,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2003,
-    "Value": 18957744651.74,
+    "Value": 8324.69374640074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2002,
-    "Value": 17929745848.594,
+    "Value": 8081.1183253905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2001,
-    "Value": 17312874882.4064,
+    "Value": 7977.43563407515,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 2000,
-    "Value": 16702485866.4328,
+    "Value": 7931.25868648387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 1999,
-    "Value": 16188623593.3558,
+    "Value": 7927.76515415608,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 1998,
-    "Value": 15779303945.8551,
+    "Value": 7916.21744523323,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 1997,
-    "Value": 15983028944.0912,
+    "Value": 8182.33585459882,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 1996,
-    "Value": 15895362086.393,
+    "Value": 8356.95689816575,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 1995,
-    "Value": 15628160241.6252,
+    "Value": 8447.42858159407,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 1994,
-    "Value": 14957374897.9005,
+    "Value": 8333.58154018808,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 1993,
-    "Value": 14445852595.3117,
+    "Value": 8300.01697751628,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 1992,
-    "Value": 12895731328.4827,
+    "Value": 7657.72788799509,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 1991,
-    "Value": 12366486436.2922,
+    "Value": 7577.46351340633,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jamaica",
     "Year": 1990,
-    "Value": 11415802045.0812,
+    "Value": 7285.74723757208,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2016,
-    "Value": 5369478818634.44,
+    "Value": 38282.5046733349,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2015,
-    "Value": 5176841338734.21,
+    "Value": 37882.980624441,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2014,
-    "Value": 4986566209495.87,
+    "Value": 37337.3174057788,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2013,
-    "Value": 4967051560426.25,
+    "Value": 37148.6027499704,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2012,
-    "Value": 4746699396854.28,
+    "Value": 36367.5970553161,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2011,
-    "Value": 4573186804907.29,
+    "Value": 35774.6967129559,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2010,
-    "Value": 4482491137283.3,
+    "Value": 35749.7566788784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2009,
-    "Value": 4250223066793.03,
+    "Value": 34317.4897303598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2008,
-    "Value": 4456434357160.63,
+    "Value": 36278.4491876112,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2007,
-    "Value": 4416320571287.38,
+    "Value": 36697.2986801581,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2006,
-    "Value": 4231828037905.56,
+    "Value": 36141.606935105,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2005,
-    "Value": 4045734392815.61,
+    "Value": 35658.1778676025,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2004,
-    "Value": 3879055842709.97,
+    "Value": 35078.2622979493,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2003,
-    "Value": 3693808515950.01,
+    "Value": 34333.1197190267,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2002,
-    "Value": 3588864914954.67,
+    "Value": 33888.7624043212,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2001,
-    "Value": 3496048877531.38,
+    "Value": 33927.5859327266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 2000,
-    "Value": 3404322615738.2,
+    "Value": 33871.8297762301,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 1999,
-    "Value": 3207019636532.04,
+    "Value": 33010.9821955127,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 1998,
-    "Value": 3166660918756.62,
+    "Value": 33154.8531853432,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 1997,
-    "Value": 3168427406340.51,
+    "Value": 33624.6071519435,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 1996,
-    "Value": 3081934732817.35,
+    "Value": 33345.8484753787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 1995,
-    "Value": 2935677118606.32,
+    "Value": 32425.2241919076,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 1994,
-    "Value": 2798947603375.75,
+    "Value": 31680.525049178,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 1993,
-    "Value": 2717158702827.49,
+    "Value": 31516.4707728364,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 1992,
-    "Value": 2649480530093.12,
+    "Value": 31540.4017497621,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 1991,
-    "Value": 2569386307184.2,
+    "Value": 31361.9304070846,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Japan",
     "Year": 1990,
-    "Value": 2406614801635.38,
+    "Value": 30447.2450379353,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2016,
-    "Value": 85553911481.4611,
+    "Value": 8389.60457395155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2015,
-    "Value": 82816737706.4113,
+    "Value": 8491.05031104045,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2014,
-    "Value": 80014575364.7239,
+    "Value": 8622.18546801292,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2013,
-    "Value": 76243151672.4926,
+    "Value": 8756.71083942167,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2012,
-    "Value": 72967314251.663,
+    "Value": 8964.2634312104,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2011,
-    "Value": 69797089967.4539,
+    "Value": 9214.20662405696,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2010,
-    "Value": 66660818921.8441,
+    "Value": 9472.76832624669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2009,
-    "Value": 64368668623.7779,
+    "Value": 9749.14362822382,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2008,
-    "Value": 60566539383.7027,
+    "Value": 9714.78233696228,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2007,
-    "Value": 55394928323.0708,
+    "Value": 9493.47749794848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2006,
-    "Value": 49880787440.1406,
+    "Value": 9158.94577148227,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2005,
-    "Value": 44770564813.5304,
+    "Value": 8799.58995597642,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2004,
-    "Value": 40107524045.2155,
+    "Value": 8399.12406451581,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2003,
-    "Value": 35953913701.0922,
+    "Value": 7935.33095261836,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2002,
-    "Value": 33842774282.8431,
+    "Value": 7775.79013418857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2001,
-    "Value": 31508497417.8675,
+    "Value": 7483.64773095439,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 2000,
-    "Value": 29264608942.6226,
+    "Value": 7234.9647509649,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 1999,
-    "Value": 27448256609.2022,
+    "Value": 7062.43715513627,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 1998,
-    "Value": 26143195530.6744,
+    "Value": 6950.13934818811,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 1997,
-    "Value": 25110721407.4082,
+    "Value": 6881.67040147683,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 1996,
-    "Value": 23897672819.9675,
+    "Value": 6825.00764567769,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 1995,
-    "Value": 22989361628.4026,
+    "Value": 6895.20658717071,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 1994,
-    "Value": 21207693520.871,
+    "Value": 6754.88041433741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 1993,
-    "Value": 19779478508.7853,
+    "Value": 6751.22300777381,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 1992,
-    "Value": 18464724045.0223,
+    "Value": 6812.14900395366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 1991,
-    "Value": 15213599133.186,
+    "Value": 6069.13451253172,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Jordan",
     "Year": 1990,
-    "Value": 14459793042.9255,
+    "Value": 6283.25560361224,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2016,
-    "Value": 449948192451.365,
+    "Value": 23446.5650635894,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2015,
-    "Value": 439446159426.785,
+    "Value": 23522.2905211907,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2014,
-    "Value": 429576863942.793,
+    "Value": 23586.0564564984,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2013,
-    "Value": 404993550091.89,
+    "Value": 22972.8018749587,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2012,
-    "Value": 375997008538.748,
+    "Value": 21987.1883427807,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2011,
-    "Value": 352286473300.142,
+    "Value": 21277.7063708818,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2010,
-    "Value": 321378213210.243,
+    "Value": 20096.9180664411,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2009,
-    "Value": 295899742495.752,
+    "Value": 18996.0376810875,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2008,
-    "Value": 290187266911.589,
+    "Value": 19272.2140104254,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2007,
-    "Value": 275512518050.541,
+    "Value": 18885.2432361362,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2006,
-    "Value": 246437357267.612,
+    "Value": 17541.3257707568,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2005,
-    "Value": 215981769743.5,
+    "Value": 16014.3078566445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2004,
-    "Value": 190746487868.359,
+    "Value": 14728.6164133664,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2003,
-    "Value": 169381254119.889,
+    "Value": 13532.2312002736,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2002,
-    "Value": 151939368949.786,
+    "Value": 12422.5348401171,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2001,
-    "Value": 136286133986.195,
+    "Value": 11314.2507721604,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 2000,
-    "Value": 117400449100.355,
+    "Value": 9951.56390556555,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 1999,
-    "Value": 104543183933.426,
+    "Value": 9036.15610172933,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 1998,
-    "Value": 100260419187.989,
+    "Value": 8715.184513756,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 1997,
-    "Value": 101105013739.024,
+    "Value": 8731.95012503732,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 1996,
-    "Value": 97742099827.7118,
+    "Value": 8451.39881650503,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 1995,
-    "Value": 95512194576.8738,
+    "Value": 8282.94719019249,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 1994,
-    "Value": 101918102877.105,
+    "Value": 8866.09227665711,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 1993,
-    "Value": 114181174573.601,
+    "Value": 9998.15435329834,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 1992,
-    "Value": 122827797782.077,
+    "Value": 10938.390190229,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 1991,
-    "Value": 126811276795.148,
+    "Value": 11542.5625044613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kazakhstan",
     "Year": 1990,
-    "Value": 137894736337.317,
+    "Value": 13050.4865030565,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2016,
-    "Value": 152901781294.794,
+    "Value": 2925.60091711188,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2015,
-    "Value": 142633479206.925,
+    "Value": 2835.64366175991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2014,
-    "Value": 133477242957.171,
+    "Value": 2753.02692616296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2013,
-    "Value": 124462937144.445,
+    "Value": 2682.9763374729,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2012,
-    "Value": 115682916626.348,
+    "Value": 2602.50386700285,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2011,
-    "Value": 108633362952.274,
+    "Value": 2556.87091600941,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2010,
-    "Value": 100305570241.21,
+    "Value": 2475.84353728418,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2009,
-    "Value": 91414381167.2498,
+    "Value": 2347.11357979164,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2008,
-    "Value": 87821187274.7882,
+    "Value": 2335.16842391389,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2007,
-    "Value": 85932013534.5167,
+    "Value": 2394.75151869125,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2006,
-    "Value": 78337657726.8281,
+    "Value": 2303.74841086948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2005,
-    "Value": 71382429863.9854,
+    "Value": 2223.95101770507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2004,
-    "Value": 65300140077.128,
+    "Value": 2158.19031711071,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2003,
-    "Value": 60466241977.8684,
+    "Value": 2110.17732624494,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2002,
-    "Value": 57595121144.682,
+    "Value": 2106.64989036262,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2001,
-    "Value": 56415816704.5784,
+    "Value": 2153.04887152323,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 2000,
-    "Value": 53149789908.8373,
+    "Value": 2132.08521761612,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 1999,
-    "Value": 51657477003.6416,
+    "Value": 2178.25215291145,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 1998,
-    "Value": 49732342813.8932,
+    "Value": 2188.57151684665,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 1997,
-    "Value": 47631244241.6552,
+    "Value": 2178.54857332336,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 1996,
-    "Value": 46608407119.8729,
+    "Value": 2230.36786068321,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 1995,
-    "Value": 43950253812.2901,
+    "Value": 2204.31061004959,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 1994,
-    "Value": 41235400561.6287,
+    "Value": 2174.74191542153,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 1993,
-    "Value": 39340394774.7196,
+    "Value": 2184.31243777308,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 1992,
-    "Value": 38290894122.0609,
+    "Value": 2245.51935377086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 1991,
-    "Value": 37739210362.0328,
+    "Value": 2337.04564669724,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kenya",
     "Year": 1990,
-    "Value": 36005634328.8308,
+    "Value": 2380.40977383278,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2016,
-    "Value": 241206116.164085,
+    "Value": 1955.15532278892,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2015,
-    "Value": 235482484.510293,
+    "Value": 1967.30151382002,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2014,
-    "Value": 211210096.621632,
+    "Value": 1815.12881591823,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2013,
-    "Value": 205649846.821602,
+    "Value": 1830.93779187788,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2012,
-    "Value": 191318991.031521,
+    "Value": 1762.06034919905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2011,
-    "Value": 178593470.642087,
+    "Value": 1706.4809532381,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2010,
-    "Value": 174150347.186796,
+    "Value": 1731.53862650466,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2009,
-    "Value": 174860147.736715,
+    "Value": 1796.29807713857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2008,
-    "Value": 173041039.581245,
+    "Value": 1829.82943926839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2007,
-    "Value": 172906284.097928,
+    "Value": 1905.48125122897,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2006,
-    "Value": 164794889.273791,
+    "Value": 1904.99136523018,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2005,
-    "Value": 162451216.318293,
+    "Value": 1976.1603695261,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2004,
-    "Value": 149961527.345745,
+    "Value": 1920.00439889773,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2003,
-    "Value": 148365767.328183,
+    "Value": 1987.96840075852,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2002,
-    "Value": 142604011.748756,
+    "Value": 1983.49726776064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2001,
-    "Value": 135322665.118704,
+    "Value": 1944.16915589965,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 2000,
-    "Value": 134282247.069546,
+    "Value": 2007.13048381504,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 1999,
-    "Value": 123571399.68621,
+    "Value": 1921.85153795834,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 1998,
-    "Value": 123610563.303853,
+    "Value": 1985.77210212032,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 1997,
-    "Value": 114758337.436786,
+    "Value": 1895.31819327136,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 1996,
-    "Value": 110977666.410457,
+    "Value": 1894.4176534352,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 1995,
-    "Value": 107171564.464707,
+    "Value": 1891.05150585296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 1994,
-    "Value": 104981979.829978,
+    "Value": 1917.17120619205,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 1993,
-    "Value": 101052101.253376,
+    "Value": 1908.37244707789,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 1992,
-    "Value": 97852788.7374983,
+    "Value": 1915.95933081171,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 1991,
-    "Value": 94839969.8387743,
+    "Value": 1926.8476674441,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kiribati",
     "Year": 1990,
-    "Value": 91784897.5203574,
+    "Value": 1961.12071328827,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2016,
-    "Value": 1872132391148.73,
+    "Value": 34985.8493334671,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2015,
-    "Value": 1795916631372.35,
+    "Value": 34177.6544703221,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2014,
-    "Value": 1704457641238.21,
+    "Value": 33425.6895931418,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2013,
-    "Value": 1644777306032.44,
+    "Value": 32548.7155154884,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2012,
-    "Value": 1611272914641.19,
+    "Value": 31776.8970259681,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2011,
-    "Value": 1559446833866.66,
+    "Value": 31228.5106952266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2010,
-    "Value": 1505298908340.89,
+    "Value": 30352.1048190303,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2009,
-    "Value": 1396413622348.57,
+    "Value": 28642.8379022063,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2008,
-    "Value": 1405710904231.6,
+    "Value": 28588.3721177634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2007,
-    "Value": 1354518051058.72,
+    "Value": 28013.7044173449,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2006,
-    "Value": 1251054256349.21,
+    "Value": 26697.0326128912,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2005,
-    "Value": 1165894061000.23,
+    "Value": 25516.8241870414,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2004,
-    "Value": 1103360293716.91,
+    "Value": 24605.5348610405,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2003,
-    "Value": 1023674453256.63,
+    "Value": 23549.3664532734,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2002,
-    "Value": 989824399774.38,
+    "Value": 22997.1871439252,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2001,
-    "Value": 908767515559.961,
+    "Value": 21530.2633630352,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 2000,
-    "Value": 850051624691.39,
+    "Value": 20756.7798971433,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 1999,
-    "Value": 764178264900.255,
+    "Value": 19216.1414689039,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 1998,
-    "Value": 676192144125.067,
+    "Value": 17386.9868151211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 1997,
-    "Value": 707649591003.12,
+    "Value": 18526.581379357,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 1996,
-    "Value": 656842503975.407,
+    "Value": 17655.5314536141,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 1995,
-    "Value": 599534749893.421,
+    "Value": 16566.4157034687,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 1994,
-    "Value": 535988526038.362,
+    "Value": 15272.297435483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 1993,
-    "Value": 480577062027.848,
+    "Value": 14126.2535194184,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 1992,
-    "Value": 439328880109.902,
+    "Value": 13356.0292258218,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 1991,
-    "Value": 404554097585.841,
+    "Value": 12710.5997442147,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Korea",
     "Year": 1990,
-    "Value": 354787684776.695,
+    "Value": 11632.5985558147,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2016,
-    "Value": 18277798142.6401,
+    "Value": 9331.68771764274,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2015,
-    "Value": 17454428887.3379,
+    "Value": 9097.13699053369,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2014,
-    "Value": 16590863002.225,
+    "Value": 8644.86530770262,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2013,
-    "Value": 16102150347.8034,
+    "Value": 8530.02380543615,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2012,
-    "Value": 15319181534.1317,
+    "Value": 8332.64920152711,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2011,
-    "Value": 14631187629.7262,
+    "Value": 8169.28399203026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2010,
-    "Value": 13702233362.843,
+    "Value": 7875.93115673265,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2009,
-    "Value": 13103239008.6684,
+    "Value": 7685.10495469977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2008,
-    "Value": 12583964474.625,
+    "Value": 7496.56787147867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2007,
-    "Value": 12023855744.4263,
+    "Value": 7362.30419046445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2006,
-    "Value": 10916752249.3318,
+    "Value": 6917.65485285725,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2005,
-    "Value": 10134976306.0017,
+    "Value": 6672.95589176411,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2004,
-    "Value": 9260337815.46568,
+    "Value": 6297.54374488039,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2003,
-    "Value": 8783093155.79949,
+    "Value": 6141.39630527472,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2002,
-    "Value": 8125462930.94386,
+    "Value": 5798.79066336485,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2001,
-    "Value": 8059102997.56328,
+    "Value": 5843.69242819404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kosovo",
     "Year": 2000,
-    "Value": 6205633654.54175,
+    "Value": 4605.4019311822,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2016,
-    "Value": 300961092607.996,
+    "Value": 68861.7920978832,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2015,
-    "Value": 286990241704.127,
+    "Value": 68476.3250405689,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2014,
-    "Value": 282235534890.923,
+    "Value": 70831.8277598363,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2013,
-    "Value": 275879924452.247,
+    "Value": 74084.5214359763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2012,
-    "Value": 268411108899.45,
+    "Value": 77618.000344705,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2011,
-    "Value": 247177337169.866,
+    "Value": 77459.5383056761,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2010,
-    "Value": 220907355075.089,
+    "Value": 75204.145116617,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2009,
-    "Value": 223533024597.155,
+    "Value": 81922.5371179812,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2008,
-    "Value": 238741850314.157,
+    "Value": 93698.4616047025,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2007,
-    "Value": 228482744020.388,
+    "Value": 96870.4278183535,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2006,
-    "Value": 209978482819.663,
+    "Value": 96244.3367147652,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2005,
-    "Value": 189470981333.625,
+    "Value": 93469.543135341,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2004,
-    "Value": 166761710323.157,
+    "Value": 87555.1551783092,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2003,
-    "Value": 146529186244.701,
+    "Value": 80462.6003189547,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2002,
-    "Value": 122455196115.523,
+    "Value": 69392.7716866202,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2001,
-    "Value": 117091046457.397,
+    "Value": 68472.8310932438,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 2000,
-    "Value": 113653548192.1,
+    "Value": 69920.1756780878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 1999,
-    "Value": 106141958294.208,
+    "Value": 69981.5642595562,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 1998,
-    "Value": 106446464566.294,
+    "Value": 75940.3960450916,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 1997,
-    "Value": 101583602669.381,
+    "Value": 78426.9958813252,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 1996,
-    "Value": 97463657960.5046,
+    "Value": 80453.9595855873,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kuwait",
     "Year": 1995,
-    "Value": 95140584315.4368,
-    "Value Footnotes": ""
-  },
-  {
-    "Country or Area": "Kuwait",
-    "Year": 1994,
-    "Value": 88878809035.7991,
-    "Value Footnotes": ""
-  },
-  {
-    "Country or Area": "Kuwait",
-    "Year": 1993,
-    "Value": 80256216409.7742,
-    "Value Footnotes": ""
-  },
-  {
-    "Country or Area": "Kuwait",
-    "Year": 1992,
-    "Value": 58504973654.67,
+    "Value": 81017.1240899588,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2016,
-    "Value": 21594942034.1263,
+    "Value": 3293.70099704994,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2015,
-    "Value": 20537057585.789,
+    "Value": 3237.60293714448,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2014,
-    "Value": 19558676116.4195,
+    "Value": 3181.64216292265,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2013,
-    "Value": 18470586534.054,
+    "Value": 3120.542044125,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2012,
-    "Value": 16388179550.6092,
+    "Value": 2869.83896203769,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2011,
-    "Value": 16105958461.3669,
+    "Value": 2920.6032099095,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2010,
-    "Value": 14893084056.0537,
+    "Value": 2790.17066394311,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2009,
-    "Value": 14783094422.9223,
+    "Value": 2837.03141885562,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2008,
-    "Value": 14260084574.988,
+    "Value": 2790.93490017638,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2007,
-    "Value": 12901780542.0135,
+    "Value": 2599.20601763553,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2006,
-    "Value": 11578209849.7182,
+    "Value": 2417.57947078108,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2005,
-    "Value": 10895037130.7167,
+    "Value": 2370.16604504651,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2004,
-    "Value": 10573964871.7378,
+    "Value": 2401.26500386894,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2003,
-    "Value": 9615335190.97648,
+    "Value": 2270.92467714174,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2002,
-    "Value": 8808112185.69819,
+    "Value": 2144.1212497445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2001,
-    "Value": 8676446670.69656,
+    "Value": 2164.26829541867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 2000,
-    "Value": 8054497778.95495,
+    "Value": 2074.50528735026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 1999,
-    "Value": 7469925417.22829,
+    "Value": 1991.30156576925,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 1998,
-    "Value": 7097851983.99679,
+    "Value": 1949.83293080948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 1997,
-    "Value": 6875756859.3085,
+    "Value": 1938.83580964188,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 1996,
-    "Value": 6150250536.41451,
+    "Value": 1789.85396596512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 1995,
-    "Value": 5640393524.6115,
+    "Value": 1696.36351535251,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 1994,
-    "Value": 5842017242.65139,
+    "Value": 1811.64344792363,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 1993,
-    "Value": 7157972083.766,
+    "Value": 2266.16440368427,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 1992,
-    "Value": 8270129214.53558,
+    "Value": 2681.33278066787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 1991,
-    "Value": 9389952233.2803,
+    "Value": 3149.93488616251,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Kyrgyz Republic",
     "Year": 1990,
-    "Value": 9861724967.95508,
+    "Value": 3474.66796869711,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2016,
-    "Value": 44264968375.1254,
+    "Value": 6073.2236945666,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2015,
-    "Value": 40839177061.2186,
+    "Value": 5755.05950521577,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2014,
-    "Value": 37663101156.5641,
+    "Value": 5436.48264275287,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2013,
-    "Value": 34381946782.8598,
+    "Value": 5115.59247848957,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2012,
-    "Value": 31321540191.3679,
+    "Value": 4794.10861126107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2011,
-    "Value": 28469987707.9923,
+    "Value": 4495.15215046502,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2010,
-    "Value": 25818610470.8435,
+    "Value": 4218.78204416162,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2009,
-    "Value": 23503001198.2345,
+    "Value": 3946.86100192072,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2008,
-    "Value": 21698112941.4457,
+    "Value": 3732.00753346685,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2007,
-    "Value": 19736320797.4849,
+    "Value": 3520.74500468996,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2006,
-    "Value": 17867336254.0377,
+    "Value": 3328.34598025211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2005,
-    "Value": 15959200083.0458,
+    "Value": 3114.99844472146,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2004,
-    "Value": 14435673213.0705,
+    "Value": 2954.19979036252,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2003,
-    "Value": 13209533225.7223,
+    "Value": 2819.89638844334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2002,
-    "Value": 12210468086.1608,
+    "Value": 2698.44130427221,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2001,
-    "Value": 11353850878.5207,
+    "Value": 2586.56649521042,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 2000,
-    "Value": 10497139171.0399,
+    "Value": 2485.02514224487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 1999,
-    "Value": 9701046591.62193,
+    "Value": 2388.26722966536,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 1998,
-    "Value": 8904249060.38799,
+    "Value": 2264.76693953262,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 1997,
-    "Value": 8472497130.15642,
+    "Value": 2218.93912569134,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 1996,
-    "Value": 7794298749.1608,
+    "Value": 2117.86383744816,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 1995,
-    "Value": 7158590341.48011,
+    "Value": 2023.60649694019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 1994,
-    "Value": 6551671040.11211,
+    "Value": 1935.15694479797,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 1993,
-    "Value": 5931218912.96681,
+    "Value": 1834.49450777296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 1992,
-    "Value": 5469964525.26102,
+    "Value": 1778.6014998616,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 1991,
-    "Value": 5066369987.77992,
+    "Value": 1731.96461912435,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lao PDR",
     "Year": 1990,
-    "Value": 4701178301.35707,
+    "Value": 1708.03422632074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2016,
-    "Value": 37793562624682.9,
+    "Value": 15588.0805876256,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2015,
-    "Value": 35875095747997.7,
+    "Value": 15068.4960986634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2014,
-    "Value": 34213901893245.6,
+    "Value": 14574.4809875713,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2013,
-    "Value": 32190620989997.5,
+    "Value": 13993.5529476192,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2012,
-    "Value": 30088859448507.4,
+    "Value": 13353.7157032698,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2011,
-    "Value": 27908815357070,
+    "Value": 12708.202441008,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2010,
-    "Value": 25211342076560.4,
+    "Value": 11945.9875711353,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2009,
-    "Value": 23015504617664.7,
+    "Value": 11146.306300801,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2008,
-    "Value": 22015533044616.6,
+    "Value": 10893.4577127855,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2007,
-    "Value": 19870242921621.4,
+    "Value": 10263.6950175513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2006,
-    "Value": 17548690475169.1,
+    "Value": 9378.65976157441,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2005,
-    "Value": 15312934762175.2,
+    "Value": 8642.06344704905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2004,
-    "Value": 13726258278502.8,
+    "Value": 8084.02992065357,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2003,
-    "Value": 12347499137169,
+    "Value": 7529.71672588207,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2002,
-    "Value": 11272129924872.1,
+    "Value": 7086.9515239727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2001,
-    "Value": 10437850372889.5,
+    "Value": 6737.83880874573,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 2000,
-    "Value": 9699110213160.68,
+    "Value": 6457.87536903217,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 1999,
-    "Value": 8856354941609.54,
+    "Value": 6079.1661844092,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 1998,
-    "Value": 8354831293248.8,
+    "Value": 5865.31483758525,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 1997,
-    "Value": 8061539424922.5,
+    "Value": 5805.16984597329,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 1996,
-    "Value": 7530392752955.27,
+    "Value": 5584.70096010799,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 1995,
-    "Value": 7031555118819.95,
+    "Value": 5395.165108296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 1994,
-    "Value": 6512115367389.2,
+    "Value": 5196.7843170558,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 1993,
-    "Value": 6094461665654.12,
+    "Value": 5100.15690205469,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 1992,
-    "Value": 5699962272806.86,
+    "Value": 5006.00967804562,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 1991,
-    "Value": 5521306860019.48,
+    "Value": 5113.22822067393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Late-demographic dividend",
     "Year": 1990,
-    "Value": 5274470240914.8,
+    "Value": 5162.03648758823,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2016,
-    "Value": 9699546867870.46,
+    "Value": 14314.9480629372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2015,
-    "Value": 9616284766230.18,
+    "Value": 14502.5719441842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2014,
-    "Value": 9595718545673.76,
+    "Value": 14614.0009458911,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2013,
-    "Value": 9310503347434.99,
+    "Value": 14614.2659779872,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2012,
-    "Value": 8911496053238.81,
+    "Value": 14367.9943385434,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2011,
-    "Value": 8522411277955.11,
+    "Value": 14120.7740564436,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2010,
-    "Value": 7921272152525.52,
+    "Value": 13670.4265288064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2009,
-    "Value": 7370157863160.67,
+    "Value": 13061.6054661976,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2008,
-    "Value": 7400636018838.76,
+    "Value": 13479.3327838014,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2007,
-    "Value": 6966476115216.18,
+    "Value": 13135.6307993806,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2006,
-    "Value": 6413526955250.37,
+    "Value": 12584.4330639074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2005,
-    "Value": 5843740779244.39,
+    "Value": 12089.8027974495,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2004,
-    "Value": 5386514874874.53,
+    "Value": 11726.7214831387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2003,
-    "Value": 4932248085311.99,
+    "Value": 11181.1500585609,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2002,
-    "Value": 4745675990902.95,
+    "Value": 11120.9301603088,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2001,
-    "Value": 4661531654592.58,
+    "Value": 11242.0170092658,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 2000,
-    "Value": 4531971735799.73,
+    "Value": 11326.5900500586,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 1999,
-    "Value": 4271847548296.42,
+    "Value": 11075.8463999783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 1998,
-    "Value": 4184811071687.79,
+    "Value": 11227.7563309649,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 1997,
-    "Value": 4049589350167.75,
+    "Value": 11138.1729155694,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 1996,
-    "Value": 3781396571158.66,
+    "Value": 10742.6315721509,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 1995,
-    "Value": 3597984817163.78,
+    "Value": 10548.6721767877,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 1994,
-    "Value": 3509134884595.31,
+    "Value": 10591.9881998893,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 1993,
-    "Value": 3279403248628.31,
+    "Value": 10288.3046239169,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 1992,
-    "Value": 2938615680107.49,
+    "Value": 10048.9622347712,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 1991,
-    "Value": 2779751535519.72,
+    "Value": 9895.69992387578,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean",
     "Year": 1990,
-    "Value": 2584051004637.1,
+    "Value": 9677.94227056192,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2016,
-    "Value": 8989111826766.4,
+    "Value": 13844.3493344073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2015,
-    "Value": 8920061523307.61,
+    "Value": 14038.9801097613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2014,
-    "Value": 8897518717413.69,
+    "Value": 14160.7059639434,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2013,
-    "Value": 8629293187695.78,
+    "Value": 14166.4713158156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2012,
-    "Value": 8259369771423.12,
+    "Value": 13933.1379840676,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2011,
-    "Value": 7902757131298.45,
+    "Value": 13704.6399393936,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2010,
-    "Value": 7347361668191.55,
+    "Value": 13259.4732546967,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2009,
-    "Value": 6843198620045.54,
+    "Value": 12656.4147367724,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2008,
-    "Value": 6869644539917.41,
+    "Value": 13069.4427126705,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2007,
-    "Value": 6439026596324.86,
+    "Value": 12725.1317357007,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2006,
-    "Value": 5919468810197.09,
+    "Value": 12173.1917734661,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2005,
-    "Value": 5414042406500.52,
+    "Value": 11689.1682268097,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2004,
-    "Value": 4984429592874.06,
+    "Value": 11334.2863291531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2003,
-    "Value": 4567548545437.2,
+    "Value": 10818.6595225524,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2002,
-    "Value": 4398529860861.91,
+    "Value": 10773.8271121526,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2001,
-    "Value": 4324676145438.38,
+    "Value": 10906.0676138599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 2000,
-    "Value": 4213093324038.09,
+    "Value": 11014.0797455297,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 1999,
-    "Value": 3971770199537.26,
+    "Value": 10775.4548412036,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 1998,
-    "Value": 3894317320535.99,
+    "Value": 10938.3428050726,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 1997,
-    "Value": 3775395370047.72,
+    "Value": 10872.6231979955,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 1996,
-    "Value": 3528506793636.91,
+    "Value": 10498.8820743599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 1995,
-    "Value": 3363474461906.93,
+    "Value": 10324.4385771616,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 1994,
-    "Value": 3293473162998.31,
+    "Value": 10402.2667931881,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 1993,
-    "Value": 3079517829657.45,
+    "Value": 10107.6226897651,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 1992,
-    "Value": 2753566917038.52,
+    "Value": 9879.6670120363,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 1991,
-    "Value": 2611502754575.35,
+    "Value": 9756.44312618624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (excluding high income)",
     "Year": 1990,
-    "Value": 2428201691634.59,
+    "Value": 9548.33712342613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2016,
-    "Value": 9401623951870.66,
+    "Value": 14238.7859560168,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2015,
-    "Value": 9318038444814.27,
+    "Value": 14425.4680030559,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2014,
-    "Value": 9297640208427.03,
+    "Value": 14537.6042755232,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2013,
-    "Value": 9017885475816.32,
+    "Value": 14537.4668212421,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2012,
-    "Value": 8627108914435.03,
+    "Value": 14289.6067391188,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2011,
-    "Value": 8247125434840.87,
+    "Value": 14042.0789923851,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2010,
-    "Value": 7654447253791.07,
+    "Value": 13581.5641531341,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2009,
-    "Value": 7113685335895.8,
+    "Value": 12966.7429633122,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2008,
-    "Value": 7141727212403.78,
+    "Value": 13385.4902405401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2007,
-    "Value": 6714894892764.47,
+    "Value": 13034.6516338888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2006,
-    "Value": 6173371109201.56,
+    "Value": 12475.6291531042,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2005,
-    "Value": 5615696381834.29,
+    "Value": 11973.0041159874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2004,
-    "Value": 5168130103956.45,
+    "Value": 11601.3052133289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2003,
-    "Value": 4734242081243.01,
+    "Value": 11069.5925416033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2002,
-    "Value": 4553071278344.48,
+    "Value": 11008.6618063479,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2001,
-    "Value": 4473175834021.99,
+    "Value": 11134.0909565482,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 2000,
-    "Value": 4354230378775.24,
+    "Value": 11234.7567710155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 1999,
-    "Value": 4103962413018.36,
+    "Value": 10988.9276685018,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 1998,
-    "Value": 4024681746105.44,
+    "Value": 11155.9777889152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 1997,
-    "Value": 3897306297285.57,
+    "Value": 11076.9760402017,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 1996,
-    "Value": 3638753859306.85,
+    "Value": 10685.6237717815,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 1995,
-    "Value": 3461713007408.41,
+    "Value": 10493.7057395389,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 1994,
-    "Value": 3379122581094.83,
+    "Value": 10547.25930717,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 1993,
-    "Value": 3157429494252.33,
+    "Value": 10247.061212802,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 1992,
-    "Value": 2826526626305.08,
+    "Value": 10012.4092023272,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 1991,
-    "Value": 2673863047012.96,
+    "Value": 9863.8465334771,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latin America & Caribbean (IDA & IBRD)",
     "Year": 1990,
-    "Value": 2484228080050.25,
+    "Value": 9645.2289798131,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2016,
-    "Value": 50139433692.722,
+    "Value": 23744.2642185848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2015,
-    "Value": 48469507243.0259,
+    "Value": 23018.8161056707,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2014,
-    "Value": 47467991516.807,
+    "Value": 22172.2535081352,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2013,
-    "Value": 45639548608.3324,
+    "Value": 21563.7214275874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2012,
-    "Value": 43234809112.4744,
+    "Value": 20827.9116046572,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2011,
-    "Value": 40727416408.8508,
+    "Value": 19773.3837201521,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2010,
-    "Value": 36866059705.443,
+    "Value": 18251.9532813473,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2009,
-    "Value": 36127421719.1456,
+    "Value": 18609.3328365261,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2008,
-    "Value": 42310207273.1155,
+    "Value": 21384.3134623671,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2007,
-    "Value": 39883423461.674,
+    "Value": 21939.0743549416,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2006,
-    "Value": 34949366683.2142,
+    "Value": 19786.2214213667,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2005,
-    "Value": 31002069414.9129,
+    "Value": 17522.2676891768,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2004,
-    "Value": 27652472061.2594,
+    "Value": 15658.9072585605,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2003,
-    "Value": 25226613898.5234,
+    "Value": 14297.1989429043,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2002,
-    "Value": 23263447911.2141,
+    "Value": 13058.753036389,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2001,
-    "Value": 21134251974.2306,
+    "Value": 12051.8620617073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 2000,
-    "Value": 18983135159.7799,
+    "Value": 11175.1532940971,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 1999,
-    "Value": 17702202371.7104,
+    "Value": 10500.2176436455,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 1998,
-    "Value": 17041060385.203,
+    "Value": 10149.2915258882,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 1997,
-    "Value": 15768732195.6183,
+    "Value": 9438.48548067544,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 1996,
-    "Value": 14240108461.5125,
+    "Value": 8575.31375118703,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Latvia",
     "Year": 1995,
-    "Value": 13687492831.2984,
+    "Value": 8283.84793487863,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2016,
-    "Value": 2568022791777.23,
+    "Value": 2431.33118246064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2015,
-    "Value": 2426875809154.37,
+    "Value": 2382.36734430748,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2014,
-    "Value": 2311552246237.74,
+    "Value": 2348.86129980582,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2013,
-    "Value": 2147769488340.87,
+    "Value": 2275.42790930385,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2012,
-    "Value": 1990146053046.49,
+    "Value": 2194.62948609589,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2011,
-    "Value": 1865037669696.83,
+    "Value": 2145.45235612976,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2010,
-    "Value": 1756615080413.15,
+    "Value": 2112.27570254186,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2009,
-    "Value": 1633265610335.21,
+    "Value": 2035.51412258349,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2008,
-    "Value": 1539990873019.85,
+    "Value": 1979.75059531344,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2007,
-    "Value": 1409507830329.69,
+    "Value": 1891.35392782282,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2006,
-    "Value": 1261511752094.08,
+    "Value": 1779.40875835803,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2005,
-    "Value": 1133621470897.91,
+    "Value": 1688.29078063801,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2004,
-    "Value": 1015992525293.74,
+    "Value": 1600.68250532878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2003,
-    "Value": 927459730769.353,
+    "Value": 1539.50868192624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2002,
-    "Value": 859609683133.712,
+    "Value": 1492.80760575387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2001,
-    "Value": 816373943778.48,
+    "Value": 1476.69972700579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 2000,
-    "Value": 756130108291.249,
+    "Value": 1434.94647895951,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 1999,
-    "Value": 705556803371.906,
+    "Value": 1404.4569828419,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 1998,
-    "Value": 664541347273.161,
+    "Value": 1377.22469522621,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 1997,
-    "Value": 631062114308.919,
+    "Value": 1355.22133336957,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 1996,
-    "Value": 591697665222.843,
+    "Value": 1324.82138466604,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 1995,
-    "Value": 549778222164.545,
+    "Value": 1286.41062568929,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 1994,
-    "Value": 511432743979.055,
+    "Value": 1254.72498536401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 1993,
-    "Value": 487951664090.911,
+    "Value": 1256.6183190768,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 1992,
-    "Value": 472499392449.487,
+    "Value": 1281.2812598624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 1991,
-    "Value": 456151882341.551,
+    "Value": 1301.74632966159,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Least developed countries: UN classification",
     "Year": 1990,
-    "Value": 433788980537.131,
+    "Value": 1315.28816671167,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2016,
-    "Value": 85947917515.3776,
+    "Value": 13267.8856986827,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2015,
-    "Value": 83201183499.1805,
+    "Value": 13352.7133932764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2014,
-    "Value": 81642756484.0587,
+    "Value": 13831.3752293893,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2013,
-    "Value": 78628500184.3558,
+    "Value": 14400.6408049367,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2012,
-    "Value": 75391334623.0716,
+    "Value": 15057.2870260009,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2011,
-    "Value": 72008412533.3855,
+    "Value": 15693.6872834493,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2010,
-    "Value": 69910216563.6056,
+    "Value": 16451.7598336606,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2009,
-    "Value": 63928572298.6311,
+    "Value": 15788.407323114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2008,
-    "Value": 57650299423.0286,
+    "Value": 14597.6257552497,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2007,
-    "Value": 51180590876.4482,
+    "Value": 13293.1284153697,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2006,
-    "Value": 45591257336.7397,
+    "Value": 12243.7880937944,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2005,
-    "Value": 43554407239.8593,
+    "Value": 12269.3209716692,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2004,
-    "Value": 41074402165.6768,
+    "Value": 12325.0582033095,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2003,
-    "Value": 37743152898.8435,
+    "Value": 12145.5657868382,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2002,
-    "Value": 35849990822.8296,
+    "Value": 12363.0170379907,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2001,
-    "Value": 34141984946.5721,
+    "Value": 12534.6435519624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 2000,
-    "Value": 32137146915.9606,
+    "Value": 12531.822280741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 1999,
-    "Value": 31005396958.9373,
+    "Value": 12673.9922384892,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 1998,
-    "Value": 30677056094.6425,
+    "Value": 12906.2386366344,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 1997,
-    "Value": 29295232528.3873,
+    "Value": 12544.3732877766,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 1996,
-    "Value": 29476341325.005,
+    "Value": 12928.7069894179,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 1995,
-    "Value": 27533616964.5886,
+    "Value": 12449.3563384064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 1994,
-    "Value": 25316657493.3196,
+    "Value": 11916.5137700637,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 1993,
-    "Value": 22952212685.105,
+    "Value": 11314.1347568304,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 1992,
-    "Value": 20952557673.7677,
+    "Value": 10870.1597026433,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 1991,
-    "Value": 19603436275.4117,
+    "Value": 10664.3486645754,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lebanon",
     "Year": 1990,
-    "Value": 13727825626.2674,
+    "Value": 7857.72417041175,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2016,
-    "Value": 6503524021.40226,
+    "Value": 2736.3548946839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2015,
-    "Value": 6271265361.69903,
+    "Value": 2708.1485390433,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2014,
-    "Value": 6051691183.51239,
+    "Value": 2677.19807805197,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2013,
-    "Value": 5765029640.76733,
+    "Value": 2631.00482305905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2012,
-    "Value": 5570732654.71477,
+    "Value": 2617.30209705878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2011,
-    "Value": 5160445696.76619,
+    "Value": 2500.0148712682,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2010,
-    "Value": 4729648137.68911,
+    "Value": 2365.68346109084,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2009,
-    "Value": 4405100227.79837,
+    "Value": 2253.83385577082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2008,
-    "Value": 4279700570.30048,
+    "Value": 2227.57168810688,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2007,
-    "Value": 3932342968.746,
+    "Value": 2105.49711454874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2006,
-    "Value": 3653815495.40871,
+    "Value": 2025.41713234109,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2005,
-    "Value": 3401039323.9218,
+    "Value": 1959.28389794896,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2004,
-    "Value": 3184634240.15847,
+    "Value": 1909.13494279707,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2003,
-    "Value": 3047828477.81513,
+    "Value": 1892.66199145186,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2002,
-    "Value": 2857926208.33512,
+    "Value": 1825.14440571819,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2001,
-    "Value": 2794489281.93231,
+    "Value": 1827.7441237011,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 2000,
-    "Value": 2638260759.36415,
+    "Value": 1781.18361392776,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 1999,
-    "Value": 2483320081.0242,
+    "Value": 1731.56698298884,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 1998,
-    "Value": 2434302206.07547,
+    "Value": 1741.45900932785,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 1997,
-    "Value": 2371698853.35057,
+    "Value": 1734.83385912718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 1996,
-    "Value": 2248514126.63006,
+    "Value": 1694.57346492472,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 1995,
-    "Value": 2091159293.07365,
+    "Value": 1628.36473472545,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 1994,
-    "Value": 1983170624.0737,
+    "Value": 1602.9686268051,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 1993,
-    "Value": 1832277680.62743,
+    "Value": 1540.89327399874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 1992,
-    "Value": 1729011855.45294,
+    "Value": 1518.32764731787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 1991,
-    "Value": 1580529202.79522,
+    "Value": 1447.89325487827,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lesotho",
     "Year": 1990,
-    "Value": 1429993701.08136,
+    "Value": 1379.39989910199,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2016,
-    "Value": 3749533733.47231,
+    "Value": 753.557379048622,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2015,
-    "Value": 3762499787.88975,
+    "Value": 785.246886654737,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2014,
-    "Value": 3722135735.37811,
+    "Value": 804.719886747093,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2013,
-    "Value": 3631054394.95557,
+    "Value": 818.589390755607,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2012,
-    "Value": 3287228376.57648,
+    "Value": 771.905426241558,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2011,
-    "Value": 2988830566.66257,
+    "Value": 734.326273753035,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2010,
-    "Value": 2706442396.16075,
+    "Value": 699.653721510599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2009,
-    "Value": 2520063637.33785,
+    "Value": 683.061442184947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2008,
-    "Value": 2375182613.2618,
+    "Value": 674.984836775238,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2007,
-    "Value": 2174105131.95408,
+    "Value": 656.871761987963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2006,
-    "Value": 1933397443.62045,
+    "Value": 624.045492325395,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2005,
-    "Value": 1736129144.0971,
+    "Value": 597.8870313949,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2004,
-    "Value": 1597622188.48276,
+    "Value": 583.054879495738,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2003,
-    "Value": 1515161267.53568,
+    "Value": 579.137972857064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2002,
-    "Value": 2126610150.32022,
+    "Value": 843.506199580022,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2001,
-    "Value": 2018505979.85792,
+    "Value": 832.412772414244,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 2000,
-    "Value": 1917562920.07407,
+    "Value": 838.698939593096,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 1999,
-    "Value": 1457750348.83667,
+    "Value": 687.86686449681,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Liberia",
     "Year": 1998,
-    "Value": 1179366882.80309,
+    "Value": 605.655547692598,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Liberia",
+    "Year": 1997,
+    "Value": 503.127940482913,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Liberia",
+    "Year": 1996,
+    "Value": 262.527032801806,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Liberia",
+    "Year": 1995,
+    "Value": 247.436539505433,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Liberia",
+    "Year": 1994,
+    "Value": 266.244039648705,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Liberia",
+    "Year": 1993,
+    "Value": 342.45161166352,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Liberia",
+    "Year": 1992,
+    "Value": 505.255526313284,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Liberia",
+    "Year": 1991,
+    "Value": 764.160812045377,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Liberia",
+    "Year": 1990,
+    "Value": 875.189580238138,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2011,
-    "Value": 69322560014.4654,
+    "Value": 11192.7906388431,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2010,
-    "Value": 179095337142.948,
+    "Value": 29630.2221484622,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2009,
-    "Value": 168474745414.634,
+    "Value": 28435.1842229499,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2008,
-    "Value": 168536611292.603,
+    "Value": 28983.5172282465,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2007,
-    "Value": 160999744187.143,
+    "Value": 28621.6268991361,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2006,
-    "Value": 147459010970.519,
+    "Value": 27318.9952721523,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2005,
-    "Value": 134331433978.996,
+    "Value": 26044.501407613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2004,
-    "Value": 116334161872.794,
+    "Value": 23639.7247386653,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2003,
-    "Value": 108385158045.78,
+    "Value": 22987.9123297987,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2002,
-    "Value": 94027527244.5164,
+    "Value": 20665.839553879,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2001,
-    "Value": 93502458876.6602,
+    "Value": 21199.3830801766,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 2000,
-    "Value": 93059636020.2645,
+    "Value": 21921.5520185953,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Libya",
     "Year": 1999,
-    "Value": 87760272075.5394,
+    "Value": 21470.7114363087,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2016,
-    "Value": 85652028773.3589,
+    "Value": 28033.8739289417,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2015,
-    "Value": 83613961450.8407,
+    "Value": 27045.713019289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2014,
-    "Value": 82617573837.52,
+    "Value": 26258.2100974103,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2013,
-    "Value": 78853644708.2515,
+    "Value": 25143.9151132396,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2012,
-    "Value": 73672529140.5755,
+    "Value": 24049.353977837,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2011,
-    "Value": 69205546062.1998,
+    "Value": 22854.33217107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2010,
-    "Value": 62287390901.7061,
+    "Value": 21070.6343301646,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2009,
-    "Value": 57383687202.3535,
+    "Value": 20300.5037488854,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2008,
-    "Value": 66344316970.5928,
+    "Value": 23567.7027097214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2007,
-    "Value": 61692669190.0072,
+    "Value": 22729.2136062761,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2006,
-    "Value": 53910013523.7092,
+    "Value": 20219.1157060614,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2005,
-    "Value": 48263486764.3837,
+    "Value": 18526.7326696155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2004,
-    "Value": 44023839046.3996,
+    "Value": 16920.0081736565,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2003,
-    "Value": 41210777123.9849,
+    "Value": 15702.5319918137,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2002,
-    "Value": 36132745247.7163,
+    "Value": 14090.5578240276,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2001,
-    "Value": 32832175941.8074,
+    "Value": 13092.7297971208,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 2000,
-    "Value": 29593201973.0657,
+    "Value": 12189.9621789095,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 1999,
-    "Value": 27565410993.4703,
+    "Value": 11657.8313121337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 1998,
-    "Value": 27530997911.5078,
+    "Value": 11708.2599135826,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 1997,
-    "Value": 25264452118.2072,
+    "Value": 10816.0909783377,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 1996,
-    "Value": 22971054059.5374,
+    "Value": 9914.35973449651,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lithuania",
     "Year": 1995,
-    "Value": 21497362034.9664,
+    "Value": 9357.36215365654,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2016,
-    "Value": 65133004311072.5,
+    "Value": 9713.04028217588,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2015,
-    "Value": 61531979148056.2,
+    "Value": 9407.11396673358,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2014,
-    "Value": 58588164787261.2,
+    "Value": 9139.31969017827,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2013,
-    "Value": 54947163209785.2,
+    "Value": 8833.9516515422,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2012,
-    "Value": 51423081946137.1,
+    "Value": 8501.64301023725,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2011,
-    "Value": 48064581506343.2,
+    "Value": 8202.15078408452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2010,
-    "Value": 44020905879272,
+    "Value": 7836.62399864973,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2009,
-    "Value": 40347300513497.9,
+    "Value": 7381.06500663282,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2008,
-    "Value": 38683825021974.2,
+    "Value": 7270.64688360461,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2007,
-    "Value": 35468158885898.4,
+    "Value": 6975.1297325471,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2006,
-    "Value": 31689384000890,
+    "Value": 6492.91309365972,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2005,
-    "Value": 28101160045774.7,
+    "Value": 6082.50515039625,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2004,
-    "Value": 25287407457166.7,
+    "Value": 5749.35204526915,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2003,
-    "Value": 22737901685074.1,
+    "Value": 5391.57255525888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2002,
-    "Value": 21019687182659.7,
+    "Value": 5163.36691032932,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2001,
-    "Value": 19827953963966.4,
+    "Value": 5014.56265700851,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 2000,
-    "Value": 18665482648774,
+    "Value": 4900.88829825127,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 1999,
-    "Value": 17268741053914.5,
+    "Value": 4708.29552776483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 1998,
-    "Value": 16362484838564.7,
+    "Value": 4602.74407783883,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 1997,
-    "Value": 15817917584959.1,
+    "Value": 4583.77087981841,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 1996,
-    "Value": 14831225889373.8,
+    "Value": 4446.15331527351,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 1995,
-    "Value": 13827266313824.3,
+    "Value": 4299.5508141523,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 1994,
-    "Value": 13032165144572.6,
+    "Value": 4208.61686713023,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 1993,
-    "Value": 12369949438472.9,
+    "Value": 4180.30208634254,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 1992,
-    "Value": 11562285792159.3,
+    "Value": 4143.5118136879,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 1991,
-    "Value": 11075019644166.1,
+    "Value": 4177.43083372468,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low & middle income",
     "Year": 1990,
-    "Value": 10565336856599.8,
+    "Value": 4214.20395475381,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2016,
-    "Value": 1121668458542.79,
+    "Value": 1577.60917213531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2015,
-    "Value": 1060968383357.83,
+    "Value": 1552.27529765547,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2014,
-    "Value": 1001590845724.07,
+    "Value": 1521.83350622752,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2013,
-    "Value": 926527786065.416,
+    "Value": 1472.58005253019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2012,
-    "Value": 859394906708.21,
+    "Value": 1426.44480256679,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2011,
-    "Value": 810528825811.976,
+    "Value": 1408.21322194646,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2010,
-    "Value": 749676228744.137,
+    "Value": 1366.32871271833,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2009,
-    "Value": 695027490069.206,
+    "Value": 1317.74787791042,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2008,
-    "Value": 653307622154.192,
+    "Value": 1282.56784224344,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2007,
-    "Value": 608170484454.834,
+    "Value": 1251.02044155969,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2006,
-    "Value": 555380537436.534,
+    "Value": 1205.347446358,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2005,
-    "Value": 511907825756.363,
+    "Value": 1177.05909932118,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2004,
-    "Value": 466735697745.136,
+    "Value": 1138.84224933121,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2003,
-    "Value": 429444445555.403,
+    "Value": 1107.09730350287,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2002,
-    "Value": 407458865807.761,
+    "Value": 1101.70539861066,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2001,
-    "Value": 392980005308.352,
+    "Value": 1109.27554584727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 2000,
-    "Value": 366196882695.31,
+    "Value": 1086.73504972033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 1999,
-    "Value": 349872922751.579,
+    "Value": 1091.13608160865,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 1998,
-    "Value": 333081304896.327,
+    "Value": 1083.31040248512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 1997,
-    "Value": 320157789456.9,
+    "Value": 1080.06738377937,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 1996,
-    "Value": 304222438001.122,
+    "Value": 1070.50331605766,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 1995,
-    "Value": 281689973392.507,
+    "Value": 1037.11410770615,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 1994,
-    "Value": 265589159117.656,
+    "Value": 1026.54043040409,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 1993,
-    "Value": 255119764478.835,
+    "Value": 1036.52576256435,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 1992,
-    "Value": 246982908919.767,
+    "Value": 1058.32269832421,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 1991,
-    "Value": 248746693509.539,
+    "Value": 1123.53669560674,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Low income",
     "Year": 1990,
-    "Value": 239161486959.76,
+    "Value": 1148.86569605401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2016,
-    "Value": 20504454626635.6,
+    "Value": 6306.05090723322,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2015,
-    "Value": 19210763871374.7,
+    "Value": 6069.86283525465,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2014,
-    "Value": 17988511124963,
+    "Value": 5829.95551258702,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2013,
-    "Value": 16709369125937.8,
+    "Value": 5594.06002647829,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2012,
-    "Value": 15581268134259.2,
+    "Value": 5379.84812902717,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2011,
-    "Value": 14556906137606.3,
+    "Value": 5197.03178703582,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2010,
-    "Value": 13535856297123.5,
+    "Value": 5008.52620899192,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2009,
-    "Value": 12446587329517.6,
+    "Value": 4734.76596186563,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2008,
-    "Value": 11742212316349.6,
+    "Value": 4572.43457134949,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2007,
-    "Value": 10984955575419.8,
+    "Value": 4430.61307948068,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2006,
-    "Value": 9913103790582.08,
+    "Value": 4170.75779397613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2005,
-    "Value": 8936126671016.92,
+    "Value": 3938.5810431126,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2004,
-    "Value": 8093673472100.41,
+    "Value": 3743.24221856543,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2003,
-    "Value": 7286282335521.92,
+    "Value": 3520.74354467874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2002,
-    "Value": 6717474343073.38,
+    "Value": 3367.03254941409,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2001,
-    "Value": 6372510386940.39,
+    "Value": 3299.69468272549,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 2000,
-    "Value": 5972253993840.74,
+    "Value": 3218.5559251644,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 1999,
-    "Value": 5591181584524.38,
+    "Value": 3136.51835978723,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 1998,
-    "Value": 5250909772005.83,
+    "Value": 3045.13003563494,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 1997,
-    "Value": 5146068124499.93,
+    "Value": 3072.81908377916,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 1996,
-    "Value": 4866884473446.72,
+    "Value": 3011.91661229432,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 1995,
-    "Value": 4511874350068.76,
+    "Value": 2898.13112724404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 1994,
-    "Value": 4206609570865.28,
+    "Value": 2812.53726882514,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 1993,
-    "Value": 3984706397415.22,
+    "Value": 2775.64206288644,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 1992,
-    "Value": 3809236649512.97,
+    "Value": 2772.94656426054,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 1991,
-    "Value": 3626199098766.47,
+    "Value": 2757.32826501126,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Lower middle income",
     "Year": 1990,
-    "Value": 3465084122769.83,
+    "Value": 2781.51277999881,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2016,
-    "Value": 59592086209.6103,
+    "Value": 94920.9587222948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2015,
-    "Value": 58394172004.3262,
+    "Value": 94088.5922250508,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2014,
-    "Value": 56544292859.2595,
+    "Value": 93655.3341630648,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2013,
-    "Value": 51940075107.1763,
+    "Value": 90656.3804221873,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2012,
-    "Value": 48646428610.814,
+    "Value": 89505.1589621295,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2011,
-    "Value": 47690524461.9649,
+    "Value": 92005.0168361444,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2010,
-    "Value": 43444349169.7222,
+    "Value": 91743.2938905974,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2009,
-    "Value": 40949340075.4389,
+    "Value": 89098.7342435384,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2008,
-    "Value": 42362971851.4074,
+    "Value": 94900.3467241975,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2007,
-    "Value": 40303697255.623,
+    "Value": 97864.1951009914,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2006,
-    "Value": 36847477559.1701,
+    "Value": 91724.1824854209,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2005,
-    "Value": 31733108754.2518,
+    "Value": 88610.2898686036,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2004,
-    "Value": 29352210436.7287,
+    "Value": 87209.8193983459,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2003,
-    "Value": 27113695590.7278,
+    "Value": 85374.3398319662,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2002,
-    "Value": 26222378149.9609,
+    "Value": 85032.7118799011,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2001,
-    "Value": 24699518414.0392,
+    "Value": 82766.9890403592,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 2000,
-    "Value": 24144884461.5179,
+    "Value": 81689.8164014783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 1999,
-    "Value": 21794057203.7217,
+    "Value": 76492.3882500899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 1998,
-    "Value": 18839812308.1354,
+    "Value": 71471.0566928086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 1997,
-    "Value": 17963533480.6832,
+    "Value": 68240.7036536885,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 1996,
-    "Value": 17121887904.6377,
+    "Value": 65369.095826958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 1995,
-    "Value": 16195017071.0125,
+    "Value": 65357.5042711999,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 1994,
-    "Value": 14987207528.6025,
+    "Value": 65346.1992438609,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 1993,
-    "Value": 14134826208.354,
+    "Value": 63804.2857630107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 1992,
-    "Value": 13249759568.3717,
+    "Value": 62059.6531074295,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 1991,
-    "Value": 12722937023.7479,
+    "Value": 61765.601039162,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Luxembourg",
     "Year": 1990,
-    "Value": 11333417789.3281,
+    "Value": 57618.0207016709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2016,
-    "Value": 64534898722.331,
+    "Value": 97751.7879777327,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2015,
-    "Value": 64276659901.7455,
+    "Value": 100444.559116062,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2014,
-    "Value": 81100311814.8829,
+    "Value": 130755.115536779,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2013,
-    "Value": 80639174985.1767,
+    "Value": 135318.913321434,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2012,
-    "Value": 71364613280.012,
+    "Value": 124568.810404677,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2011,
-    "Value": 64148218365.2919,
+    "Value": 116752.211556318,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2010,
-    "Value": 51655474359.5409,
+    "Value": 98184.3783740954,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2009,
-    "Value": 40739811130.9728,
+    "Value": 80121.3466606599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2008,
-    "Value": 39905577263.7715,
+    "Value": 80762.4791773805,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2007,
-    "Value": 37853195049.1024,
+    "Value": 79743.3263622224,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2006,
-    "Value": 32217211172.3918,
+    "Value": 71159.9982756337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2005,
-    "Value": 27584353215.5179,
+    "Value": 64199.3927150342,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2004,
-    "Value": 24731152194.4854,
+    "Value": 60810.4753999741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2003,
-    "Value": 18988842308.9627,
+    "Value": 49153.5622190928,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2002,
-    "Value": 16674411674.8636,
+    "Value": 45126.6144017633,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2001,
-    "Value": 15073620012.5402,
+    "Value": 42443.1315152077,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 2000,
-    "Value": 14324060237.8747,
+    "Value": 42225.4226675701,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 1999,
-    "Value": 13244287037.4715,
+    "Value": 40825.0976620196,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 1998,
-    "Value": 13359743412.1457,
+    "Value": 42705.59117201,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 1997,
-    "Value": 13849399942.9649,
+    "Value": 45673.2363645096,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 1996,
-    "Value": 13654461225.2181,
+    "Value": 46731.6986971202,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 1995,
-    "Value": 13466037510.0969,
+    "Value": 47887.0848660401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 1994,
-    "Value": 12770065102.7228,
+    "Value": 47306.9052089129,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 1993,
-    "Value": 11993871759.1385,
+    "Value": 46310.0845709979,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 1992,
-    "Value": 11137559846.0224,
+    "Value": 44984.8020695921,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 1991,
-    "Value": 9611121226.18686,
+    "Value": 40680.2751342747,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macao SAR, China",
     "Year": 1990,
-    "Value": 8973114735.38562,
+    "Value": 40365.5142473281,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2016,
-    "Value": 31097791388.7743,
+    "Value": 13054.890813122,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2015,
-    "Value": 28624416866.0704,
+    "Value": 12759.8166020197,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2014,
-    "Value": 27776150896.0476,
+    "Value": 12298.4901835571,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2013,
-    "Value": 26269590823.4662,
+    "Value": 11877.7736807697,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2012,
-    "Value": 24558686379.7759,
+    "Value": 11549.6681358951,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2011,
-    "Value": 24064204652.4177,
+    "Value": 11611.8519850904,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2010,
-    "Value": 23367894478.3472,
+    "Value": 11355.3674926425,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2009,
-    "Value": 22578432546.73,
+    "Value": 10995.1017943634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2008,
-    "Value": 21537258501.4196,
+    "Value": 11043.8277318292,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2007,
-    "Value": 19087462439.7532,
+    "Value": 10480.624256573,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2006,
-    "Value": 17713956275.9701,
+    "Value": 9854.44774605767,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2005,
-    "Value": 15987152298.9164,
+    "Value": 9386.02697047287,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2004,
-    "Value": 14569293018.2543,
+    "Value": 8976.73702933326,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2003,
-    "Value": 13351787232.8407,
+    "Value": 8590.98702392972,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2002,
-    "Value": 12919286113.5188,
+    "Value": 8422.67618701092,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2001,
-    "Value": 12326246839.1157,
+    "Value": 8323.41467774842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 2000,
-    "Value": 12465511356.866,
+    "Value": 8620.64919877836,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 1999,
-    "Value": 10977871178.055,
+    "Value": 8288.01003346678,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 1998,
-    "Value": 10389408516.7223,
+    "Value": 7992.0509436226,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 1997,
-    "Value": 9916991875.38438,
+    "Value": 7779.01119022162,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 1996,
-    "Value": 9611711395.50121,
+    "Value": 7707.73271294959,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 1995,
-    "Value": 9328833906.53956,
+    "Value": 7641.23688701159,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 1994,
-    "Value": 9241254600.42596,
+    "Value": 7733.4162009715,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 1993,
-    "Value": 9210624613.52586,
+    "Value": 7862.59114919766,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 1992,
-    "Value": 9722794529.93849,
+    "Value": 8477.48808064329,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 1991,
-    "Value": 10174044442.9893,
+    "Value": 9052.02487716624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Macedonia",
     "Year": 1990,
-    "Value": 10493860518.1733,
+    "Value": 9633.19907334565,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2016,
-    "Value": 37497126805.1803,
+    "Value": 1396.66961542134,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2015,
-    "Value": 35539228556.7406,
+    "Value": 1377.16821260684,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2014,
-    "Value": 34095343639.9424,
+    "Value": 1372.02096103812,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2013,
-    "Value": 32419256006.4731,
+    "Value": 1364.34590907905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2012,
-    "Value": 31200372028.5754,
+    "Value": 1370.95027466491,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2011,
-    "Value": 29735787033.419,
+    "Value": 1367.54308214295,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2010,
-    "Value": 28716620554.1241,
+    "Value": 1385.68507168039,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2009,
-    "Value": 28295673249.1054,
+    "Value": 1421.18847235777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2008,
-    "Value": 29256730052.9462,
+    "Value": 1523.01987327079,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2007,
-    "Value": 26784528829.1033,
+    "Value": 1462.85832281912,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2006,
-    "Value": 24557642398.3782,
+    "Value": 1417.27858258664,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2005,
-    "Value": 22686215319.8081,
+    "Value": 1389.50091191832,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2004,
-    "Value": 21011855584.7701,
+    "Value": 1368.18158492365,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2003,
-    "Value": 19428208367.8597,
+    "Value": 1339.25633149499,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2002,
-    "Value": 17350632424.3759,
+    "Value": 1257.29355305791,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2001,
-    "Value": 19568357858.8113,
+    "Value": 1484.40778157891,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 2000,
-    "Value": 18046352733.6888,
+    "Value": 1444.02942941694,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 1999,
-    "Value": 16843098434.6072,
+    "Value": 1422.09630289658,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 1998,
-    "Value": 15850726149.4516,
+    "Value": 1402.25611901404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 1997,
-    "Value": 15087269779.147,
+    "Value": 1392.54522486438,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 1996,
-    "Value": 14305040074.0576,
+    "Value": 1385.94494233309,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 1995,
-    "Value": 13753034782.2015,
+    "Value": 1399.81077049851,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 1994,
-    "Value": 13245264194.8079,
+    "Value": 1419.30976241928,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 1993,
-    "Value": 12978554802.9791,
+    "Value": 1464.14896552968,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 1992,
-    "Value": 12416615543.8515,
+    "Value": 1477.69772408654,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 1991,
-    "Value": 11997571353.1291,
+    "Value": 1504.21513243242,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Madagascar",
     "Year": 1990,
-    "Value": 12393037516.8249,
+    "Value": 1653.15890049926,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2016,
-    "Value": 21145896467.1139,
+    "Value": 1083.80142082959,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2015,
-    "Value": 20373431288.7095,
+    "Value": 1088.70180507011,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2014,
-    "Value": 19605900158.4253,
+    "Value": 1090.3672076732,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2013,
-    "Value": 18221609779.3108,
+    "Value": 1062.16494063487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2012,
-    "Value": 17045633651.9935,
+    "Value": 1039.75935944407,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2011,
-    "Value": 16427533195.5102,
+    "Value": 1051.18599619662,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2010,
-    "Value": 15350123280.4341,
+    "Value": 1032.9628806199,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2009,
-    "Value": 14189510516.6158,
+    "Value": 996.245268543493,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2008,
-    "Value": 12999915353.7188,
+    "Value": 948.226519532282,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2007,
-    "Value": 11844894661.2497,
+    "Value": 908.3108488928,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2006,
-    "Value": 10527220879.082,
+    "Value": 854.158164374392,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2005,
-    "Value": 9754954028.39404,
+    "Value": 840.186686318526,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2004,
-    "Value": 9151715081.82281,
+    "Value": 836.934384263959,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2003,
-    "Value": 8448833988.08633,
+    "Value": 815.739203778023,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2002,
-    "Value": 7836529181.50887,
+    "Value": 792.454877343139,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2001,
-    "Value": 7589033957.42236,
+    "Value": 800.384183012652,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 2000,
-    "Value": 7808406247.14434,
+    "Value": 865.957498009072,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 1999,
-    "Value": 7516216227.10444,
+    "Value": 878.134197089731,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 1998,
-    "Value": 7184359413.38276,
+    "Value": 879.244276353611,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 1997,
-    "Value": 6840762724.91713,
+    "Value": 872.599332109152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 1996,
-    "Value": 6479907673.64388,
+    "Value": 863.341071945675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 1995,
-    "Value": 5929864969.83041,
+    "Value": 820.773967999191,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 1994,
-    "Value": 4976246739.08805,
+    "Value": 711.192435246015,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 1993,
-    "Value": 5428433841.39009,
+    "Value": 795.667798723989,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 1992,
-    "Value": 4833795068.16029,
+    "Value": 727.315221917836,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 1991,
-    "Value": 5100047457.19818,
+    "Value": 792.079374710605,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malawi",
     "Year": 1990,
-    "Value": 4539455086.00125,
+    "Value": 744.197080607013,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2016,
-    "Value": 863344829725.188,
+    "Value": 25668.884358229,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2015,
-    "Value": 817952644067.676,
+    "Value": 25001.6126731494,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2014,
-    "Value": 770439891282.597,
+    "Value": 24194.6339084542,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2013,
-    "Value": 713970550804.192,
+    "Value": 23224.1884369621,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2012,
-    "Value": 671122508989.532,
+    "Value": 22590.7915238531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2011,
-    "Value": 624786298313.787,
+    "Value": 21818.8756940003,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2010,
-    "Value": 581370481606.638,
+    "Value": 21107.2679372523,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2009,
-    "Value": 536876478169.067,
+    "Value": 20092.2224297633,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2008,
-    "Value": 546637081900.726,
+    "Value": 20988.7003346296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2007,
-    "Value": 518895259036.909,
+    "Value": 20684.5509869779,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2006,
-    "Value": 461897547929.357,
+    "Value": 19251.1881837218,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2005,
-    "Value": 424426248550.71,
+    "Value": 18576.9490921862,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2004,
-    "Value": 390379868212.698,
+    "Value": 17976.525576756,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2003,
-    "Value": 355797476065.923,
+    "Value": 17165.5487629338,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2002,
-    "Value": 329753597990.631,
+    "Value": 16554.7826524121,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2001,
-    "Value": 308155383684.117,
+    "Value": 16039.3113150832,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 2000,
-    "Value": 299737631470.9,
+    "Value": 16309.9679876812,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 1999,
-    "Value": 269219033960.417,
+    "Value": 15332.7150647,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 1998,
-    "Value": 249827760544.122,
+    "Value": 14800.6810960715,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 1997,
-    "Value": 266778970190.674,
+    "Value": 16382.5380467996,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 1996,
-    "Value": 244393557505.07,
+    "Value": 15658.2818985332,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 1995,
-    "Value": 218187378709.428,
+    "Value": 14600.9632081044,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 1994,
-    "Value": 194602071506.335,
+    "Value": 13632.622736941,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 1993,
-    "Value": 174474328795.977,
+    "Value": 12797.6930848268,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 1992,
-    "Value": 155075010992.887,
+    "Value": 11940.7643610322,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 1991,
-    "Value": 139246565349.577,
+    "Value": 11252.4043935103,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malaysia",
     "Year": 1990,
-    "Value": 123018353252.612,
+    "Value": 10551.5786426557,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2016,
-    "Value": 6565198130.56212,
+    "Value": 14231.534128778,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2015,
-    "Value": 6106162029.07974,
+    "Value": 13705.0053214825,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2014,
-    "Value": 5907966729.46209,
+    "Value": 13737.4141241686,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2013,
-    "Value": 5407461640.71144,
+    "Value": 13148.7319591885,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2012,
-    "Value": 4960351845.51622,
+    "Value": 12611.5858529341,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2011,
-    "Value": 4751030613.77171,
+    "Value": 12664.9906666517,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2010,
-    "Value": 4287615205.82265,
+    "Value": 12005.5045993764,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2009,
-    "Value": 3948981686.09968,
+    "Value": 11508.4022283062,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2008,
-    "Value": 4224608006.1487,
+    "Value": 12744.7831787558,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2007,
-    "Value": 3784371647.88726,
+    "Value": 11951.8140799612,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2006,
-    "Value": 3422277704.4018,
+    "Value": 11390.7350669002,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2005,
-    "Value": 2632805359.74765,
+    "Value": 9274.06073956903,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2004,
-    "Value": 2936231418.65911,
+    "Value": 10965.0051981372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2003,
-    "Value": 2695041714.95641,
+    "Value": 10622.11996787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2002,
-    "Value": 2306711671.55752,
+    "Value": 9520.73593960062,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Maldives",
     "Year": 2001,
-    "Value": 2155584693.62625,
+    "Value": 9263.74545848049,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2016,
-    "Value": 38251913405.7005,
+    "Value": 1971.08447950848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2015,
-    "Value": 35699473706.7744,
+    "Value": 1919.2284214274,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2014,
-    "Value": 33329208907.269,
+    "Value": 1865.16062183071,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2013,
-    "Value": 30587235764.6877,
+    "Value": 1793.72366558663,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2012,
-    "Value": 29423309953.7748,
+    "Value": 1804.94260440098,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2011,
-    "Value": 29134739169.0792,
+    "Value": 1874.70303010183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2010,
-    "Value": 27649470568.5352,
+    "Value": 1871.98474385098,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2009,
-    "Value": 25913057622.3389,
+    "Value": 1832.80808109145,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2008,
-    "Value": 24568186514.3975,
+    "Value": 1808.88762645838,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2007,
-    "Value": 22997754841.3354,
+    "Value": 1784.87848475457,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2006,
-    "Value": 21645367415.3674,
+    "Value": 1783.11032640616,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2005,
-    "Value": 20064730486.1568,
+    "Value": 1760.69393390853,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2004,
-    "Value": 18246857073.2675,
+    "Value": 1706.95633620869,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2003,
-    "Value": 17485768801.854,
+    "Value": 1734.88639397006,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2002,
-    "Value": 15711198783.6961,
+    "Value": 1639.9260800084,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2001,
-    "Value": 15007480244.2211,
+    "Value": 1639.20324243351,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 2000,
-    "Value": 12717605481.0928,
+    "Value": 1462.91976687896,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 1999,
-    "Value": 12442221722.8147,
+    "Value": 1505.53585459056,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 1998,
-    "Value": 11593733379.923,
+    "Value": 1463.14984443734,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 1997,
-    "Value": 10661973314.4112,
+    "Value": 1396.03467846853,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 1996,
-    "Value": 9999677015.05368,
+    "Value": 1366.48624133259,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 1995,
-    "Value": 9173161751.39493,
+    "Value": 1309.96293166915,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 1994,
-    "Value": 8903742637.93143,
+    "Value": 1332.84931759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 1993,
-    "Value": 8400667890.00165,
+    "Value": 1319.27098592209,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 1992,
-    "Value": 7953151692.38818,
+    "Value": 1312.91119931661,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 1991,
-    "Value": 8034499631.16448,
+    "Value": 1390.4007288101,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mali",
     "Year": 1990,
-    "Value": 6958405978.04054,
+    "Value": 1271.79407655675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2016,
-    "Value": 16590539181.0566,
+    "Value": 35705.0956898991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2015,
-    "Value": 15492970478.9907,
+    "Value": 34272.7484497629,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2014,
-    "Value": 14419228784.4852,
+    "Value": 32349.9914125911,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2013,
-    "Value": 13233263313.4301,
+    "Value": 30188.9733822753,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2012,
-    "Value": 12356187047.8439,
+    "Value": 29132.5674773003,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2011,
-    "Value": 11909398785.3912,
+    "Value": 28609.9310669839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2010,
-    "Value": 11538270167.5467,
+    "Value": 28329.8766642839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2009,
-    "Value": 10780055313.4684,
+    "Value": 27495.299106985,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2008,
-    "Value": 10722892167.7225,
+    "Value": 28402.7254028814,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2007,
-    "Value": 10122976032.9129,
+    "Value": 27662.405876579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2006,
-    "Value": 9414073272.59471,
+    "Value": 26694.8710079973,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2005,
-    "Value": 8978269841.26984,
+    "Value": 26311.1512126366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2004,
-    "Value": 8590621261.72934,
+    "Value": 25514.0412872763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2003,
-    "Value": 8344773774.08858,
+    "Value": 25572.5855399832,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2002,
-    "Value": 8141789362.43701,
+    "Value": 25102.7823796976,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2001,
-    "Value": 7718132248.80157,
+    "Value": 24558.1011251964,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 2000,
-    "Value": 7576548290.98633,
+    "Value": 24593.6367842874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 1999,
-    "Value": 6574201532.44329,
+    "Value": 23183.2908249632,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 1998,
-    "Value": 6108989572.66383,
+    "Value": 22270.0050516548,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 1997,
-    "Value": 5789052130.14074,
+    "Value": 21322.3201710379,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 1996,
-    "Value": 5194079555.57264,
+    "Value": 20411.2810822475,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 1995,
-    "Value": 4874470394.36877,
+    "Value": 19797.8940697489,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 1994,
-    "Value": 4490097661.72334,
+    "Value": 18747.3467321998,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 1993,
-    "Value": 4161370196.86274,
+    "Value": 17911.3190002664,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 1992,
-    "Value": 3890344682.30353,
+    "Value": 17315.2524729724,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 1991,
-    "Value": 3633207502.65367,
+    "Value": 16710.9106563005,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Malta",
     "Year": 1990,
-    "Value": 3309135482.23399,
+    "Value": 16156.5743257504,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2016,
-    "Value": 213483384.107953,
+    "Value": 3730.33398854254,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2015,
-    "Value": 206842360.313097,
+    "Value": 3665.3753730567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2014,
-    "Value": 205372034.750939,
+    "Value": 3685.46257438709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2013,
-    "Value": 203290046.035383,
+    "Value": 3720.95811631551,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2012,
-    "Value": 194496328.675702,
+    "Value": 3626.42477787669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2011,
-    "Value": 184595346.929185,
+    "Value": 3513.29121329955,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2010,
-    "Value": 178705121.753203,
+    "Value": 3479.15530340683,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2009,
-    "Value": 165845759.107299,
+    "Value": 3274.79420051252,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2008,
-    "Value": 167333280.051568,
+    "Value": 3335.7630227933,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2007,
-    "Value": 166858614.029704,
+    "Value": 3396.81886309467,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2006,
-    "Value": 156804716.197936,
+    "Value": 3280.81341038314,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2005,
-    "Value": 149976138.59952,
+    "Value": 3235.77452443644,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2004,
-    "Value": 141184706.512179,
+    "Value": 3142.96227922278,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2003,
-    "Value": 137243724.272797,
+    "Value": 3136.71111866263,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2002,
-    "Value": 134331968.826705,
+    "Value": 3128.862066115,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2001,
-    "Value": 128928405.595577,
+    "Value": 3047.64124859351,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 2000,
-    "Value": 119639046.110694,
+    "Value": 2893.83664371888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 1999,
-    "Value": 110469770.141095,
+    "Value": 2737.05065916745,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 1998,
-    "Value": 111476983.729919,
+    "Value": 2812.59039311342,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 1997,
-    "Value": 113508586.816579,
+    "Value": 2907.97709951056,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 1996,
-    "Value": 119287449.602277,
+    "Value": 3125.92721005409,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 1995,
-    "Value": 130604978.929239,
+    "Value": 3511.35142874073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 1994,
-    "Value": 118226428.597181,
+    "Value": 3273.0749157263,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 1993,
-    "Value": 109336360.846685,
+    "Value": 3123.92462449405,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 1992,
-    "Value": 100744458.777369,
+    "Value": 2986.91128660172,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 1991,
-    "Value": 91934277.7674489,
+    "Value": 2839.76964851633,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Marshall Islands",
     "Year": 1990,
-    "Value": 88894677.8535299,
+    "Value": 2907.88097177802,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2016,
-    "Value": 16569783260.1414,
+    "Value": 3572.28055028289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2015,
-    "Value": 16040244108.4956,
+    "Value": 3601.61434961183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2014,
-    "Value": 15649077478.2315,
+    "Value": 3655.38850923143,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2013,
-    "Value": 14560755248.4833,
+    "Value": 3565.5219994799,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2012,
-    "Value": 13506740049.6813,
+    "Value": 3462.56176015693,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2011,
-    "Value": 12535969841.7305,
+    "Value": 3371.99458202082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2010,
-    "Value": 11730570518.9387,
+    "Value": 3316.97478042488,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2009,
-    "Value": 11061008924.7868,
+    "Value": 3259.07635021784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2008,
-    "Value": 11093241543.9678,
+    "Value": 3388.83543285186,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2007,
-    "Value": 10763578502.0666,
+    "Value": 3448.64870958749,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2006,
-    "Value": 10197208677.9936,
+    "Value": 3449.96015555249,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2005,
-    "Value": 8322820117.06522,
+    "Value": 2985.69069814797,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2004,
-    "Value": 7399663012.75544,
+    "Value": 2819.08196932613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2003,
-    "Value": 6810225541.65658,
+    "Value": 2743.12811472883,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2002,
-    "Value": 6300425401.39097,
+    "Value": 2663.96032022904,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2001,
-    "Value": 6164176307.61401,
+    "Value": 2724.59315092928,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 2000,
-    "Value": 5908148109.37245,
+    "Value": 2751.15554911611,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 1999,
-    "Value": 5801668943.90434,
+    "Value": 2847.7176270967,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 1998,
-    "Value": 5305053430.63248,
+    "Value": 2726.33813912591,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 1997,
-    "Value": 5106256282.20288,
+    "Value": 2735.9639715643,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 1996,
-    "Value": 5231949586.39192,
+    "Value": 2939.72567102433,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 1995,
-    "Value": 4855610366.61547,
+    "Value": 2861.84365626006,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 1994,
-    "Value": 4331101563.44931,
+    "Value": 2681.62268379397,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 1993,
-    "Value": 4374750004.8432,
+    "Value": 2843.77006437929,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 1992,
-    "Value": 4036020974.39401,
+    "Value": 2759.18703757825,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 1991,
-    "Value": 3873474560.60687,
+    "Value": 2781.48061468222,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritania",
     "Year": 1990,
-    "Value": 3682846138.89272,
+    "Value": 2806.7338297681,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2016,
-    "Value": 26662513430.3698,
+    "Value": 19567.4896610354,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2015,
-    "Value": 25362849877.5095,
+    "Value": 18864.1056624868,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2014,
-    "Value": 24249619668.7513,
+    "Value": 18255.8697234297,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2013,
-    "Value": 22962252088.7718,
+    "Value": 17628.8293745855,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2012,
-    "Value": 21862630845.7439,
+    "Value": 17093.3209320904,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2011,
-    "Value": 20742028226.4255,
+    "Value": 16561.7709831855,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2010,
-    "Value": 19526254955.8928,
+    "Value": 15938.4192089782,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2009,
-    "Value": 18481668539.7849,
+    "Value": 15306.3880091552,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2008,
-    "Value": 17753817485.7684,
+    "Value": 14854.6433818509,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2007,
-    "Value": 16522211174.235,
+    "Value": 14146.3984162769,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2006,
-    "Value": 15222124851.5229,
+    "Value": 13441.2059560097,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2005,
-    "Value": 13606631262.8222,
+    "Value": 12441.7354604277,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2004,
-    "Value": 13020828218.4401,
+    "Value": 12362.1591541141,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2003,
-    "Value": 11983811347.9026,
+    "Value": 11763.994553294,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2002,
-    "Value": 11335014132.4906,
+    "Value": 11431.4048026629,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2001,
-    "Value": 10932598321.0872,
+    "Value": 11272.8124765,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 2000,
-    "Value": 10420819347.5576,
+    "Value": 11077.1476177032,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 1999,
-    "Value": 9345394664.52891,
+    "Value": 10260.3724692151,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 1998,
-    "Value": 8970339845.02015,
+    "Value": 10127.2399970058,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 1997,
-    "Value": 8366155645.70916,
+    "Value": 9648.55390594829,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 1996,
-    "Value": 7782736611.94557,
+    "Value": 9244.3522608085,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 1995,
-    "Value": 7238717572.10449,
+    "Value": 8845.13314425779,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 1994,
-    "Value": 6799290213.84093,
+    "Value": 8554.71953987511,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 1993,
-    "Value": 6393176561.4163,
+    "Value": 8330.76130413553,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 1992,
-    "Value": 5942594765.03403,
+    "Value": 8022.4097193913,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 1991,
-    "Value": 5454888989.95622,
+    "Value": 7631.63603662487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mauritius",
     "Year": 1990,
-    "Value": 5054961012.2068,
+    "Value": 7386.82438721821,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2016,
-    "Value": 2203238241772.61,
+    "Value": 16832.4630424948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2015,
-    "Value": 2138064426713.19,
+    "Value": 16671.9119759698,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2014,
-    "Value": 2145322213615.42,
+    "Value": 16459.8199957751,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2013,
-    "Value": 2044304506682.15,
+    "Value": 16315.8627223345,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2012,
-    "Value": 1988482920347.72,
+    "Value": 16324.4293747474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2011,
-    "Value": 1896258212126.06,
+    "Value": 15922.8981563254,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2010,
-    "Value": 1732191876993.81,
+    "Value": 15534.9456319503,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2009,
-    "Value": 1627727051349.78,
+    "Value": 15011.7517497039,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2008,
-    "Value": 1640914513653.6,
+    "Value": 16007.6321327378,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2007,
-    "Value": 1551984889081.85,
+    "Value": 16044.2526223576,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2006,
-    "Value": 1464036640600.8,
+    "Value": 15792.400895055,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2005,
-    "Value": 1324755569141.09,
+    "Value": 15273.0970036182,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2004,
-    "Value": 1212330478190.02,
+    "Value": 15028.1414090261,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2003,
-    "Value": 1131771430256.4,
+    "Value": 14594.0021177851,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2002,
-    "Value": 1092589209571.33,
+    "Value": 14566.453351752,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2001,
-    "Value": 1073836161754.94,
+    "Value": 14729.1322635657,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 2000,
-    "Value": 1060833726505.08,
+    "Value": 15015.1523015111,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 1999,
-    "Value": 983349459588.51,
+    "Value": 14461.6361023842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 1998,
-    "Value": 923156591589.518,
+    "Value": 14296.7951168728,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 1997,
-    "Value": 874166058086.883,
+    "Value": 13870.8888758715,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 1996,
-    "Value": 802928430082.049,
+    "Value": 13184.0094021982,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 1995,
-    "Value": 753395812964.612,
+    "Value": 12669.8549643204,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 1994,
-    "Value": 820442318835.769,
+    "Value": 13691.0195345562,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 1993,
-    "Value": 767358821603.288,
+    "Value": 13325.3361933875,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 1992,
-    "Value": 588185267225.965,
+    "Value": 13060.7276148963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 1991,
-    "Value": 554939287157.171,
+    "Value": 12857.6857954168,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mexico",
     "Year": 1990,
-    "Value": 515305450442.22,
+    "Value": 12584.4679033367,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2016,
-    "Value": 368194046.098812,
+    "Value": 3253.47975532675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2015,
-    "Value": 363787753.835656,
+    "Value": 3271.26702149826,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2014,
-    "Value": 342971406.367797,
+    "Value": 3130.054449859,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2013,
-    "Value": 344349073.960827,
+    "Value": 3208.68287379986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2012,
-    "Value": 352476597.279342,
+    "Value": 3343.87635487685,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2011,
-    "Value": 353126615.296906,
+    "Value": 3412.90655368719,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2010,
-    "Value": 334778100.223427,
+    "Value": 3297.65693360804,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2009,
-    "Value": 324120442.31991,
+    "Value": 3220.97630144598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2008,
-    "Value": 317934806.00406,
+    "Value": 3167.71662996746,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2007,
-    "Value": 318890249.212021,
+    "Value": 3221.06312805464,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2006,
-    "Value": 316841223.967909,
+    "Value": 3266.69921291057,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2005,
-    "Value": 307799506.443708,
+    "Value": 3255.20463182086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2004,
-    "Value": 292194649.143004,
+    "Value": 3178.19997197122,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2003,
-    "Value": 293565970.261582,
+    "Value": 3273.57657894626,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2002,
-    "Value": 282330064.279196,
+    "Value": 3206.05023425746,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2001,
-    "Value": 276403331.90653,
+    "Value": 3181.51942864264,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 2000,
-    "Value": 265604105.305274,
+    "Value": 3119.11544350034,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 1999,
-    "Value": 248361447.772245,
+    "Value": 2972.37082093047,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 1998,
-    "Value": 241279300.884995,
+    "Value": 2920.37143500805,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 1997,
-    "Value": 231836471.835191,
+    "Value": 2829.62977301078,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 1996,
-    "Value": 242654114.20652,
+    "Value": 3016.74408223724,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 1995,
-    "Value": 245956826.884904,
+    "Value": 3136.43790627049,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 1994,
-    "Value": 224993221.238645,
+    "Value": 2970.34819595308,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 1993,
-    "Value": 221488745.693423,
+    "Value": 3047.31030734923,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 1992,
-    "Value": 200055582.666928,
+    "Value": 2887.96347401355,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 1991,
-    "Value": 188059402.456967,
+    "Value": 2850.13850360709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Micronesia",
     "Year": 1990,
-    "Value": 169418192.776877,
+    "Value": 2721.05686705971,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2016,
-    "Value": 8522768440706.05,
+    "Value": 18055.2331738744,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2015,
-    "Value": 7994160119362.36,
+    "Value": 17463.6443779569,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2014,
-    "Value": 7710631343321.45,
+    "Value": 17372.2066075685,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2013,
-    "Value": 7347593915108.13,
+    "Value": 17158.1466141055,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2012,
-    "Value": 7023488963122.77,
+    "Value": 17022.9024081609,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2011,
-    "Value": 6728078034801.38,
+    "Value": 16965.536804947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2010,
-    "Value": 6393923039377.44,
+    "Value": 16807.6482583045,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2009,
-    "Value": 6012045135932.9,
+    "Value": 16341.177500758,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2008,
-    "Value": 5910532650275.01,
+    "Value": 16551.7325057366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2007,
-    "Value": 5554445764481.29,
+    "Value": 16183.7002756238,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2006,
-    "Value": 5142620479748.66,
+    "Value": 15714.7038411792,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2005,
-    "Value": 4722666910717.39,
+    "Value": 15169.7966185208,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2004,
-    "Value": 4369760549519.11,
+    "Value": 14739.5167958211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2003,
-    "Value": 3936681597113.64,
+    "Value": 13909.1300907129,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2002,
-    "Value": 3683343987382.63,
+    "Value": 13480.6912633443,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2001,
-    "Value": 3555102387280.54,
+    "Value": 13470.843871353,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 2000,
-    "Value": 3416682719902.31,
+    "Value": 13493.8380035661,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 1999,
-    "Value": 3166599534827.01,
+    "Value": 13057.3286656978,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 1998,
-    "Value": 3047978941884.18,
+    "Value": 13018.4138030036,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 1997,
-    "Value": 2876555149153.22,
+    "Value": 12672.4085519385,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 1996,
-    "Value": 2731982271604.4,
+    "Value": 12499.5942760335,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 1995,
-    "Value": 2555512744784.03,
+    "Value": 12161.1345801564,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 1994,
-    "Value": 2436319819091.91,
+    "Value": 12161.5323968833,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 1993,
-    "Value": 2335311995766.29,
+    "Value": 12173.1747802152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 1992,
-    "Value": 2235868416094.73,
+    "Value": 12209.6221187923,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 1991,
-    "Value": 2088812910448.32,
+    "Value": 11862.0277139275,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa",
     "Year": 1990,
-    "Value": 1957102350796,
+    "Value": 11785.55176519,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2016,
-    "Value": 4900940880577.6,
+    "Value": 12155.8422057327,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2015,
-    "Value": 4504636000305.91,
+    "Value": 11507.6573129563,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2014,
-    "Value": 4392985814353.92,
+    "Value": 11549.2269707107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2013,
-    "Value": 4183112918336.17,
+    "Value": 11397.4098575312,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2012,
-    "Value": 4026536661371.49,
+    "Value": 11350.5251651322,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2011,
-    "Value": 3942013396764.97,
+    "Value": 11532.3557315611,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2010,
-    "Value": 3883868425065.43,
+    "Value": 11810.364397917,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2009,
-    "Value": 3645827124661.97,
+    "Value": 11427.0626652067,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2008,
-    "Value": 3525096557293.8,
+    "Value": 11341.8417220279,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2007,
-    "Value": 3336376027661.79,
+    "Value": 11139.5245458504,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2006,
-    "Value": 3063839876054.5,
+    "Value": 10687.9746564152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2005,
-    "Value": 2816261909048.83,
+    "Value": 10306.0188471675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2004,
-    "Value": 2610288664136.37,
+    "Value": 10034.254109137,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2003,
-    "Value": 2355161252076.32,
+    "Value": 9464.1868032886,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2002,
-    "Value": 2251142389325.55,
+    "Value": 9386.45029681371,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2001,
-    "Value": 2139321573812.96,
+    "Value": 9220.08196402602,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 2000,
-    "Value": 2033266695145.13,
+    "Value": 9124.75604249474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 1999,
-    "Value": 1904100530697.22,
+    "Value": 8900.05309534846,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 1998,
-    "Value": 1785999584604.76,
+    "Value": 8642.01399743341,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 1997,
-    "Value": 1658580686145.84,
+    "Value": 8275.76849006972,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 1996,
-    "Value": 1570349158539.99,
+    "Value": 8133.55748087401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 1995,
-    "Value": 1451052235797.24,
+    "Value": 7813.09754239169,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 1994,
-    "Value": 1382364847459.77,
+    "Value": 7758.29161902759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 1993,
-    "Value": 1334440282530.29,
+    "Value": 7813.48766902602,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 1992,
-    "Value": 1281788902871.33,
+    "Value": 7855.1715530317,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 1991,
-    "Value": 1196437155903.83,
+    "Value": 7675.20031200943,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (excluding high income)",
     "Year": 1990,
-    "Value": 1179142025133.01,
+    "Value": 8010.77257596775,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2016,
-    "Value": 4878224439331.4,
+    "Value": 12252.8839854412,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2015,
-    "Value": 4482754457067.64,
+    "Value": 11596.0880240687,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2014,
-    "Value": 4373928318779.45,
+    "Value": 11637.4298662907,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2013,
-    "Value": 4164073387538.26,
+    "Value": 11481.0241276502,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2012,
-    "Value": 4006854567277.27,
+    "Value": 11432.2098029595,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2011,
-    "Value": 3925331936890.09,
+    "Value": 11617.0172089739,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2010,
-    "Value": 3868765359499.68,
+    "Value": 11901.7257028791,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2009,
-    "Value": 3631283913558.48,
+    "Value": 11515.272241197,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2008,
-    "Value": 3513125673594.85,
+    "Value": 11430.5141136788,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2007,
-    "Value": 3323582939313.73,
+    "Value": 11226.2130362512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2006,
-    "Value": 3051084975534,
+    "Value": 10770.4142251253,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2005,
-    "Value": 2803201146177.61,
+    "Value": 10380.9343806917,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2004,
-    "Value": 2598929012440.05,
+    "Value": 10108.5737209008,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2003,
-    "Value": 2344985575483.84,
+    "Value": 9534.22934633281,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2002,
-    "Value": 2242083276995.01,
+    "Value": 9458.53713738046,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2001,
-    "Value": 2130237561965.45,
+    "Value": 9284.48312892468,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 2000,
-    "Value": 2023710171543.1,
+    "Value": 9182.94707132234,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 1999,
-    "Value": 1893633107924.35,
+    "Value": 8950.52537812828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 1998,
-    "Value": 1777377418957.31,
+    "Value": 8691.83879694595,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 1997,
-    "Value": 1651962921716.64,
+    "Value": 8325.894386072,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 1996,
-    "Value": 1565252060548.09,
+    "Value": 8184.4691358201,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 1995,
-    "Value": 1446394270673.5,
+    "Value": 7858.41332118509,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 1994,
-    "Value": 1378138952245.53,
+    "Value": 7802.90067710788,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 1993,
-    "Value": 1330360892914.74,
+    "Value": 7856.67067500083,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 1992,
-    "Value": 1277870468747.18,
+    "Value": 7896.92743980419,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 1991,
-    "Value": 1192779642432.93,
+    "Value": 7714.49484319374,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle East & North Africa (IDA & IBRD)",
     "Year": 1990,
-    "Value": 1175537382950.39,
+    "Value": 8050.34877352604,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2016,
-    "Value": 64020365968748.4,
+    "Value": 10673.1425979885,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2015,
-    "Value": 60479631129084.6,
+    "Value": 10319.813071905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2014,
-    "Value": 57594383503287.5,
+    "Value": 10010.622343238,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2013,
-    "Value": 54027251127631,
+    "Value": 9662.68389052939,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2012,
-    "Value": 50569452319894.8,
+    "Value": 9285.62045174833,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2011,
-    "Value": 47259842821155.4,
+    "Value": 8943.23312022554,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2010,
-    "Value": 43276886880985.9,
+    "Value": 8531.37137857839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2009,
-    "Value": 39657840150008.7,
+    "Value": 8022.07749213561,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2008,
-    "Value": 38035224287129.8,
+    "Value": 7893.78709536507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2007,
-    "Value": 34865213977182.8,
+    "Value": 7561.66357421678,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2006,
-    "Value": 31139863486137.4,
+    "Value": 7026.60670051085,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2005,
-    "Value": 27596375079205.1,
+    "Value": 6570.33436033394,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2004,
-    "Value": 24827685202408.7,
+    "Value": 6200.89406624799,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2003,
-    "Value": 22315732596599.4,
+    "Value": 5804.9419582211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2002,
-    "Value": 20619992408269.5,
+    "Value": 5549.50332213054,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2001,
-    "Value": 19443563272351.2,
+    "Value": 5380.62588284836,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 2000,
-    "Value": 18306822507037.8,
+    "Value": 5253.12895572756,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 1999,
-    "Value": 16927460034552.2,
+    "Value": 5038.29319577677,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 1998,
-    "Value": 16037766894972.7,
+    "Value": 4919.79423254298,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 1997,
-    "Value": 15505577824859.5,
+    "Value": 4895.44661175546,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 1996,
-    "Value": 14534919972272.3,
+    "Value": 4743.03463932869,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 1995,
-    "Value": 13552609819103.3,
+    "Value": 4582.87001831439,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 1994,
-    "Value": 12773221911869.1,
+    "Value": 4481.57299624479,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 1993,
-    "Value": 12121662950243.3,
+    "Value": 4446.72281250876,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 1992,
-    "Value": 11323164126603,
+    "Value": 4402.08444944269,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 1991,
-    "Value": 10836027771496.9,
+    "Value": 4431.14603122044,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Middle income",
     "Year": 1990,
-    "Value": 10335821667136.5,
+    "Value": 4466.32951504043,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2016,
-    "Value": 18940040884.8539,
+    "Value": 4944.39969340973,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2015,
-    "Value": 17964887415.5202,
+    "Value": 4746.78491111423,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2014,
-    "Value": 17843534480.2354,
+    "Value": 4762.78087267429,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2013,
-    "Value": 16726094467.0103,
+    "Value": 4541.86822214577,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2012,
-    "Value": 15045941576.5224,
+    "Value": 4150.50476317762,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2011,
-    "Value": 14877946210.3745,
+    "Value": 4179.21480881512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2010,
-    "Value": 13648863033.0868,
+    "Value": 3910.86053324527,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2009,
-    "Value": 12590265305.0169,
+    "Value": 3647.9522995366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2008,
-    "Value": 13292948029.0229,
+    "Value": 3875.90436411118,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2007,
-    "Value": 12093885454.4519,
+    "Value": 3588.62131768509,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2006,
-    "Value": 11437252575.6532,
+    "Value": 3476.03340968826,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2005,
-    "Value": 10588113871.218,
+    "Value": 3307.62033414767,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2004,
-    "Value": 9542369318.42839,
+    "Value": 3069.37900853074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2003,
-    "Value": 8647116066.6319,
+    "Value": 2850.83168356425,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2002,
-    "Value": 7953150855.08575,
+    "Value": 2666.80599154505,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2001,
-    "Value": 7266146571.82155,
+    "Value": 2468.12371052615,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 2000,
-    "Value": 6695803757.54483,
+    "Value": 2321.02779552393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 1999,
-    "Value": 6411689157.29527,
+    "Value": 2268.49903450595,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 1998,
-    "Value": 6535169731.47081,
+    "Value": 2343.88795443004,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 1997,
-    "Value": 6917568443.90175,
+    "Value": 2506.95074792762,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 1996,
-    "Value": 6690961781.7703,
+    "Value": 2457.22392959431,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Moldova",
     "Year": 1995,
-    "Value": 6981299769.6747,
+    "Value": 2605.43173610128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2016,
-    "Value": 37092519479.7894,
+    "Value": 11361.0064180842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2015,
-    "Value": 36175519483.5637,
+    "Value": 11411.9421058207,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2014,
-    "Value": 34955544383.524,
+    "Value": 11348.6473412397,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2013,
-    "Value": 31829443015.4008,
+    "Value": 10720.0621460769,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2012,
-    "Value": 28055413599.8609,
+    "Value": 9788.82502176457,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2011,
-    "Value": 24526362242.0886,
+    "Value": 8881.48475043728,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2010,
-    "Value": 20487738301.8324,
+    "Value": 7708.59999413593,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2009,
-    "Value": 19029285887.7887,
+    "Value": 7367.78598725674,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2008,
-    "Value": 19128524358.0365,
+    "Value": 7576.48136331738,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2007,
-    "Value": 17227228990.6703,
+    "Value": 7055.13810573418,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2006,
-    "Value": 15220808748.1143,
+    "Value": 6483.53499783213,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2005,
-    "Value": 13603201485.5021,
+    "Value": 6047.13473486167,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2004,
-    "Value": 12287826475.1153,
+    "Value": 5705.03351665273,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2003,
-    "Value": 10810344655.7556,
+    "Value": 5214.60300267763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2002,
-    "Value": 9905173527.60359,
+    "Value": 4924.35613464894,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2001,
-    "Value": 9314559639.70514,
+    "Value": 4748.22660232291,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 2000,
-    "Value": 8845827991.43708,
+    "Value": 4655.0226037947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 1999,
-    "Value": 8551017898.2225,
+    "Value": 4643.48226325156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 1998,
-    "Value": 8171244798.54834,
+    "Value": 4544.50205793805,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 1997,
-    "Value": 7822259414.07844,
+    "Value": 4435.0823134678,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 1996,
-    "Value": 7402191723.51385,
+    "Value": 4303.98887253462,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 1995,
-    "Value": 7110555824.07341,
+    "Value": 4243.83617517319,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 1994,
-    "Value": 6547768858.64919,
+    "Value": 4020.14105905664,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 1993,
-    "Value": 6277344735.16424,
+    "Value": 3966.20998867155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 1992,
-    "Value": 6332112691.38938,
+    "Value": 4131.96682047679,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 1991,
-    "Value": 6822509263.54219,
+    "Value": 4605.98066707738,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mongolia",
     "Year": 1990,
-    "Value": 7231401440.3879,
+    "Value": 5122.53160723357,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2016,
-    "Value": 10973151555.7666,
+    "Value": 15737.0211253013,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2015,
-    "Value": 10123892970.413,
+    "Value": 15289.7173970979,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2014,
-    "Value": 9557934926.67326,
+    "Value": 14796.639192086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2013,
-    "Value": 9237436049.46791,
+    "Value": 14551.4467117944,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2012,
-    "Value": 8603921779.76127,
+    "Value": 14066.4356048217,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2011,
-    "Value": 8974076919.66396,
+    "Value": 14472.4735391199,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2010,
-    "Value": 8454097514.45422,
+    "Value": 14034.5845640087,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2009,
-    "Value": 8051715192.09754,
+    "Value": 13686.1000631178,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2008,
-    "Value": 8524381646.16792,
+    "Value": 14559.2131506205,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2007,
-    "Value": 7640011575.3407,
+    "Value": 14092.6169579608,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2006,
-    "Value": 6365444366.77346,
+    "Value": 12752.9020496365,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2005,
-    "Value": 5106776893.24938,
+    "Value": 11761.2652061499,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2004,
-    "Value": 4807462110.58508,
+    "Value": 11304.672203459,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2003,
-    "Value": 4489196226.68156,
+    "Value": 10847.4361317856,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2002,
-    "Value": 4329142307.69231,
+    "Value": 10625.1907277196,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2001,
-    "Value": 4117312146.37858,
+    "Value": 10468.9468264335,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Montenegro",
     "Year": 2000,
-    "Value": 3630733972.8052,
+    "Value": 10396.7900806491,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Montenegro",
+    "Year": 1999,
+    "Value": 10066.6915361543,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Montenegro",
+    "Year": 1998,
+    "Value": 11080.7667672679,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "Montenegro",
+    "Year": 1997,
+    "Value": 10530.9713516669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2016,
-    "Value": 281420173467.413,
+    "Value": 7285.90832106945,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2015,
-    "Value": 274519201018.857,
+    "Value": 7296.93440143191,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2014,
-    "Value": 259756533531.375,
+    "Value": 7078.88148932392,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2013,
-    "Value": 248542121545.863,
+    "Value": 6995.93818558948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2012,
-    "Value": 233979960553.643,
+    "Value": 6791.3351346285,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2011,
-    "Value": 223034630236.893,
+    "Value": 6688.40260633548,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2010,
-    "Value": 207631239181.572,
+    "Value": 6443.25361319481,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2009,
-    "Value": 197586587974.214,
+    "Value": 6287.87064386865,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2008,
-    "Value": 188114244456.24,
+    "Value": 6106.84544477839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2007,
-    "Value": 174178111265.111,
+    "Value": 5834.01224051593,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2006,
-    "Value": 163875399065.188,
+    "Value": 5700.92332732755,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2005,
-    "Value": 147795791639.36,
+    "Value": 5361.66283419226,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2004,
-    "Value": 138625453150.33,
+    "Value": 5252.30109693447,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2003,
-    "Value": 128739969048.188,
+    "Value": 5071.71729952611,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2002,
-    "Value": 119121958103.544,
+    "Value": 4843.98989187513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2001,
-    "Value": 113769672518.1,
+    "Value": 4754.19233348353,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 2000,
-    "Value": 103647760628.75,
+    "Value": 4483.80840635475,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 1999,
-    "Value": 99439557520.1356,
+    "Value": 4453.46660083974,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 1998,
-    "Value": 96893013106.0136,
+    "Value": 4460.46967469518,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 1997,
-    "Value": 89382747740.491,
+    "Value": 4212.62151128949,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 1996,
-    "Value": 89271970320.8046,
+    "Value": 4337.14326589323,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 1995,
-    "Value": 78018364843.94,
+    "Value": 3915.21761482867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 1994,
-    "Value": 80791543783.1589,
+    "Value": 4203.00594043673,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 1993,
-    "Value": 71533999816.6226,
+    "Value": 3863.40785892617,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 1992,
-    "Value": 70392896349.2691,
+    "Value": 3960.06610920777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 1991,
-    "Value": 70298701148.7489,
+    "Value": 4118.02292754559,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Morocco",
     "Year": 1990,
-    "Value": 63455192136.7072,
+    "Value": 3912.00572444531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2016,
-    "Value": 35079498462.3859,
+    "Value": 1128.27929420544,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2015,
-    "Value": 33353792608.2828,
+    "Value": 1118.21953612903,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2014,
-    "Value": 30954841951.9901,
+    "Value": 1079.82153338471,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2013,
-    "Value": 28302319047.6174,
+    "Value": 1034.58942311209,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2012,
-    "Value": 25995950738.6357,
+    "Value": 994.124894186689,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2011,
-    "Value": 23811739934.0183,
+    "Value": 954.799116244546,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2010,
-    "Value": 21779856569.2943,
+    "Value": 917.763832040531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2009,
-    "Value": 20168259027.2847,
+    "Value": 885.734281724852,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2008,
-    "Value": 18820849624.0026,
+    "Value": 857.526881720011,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2007,
-    "Value": 17271159861.1186,
+    "Value": 826.162668025628,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2006,
-    "Value": 15660475301.9884,
+    "Value": 791.927644030124,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2005,
-    "Value": 13831168695.3285,
+    "Value": 742.424003693258,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2004,
-    "Value": 12325168038.7221,
+    "Value": 703.392186778556,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2003,
-    "Value": 11126238702.1253,
+    "Value": 672.155095731375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2002,
-    "Value": 10242864498.1625,
+    "Value": 650.152478124487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2001,
-    "Value": 9272566293.12569,
+    "Value": 615.309821729794,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 2000,
-    "Value": 8042835632.91214,
+    "Value": 561.612753375431,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 1999,
-    "Value": 7734074558.20057,
+    "Value": 567.50702112752,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 1998,
-    "Value": 7064822986.80151,
+    "Value": 540.094616465283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 1997,
-    "Value": 6247999794.03044,
+    "Value": 495.421676017455,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 1996,
-    "Value": 5541999144.379,
+    "Value": 459.426475337423,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 1995,
-    "Value": 4290769849.42788,
+    "Value": 373.435311622423,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 1994,
-    "Value": 4111127957.19444,
+    "Value": 378.275282704487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 1993,
-    "Value": 3791921567.80552,
+    "Value": 370.450410282445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 1992,
-    "Value": 3405254982.51615,
+    "Value": 354.284535309284,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 1991,
-    "Value": 3513144740.80755,
+    "Value": 387.023287786054,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Mozambique",
     "Year": 1990,
-    "Value": 3241159313.4595,
+    "Value": 378.534273498086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2016,
-    "Value": 302568418805.604,
+    "Value": 5305.04713749719,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2015,
-    "Value": 282186913053.741,
+    "Value": 5056.85904071061,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2014,
-    "Value": 260915087138.129,
+    "Value": 4770.01209867368,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2013,
-    "Value": 237348009308.197,
+    "Value": 4457.90132904328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2012,
-    "Value": 215424107013.539,
+    "Value": 4148.69819576985,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2011,
-    "Value": 197076675497.924,
+    "Value": 3898.41462716496,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2010,
-    "Value": 182865208658.523,
+    "Value": 3721.21144009279,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2009,
-    "Value": 164782832108.677,
+    "Value": 3418.40866072166,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2008,
-    "Value": 147933815118.191,
+    "Value": 3112.23973581319,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2007,
-    "Value": 131592538987.453,
+    "Value": 2840.44800979782,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2006,
-    "Value": 114456257864.921,
+    "Value": 2553.18939033366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2005,
-    "Value": 98203482600.5371,
+    "Value": 2274.88473607483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2004,
-    "Value": 83774792580.0002,
+    "Value": 2020.1248042892,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2003,
-    "Value": 71794222734.9964,
+    "Value": 1795.59579688634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2002,
-    "Value": 61830747862.0677,
+    "Value": 1593.45888607089,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2001,
-    "Value": 54358973913.5854,
+    "Value": 1438.0328017376,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 2000,
-    "Value": 47732962610.3728,
+    "Value": 1306.44323554326,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 1999,
-    "Value": 41030879558.0443,
+    "Value": 1162.5863258659,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 1998,
-    "Value": 36425608914.8664,
+    "Value": 1061.39962694875,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 1997,
-    "Value": 34037811255.0252,
+    "Value": 1015.88107895931,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 1996,
-    "Value": 31674921160.4891,
+    "Value": 974.234369873173,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 1995,
-    "Value": 29224212595.3607,
+    "Value": 927.02568126727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 1994,
-    "Value": 26767334772.2764,
+    "Value": 877.465847419518,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 1993,
-    "Value": 24385986577.6996,
+    "Value": 826.132906284406,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 1992,
-    "Value": 22462652284.5426,
+    "Value": 788.388429898514,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 1991,
-    "Value": 20027200667.0855,
+    "Value": 728.031674937017,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Myanmar",
     "Year": 1990,
-    "Value": 19508994882.5217,
+    "Value": 742.970893451487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2016,
-    "Value": 26346769886.4437,
+    "Value": 9852.03511061328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2015,
-    "Value": 25736528443.9742,
+    "Value": 9964.22299381275,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2014,
-    "Value": 24021364816.9546,
+    "Value": 9617.39696003183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2013,
-    "Value": 22188516910.9227,
+    "Value": 9255.65652824516,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2012,
-    "Value": 20675021621.6062,
+    "Value": 8967.16315170522,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2011,
-    "Value": 19322996884.943,
+    "Value": 8721.25552382066,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2010,
-    "Value": 18014918715.1115,
+    "Value": 8460.84736812378,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2009,
-    "Value": 16783925351.4385,
+    "Value": 8113.87411694377,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2008,
-    "Value": 16608267429.7286,
+    "Value": 8207.70498040061,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2007,
-    "Value": 15868266167.3626,
+    "Value": 8097.5508536234,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2006,
-    "Value": 14497586887.4152,
+    "Value": 7684.32119324159,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2005,
-    "Value": 13136304637.1385,
+    "Value": 7259.82502791187,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2004,
-    "Value": 12412848643.4263,
+    "Value": 7161.67634608083,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2003,
-    "Value": 10760410351.1868,
+    "Value": 6451.87161144751,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2002,
-    "Value": 10120930066.3034,
+    "Value": 6266.38178660626,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2001,
-    "Value": 9512393898.94051,
+    "Value": 6068.31841329988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 2000,
-    "Value": 9192166928.24109,
+    "Value": 6106.10816370867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 1999,
-    "Value": 8684376796.94137,
+    "Value": 6030.94202155958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 1998,
-    "Value": 8274683853.41362,
+    "Value": 5987.35259015359,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 1997,
-    "Value": 7924988665.11707,
+    "Value": 5966.50340341456,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 1996,
-    "Value": 7476134196.70892,
+    "Value": 5901.04968048483,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 1995,
-    "Value": 7115036354.80227,
+    "Value": 5895.18426126783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 1994,
-    "Value": 6708120955.25844,
+    "Value": 5845.72649929749,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 1993,
-    "Value": 6456645806.6849,
+    "Value": 5918.47416298672,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 1992,
-    "Value": 6407809266.27952,
+    "Value": 6197.24108452828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 1991,
-    "Value": 5844793311.36037,
+    "Value": 5970.84339102371,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Namibia",
     "Year": 1990,
-    "Value": 5229495146.28968,
+    "Value": 5719.28197284453,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nauru",
     "Year": 2016,
-    "Value": 182248829.534125,
+    "Value": 12950.5289813432,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nauru",
     "Year": 2015,
-    "Value": 163000890.133807,
+    "Value": 12270.2975919501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nauru",
     "Year": 2014,
-    "Value": 156847636.963905,
+    "Value": 12561.4463359568,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nauru",
     "Year": 2013,
-    "Value": 112860925.262484,
+    "Value": 10078.3913558214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nauru",
     "Year": 2012,
-    "Value": 82753192.1669691,
+    "Value": 7905.08875483864,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nauru",
     "Year": 2011,
-    "Value": 73811384.0187438,
+    "Value": 7339.30436698258,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nauru",
     "Year": 2010,
-    "Value": 64752285.8004785,
+    "Value": 6592.43683574598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nauru",
     "Year": 2009,
-    "Value": 56336865.5943796,
+    "Value": 5803.97766706255,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nauru",
     "Year": 2008,
-    "Value": 51456289.111535,
+    "Value": 5331.32502981312,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nauru",
     "Year": 2007,
-    "Value": 37543967.8212715,
+    "Value": 3955.16775761366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2016,
-    "Value": 71816505211.0805,
+    "Value": 2297.65253885535,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2015,
-    "Value": 70620227101.0517,
+    "Value": 2314.27488100624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2014,
-    "Value": 67615804894.6131,
+    "Value": 2266.18429824848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2013,
-    "Value": 62670395136.7482,
+    "Value": 2163.95048949901,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2012,
-    "Value": 59228862721.5316,
+    "Value": 2103.35363783625,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2011,
-    "Value": 55503825716.8332,
+    "Value": 2031.08746466776,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2010,
-    "Value": 52581800527.278,
+    "Value": 1985.98034060169,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2009,
-    "Value": 49560311857.9882,
+    "Value": 1914.70596870326,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2008,
-    "Value": 47053785295.4903,
+    "Value": 1850.0250412581,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2007,
-    "Value": 43493414038.2746,
+    "Value": 1760.94570813253,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2006,
-    "Value": 40968257729.8933,
+    "Value": 1720.85344101366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2005,
-    "Value": 38453314320.796,
+    "Value": 1684.33871204043,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2004,
-    "Value": 36002020703.5402,
+    "Value": 1648.98474917753,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2003,
-    "Value": 33471233015.3476,
+    "Value": 1597.87727853346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2002,
-    "Value": 31571345140.3242,
+    "Value": 1561.27915146334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2001,
-    "Value": 31056662411.141,
+    "Value": 1585.51437393587,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 2000,
-    "Value": 28973998271.5097,
+    "Value": 1539.71867161132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 1999,
-    "Value": 26675478455.9286,
+    "Value": 1476.88476083853,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 1998,
-    "Value": 25163071724.9211,
+    "Value": 1442.29938277816,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 1997,
-    "Value": 24164038261.4206,
+    "Value": 1429.23895050167,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 1996,
-    "Value": 22615652339.0309,
+    "Value": 1390.76475797186,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 1995,
-    "Value": 21086637426.5825,
+    "Value": 1351.69716220373,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 1994,
-    "Value": 19963402717.5626,
+    "Value": 1339.51972383657,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 1993,
-    "Value": 18063324660.5133,
+    "Value": 1271.0760353368,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 1992,
-    "Value": 16989469638.5914,
+    "Value": 1257.83869442867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 1991,
-    "Value": 15955615210.3277,
+    "Value": 1241.41755487461,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nepal",
     "Year": 1990,
-    "Value": 14517163457.9164,
+    "Value": 1197.94780348911,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2016,
-    "Value": 860688339002.733,
+    "Value": 47269.6329521216,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2015,
-    "Value": 838994910472.936,
+    "Value": 46494.3642578078,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2014,
-    "Value": 819744855946.726,
+    "Value": 45668.4414721322,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2013,
-    "Value": 817809829033.058,
+    "Value": 45191.4862497619,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2012,
-    "Value": 782578529077.835,
+    "Value": 45411.3523464895,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2011,
-    "Value": 768994037544.928,
+    "Value": 46066.6524059576,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2010,
-    "Value": 740096779145.957,
+    "Value": 45524.6621425733,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2009,
-    "Value": 727954715308.574,
+    "Value": 45125.8059189752,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2008,
-    "Value": 753929993217.54,
+    "Value": 47134.3029916063,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2007,
-    "Value": 712139157899.626,
+    "Value": 46527.6183857825,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2006,
-    "Value": 663695073266.201,
+    "Value": 44965.8849968144,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2005,
-    "Value": 608165512813.511,
+    "Value": 43507.3004303623,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2004,
-    "Value": 576837286523.336,
+    "Value": 42686.8868319983,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2003,
-    "Value": 546810735673.591,
+    "Value": 41982.9214289502,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2002,
-    "Value": 548919203030.872,
+    "Value": 42062.0472712533,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2001,
-    "Value": 527345418019.058,
+    "Value": 42287.561885314,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 2000,
-    "Value": 503117669714.531,
+    "Value": 41721.6940459667,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 1999,
-    "Value": 457698235904.837,
+    "Value": 40312.2364754538,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 1998,
-    "Value": 429375758244.182,
+    "Value": 38629.9401960204,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 1997,
-    "Value": 401420410174.51,
+    "Value": 37186.0604468137,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 1996,
-    "Value": 376130717569.917,
+    "Value": 35837.030737264,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 1995,
-    "Value": 357246703049.336,
+    "Value": 34762.8693719334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 1994,
-    "Value": 339372882317.939,
+    "Value": 33879.3060799704,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 1993,
-    "Value": 322744553085.65,
+    "Value": 33103.955787885,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 1992,
-    "Value": 311328721957.593,
+    "Value": 32921.488544792,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 1991,
-    "Value": 299284229332.804,
+    "Value": 32614.9035517922,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Netherlands",
     "Year": 1990,
-    "Value": 282746697632.992,
+    "Value": 32090.2110490577,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2016,
-    "Value": 180995151483.777,
+    "Value": 34962.6787324177,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2015,
-    "Value": 172001393747.267,
+    "Value": 34646.3136088164,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2014,
-    "Value": 167920429226.85,
+    "Value": 34468.7685615064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2013,
-    "Value": 160669000033.887,
+    "Value": 33841.1802945115,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2012,
-    "Value": 145405724173.621,
+    "Value": 33286.7569869187,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2011,
-    "Value": 143508208746.799,
+    "Value": 32734.5366666969,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2010,
-    "Value": 136025173650.581,
+    "Value": 32252.9188480016,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2009,
-    "Value": 132092574761.042,
+    "Value": 32122.8375670386,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2008,
-    "Value": 127199205210.407,
+    "Value": 32544.6375262321,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2007,
-    "Value": 124123600118.514,
+    "Value": 33193.6266341458,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2006,
-    "Value": 116191729957.806,
+    "Value": 32564.3034985583,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2005,
-    "Value": 106147231270.358,
+    "Value": 32064.5518769375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2004,
-    "Value": 102538314208.018,
+    "Value": 31392.125894923,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2003,
-    "Value": 96506705954.4815,
+    "Value": 30652.1096065469,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2002,
-    "Value": 92025525507.1268,
+    "Value": 29900.400084972,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2001,
-    "Value": 87378126684.4348,
+    "Value": 29066.9794891868,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 2000,
-    "Value": 82977550729.314,
+    "Value": 28264.565116266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 1999,
-    "Value": 78923229197.1617,
+    "Value": 27628.9117295039,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 1998,
-    "Value": 73744304846.0583,
+    "Value": 26337.8427809977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 1997,
-    "Value": 72350183336.2785,
+    "Value": 26358.2522361851,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 1996,
-    "Value": 68919186066.3281,
+    "Value": 26173.7667418758,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 1995,
-    "Value": 65770553468.8165,
+    "Value": 25660.4169737492,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 1994,
-    "Value": 61856057218.2696,
+    "Value": 24861.6090776293,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 1993,
-    "Value": 57001052080.3355,
+    "Value": 23963.9498045429,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 1992,
-    "Value": 52668983633.981,
+    "Value": 22781.5676708963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 1991,
-    "Value": 50899742241.6202,
+    "Value": 22767.4966097501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "New Zealand",
     "Year": 1990,
-    "Value": 49504519121.1595,
+    "Value": 24160.7746473026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2016,
-    "Value": 34069535435.5633,
+    "Value": 5136.84157370583,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2015,
-    "Value": 32129561645.4129,
+    "Value": 4960.91241228007,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2014,
-    "Value": 30313760122.9245,
+    "Value": 4784.83046071357,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2013,
-    "Value": 28419322954.5747,
+    "Value": 4618.72719135384,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2012,
-    "Value": 26654358209.2346,
+    "Value": 4453.25351444377,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2011,
-    "Value": 24575775913.5901,
+    "Value": 4231.49751775883,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2010,
-    "Value": 22648036423.5052,
+    "Value": 4028.71208738128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2009,
-    "Value": 21429691751.0491,
+    "Value": 3906.98910729919,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2008,
-    "Value": 21992306871.016,
+    "Value": 4092.06141219441,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2007,
-    "Value": 20852760882.2202,
+    "Value": 4008.00836144647,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2006,
-    "Value": 19330881699.183,
+    "Value": 3864.69348550989,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2005,
-    "Value": 18067253165.6738,
+    "Value": 3772.09514698325,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2004,
-    "Value": 16785226340.759,
+    "Value": 3664.62402679365,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2003,
-    "Value": 15512006787.105,
+    "Value": 3525.46946327497,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2002,
-    "Value": 14834790581.4902,
+    "Value": 3484.76269046057,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2001,
-    "Value": 14501171208.0947,
+    "Value": 3506.81871725765,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 2000,
-    "Value": 13770348634.4762,
+    "Value": 3456.08170724285,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 1999,
-    "Value": 12933494326.7198,
+    "Value": 3371.65035378148,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 1998,
-    "Value": 11901189290.0956,
+    "Value": 3201.7877604391,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 1997,
-    "Value": 11352065053.7714,
+    "Value": 3140.72351764868,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 1996,
-    "Value": 10735214883.6404,
+    "Value": 3076.07261783113,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 1995,
-    "Value": 9913793656.39078,
+    "Value": 2948.09559805656,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 1994,
-    "Value": 9169175231.05326,
+    "Value": 2839.87647375843,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 1993,
-    "Value": 8688132981.84248,
+    "Value": 2806.60181016943,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 1992,
-    "Value": 8519546760.79677,
+    "Value": 2879.62001117274,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 1991,
-    "Value": 8297682931.24006,
+    "Value": 2932.52843567815,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nicaragua",
     "Year": 1990,
-    "Value": 8045734552.27144,
+    "Value": 3003.5190236952,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2016,
-    "Value": 20387843676.1117,
+    "Value": 914.467035761675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2015,
-    "Value": 19165847946.0905,
+    "Value": 904.579781260038,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2014,
-    "Value": 18238353816.5216,
+    "Value": 904.163981383645,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2013,
-    "Value": 16662295458.0498,
+    "Value": 873.795906182152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2012,
-    "Value": 15576828740.508,
+    "Value": 862.587474633302,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2011,
-    "Value": 13679084420.6116,
+    "Value": 801.604231148649,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2010,
-    "Value": 13099591316.5061,
+    "Value": 813.977388000367,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2009,
-    "Value": 11942069577.7476,
+    "Value": 780.167095332991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2008,
-    "Value": 11937133415.7405,
+    "Value": 815.972095645282,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2007,
-    "Value": 10683207091.7767,
+    "Value": 773.019648659542,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2006,
-    "Value": 10088809960.6259,
+    "Value": 777.877220759675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2005,
-    "Value": 9251506263.47712,
+    "Value": 762.962746432412,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2004,
-    "Value": 8577134869.36094,
+    "Value": 757.440998952305,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2003,
-    "Value": 8339259908.76948,
+    "Value": 784.791506776755,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2002,
-    "Value": 7764692737.82654,
+    "Value": 772.820806215056,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2001,
-    "Value": 7424623673.23913,
+    "Value": 777.981646867589,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 2000,
-    "Value": 6777684077.91397,
+    "Value": 753.18566027593,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 1999,
-    "Value": 6721629932.96885,
+    "Value": 792.225130522293,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 1998,
-    "Value": 6658186753.31784,
+    "Value": 826.288653967715,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 1997,
-    "Value": 5965014651.84862,
+    "Value": 775.973223711734,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 1996,
-    "Value": 5707459629.37636,
+    "Value": 782.868156583451,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 1995,
-    "Value": 5419826000.22116,
+    "Value": 784.353174335832,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 1994,
-    "Value": 5174266679.71342,
+    "Value": 791.628297661543,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 1993,
-    "Value": 4871368999.90386,
+    "Value": 787.776086050807,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 1992,
-    "Value": 4690178706.72006,
+    "Value": 803.132472626981,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 1991,
-    "Value": 4905297572.44244,
+    "Value": 887.824358359009,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Niger",
     "Year": 1990,
-    "Value": 4631306292.55414,
+    "Value": 894.251211450548,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2016,
-    "Value": 1090101955132.8,
+    "Value": 5434.73479515789,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2015,
-    "Value": 1094059133381.29,
+    "Value": 5670.63944311419,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2014,
-    "Value": 1054353320375.83,
+    "Value": 5671.90060102365,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2013,
-    "Value": 974289773333.176,
+    "Value": 5479.05833923557,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2012,
-    "Value": 909730361538.592,
+    "Value": 5339.45166805228,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2011,
-    "Value": 856618673550.592,
+    "Value": 5259.29550424022,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2010,
-    "Value": 800182442772.14,
+    "Value": 5150.15881822763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2009,
-    "Value": 733057540456.66,
+    "Value": 4904.92094626372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2008,
-    "Value": 680353840818.2,
+    "Value": 4710.55465978387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2007,
-    "Value": 627894079431.948,
+    "Value": 4551.60543389646,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2006,
-    "Value": 572522761585.426,
+    "Value": 4374.28442282548,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2005,
-    "Value": 513309924885.634,
+    "Value": 4149.27799749232,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2004,
-    "Value": 480748168842.97,
+    "Value": 4116.15673652932,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2003,
-    "Value": 349856049484.53,
+    "Value": 3157.61327796302,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2002,
-    "Value": 310831996548.43,
+    "Value": 2934.860679857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2001,
-    "Value": 294968944732.063,
+    "Value": 2900.03606138977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 2000,
-    "Value": 276212746140.041,
+    "Value": 2848.1505199992,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 1999,
-    "Value": 256430117866.928,
+    "Value": 2772.88632505945,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 1998,
-    "Value": 251372954483.161,
+    "Value": 2829.5444770605,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 1997,
-    "Value": 242099647000.147,
+    "Value": 2824.21025955388,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 1996,
-    "Value": 231537550392.603,
+    "Value": 2816.4394602261,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 1995,
-    "Value": 216571543394.86,
+    "Value": 2750.07152864436,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 1994,
-    "Value": 212801143654.212,
+    "Value": 2828.08751925824,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 1993,
-    "Value": 206488266303.876,
+    "Value": 2873.33723005235,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 1992,
-    "Value": 197559798483.455,
+    "Value": 2885.83870723106,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 1991,
-    "Value": 192322542311.43,
+    "Value": 2946.74187698791,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Nigeria",
     "Year": 1990,
-    "Value": 187284409555.388,
+    "Value": 3041.50936295787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2016,
-    "Value": 20253619415011.7,
+    "Value": 52415.682204115,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2015,
-    "Value": 19724225953518.9,
+    "Value": 52037.1014104876,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2014,
-    "Value": 19048729222314.4,
+    "Value": 51043.3811754249,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2013,
-    "Value": 18245196637932.5,
+    "Value": 50141.2389402965,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2012,
-    "Value": 17623260744276.7,
+    "Value": 49650.6007877796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2011,
-    "Value": 16948942985113.5,
+    "Value": 48975.3766706132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2010,
-    "Value": 16329107646206.7,
+    "Value": 48515.1251633871,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2009,
-    "Value": 15726858403370,
+    "Value": 47706.7571408728,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2008,
-    "Value": 16061447261208.1,
+    "Value": 49521.435681716,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2007,
-    "Value": 15778474917317.6,
+    "Value": 50091.6536182252,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2006,
-    "Value": 15097369834858.6,
+    "Value": 49676.0558524801,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2005,
-    "Value": 14264507094938.1,
+    "Value": 48847.887773348,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2004,
-    "Value": 13357964082520.2,
+    "Value": 47712.9873431486,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2003,
-    "Value": 12533190830415.6,
+    "Value": 46429.4024966916,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2002,
-    "Value": 11947822464740.3,
+    "Value": 45594.6670715212,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2001,
-    "Value": 11559327032106.3,
+    "Value": 45166.4857097482,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 2000,
-    "Value": 11185310033082.7,
+    "Value": 45146.1339303726,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 1999,
-    "Value": 10506372299316.2,
+    "Value": 43809.1636760308,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 1998,
-    "Value": 9881306652316.37,
+    "Value": 42302.9440667416,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 1997,
-    "Value": 9362867299559.69,
+    "Value": 40981.4439211165,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 1996,
-    "Value": 8811414654456.23,
+    "Value": 39697.1622170481,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 1995,
-    "Value": 8351430829414.34,
+    "Value": 38757.0475593238,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 1994,
-    "Value": 7964493974956.15,
+    "Value": 38170.4597383705,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 1993,
-    "Value": 7493244513056.84,
+    "Value": 37118.8144890218,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 1992,
-    "Value": 7124012939281.04,
+    "Value": 36600.7471084312,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 1991,
-    "Value": 6740735853389.29,
+    "Value": 35910.2600752991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "North America",
     "Year": 1990,
-    "Value": 6539960711142.75,
+    "Value": 36485.7222511282,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2016,
-    "Value": 307833638810.066,
+    "Value": 64139.5470468054,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2015,
-    "Value": 320353176751.731,
+    "Value": 64008.2868303461,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2014,
-    "Value": 339136632401.634,
+    "Value": 63419.314778542,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2013,
-    "Value": 340619794405.998,
+    "Value": 62896.290059206,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2012,
-    "Value": 328453035464.422,
+    "Value": 63003.4108977463,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2011,
-    "Value": 307809783307.585,
+    "Value": 62145.0261549128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2010,
-    "Value": 283684343270.284,
+    "Value": 62350.4107068751,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2009,
-    "Value": 267644581530.329,
+    "Value": 62698.285355183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2008,
-    "Value": 294471639402.791,
+    "Value": 64586.1779018675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2007,
-    "Value": 263180984460.628,
+    "Value": 65083.2586976308,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2006,
-    "Value": 252080996839.361,
+    "Value": 63854.1135353232,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2005,
-    "Value": 220865846015.26,
+    "Value": 62864.7964675944,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2004,
-    "Value": 195163635829.972,
+    "Value": 61675.6007816359,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2003,
-    "Value": 175885924840.755,
+    "Value": 59678.4475323707,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2002,
-    "Value": 172267584437.209,
+    "Value": 59482.3659600334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2001,
-    "Value": 170702403592.749,
+    "Value": 58956.3941539921,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 2000,
-    "Value": 165943452144.475,
+    "Value": 58045.0672672257,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 1999,
-    "Value": 136335263195.142,
+    "Value": 56608.5651311865,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 1998,
-    "Value": 124804522177.901,
+    "Value": 55872.639752512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 1997,
-    "Value": 125952667380.38,
+    "Value": 54768.9489812141,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 1996,
-    "Value": 117355006078.852,
+    "Value": 52302.6913353941,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 1995,
-    "Value": 106019141531.642,
+    "Value": 50051.8713265966,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 1994,
-    "Value": 99711149354.8536,
+    "Value": 48305.7807034881,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 1993,
-    "Value": 92935086460.9202,
+    "Value": 46243.7798646019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 1992,
-    "Value": 88263923452.5592,
+    "Value": 45232.8416940254,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 1991,
-    "Value": 83318604788.4995,
+    "Value": 43924.628254043,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Norway",
     "Year": 1990,
-    "Value": 78221776773.2458,
+    "Value": 42813.7649619025,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2016,
-    "Value": 54027509466380,
+    "Value": 38842.3446813559,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2015,
-    "Value": 52431953305561.5,
+    "Value": 38413.9244482205,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2014,
-    "Value": 50844149408010.4,
+    "Value": 37707.2383055528,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2013,
-    "Value": 49071649943967.6,
+    "Value": 37149.6355598905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2012,
-    "Value": 47163534518112.2,
+    "Value": 36834.351181542,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2011,
-    "Value": 45672067369981.6,
+    "Value": 36573.6624514634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2010,
-    "Value": 43688025254855.3,
+    "Value": 36031.6619564704,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2009,
-    "Value": 41835797127607.7,
+    "Value": 35219.8628153965,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2008,
-    "Value": 42698818911945.9,
+    "Value": 36749.160976125,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2007,
-    "Value": 41348253485983.6,
+    "Value": 36930.431543595,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2006,
-    "Value": 39174424888762.3,
+    "Value": 36252.2282739092,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2005,
-    "Value": 36510544239179.1,
+    "Value": 35409.9469275275,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2004,
-    "Value": 34598773329640.3,
+    "Value": 34669.0682824987,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2003,
-    "Value": 32607850938443.9,
+    "Value": 33784.9080779244,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2002,
-    "Value": 31467698123710.7,
+    "Value": 33339.0801274548,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2001,
-    "Value": 30294148440001.2,
+    "Value": 33021.5062570816,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 2000,
-    "Value": 29168378345348.2,
+    "Value": 32826.9236379132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 1999,
-    "Value": 27271087127427.5,
+    "Value": 31741.5270186949,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 1998,
-    "Value": 26004533742516.9,
+    "Value": 30944.7460947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 1997,
-    "Value": 24968489808839.2,
+    "Value": 30295.3006833585,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 1996,
-    "Value": 23696187026640.7,
+    "Value": 29443.2712091829,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 1995,
-    "Value": 22535625836628,
+    "Value": 28745.3398171639,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 1994,
-    "Value": 21527995128008.7,
+    "Value": 28211.2238035771,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 1993,
-    "Value": 20437463131232.5,
+    "Value": 27583.2071563684,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 1992,
-    "Value": 19522320778526.9,
+    "Value": 27399.0977823218,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 1991,
-    "Value": 18669648306515.8,
+    "Value": 27055.1227716526,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "OECD members",
     "Year": 1990,
-    "Value": 17830780450261.4,
+    "Value": 26940.7330865819,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2015,
-    "Value": 179510557394.595,
+    "Value": 40138.9517247553,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2014,
-    "Value": 168083509226.368,
+    "Value": 40282.6876772356,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2013,
-    "Value": 161027526498.167,
+    "Value": 41924.4997670512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2012,
-    "Value": 151828316120.702,
+    "Value": 43029.5713599867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2011,
-    "Value": 136357814002.867,
+    "Value": 42121.2621268512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2010,
-    "Value": 135094864639.608,
+    "Value": 45334.8294308969,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2009,
-    "Value": 127347851076.645,
+    "Value": 45635.5294124278,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2008,
-    "Value": 119107618438.268,
+    "Value": 44938.5170421712,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2007,
-    "Value": 107963463038.994,
+    "Value": 43034.2511968675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2006,
-    "Value": 100681631921.738,
+    "Value": 42472.1319239104,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2005,
-    "Value": 92700678962.2422,
+    "Value": 41457.9872808435,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2004,
-    "Value": 87628537200.9676,
+    "Value": 41551.1819155125,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2003,
-    "Value": 84195577686.8595,
+    "Value": 42044.3429902411,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2002,
-    "Value": 84813130874.8383,
+    "Value": 44140.4934808145,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2001,
-    "Value": 84460370066.2406,
+    "Value": 45399.8975776486,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 2000,
-    "Value": 79035747084.3548,
+    "Value": 43965.5552562346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 1999,
-    "Value": 73317154339.9693,
+    "Value": 41954.3376183665,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 1998,
-    "Value": 72302315394.107,
+    "Value": 42063.5294690051,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 1997,
-    "Value": 69684767173.7987,
+    "Value": 41018.9702893266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 1996,
-    "Value": 64613703013.9784,
+    "Value": 38911.6073536283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 1995,
-    "Value": 61579614623.314,
+    "Value": 38316.1681377653,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 1994,
-    "Value": 57450790713.661,
+    "Value": 37441.4339543749,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 1993,
-    "Value": 54154723672.7031,
+    "Value": 37371.9695848049,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 1992,
-    "Value": 49881845034.7206,
+    "Value": 36820.84786064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 1991,
-    "Value": 44985110919.5414,
+    "Value": 35568.4382248586,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Oman",
     "Year": 1990,
-    "Value": 41043023680.1387,
+    "Value": 35041.8035317085,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2016,
-    "Value": 750756802763.465,
+    "Value": 23238.412180371,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2015,
-    "Value": 727002209071.727,
+    "Value": 23280.6142789447,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2014,
-    "Value": 703195278542.839,
+    "Value": 23236.182936914,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2013,
-    "Value": 669748453763.874,
+    "Value": 22988.0312931681,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2012,
-    "Value": 636460418245.688,
+    "Value": 22732.3290801742,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2011,
-    "Value": 602265037203.531,
+    "Value": 22388.9108273538,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2010,
-    "Value": 546191996258.061,
+    "Value": 21254.8588659573,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2009,
-    "Value": 496222473924.664,
+    "Value": 20033.1057483426,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2008,
-    "Value": 477824382840.09,
+    "Value": 20058.471481089,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2007,
-    "Value": 431013455721.177,
+    "Value": 19112.9647317657,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2006,
-    "Value": 379528022292.99,
+    "Value": 17796.0586651526,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2005,
-    "Value": 330202884638.292,
+    "Value": 16425.0448240489,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2004,
-    "Value": 302743654610.894,
+    "Value": 15890.3230065191,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2003,
-    "Value": 269142989084.058,
+    "Value": 14840.8859557586,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2002,
-    "Value": 253191469446.851,
+    "Value": 14484.4514142451,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2001,
-    "Value": 237478114392.399,
+    "Value": 14086.042914281,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Other small states",
     "Year": 2000,
-    "Value": 221541442953.639,
+    "Value": 13734.0519821003,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2016,
-    "Value": 13616799964.2033,
+    "Value": 5285.44579769706,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2015,
-    "Value": 13211811569.7426,
+    "Value": 5259.54758693613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2014,
-    "Value": 12619015724.0316,
+    "Value": 5142.33716733822,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2013,
-    "Value": 11886721522.2025,
+    "Value": 4993.91061204602,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2012,
-    "Value": 11343936564.9571,
+    "Value": 4904.1362973706,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2011,
-    "Value": 10949773880.6409,
+    "Value": 4882.26971848606,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2010,
-    "Value": 10325001164.689,
+    "Value": 4759.5831321947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2009,
-    "Value": 9904746173.9803,
+    "Value": 4683.3346089138,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2008,
-    "Value": 9990979882.63179,
+    "Value": 4825.09032663976,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2007,
-    "Value": 9632909512.94484,
+    "Value": 4808.40568716596,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2006,
-    "Value": 9306709091.75402,
+    "Value": 4832.36044105623,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2005,
-    "Value": 8834196380.00716,
+    "Value": 4786.92100188299,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2004,
-    "Value": 8404880476.82686,
+    "Value": 4755.09822154642,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2003,
-    "Value": 7840418165.18338,
+    "Value": 4606.75699895166,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2002,
-    "Value": 7556108846.34526,
+    "Value": 4575.09145173556,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2001,
-    "Value": 7265785474.82162,
+    "Value": 4513.46798236901,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 2000,
-    "Value": 7004619250.20823,
+    "Value": 4499.08822800842,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 1999,
-    "Value": 6921811267.60124,
+    "Value": 4599.44731618979,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 1998,
-    "Value": 6467224898.63271,
+    "Value": 4415.67989115176,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 1997,
-    "Value": 6283947342.61593,
+    "Value": 4392.47285916794,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 1996,
-    "Value": 6265895416.47373,
+    "Value": 4515.67362433413,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 1995,
-    "Value": 5933826364.74122,
+    "Value": 4418.45697800008,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 1994,
-    "Value": 5598633443.97671,
+    "Value": 4324.03822304341,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 1993,
-    "Value": 5228104100.10708,
+    "Value": 4195.10991944633,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 1992,
-    "Value": 4992056344.84621,
+    "Value": 4174.00328982677,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 1991,
-    "Value": 4648456883.79801,
+    "Value": 4043.74512506787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pacific island small states",
     "Year": 1990,
-    "Value": 4527061393.04724,
+    "Value": 4133.72441924361,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2016,
-    "Value": 1011512564547,
+    "Value": 4854.63225914839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2015,
-    "Value": 946956318544.603,
+    "Value": 4695.69987892337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2014,
-    "Value": 894478295255.219,
+    "Value": 4576.2270153496,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2013,
-    "Value": 839465768463.484,
+    "Value": 4464.09028934546,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2012,
-    "Value": 791333189849.545,
+    "Value": 4367.45199617273,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2011,
-    "Value": 750693024684.963,
+    "Value": 4309.76371307112,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2010,
-    "Value": 715833546669.697,
+    "Value": 4283.60731163635,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2009,
-    "Value": 696013418389.414,
+    "Value": 4304.46917151952,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2008,
-    "Value": 671745938824.979,
+    "Value": 4273.03512307329,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2007,
-    "Value": 647800680909.295,
+    "Value": 4288.33146300042,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2006,
-    "Value": 601917859679.394,
+    "Value": 4174.97961065467,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2005,
-    "Value": 550000058434.563,
+    "Value": 4013.42703325029,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2004,
-    "Value": 494908574815.28,
+    "Value": 3804.98393592864,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2003,
-    "Value": 448608142558.452,
+    "Value": 3617.67676661736,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2002,
-    "Value": 419506884673.669,
+    "Value": 3523.19096757172,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2001,
-    "Value": 400258250918.62,
+    "Value": 3486.71866488672,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 2000,
-    "Value": 383732563386.961,
+    "Value": 3494.91163184319,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 1999,
-    "Value": 359864388796.424,
+    "Value": 3429.29083973918,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 1998,
-    "Value": 341925388057.57,
+    "Value": 3387.05878458215,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 1997,
-    "Value": 329842698927.996,
+    "Value": 3383.84149949582,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 1996,
-    "Value": 321035847458.284,
+    "Value": 3433.61220399695,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 1995,
-    "Value": 300706264706.986,
+    "Value": 3357.78969194108,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 1994,
-    "Value": 280635783441.767,
+    "Value": 3280.75556016539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 1993,
-    "Value": 264887967068.506,
+    "Value": 3244.3644692123,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 1992,
-    "Value": 254262757182.83,
+    "Value": 3272.47951472187,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 1991,
-    "Value": 230809912171.804,
+    "Value": 3121.1236233627,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pakistan",
     "Year": 1990,
-    "Value": 212613285536.474,
+    "Value": 3054.95335823222,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2016,
-    "Value": 350616851.275777,
+    "Value": 15119.3709245732,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2015,
-    "Value": 339633713.530786,
+    "Value": 14982.4075384001,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2014,
-    "Value": 301695693.907882,
+    "Value": 13576.8844402573,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2013,
-    "Value": 281071228.400333,
+    "Value": 12982.8404716208,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2012,
-    "Value": 282421972.028006,
+    "Value": 13359.3655798774,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2011,
-    "Value": 267027343.303407,
+    "Value": 12963.1216711203,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2010,
-    "Value": 248933372.108505,
+    "Value": 12411.9647719852,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2009,
-    "Value": 238766215.229801,
+    "Value": 12126.2523774786,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2008,
-    "Value": 260820580.885628,
+    "Value": 13422.1476762739,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2007,
-    "Value": 271510787.819562,
+    "Value": 14325.6803843387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2006,
-    "Value": 264611070.246699,
+    "Value": 14407.6856070844,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2005,
-    "Value": 263672491.119201,
+    "Value": 14876.4517194604,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2004,
-    "Value": 252135315.225541,
+    "Value": 14758.8736136141,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2003,
-    "Value": 228893564.32046,
+    "Value": 13839.5019114126,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2002,
-    "Value": 239310435.208692,
+    "Value": 14852.8577111613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2001,
-    "Value": 221197293.419004,
+    "Value": 14061.5377369956,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 2000,
-    "Value": 207524765.515762,
+    "Value": 13654.1567922781,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 1999,
-    "Value": 208332376.861588,
+    "Value": 14239.010297969,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 1998,
-    "Value": 216905037.683793,
+    "Value": 15340.2575568709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 1997,
-    "Value": 210369058.722066,
+    "Value": 15372.2477170358,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 1996,
-    "Value": 202179048.49142,
+    "Value": 15393.5732124888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 1995,
-    "Value": 179849920.550437,
+    "Value": 14297.433423837,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 1994,
-    "Value": 158859694.066991,
+    "Value": 13235.081784129,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 1993,
-    "Value": 144966825.341429,
+    "Value": 12684.8717578894,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 1992,
-    "Value": 161457143.96877,
+    "Value": 14871.6346787508,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Palau",
     "Year": 1991,
-    "Value": 168652432.092335,
+    "Value": 16319.74912027,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2016,
-    "Value": 92819694122.2418,
+    "Value": 21334.9396783773,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2015,
-    "Value": 87384313395.32,
+    "Value": 20674.2997280087,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2014,
-    "Value": 81725265383.5687,
+    "Value": 19871.8380707006,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2013,
-    "Value": 75701930685.9372,
+    "Value": 19057.4469457502,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2012,
-    "Value": 69870441179.2207,
+    "Value": 18183.8850728397,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2011,
-    "Value": 62809393882.587,
+    "Value": 16939.8831653498,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2010,
-    "Value": 55039719437.9414,
+    "Value": 15419.341616565,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2009,
-    "Value": 51410575569.3309,
+    "Value": 14838.548812424,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2008,
-    "Value": 50220386525.5988,
+    "Value": 14867.268424409,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2007,
-    "Value": 45348921224.7271,
+    "Value": 13936.0177102361,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2006,
-    "Value": 39446105076.5102,
+    "Value": 12671.7663091892,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2005,
-    "Value": 35222705684.4451,
+    "Value": 11877.810013365,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2004,
-    "Value": 31835329110.6245,
+    "Value": 11287.4283961796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2003,
-    "Value": 28815823435.8589,
+    "Value": 10695.2483490475,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2002,
-    "Value": 27112249126.9668,
+    "Value": 10458.8589930657,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2001,
-    "Value": 26120079390.8872,
+    "Value": 10428.088369675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 2000,
-    "Value": 25392270623.4325,
+    "Value": 10571.5703139327,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 1999,
-    "Value": 24170987451.7501,
+    "Value": 10496.994432211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 1998,
-    "Value": 22909265528.4727,
+    "Value": 10305.4904489539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 1997,
-    "Value": 21113278866.1547,
+    "Value": 9797.07187789743,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 1996,
-    "Value": 19498226342.9356,
+    "Value": 9392.04548119579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 1995,
-    "Value": 18398070711.905,
+    "Value": 9210.36780093277,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 1994,
-    "Value": 17711930079.1338,
+    "Value": 9239.12907120637,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 1993,
-    "Value": 16862252159.4424,
+    "Value": 9169.40764020026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 1992,
-    "Value": 15618285190.5837,
+    "Value": 8876.03705587064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 1991,
-    "Value": 14112713711.112,
+    "Value": 8375.01489602105,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Panama",
     "Year": 1990,
-    "Value": 12482385401.6774,
+    "Value": 7815.68239091878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2016,
-    "Value": 33815792931.6099,
+    "Value": 3878.28772878924,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2015,
-    "Value": 32608396669.9553,
+    "Value": 3866.51352904272,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2014,
-    "Value": 29544454579.3612,
+    "Value": 3616.09779459993,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2013,
-    "Value": 25793028891.425,
+    "Value": 3282.55246011837,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2012,
-    "Value": 24447999291.8201,
+    "Value": 3230.56518743495,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2011,
-    "Value": 22937726618.7648,
+    "Value": 3155.4035683482,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2010,
-    "Value": 22227590443.1095,
+    "Value": 3191.57914928813,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2009,
-    "Value": 19939734407.4242,
+    "Value": 2965.11474403028,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2008,
-    "Value": 18529588956.6627,
+    "Value": 2841.90182151531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2007,
-    "Value": 18226740120.7335,
+    "Value": 2918.78030519727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2006,
-    "Value": 15980733366.0944,
+    "Value": 2691.23037168444,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2005,
-    "Value": 15156633136.1356,
+    "Value": 2695.67748571676,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2004,
-    "Value": 13808057231.1417,
+    "Value": 2597.86978928348,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2003,
-    "Value": 13082536231.8628,
+    "Value": 2592.49700771807,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2002,
-    "Value": 12555059004.1767,
+    "Value": 2601.82151887287,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2001,
-    "Value": 12384916884.1503,
+    "Value": 2672.59776984848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 2000,
-    "Value": 12123670209.5489,
+    "Value": 2744.96006113616,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 1999,
-    "Value": 12157235429.8422,
+    "Value": 2888.67518269588,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 1998,
-    "Value": 11755858483.0798,
+    "Value": 2910.71552591642,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 1997,
-    "Value": 12085150020.7082,
+    "Value": 3104.67796741861,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 1996,
-    "Value": 12364553029.6445,
+    "Value": 3316.03876961676,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 1995,
-    "Value": 11271198115.4469,
+    "Value": 3158.596005653,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 1994,
-    "Value": 11419174539.2745,
+    "Value": 3351.49385692952,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 1993,
-    "Value": 10554087833.106,
+    "Value": 3244.75001456855,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 1992,
-    "Value": 8721332320.2991,
+    "Value": 2815.07778855298,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 1991,
-    "Value": 7489700994.69633,
+    "Value": 2535.53912058465,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Papua New Guinea",
     "Year": 1990,
-    "Value": 6616742234.51618,
+    "Value": 2373.57226908243,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2016,
-    "Value": 64343302377.4393,
+    "Value": 8871.37954006214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2015,
-    "Value": 61077699802.5697,
+    "Value": 8639.28684970737,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2014,
-    "Value": 58684097332.9808,
+    "Value": 8501.54353959203,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2013,
-    "Value": 55049839778.0013,
+    "Value": 8227.21471339602,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2012,
-    "Value": 47506734022.2479,
+    "Value": 7312.40983024362,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2011,
-    "Value": 47232661525.6067,
+    "Value": 7504.65364401771,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2010,
-    "Value": 44351295737.6313,
+    "Value": 7289.51391005233,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2009,
-    "Value": 38743464281.6105,
+    "Value": 6531.88641086245,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2008,
-    "Value": 40039286953.6809,
+    "Value": 6892.40935423393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2007,
-    "Value": 36921124249.0418,
+    "Value": 6568.25323119894,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2006,
-    "Value": 34114444794.4935,
+    "Value": 6318.75078855094,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2005,
-    "Value": 31579532234.8236,
+    "Value": 6119.75120915547,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2004,
-    "Value": 29955986007.9113,
+    "Value": 6088.30430079065,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2003,
-    "Value": 28017534588.7521,
+    "Value": 5950.84841989156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2002,
-    "Value": 26332030687.7318,
+    "Value": 5807.24589317133,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2001,
-    "Value": 25939464371.9994,
+    "Value": 5918.05654211102,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 2000,
-    "Value": 25574809625.0673,
+    "Value": 6084.79117719979,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 1999,
-    "Value": 25598176940.8414,
+    "Value": 6355.70317342542,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 1998,
-    "Value": 25561535665.5672,
+    "Value": 6579.9988987244,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 1997,
-    "Value": 25269913365.0316,
+    "Value": 6719.39253949909,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 1996,
-    "Value": 23833554294.782,
+    "Value": 6591.0353846747,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 1995,
-    "Value": 23043602714.8428,
+    "Value": 6638.62803579988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 1994,
-    "Value": 21131074358.4857,
+    "Value": 6361.08935482796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 1993,
-    "Value": 19645989758.127,
+    "Value": 6185.27214448628,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 1992,
-    "Value": 18286724744.5032,
+    "Value": 6039.46838537704,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 1991,
-    "Value": 17580912715.3533,
+    "Value": 6088.89461273101,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Paraguay",
     "Year": 1990,
-    "Value": 16440216537.9288,
+    "Value": 6036.47261195137,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2016,
-    "Value": 413651174053.719,
+    "Value": 12071.5923765881,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2015,
-    "Value": 393175275017.65,
+    "Value": 11767.5217406878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2014,
-    "Value": 376709700475.771,
+    "Value": 11545.3876412251,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2013,
-    "Value": 361555950429.776,
+    "Value": 11430.2557839627,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2012,
-    "Value": 336137114336.223,
+    "Value": 10943.9192691962,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2011,
-    "Value": 310964900334.817,
+    "Value": 10449.0932552031,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2010,
-    "Value": 286544297749.624,
+    "Value": 9956.55663668307,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2009,
-    "Value": 261313018211.344,
+    "Value": 9308.6747887501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2008,
-    "Value": 256532331727.853,
+    "Value": 9323.3539382107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2007,
-    "Value": 230555196813.733,
+    "Value": 8649.08066302637,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2006,
-    "Value": 206949637270.568,
+    "Value": 8067.89867793666,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2005,
-    "Value": 186722925776.938,
+    "Value": 7595.27184649886,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2004,
-    "Value": 170204682089.337,
+    "Value": 7234.49054162089,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2003,
-    "Value": 157824515008.395,
+    "Value": 6978.57006145194,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2002,
-    "Value": 148551720099.142,
+    "Value": 6784.22222700922,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2001,
-    "Value": 138739543480.72,
+    "Value": 6516.69315631403,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 2000,
-    "Value": 134815241183.198,
+    "Value": 6563.26793490643,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 1999,
-    "Value": 128357324693.271,
+    "Value": 6479.47409723144,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 1998,
-    "Value": 124560581799.98,
+    "Value": 6475.63281459328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 1997,
-    "Value": 123707655299.432,
+    "Value": 6598.58522565649,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 1996,
-    "Value": 114227694307.504,
+    "Value": 6295.16040099122,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 1995,
-    "Value": 109125401646.323,
+    "Value": 6226.24561072588,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 1994,
-    "Value": 99520073082.0727,
+    "Value": 5899.56378313479,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 1993,
-    "Value": 86766720888.764,
+    "Value": 5351.59457057836,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 1992,
-    "Value": 80527755037.253,
+    "Value": 5184.96718005874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 1991,
-    "Value": 79160868272.9197,
+    "Value": 5319.34129917013,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Peru",
     "Year": 1990,
-    "Value": 74947584500.4903,
+    "Value": 5312.68466380626,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2016,
-    "Value": 806328349773.447,
+    "Value": 7236.46707131984,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2015,
-    "Value": 744614457410.535,
+    "Value": 6874.58256556192,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2014,
-    "Value": 694494400040.258,
+    "Value": 6585.8959486729,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2013,
-    "Value": 642751245452.201,
+    "Value": 6306.74606638475,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2012,
-    "Value": 590801346556.416,
+    "Value": 5988.80390252146,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2011,
-    "Value": 543770720548.511,
+    "Value": 5707.20484246942,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2010,
-    "Value": 513961278356.767,
+    "Value": 5596.8372879546,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2009,
-    "Value": 471754213663.377,
+    "Value": 5284.86512266574,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2008,
-    "Value": 462883123438.661,
+    "Value": 5309.44214465948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2007,
-    "Value": 435876927691.66,
+    "Value": 5181.00341007419,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2006,
-    "Value": 398228061637.454,
+    "Value": 4941.59858788957,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2005,
-    "Value": 367110670307.715,
+    "Value": 4778.97122024301,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2004,
-    "Value": 339448880434.109,
+    "Value": 4647.01112728144,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2003,
-    "Value": 309627074702.118,
+    "Value": 4441.67497606168,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2002,
-    "Value": 289199384113.212,
+    "Value": 4318.73719542138,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2001,
-    "Value": 274807726002.331,
+    "Value": 4255.04281861142,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 2000,
-    "Value": 261127654208.433,
+    "Value": 4224.11308572481,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 1999,
-    "Value": 244531061297.847,
+    "Value": 4133.40275838487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 1998,
-    "Value": 233644596803.361,
+    "Value": 4097.97762703725,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 1997,
-    "Value": 232476923113.636,
+    "Value": 4213.64034981107,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 1996,
-    "Value": 217297368611.68,
+    "Value": 4096.67558199664,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 1995,
-    "Value": 201615425552.371,
+    "Value": 3959.66666849811,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 1994,
-    "Value": 188669047480.801,
+    "Value": 3871.3541224904,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 1993,
-    "Value": 176972691078.05,
+    "Value": 3796.88243874317,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 1992,
-    "Value": 169277470744.802,
+    "Value": 3808.17056970907,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 1991,
-    "Value": 164947838328.891,
+    "Value": 3889.0051274397,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Philippines",
     "Year": 1990,
-    "Value": 160562978223.18,
+    "Value": 4010.20282413001,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2016,
-    "Value": 1039744572301.25,
+    "Value": 26035.8379036022,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2015,
-    "Value": 1010239429044.32,
+    "Value": 25299.9743484897,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2014,
-    "Value": 973192307126.422,
+    "Value": 24347.0736576846,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2013,
-    "Value": 940325020076.105,
+    "Value": 23555.4962149534,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2012,
-    "Value": 907167369644.71,
+    "Value": 23218.1112952256,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2011,
-    "Value": 869769693309.293,
+    "Value": 22850.6388460286,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2010,
-    "Value": 801517967214.969,
+    "Value": 21770.6444359772,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2009,
-    "Value": 734150870815.988,
+    "Value": 20952.8016743906,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2008,
-    "Value": 698099544956.881,
+    "Value": 20391.9002245226,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2007,
-    "Value": 639856146116.753,
+    "Value": 19563.2976317127,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2006,
-    "Value": 577616954280.846,
+    "Value": 18267.5880180759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2005,
-    "Value": 530344105654.599,
+    "Value": 17193.5237317708,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2004,
-    "Value": 509575338410.908,
+    "Value": 16605.8184287535,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2003,
-    "Value": 468246807521.352,
+    "Value": 15785.4208615325,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2002,
-    "Value": 450394072658.275,
+    "Value": 15232.1301462194,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2001,
-    "Value": 424982700470.22,
+    "Value": 14920.4597322179,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 2000,
-    "Value": 407500747325.448,
+    "Value": 14732.4819975514,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 1999,
-    "Value": 387468520811.944,
+    "Value": 13943.6551893679,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 1998,
-    "Value": 365899954056.409,
+    "Value": 13323.9707346132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 1997,
-    "Value": 344682602279.498,
+    "Value": 12740.7926723475,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 1996,
-    "Value": 318758796466.038,
+    "Value": 11975.5672031304,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 1995,
-    "Value": 295808613458.54,
+    "Value": 11300.2710804927,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 1994,
-    "Value": 270930221791.872,
+    "Value": 10580.1046331461,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 1993,
-    "Value": 251949635899.697,
+    "Value": 10069.4950860706,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 1992,
-    "Value": 237226199682.692,
+    "Value": 9731.36115631266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 1991,
-    "Value": 226248604162.135,
+    "Value": 9521.78049650312,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Poland",
     "Year": 1990,
-    "Value": 235480778738.72,
+    "Value": 10276.5733299682,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2016,
-    "Value": 316564233053.451,
+    "Value": 27124.155038865,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2015,
-    "Value": 305898648533.7,
+    "Value": 26607.8331233896,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2014,
-    "Value": 298995720958.837,
+    "Value": 26023.6976953306,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2013,
-    "Value": 291753400833.095,
+    "Value": 25654.6143107152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2012,
-    "Value": 278160762011.107,
+    "Value": 25805.8498346706,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2011,
-    "Value": 282733725683.416,
+    "Value": 26780.2149060404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2010,
-    "Value": 289013696561.805,
+    "Value": 27238.4606724422,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2009,
-    "Value": 279682056644.769,
+    "Value": 26743.1979904258,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2008,
-    "Value": 281180766111.031,
+    "Value": 27590.3747959133,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2007,
-    "Value": 270970014855.904,
+    "Value": 27575.2364597729,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2006,
-    "Value": 259464422275.563,
+    "Value": 26957.6363702978,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2005,
-    "Value": 238841414267.628,
+    "Value": 26593.2857037278,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2004,
-    "Value": 225228133346.932,
+    "Value": 26439.9331827642,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2003,
-    "Value": 217956051871.05,
+    "Value": 26031.6492838373,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2002,
-    "Value": 212223547459.309,
+    "Value": 26375.9643554847,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2001,
-    "Value": 202662611251.613,
+    "Value": 26318.4778515972,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 2000,
-    "Value": 194313522776.947,
+    "Value": 25999.490687324,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 1999,
-    "Value": 181095299723.602,
+    "Value": 25227.388420335,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 1998,
-    "Value": 169450948534.222,
+    "Value": 24420.9479550995,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 1997,
-    "Value": 159557945948.811,
+    "Value": 23422.3363670727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 1996,
-    "Value": 149945931256.317,
+    "Value": 22529.9201619168,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 1995,
-    "Value": 144222456552.973,
+    "Value": 21850.740004652,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 1994,
-    "Value": 135473860128.499,
+    "Value": 21026.0209145347,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 1993,
-    "Value": 131383347555.142,
+    "Value": 20881.2060699675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 1992,
-    "Value": 131006893534.238,
+    "Value": 21342.8565638582,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 1991,
-    "Value": 126706511349.354,
+    "Value": 21096.4284610415,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Portugal",
     "Year": 1990,
-    "Value": 117492717117.994,
+    "Value": 20166.9279938074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2016,
-    "Value": 49403700735677.5,
+    "Value": 41410.5551451859,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2015,
-    "Value": 47965403341745.2,
+    "Value": 40930.8250204917,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2014,
-    "Value": 46625104314184.7,
+    "Value": 40283.7494447451,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2013,
-    "Value": 45144337883470.1,
+    "Value": 39704.9209453678,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2012,
-    "Value": 43462296538105,
+    "Value": 39381.2867085114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2011,
-    "Value": 42180846705588.2,
+    "Value": 39125.7784522503,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2010,
-    "Value": 40566238303742.4,
+    "Value": 38593.4392173464,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2009,
-    "Value": 38984246470213.8,
+    "Value": 37701.2649791215,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2008,
-    "Value": 39898390272428.9,
+    "Value": 39310.7659469725,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2007,
-    "Value": 38718657623649.3,
+    "Value": 39457.7736348957,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2006,
-    "Value": 36723236349970.7,
+    "Value": 38686.751178596,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2005,
-    "Value": 34342070503522.8,
+    "Value": 37774.5615211551,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2004,
-    "Value": 32585475135686.4,
+    "Value": 36962.7530154354,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2003,
-    "Value": 30743860504856.9,
+    "Value": 35985.897946562,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2002,
-    "Value": 29634205854573.4,
+    "Value": 35437.0505318246,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2001,
-    "Value": 28502103138941.1,
+    "Value": 35027.7404036656,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 2000,
-    "Value": 27379301885972.3,
+    "Value": 34649.4736223241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 1999,
-    "Value": 25620206101620.5,
+    "Value": 33469.4756809936,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 1998,
-    "Value": 24418179107514.2,
+    "Value": 32512.8865016084,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 1997,
-    "Value": 23515074688545.4,
+    "Value": 31829.3986229404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 1996,
-    "Value": 22379137051926.7,
+    "Value": 30960.511545241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 1995,
-    "Value": 21341795658126.7,
+    "Value": 30262.9743340994,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 1994,
-    "Value": 20364511943664,
+    "Value": 29642.7474842315,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 1993,
-    "Value": 19389732289198.1,
+    "Value": 28996.8887843364,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 1992,
-    "Value": 18741801765571.7,
+    "Value": 28897.9386218763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 1991,
-    "Value": 17996388876440.7,
+    "Value": 28593.0336286981,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Post-demographic dividend",
     "Year": 1990,
-    "Value": 17222028699908.8,
+    "Value": 28462.2858006859,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2016,
-    "Value": 3319394977995.62,
+    "Value": 3500.46370054009,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2015,
-    "Value": 3178006381111.02,
+    "Value": 3491.99948551991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2014,
-    "Value": 3033193843313.88,
+    "Value": 3467.2122375638,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2013,
-    "Value": 2845548181362.89,
+    "Value": 3408.52122016128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2012,
-    "Value": 2651735989197.41,
+    "Value": 3323.23389438537,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2011,
-    "Value": 2464025163733.9,
+    "Value": 3238.12430922656,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2010,
-    "Value": 2306570482201.95,
+    "Value": 3185.29167499366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2009,
-    "Value": 2146672253231.58,
+    "Value": 3088.96567567677,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2008,
-    "Value": 2030537353056.65,
+    "Value": 3030.1859250947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2007,
-    "Value": 1866561714520.95,
+    "Value": 2922.92556817363,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2006,
-    "Value": 1701901127816.81,
+    "Value": 2815.77660393226,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2005,
-    "Value": 1526473301653.35,
+    "Value": 2679.23825079442,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2004,
-    "Value": 1401716376829.43,
+    "Value": 2614.04815836384,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2003,
-    "Value": 1120325034840.43,
+    "Value": 2210.02372759926,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2002,
-    "Value": 1111176096515.5,
+    "Value": 2301.46013839501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2001,
-    "Value": 1086189356636.58,
+    "Value": 2350.74579411221,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 2000,
-    "Value": 1018185108266.52,
+    "Value": 2318.30672266476,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 1999,
-    "Value": 966360197212.581,
+    "Value": 2313.33076805851,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 1998,
-    "Value": 901876944949.434,
+    "Value": 2252.04728645781,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 1997,
-    "Value": 818591567616.649,
+    "Value": 2121.89943634937,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 1996,
-    "Value": 755498376790.376,
+    "Value": 2045.44691229524,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 1995,
-    "Value": 698515018664.366,
+    "Value": 1979.9190545974,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 1994,
-    "Value": 665661627468.749,
+    "Value": 1982.42234848501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 1993,
-    "Value": 642691403882.821,
+    "Value": 2013.83744130143,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 1992,
-    "Value": 611590237429.299,
+    "Value": 2022.71612057413,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 1991,
-    "Value": 585401627366.557,
+    "Value": 2041.75486239609,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Pre-demographic dividend",
     "Year": 1990,
-    "Value": 651885241624.726,
+    "Value": 2419.05231885919,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2016,
-    "Value": 128745756294.119,
+    "Value": 34995.4924157063,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2015,
-    "Value": 130525569182.539,
+    "Value": 35291.8035605986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2014,
-    "Value": 130578233562.576,
+    "Value": 35066.0463763697,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2013,
-    "Value": 129821442344.735,
+    "Value": 34913.6227379677,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2012,
-    "Value": 128151341816.638,
+    "Value": 34622.0500216126,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2011,
-    "Value": 125796598245.822,
+    "Value": 34195.6408473957,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2010,
-    "Value": 123695366586.651,
+    "Value": 33924.0540101397,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2009,
-    "Value": 122709946810.164,
+    "Value": 33892.8380041531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2008,
-    "Value": 124210179432.618,
+    "Value": 34379.7274443101,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2007,
-    "Value": 124109445661.615,
+    "Value": 34820.809493627,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2006,
-    "Value": 122313795835.826,
+    "Value": 35024.5904864366,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2005,
-    "Value": 120364645843.47,
+    "Value": 35375.2319565633,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2004,
-    "Value": 118976660045.378,
+    "Value": 36040.4004651429,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2003,
-    "Value": 106477326789.033,
+    "Value": 33147.7835450214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2002,
-    "Value": 104339881241.116,
+    "Value": 33150.8280982643,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2001,
-    "Value": 101829128513.917,
+    "Value": 32892.1561991341,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 2000,
-    "Value": 93647820598.6564,
+    "Value": 31005.1665240669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 1999,
-    "Value": 88663228395.4368,
+    "Value": 30105.9758361695,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 1998,
-    "Value": 82860893057.8621,
+    "Value": 28709.730535353,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 1997,
-    "Value": 77675287483.5925,
+    "Value": 27361.9136235785,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 1996,
-    "Value": 72814815725.2437,
+    "Value": 26332.3354237803,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 1995,
-    "Value": 69892271170.4459,
+    "Value": 26027.2176517722,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 1994,
-    "Value": 65485403482.7504,
+    "Value": 25125.788795122,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 1993,
-    "Value": 61544595775.1554,
+    "Value": 24341.3452816292,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 1992,
-    "Value": 57446214017.9148,
+    "Value": 23457.7083603494,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 1991,
-    "Value": 53714334230.3751,
+    "Value": 22579.0847062782,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Puerto Rico",
     "Year": 1990,
-    "Value": 50813105967.2451,
+    "Value": 22227.1778442977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2016,
-    "Value": 327599853878.676,
+    "Value": 118207.134622686,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2015,
-    "Value": 316438181821.595,
+    "Value": 119749.428536152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2014,
-    "Value": 302308417481.634,
+    "Value": 120860.06755829,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2013,
-    "Value": 285614359534.042,
+    "Value": 122636.921618451,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2012,
-    "Value": 269202413009.351,
+    "Value": 125302.08000142,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2011,
-    "Value": 252498021613.775,
+    "Value": 129349.916351584,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2010,
-    "Value": 218205025733.076,
+    "Value": 125140.838348001,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2009,
-    "Value": 180255819060.95,
+    "Value": 117064.859658008,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2008,
-    "Value": 159791627772.235,
+    "Value": 119723.100711958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2007,
-    "Value": 133191145926.808,
+    "Value": 118831.655399334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2006,
-    "Value": 109961138463.509,
+    "Value": 118585.157547533,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2005,
-    "Value": 84555225542.7984,
+    "Value": 109802.358599659,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2004,
-    "Value": 76209186662.4061,
+    "Value": 116418.226456965,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2003,
-    "Value": 62213052191.5603,
+    "Value": 107615.895528265,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2002,
-    "Value": 58809069751.8736,
+    "Value": 110654.497057,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2001,
-    "Value": 54038779565.7551,
+    "Value": 108055.00605731,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Qatar",
     "Year": 2000,
-    "Value": 50852406755.5159,
+    "Value": 108323.903919171,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2016,
-    "Value": 453621755733.557,
+    "Value": 21614.6862405153,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2015,
-    "Value": 427342110734.03,
+    "Value": 20545.077142089,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2014,
-    "Value": 410315765706.087,
+    "Value": 19667.0588821069,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2013,
-    "Value": 396865097307.579,
+    "Value": 19008.7617215183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2012,
-    "Value": 380767156283.436,
+    "Value": 18292.2973326074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2011,
-    "Value": 364570766604.705,
+    "Value": 18095.0619155216,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2010,
-    "Value": 347517730663.098,
+    "Value": 17818.0657093956,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2009,
-    "Value": 325759240293.848,
+    "Value": 17855.1142839411,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2008,
-    "Value": 334809262988.626,
+    "Value": 19053.4583673121,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2007,
-    "Value": 280784796750.947,
+    "Value": 17277.1170521346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2006,
-    "Value": 247736018358.279,
+    "Value": 15930.3507315765,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2005,
-    "Value": 207302986521.434,
+    "Value": 14655.6622204583,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2004,
-    "Value": 195947949174.408,
+    "Value": 13982.1159416568,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2003,
-    "Value": 168717997686.275,
+    "Value": 12830.2464433155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2002,
-    "Value": 156006325283.754,
+    "Value": 12071.1933783991,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2001,
-    "Value": 145603091542.441,
+    "Value": 11268.0638083776,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 2000,
-    "Value": 131899040042.953,
+    "Value": 10523.4464808532,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 1999,
-    "Value": 126569678665.035,
+    "Value": 10264.0012078115,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 1998,
-    "Value": 125527505431.012,
+    "Value": 10289.2155930917,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 1997,
-    "Value": 126351285822.309,
+    "Value": 10486.8269745325,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 1996,
-    "Value": 130627858650.507,
+    "Value": 10985.7698489647,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 1995,
-    "Value": 123700040071.668,
+    "Value": 10546.0507068679,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 1994,
-    "Value": 113099485826.507,
+    "Value": 9823.51240085005,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 1993,
-    "Value": 106553125444.599,
+    "Value": 9438.13921763904,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 1992,
-    "Value": 102509661621.571,
+    "Value": 9283.37435614126,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 1991,
-    "Value": 109856338628.52,
+    "Value": 10083.96444758,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Romania",
     "Year": 1990,
-    "Value": 122089298052.86,
+    "Value": 11479.7193988677,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2016,
-    "Value": 3635868155261.38,
+    "Value": 24416.6238784138,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2015,
-    "Value": 3615032572564.4,
+    "Value": 24516.549950283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2014,
-    "Value": 3768772374041.8,
+    "Value": 25284.5862019953,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2013,
-    "Value": 3765660737974.59,
+    "Value": 25551.0899736474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2012,
-    "Value": 3692393232081.43,
+    "Value": 25156.4209403763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2011,
-    "Value": 3475384986433.43,
+    "Value": 24310.0439655517,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2010,
-    "Value": 2928118588407.64,
+    "Value": 23107.7852212822,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2009,
-    "Value": 2768120083307.81,
+    "Value": 22121.8524916712,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2008,
-    "Value": 2878197885308.87,
+    "Value": 24005.996684608,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2007,
-    "Value": 2377502912213.13,
+    "Value": 22798.9708291645,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2006,
-    "Value": 2133753261513.81,
+    "Value": 20970.1899029963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2005,
-    "Value": 1696729209938.25,
+    "Value": 19325.9357374613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2004,
-    "Value": 1474011466835.76,
+    "Value": 18098.3670811204,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2003,
-    "Value": 1338513846178.01,
+    "Value": 16818.7426277675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2002,
-    "Value": 1166680065377.66,
+    "Value": 15604.1494910601,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2001,
-    "Value": 1075494711814.29,
+    "Value": 14829.0829751786,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 2000,
-    "Value": 1000581810053.81,
+    "Value": 14050.8513351824,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 1999,
-    "Value": 870670139093.851,
+    "Value": 12719.8928946535,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 1998,
-    "Value": 806334398183.724,
+    "Value": 11917.8464620614,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 1997,
-    "Value": 842721993838.866,
+    "Value": 12564.0309592427,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 1996,
-    "Value": 817248593687.672,
+    "Value": 12370.0959893562,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 1995,
-    "Value": 832633885896.808,
+    "Value": 12813.3966776793,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 1994,
-    "Value": 850879050230.569,
+    "Value": 13370.8533519026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 1993,
-    "Value": 952929448559.38,
+    "Value": 15274.2205856493,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 1992,
-    "Value": 1019127116401.42,
+    "Value": 16704.9338257421,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 1991,
-    "Value": 1165819454670.45,
+    "Value": 19553.5855977882,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Russia",
     "Year": 1990,
-    "Value": 1188234481173.78,
+    "Value": 20639.000535986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2016,
-    "Value": 22797015140.4476,
+    "Value": 1773.7504839499,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2015,
-    "Value": 21249369617.3398,
+    "Value": 1715.88707382713,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2014,
-    "Value": 19308184955.3476,
+    "Value": 1615.52333612209,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2013,
-    "Value": 17624831687.7404,
+    "Value": 1539.15601029446,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2012,
-    "Value": 16566096554.8493,
+    "Value": 1507.70985455118,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2011,
-    "Value": 14945292138.4992,
+    "Value": 1421.18592946921,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2010,
-    "Value": 13585074792.2041,
+    "Value": 1353.15407202718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2009,
-    "Value": 12509101243.3098,
+    "Value": 1295.25148524528,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2008,
-    "Value": 11680366617.8069,
+    "Value": 1252.42649477908,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2007,
-    "Value": 10305663000.3688,
+    "Value": 1157.79944149796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2006,
-    "Value": 9321468578.92145,
+    "Value": 1103.22149926379,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2005,
-    "Value": 8279290280.24198,
+    "Value": 1034.11335083751,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2004,
-    "Value": 7332756880.94902,
+    "Value": 963.93571658893,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2003,
-    "Value": 6643863075.85805,
+    "Value": 911.66806275537,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2002,
-    "Value": 6373202818.73957,
+    "Value": 907.02837027047,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2001,
-    "Value": 5545588851.86113,
+    "Value": 821.25478057709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 2000,
-    "Value": 4996769287.01271,
+    "Value": 785.482547057633,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 1999,
-    "Value": 4508781940.44591,
+    "Value": 766.185950452501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 1998,
-    "Value": 4258958991.06234,
+    "Value": 790.329232075795,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 1997,
-    "Value": 3870371207.79898,
+    "Value": 785.836126775646,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 1996,
-    "Value": 3342338678.46377,
+    "Value": 736.203262559214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 1995,
-    "Value": 2911345210.0955,
+    "Value": 673.584756234585,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 1994,
-    "Value": 2108991662.71171,
+    "Value": 491.736275251463,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 1993,
-    "Value": 4150682488.14683,
+    "Value": 942.123626749343,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 1992,
-    "Value": 4411975440.99431,
+    "Value": 963.769036577931,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 1991,
-    "Value": 4074367350.30102,
+    "Value": 865.139584759226,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Rwanda",
     "Year": 1990,
-    "Value": 4044822270.83505,
+    "Value": 864.881587196124,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2016,
-    "Value": 647187143.390138,
+    "Value": 3001.8940051804,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2015,
-    "Value": 613633396.194076,
+    "Value": 2946.79672587963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2014,
-    "Value": 584638741.709202,
+    "Value": 2901.61486294488,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2013,
-    "Value": 539225902.650035,
+    "Value": 2785.73404570811,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2012,
-    "Value": 506279459.295627,
+    "Value": 2718.16354298378,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2011,
-    "Value": 481978562.179656,
+    "Value": 2695.62954239181,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2010,
-    "Value": 452334225.221477,
+    "Value": 2641.51394857495,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2009,
-    "Value": 418925646.534174,
+    "Value": 2533.74792298033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2008,
-    "Value": 405919411.635874,
+    "Value": 2531.52812878131,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2007,
-    "Value": 367986064.374179,
+    "Value": 2394.66376696785,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2006,
-    "Value": 347151651.512639,
+    "Value": 2374.12640926662,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2005,
-    "Value": 308667126.370472,
+    "Value": 2227.48914259015,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2004,
-    "Value": 279236542.581767,
+    "Value": 2130.04951208032,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2003,
-    "Value": 261733571.182193,
+    "Value": 2101.16706193057,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2002,
-    "Value": 240788338.225744,
+    "Value": 2018.96133778782,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "SÃ£o TomÃ© and Principe",
     "Year": 2001,
-    "Value": 231641977.680522,
+    "Value": 2017.58023597781,
+    "Value Footnotes": ""
+  },
+  {
+    "Country or Area": "SÃ£o TomÃ© and Principe",
+    "Year": 2000,
+    "Value": 1997.75476811572,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2016,
-    "Value": 1244557312.61995,
+    "Value": 5914.28129085367,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2015,
-    "Value": 1146929239.59324,
+    "Value": 5558.79187892505,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2014,
-    "Value": 1116374769.3996,
+    "Value": 5511.1631119163,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2013,
-    "Value": 1083729702.36492,
+    "Value": 5489.78709389587,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2012,
-    "Value": 1087536991.26951,
+    "Value": 5644.29286051597,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2011,
-    "Value": 1063589611.12987,
+    "Value": 5667.49053435576,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2010,
-    "Value": 985147468.773358,
+    "Value": 5399.89309631838,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2009,
-    "Value": 968619332.898882,
+    "Value": 5414.23928550108,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2008,
-    "Value": 1009876347.8444,
+    "Value": 5728.00913068809,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2007,
-    "Value": 980552975.725923,
+    "Value": 5709.36149156864,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2006,
-    "Value": 898335143.189789,
+    "Value": 5405.19089100326,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2005,
-    "Value": 854730538.38123,
+    "Value": 5335.14944665353,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2004,
-    "Value": 795039961.803137,
+    "Value": 5155.13506777507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2003,
-    "Value": 739559001.600242,
+    "Value": 4958.28384254308,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2002,
-    "Value": 693772925.916612,
+    "Value": 4773.08187745925,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2001,
-    "Value": 654837555.682099,
+    "Value": 4600.84326162759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 2000,
-    "Value": 598698675.855191,
+    "Value": 4325.83063247326,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 1999,
-    "Value": 547498036.205221,
+    "Value": 4065.81184560866,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 1998,
-    "Value": 527712994.287706,
+    "Value": 3996.65968509499,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 1997,
-    "Value": 510835190.323414,
+    "Value": 3928.60445890796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 1996,
-    "Value": 499028472.755836,
+    "Value": 3924.34102380455,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 1995,
-    "Value": 457255548.344325,
+    "Value": 3685.7138859349,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 1994,
-    "Value": 419891467.790252,
+    "Value": 3483.1545860667,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 1993,
-    "Value": 421866065.669493,
+    "Value": 3607.8028442415,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 1992,
-    "Value": 395832930.993789,
+    "Value": 3499.97485760478,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 1991,
-    "Value": 387786358.816287,
+    "Value": 3538.92150781071,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Samoa",
     "Year": 1990,
-    "Value": 384129636.658421,
+    "Value": 3649.14421710174,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2016,
-    "Value": 2023156076.02579,
+    "Value": 56500.4691070515,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2015,
-    "Value": 1978553346.43115,
+    "Value": 56372.3624231511,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2014,
-    "Value": 1947871761.74252,
+    "Value": 56620.5426193428,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2013,
-    "Value": 1930559925.60645,
+    "Value": 57750.4587733765,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2012,
-    "Value": 1959295541.51547,
+    "Value": 60282.5438119031,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2011,
-    "Value": 2080937193.28879,
+    "Value": 66053.1105030725,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2010,
-    "Value": 2251374814.8755,
+    "Value": 73862.3374374501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2009,
-    "Value": 2332813423.07121,
+    "Value": 78444.728119613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2008,
-    "Value": 2655832673.35807,
+    "Value": 91087.9241320758,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2007,
-    "Value": 2562453109.0788,
+    "Value": 90727.2095138511,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2006,
-    "Value": 2329898366.67305,
+    "Value": 85726.8000200977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2005,
-    "Value": 2176533521.4195,
+    "Value": 83600.0479394576,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2004,
-    "Value": 2059644551.86986,
+    "Value": 82713.8283499934,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2003,
-    "Value": 1916607891.77172,
+    "Value": 80118.5270267576,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2002,
-    "Value": 1808946282.10161,
+    "Value": 78148.9015398522,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2001,
-    "Value": 1775532577.8609,
+    "Value": 78890.0387548759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 2000,
-    "Value": 1644666995.40944,
+    "Value": 75678.5028031709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 1999,
-    "Value": 1573293210.18394,
+    "Value": 74921.5073856443,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 1998,
-    "Value": 1421685091.19757,
+    "Value": 69499.6480480859,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "San Marino",
     "Year": 1997,
-    "Value": 1308141732.91972,
+    "Value": 65352.6857328538,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2016,
-    "Value": 1756333552430.5,
+    "Value": 50458.1698468113,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2015,
-    "Value": 1704523727389.74,
+    "Value": 50723.7126450691,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2014,
-    "Value": 1619725082851.05,
+    "Value": 49958.4433361471,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2013,
-    "Value": 1535099554035.87,
+    "Value": 49537.5857290988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2012,
-    "Value": 1470995695088.17,
+    "Value": 49658.6526994629,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2011,
-    "Value": 1370239542676.01,
+    "Value": 48524.6324875473,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2010,
-    "Value": 1220508933141.75,
+    "Value": 45421.2284797446,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2009,
-    "Value": 1147932152272.37,
+    "Value": 44481.4717570939,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2008,
-    "Value": 1163234174787.24,
+    "Value": 46678.5535324512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2007,
-    "Value": 1073748199014.62,
+    "Value": 45130.1395601036,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2006,
-    "Value": 1026943945090.47,
+    "Value": 45527.2678008895,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2005,
-    "Value": 969305767264.877,
+    "Value": 45538.4979692735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2004,
-    "Value": 889509353480.591,
+    "Value": 44390.9576260442,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2003,
-    "Value": 801887161201.641,
+    "Value": 42344.4109183262,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2002,
-    "Value": 706755778969.597,
+    "Value": 39194.7723897255,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2001,
-    "Value": 716262934962.436,
+    "Value": 41472.8533435565,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 2000,
-    "Value": 708886507442.37,
+    "Value": 43071.4498323186,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 1999,
-    "Value": 656200537643.885,
+    "Value": 41721.7252992891,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 1998,
-    "Value": 671583518835.87,
+    "Value": 44251.4739375195,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 1997,
-    "Value": 645691179128.701,
+    "Value": 43838.0951503796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 1996,
-    "Value": 627895509248.729,
+    "Value": 44207.1238183259,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 1995,
-    "Value": 600792985272.022,
+    "Value": 43980.9003873899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 1994,
-    "Value": 587272839686.058,
+    "Value": 44905.8566246399,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 1993,
-    "Value": 571840336534.285,
+    "Value": 45784.878901365,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 1992,
-    "Value": 566273454649.818,
+    "Value": 47702.4016536937,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 1991,
-    "Value": 532422116413.538,
+    "Value": 47262.8993595535,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Saudi Arabia",
     "Year": 1990,
-    "Value": 448031251846.833,
+    "Value": 42457.1148948899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2016,
-    "Value": 39548038257.9879,
+    "Value": 2379.45126362328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2015,
-    "Value": 36583450644.9894,
+    "Value": 2293.85353926578,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2014,
-    "Value": 33995899912.2698,
+    "Value": 2218.55191733521,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2013,
-    "Value": 32088891676.4952,
+    "Value": 2195.96385449253,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2012,
-    "Value": 30524137442.734,
+    "Value": 2187.17908969923,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2011,
-    "Value": 28705773660.7836,
+    "Value": 2158.18118164724,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2010,
-    "Value": 27638351228.2099,
+    "Value": 2183.99505141766,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2009,
-    "Value": 26209474353.0661,
+    "Value": 2157.397796523,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2008,
-    "Value": 25396528154.3336,
+    "Value": 2166.24105005464,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2007,
-    "Value": 24023268373.3703,
+    "Value": 2147.44003823346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2006,
-    "Value": 22299256818.0431,
+    "Value": 2102.47524076867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2005,
-    "Value": 21114828359.0913,
+    "Value": 2107.68011244763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2004,
-    "Value": 19367642308.635,
+    "Value": 2049.27104684735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2003,
-    "Value": 17804099920.2996,
+    "Value": 1987.32279576214,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2002,
-    "Value": 16362475541.7815,
+    "Value": 1911.94211924544,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2001,
-    "Value": 16010253128.1506,
+    "Value": 1948.67886059248,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 2000,
-    "Value": 14967859667.883,
+    "Value": 1910.53504157986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 1999,
-    "Value": 14181186503.8591,
+    "Value": 1897.0084654234,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 1998,
-    "Value": 13133820896.3621,
+    "Value": 1826.88860205076,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 1997,
-    "Value": 12269101439.6335,
+    "Value": 1766.74739952875,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 1996,
-    "Value": 11697223607.7011,
+    "Value": 1755.69339888154,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 1995,
-    "Value": 11260928942.4303,
+    "Value": 1765.82275612143,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 1994,
-    "Value": 10469340608.6224,
+    "Value": 1722.09122757359,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 1993,
-    "Value": 10252958538.0708,
+    "Value": 1772.36191395176,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 1992,
-    "Value": 9886086762.28678,
+    "Value": 1802.42995692257,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 1991,
-    "Value": 9547114128.43622,
+    "Value": 1835.17491663862,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Senegal",
     "Year": 1990,
-    "Value": 9009311435.75052,
+    "Value": 1844.86803850763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2016,
-    "Value": 102451265400.701,
+    "Value": 13720.8908914885,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2015,
-    "Value": 98598303462.1696,
+    "Value": 13277.8001173574,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2014,
-    "Value": 98197902265.6092,
+    "Value": 13112.9089581967,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2013,
-    "Value": 98578829452.2966,
+    "Value": 13294.9603016578,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2012,
-    "Value": 94365377045.0945,
+    "Value": 12898.7049144274,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2011,
-    "Value": 93811207287.0893,
+    "Value": 12967.918642956,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2010,
-    "Value": 88132323709.9218,
+    "Value": 12688.1242898741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2009,
-    "Value": 86587636368.0247,
+    "Value": 12563.7870873229,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2008,
-    "Value": 87627971908.9818,
+    "Value": 12915.965650617,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2007,
-    "Value": 77317534265.1035,
+    "Value": 12206.0390617769,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2006,
-    "Value": 71235806793.3226,
+    "Value": 11480.5847390216,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2005,
-    "Value": 64787068588.495,
+    "Value": 10900.912413629,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2004,
-    "Value": 60207848149.7154,
+    "Value": 10297.6765743678,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2003,
-    "Value": 53840435249.0652,
+    "Value": 9421.37156537607,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2002,
-    "Value": 50983038400.0794,
+    "Value": 9003.79519253155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2001,
-    "Value": 46092715275.7484,
+    "Value": 8397.9238280117,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 2000,
-    "Value": 43032955835.1287,
+    "Value": 7984.83624726539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 1999,
-    "Value": 39045868374.338,
+    "Value": 7386.24891244316,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 1998,
-    "Value": 43774448865.694,
+    "Value": 8377.09143208382,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 1997,
-    "Value": 42276961061.8967,
+    "Value": 8147.36245296831,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 1996,
-    "Value": 38779334537.4053,
+    "Value": 7579.98030625104,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Serbia",
     "Year": 1995,
-    "Value": 37181996271.8931,
+    "Value": 7393.09438132684,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2016,
-    "Value": 2687302141.789,
+    "Value": 26319.1586250515,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2015,
-    "Value": 2539186060.17598,
+    "Value": 25524.9550030472,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2014,
-    "Value": 2427051943.22193,
+    "Value": 25218.4090907832,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2013,
-    "Value": 2307715618.71538,
+    "Value": 24791.3946610073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2012,
-    "Value": 2141482320.99936,
+    "Value": 23812.8784872582,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2011,
-    "Value": 1972370136.58509,
+    "Value": 22556.5825709346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2010,
-    "Value": 1791195218.17452,
+    "Value": 20365.1189331513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2009,
-    "Value": 1670126997.87803,
+    "Value": 19764.8070873945,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2008,
-    "Value": 1676063693.41315,
+    "Value": 20064.3023983281,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2007,
-    "Value": 1679883647.77057,
+    "Value": 20968.2166760999,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2006,
-    "Value": 1481900000.18051,
+    "Value": 19086.4536945142,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2005,
-    "Value": 1314121206.81682,
+    "Value": 17812.2799483131,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2004,
-    "Value": 1167970982.94167,
+    "Value": 16416.5608678926,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2003,
-    "Value": 1170066713.15326,
+    "Value": 16835.7729500781,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2002,
-    "Value": 1218952357.39975,
+    "Value": 17687.6411169656,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2001,
-    "Value": 1186136995.74925,
+    "Value": 18018.2413480849,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 2000,
-    "Value": 1186659356.34856,
+    "Value": 18453.1097708874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 1999,
-    "Value": 1142949342.35242,
+    "Value": 18340.8281570606,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 1998,
-    "Value": 1105035826.16719,
+    "Value": 18360.9216606183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 1997,
-    "Value": 1008429738.33329,
+    "Value": 17272.0949576041,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 1996,
-    "Value": 885536862.214923,
+    "Value": 15608.9013551796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 1995,
-    "Value": 828899402.494151,
+    "Value": 15097.1940013843,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 1994,
-    "Value": 818724183.294712,
+    "Value": 15448.3363262815,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 1993,
-    "Value": 808118129.505414,
+    "Value": 15993.4303983737,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 1992,
-    "Value": 743279305.763202,
+    "Value": 15377.3130604256,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 1991,
-    "Value": 678148149.695594,
+    "Value": 14415.6709830086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Seychelles",
     "Year": 1990,
-    "Value": 638672923.828541,
+    "Value": 14216.5298976404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2016,
-    "Value": 10918357151.4063,
+    "Value": 1368.82909805242,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2015,
-    "Value": 10141485026.3122,
+    "Value": 1315.97353345481,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2014,
-    "Value": 12618594990.119,
+    "Value": 1692.0730254361,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2013,
-    "Value": 11856363227.5684,
+    "Value": 1655.12177901137,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2012,
-    "Value": 9665618312.25148,
+    "Value": 1402.69709442688,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2011,
-    "Value": 8239839598.09827,
+    "Value": 1246.25278946725,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2010,
-    "Value": 7702647246.65289,
+    "Value": 1217.21923498169,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2009,
-    "Value": 7222223512.36375,
+    "Value": 1182.41804373988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2008,
-    "Value": 6849328422.63599,
+    "Value": 1156.43653872053,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2007,
-    "Value": 6373412347.85239,
+    "Value": 1124.54301719229,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2006,
-    "Value": 5745222948.62321,
+    "Value": 1070.3476085685,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2005,
-    "Value": 5282095761.53663,
+    "Value": 1048.41390356011,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2004,
-    "Value": 4904929886.91218,
+    "Value": 1045.27534351638,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2003,
-    "Value": 4485790119.24288,
+    "Value": 1027.60540242984,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2002,
-    "Value": 4020839129.4037,
+    "Value": 985.386987444399,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2001,
-    "Value": 3136209794.4915,
+    "Value": 816.298880497167,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 2000,
-    "Value": 3302112539.44634,
+    "Value": 912.7425576418,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 1999,
-    "Value": 3027249436.06235,
+    "Value": 880.201712915465,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 1998,
-    "Value": 3041827489.93698,
+    "Value": 915.333278481569,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 1997,
-    "Value": 2956398153.63483,
+    "Value": 909.346645350084,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 1996,
-    "Value": 3088143443.50799,
+    "Value": 971.339346125601,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 1995,
-    "Value": 2980505705.54511,
+    "Value": 956.279138162713,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 1994,
-    "Value": 3173482836.61378,
+    "Value": 1037.29523169338,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 1993,
-    "Value": 3169068146.80999,
+    "Value": 1052.08109502134,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 1992,
-    "Value": 3053448848.59493,
+    "Value": 1032.05733852267,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 1991,
-    "Value": 3686260662.32975,
+    "Value": 1272.61239760062,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sierra Leone",
     "Year": 1990,
-    "Value": 3485536986.01135,
+    "Value": 1250.57519313636,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2016,
-    "Value": 492502169207.233,
+    "Value": 81443.356456156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2015,
-    "Value": 476780000086.174,
+    "Value": 80892.064838207,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2014,
-    "Value": 462722353672.116,
+    "Value": 80305.4498844556,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2013,
-    "Value": 438886214376.574,
+    "Value": 78548.9873103606,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2012,
-    "Value": 411338966394.191,
+    "Value": 76028.9373747065,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2011,
-    "Value": 388844955527.56,
+    "Value": 75013.1866592974,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2010,
-    "Value": 358654973136.698,
+    "Value": 72105.4139202794,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2009,
-    "Value": 307468099909.549,
+    "Value": 63688.0828936033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2008,
-    "Value": 307003100347.981,
+    "Value": 66036.5992820815,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2007,
-    "Value": 295808811085.951,
+    "Value": 68422.7924287189,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2006,
-    "Value": 264078812405.204,
+    "Value": 65376.6827761848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2005,
-    "Value": 235354561150.815,
+    "Value": 61964.7258622819,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2004,
-    "Value": 212130952951.508,
+    "Value": 59018.479260683,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2003,
-    "Value": 188457869777.985,
+    "Value": 54552.6568438757,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2002,
-    "Value": 176926130083.941,
+    "Value": 51471.242980648,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2001,
-    "Value": 167208845259.744,
+    "Value": 49843.8724449958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 2000,
-    "Value": 165055027231.747,
+    "Value": 51698.9597715232,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 1999,
-    "Value": 148196850611.967,
+    "Value": 48304.309893782,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 1998,
-    "Value": 137577513858.456,
+    "Value": 45894.5150599367,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 1997,
-    "Value": 139197949182.218,
+    "Value": 48561.0296477598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 1996,
-    "Value": 126377548294.332,
+    "Value": 46374.1792689525,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 1995,
-    "Value": 115418570260.682,
+    "Value": 44914.8435150472,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 1994,
-    "Value": 105636324615.647,
+    "Value": 43259.8840675996,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 1993,
-    "Value": 93247386236.6787,
+    "Value": 40241.6845217344,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 1992,
-    "Value": 81659028172.2345,
+    "Value": 37003.4737066795,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 1991,
-    "Value": 74554902520.1963,
+    "Value": 35608.2496304243,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Singapore",
     "Year": 1990,
-    "Value": 67630751541.0977,
+    "Value": 34339.7071842982,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sint Maarten (Dutch part)",
     "Year": 2011,
-    "Value": 1214600998.53945,
+    "Value": 36327.2318988918,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2016,
-    "Value": 165424192946.731,
+    "Value": 29212.3781979582,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2015,
-    "Value": 160121695945.836,
+    "Value": 28308.8797698535,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2014,
-    "Value": 156748883422.742,
+    "Value": 27285.284673711,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2013,
-    "Value": 151020664842.28,
+    "Value": 26580.7178548938,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2012,
-    "Value": 144098039410,
+    "Value": 26218.4716043616,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2011,
-    "Value": 139467276321.22,
+    "Value": 25835.0047572051,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2010,
-    "Value": 134713523922.677,
+    "Value": 25159.0775487579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2009,
-    "Value": 124183999612.065,
+    "Value": 23973.8413853129,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2008,
-    "Value": 127442872560.147,
+    "Value": 25382.1684009197,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2007,
-    "Value": 113734989438.9,
+    "Value": 24049.9833717541,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2006,
-    "Value": 101373901999.64,
+    "Value": 21712.1783648146,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2005,
-    "Value": 89275283992.8105,
+    "Value": 20020.8375943888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2004,
-    "Value": 81624372123.987,
+    "Value": 18756.5539505275,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2003,
-    "Value": 75972949863.1162,
+    "Value": 17815.829837356,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2002,
-    "Value": 71483327516.9793,
+    "Value": 16888.9431922391,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2001,
-    "Value": 66599289568.6944,
+    "Value": 16152.2710836105,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 2000,
-    "Value": 61188017705.078,
+    "Value": 15605.1961129724,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 1999,
-    "Value": 57741226845.9525,
+    "Value": 15397.7452264693,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 1998,
-    "Value": 57163919313.7942,
+    "Value": 15445.1403959532,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 1997,
-    "Value": 54176017147.7261,
+    "Value": 14869.3393686783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 1996,
-    "Value": 50287823841.9122,
+    "Value": 14044.6526477464,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 1995,
-    "Value": 46367700055.1161,
+    "Value": 13183.5792114244,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 1994,
-    "Value": 42912803687.6081,
+    "Value": 12492.232110929,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 1993,
-    "Value": 39563464273.744,
+    "Value": 11808.7592663138,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovak Republic",
     "Year": 1992,
-    "Value": 37853618786.4592,
+    "Value": 11632.7452578559,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2016,
-    "Value": 67574517953.545,
+    "Value": 29930.037038675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2015,
-    "Value": 64935942923.6418,
+    "Value": 29037.7416756681,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2014,
-    "Value": 63620535892.4832,
+    "Value": 28417.656441512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2013,
-    "Value": 61380032248.9401,
+    "Value": 27622.6855482922,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2012,
-    "Value": 59453701344.6101,
+    "Value": 27976.9163065514,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2011,
-    "Value": 59131529881.2443,
+    "Value": 28804.7015194266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2010,
-    "Value": 56881816769.6747,
+    "Value": 28678.3726303687,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2009,
-    "Value": 56031844984.4916,
+    "Value": 28451.5455225073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2008,
-    "Value": 59879849602.9436,
+    "Value": 31137.7763671714,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2007,
-    "Value": 55701921138.8658,
+    "Value": 30190.723646843,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2006,
-    "Value": 51710042491.6877,
+    "Value": 28389.3382006689,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2005,
-    "Value": 47901860735.7388,
+    "Value": 26955.4759051744,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2004,
-    "Value": 45501958514.5479,
+    "Value": 25962.9085086601,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2003,
-    "Value": 42174185311.7036,
+    "Value": 24896.119087735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2002,
-    "Value": 40498975974.0505,
+    "Value": 24222.7057674997,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2001,
-    "Value": 37791507495.1212,
+    "Value": 23356.7055188022,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 2000,
-    "Value": 35895116495.0274,
+    "Value": 22723.3270446698,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 1999,
-    "Value": 33844952075.2951,
+    "Value": 21881.4361908644,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 1998,
-    "Value": 31760795772.2271,
+    "Value": 20800.0059679542,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 1997,
-    "Value": 30313427178.3787,
+    "Value": 20094.4571077514,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 1996,
-    "Value": 28375434452.1109,
+    "Value": 19091.0675739613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Slovenia",
     "Year": 1995,
-    "Value": 26972995864.9614,
+    "Value": 18431.0451867231,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2016,
-    "Value": 875499344175.914,
+    "Value": 20507.8034404715,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2015,
-    "Value": 850758616824.762,
+    "Value": 20547.7998375001,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2014,
-    "Value": 825156552246.104,
+    "Value": 20497.3004406636,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2013,
-    "Value": 788638889045.344,
+    "Value": 20282.6900815977,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2012,
-    "Value": 751265147001.96,
+    "Value": 20028.1502327852,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2011,
-    "Value": 713553201435.396,
+    "Value": 19726.7085977597,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2010,
-    "Value": 653730760985.418,
+    "Value": 18837.0768040868,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2009,
-    "Value": 600659842644.214,
+    "Value": 17877.2066715445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2008,
-    "Value": 584995893462.311,
+    "Value": 18000.5325628827,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2007,
-    "Value": 534327395315.869,
+    "Value": 17251.929529128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2006,
-    "Value": 477037171631.145,
+    "Value": 16193.2107495511,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2005,
-    "Value": 418736864107.216,
+    "Value": 14995.3214966624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2004,
-    "Value": 385553088781.335,
+    "Value": 14510.2000483623,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2003,
-    "Value": 346193014911.868,
+    "Value": 13631.2819234663,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2002,
-    "Value": 324210267923.138,
+    "Value": 13208.5744817303,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2001,
-    "Value": 304774200426.395,
+    "Value": 12827.74241641,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Small states",
     "Year": 2000,
-    "Value": 285956448277.384,
+    "Value": 12531.1866330321,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2016,
-    "Value": 1339890096.46586,
+    "Value": 2072.71057764802,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2015,
-    "Value": 1284608099.01198,
+    "Value": 2053.43880617515,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2014,
-    "Value": 1225077072.56709,
+    "Value": 2020.71477627807,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2013,
-    "Value": 1185606408.58589,
+    "Value": 2033.06661004926,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2012,
-    "Value": 1132621508.03152,
+    "Value": 2016.45129897761,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2011,
-    "Value": 1062611217.02648,
+    "Value": 1969.2061677912,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2010,
-    "Value": 921925182.117615,
+    "Value": 1782.82935002354,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2009,
-    "Value": 852047685.696118,
+    "Value": 1705.67031510336,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2008,
-    "Value": 887589824.944518,
+    "Value": 1831.4878594002,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2007,
-    "Value": 812846373.526351,
+    "Value": 1750.18600315176,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2006,
-    "Value": 737769827.553884,
+    "Value": 1669.82771576465,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2005,
-    "Value": 669286211.983981,
+    "Value": 1599.70105528306,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2004,
-    "Value": 615077772.583187,
+    "Value": 1555.71444993304,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2003,
-    "Value": 570664211.638168,
+    "Value": 1521.42556770362,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2002,
-    "Value": 525358977.696963,
+    "Value": 1466.33558071914,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2001,
-    "Value": 532320998.867004,
+    "Value": 1549.18260225166,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 2000,
-    "Value": 565585858.280103,
+    "Value": 1729.37896265451,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 1999,
-    "Value": 645032017.730718,
+    "Value": 2072.7963859567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 1998,
-    "Value": 638390611.28075,
+    "Value": 2140.93868532595,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 1997,
-    "Value": 620468489.881304,
+    "Value": 2162.63044350967,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 1996,
-    "Value": 618938536.009863,
+    "Value": 2256.44729510462,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 1995,
-    "Value": 598239238.901988,
+    "Value": 2284.12988885733,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 1994,
-    "Value": 541487130.306473,
+    "Value": 2171.00128099878,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 1993,
-    "Value": 485561995.962574,
+    "Value": 2045.42640168513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 1992,
-    "Value": 456139492.282914,
+    "Value": 2023.85896370586,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 1991,
-    "Value": 395750763.051561,
+    "Value": 1847.45766902709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Solomon Islands",
     "Year": 1990,
-    "Value": 361308846.636072,
+    "Value": 1792.62899105427,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2016,
-    "Value": 739225622970.142,
+    "Value": 12236.8319492475,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2015,
-    "Value": 727880000875.065,
+    "Value": 12362.5838136118,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2014,
-    "Value": 710838577644.052,
+    "Value": 12372.2652788384,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2013,
-    "Value": 686636201658.395,
+    "Value": 12340.2143221535,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2012,
-    "Value": 659311102614.083,
+    "Value": 12215.2405527557,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2011,
-    "Value": 633367849861.212,
+    "Value": 12118.7378564659,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2010,
-    "Value": 600823459854.297,
+    "Value": 11887.8013418852,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2009,
-    "Value": 576062823643.01,
+    "Value": 11676.0413098972,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2008,
-    "Value": 580651989056.951,
+    "Value": 11989.8563294705,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2007,
-    "Value": 551870506755.414,
+    "Value": 11741.3495027811,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2006,
-    "Value": 510214259733.494,
+    "Value": 11261.9562626009,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2005,
-    "Value": 468739741175.98,
+    "Value": 10783.1916101722,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2004,
-    "Value": 431363998922.646,
+    "Value": 10364.3597519917,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2003,
-    "Value": 401532058017.558,
+    "Value": 10037.4183732262,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2002,
-    "Value": 382404415949.158,
+    "Value": 9878.96005919252,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2001,
-    "Value": 363297762924.095,
+    "Value": 9661.16235738766,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 2000,
-    "Value": 345745194239.356,
+    "Value": 9538.96554021988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 1999,
-    "Value": 324568398437.154,
+    "Value": 9294.56082486319,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 1998,
-    "Value": 312311675877.964,
+    "Value": 9220.95505407512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 1997,
-    "Value": 307368479879.212,
+    "Value": 9323.75392074597,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 1996,
-    "Value": 294404006944.248,
+    "Value": 9243.93925840949,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 1995,
-    "Value": 277188121799.869,
+    "Value": 9032.89744099684,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 1994,
-    "Value": 263320874850.393,
+    "Value": 8944.70759160501,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 1993,
-    "Value": 249756350966.857,
+    "Value": 8862.01372251372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 1992,
-    "Value": 240979561907.226,
+    "Value": 8963.08034261332,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 1991,
-    "Value": 240753786854.656,
+    "Value": 9378.58772512343,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Africa",
     "Year": 1990,
-    "Value": 235395245660.798,
+    "Value": 9696.38107327709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2016,
-    "Value": 10709390399752,
+    "Value": 5621.82382239963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2015,
-    "Value": 9900822176718.11,
+    "Value": 5330.6561096369,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2014,
-    "Value": 9116234372652,
+    "Value": 5025.86336147088,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2013,
-    "Value": 8367484046796.53,
+    "Value": 4758.1395374198,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2012,
-    "Value": 7765110448105.99,
+    "Value": 4547.64990617106,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2011,
-    "Value": 7229809142187.02,
+    "Value": 4371.63816741898,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2010,
-    "Value": 6668189249765.15,
+    "Value": 4173.31015747065,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2009,
-    "Value": 6050167591878.9,
+    "Value": 3887.93971948857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2008,
-    "Value": 5585555233259.03,
+    "Value": 3669.82911635452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2007,
-    "Value": 5276706907474.34,
+    "Value": 3588.22991464812,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2006,
-    "Value": 4719773433776.03,
+    "Value": 3346.1079455464,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2005,
-    "Value": 4216469557214.47,
+    "Value": 3130.56805276744,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2004,
-    "Value": 3755966261290.01,
+    "Value": 2926.16243660011,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2003,
-    "Value": 3399175729221.74,
+    "Value": 2767.64319479112,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2002,
-    "Value": 3109646236708.64,
+    "Value": 2627.91000051258,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2001,
-    "Value": 2953422071943.64,
+    "Value": 2579.90071149867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 2000,
-    "Value": 2769789142455.46,
+    "Value": 2520.09982535513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 1999,
-    "Value": 2602041933372.38,
+    "Value": 2466.60192558804,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 1998,
-    "Value": 2380793564015.41,
+    "Value": 2334.99178142147,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 1997,
-    "Value": 2232457407744.32,
+    "Value": 2256.15489735156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 1996,
-    "Value": 2116665209984.88,
+    "Value": 2218.76900299005,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 1995,
-    "Value": 1946478575660.3,
+    "Value": 2119.59694216024,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 1994,
-    "Value": 1783822183220.92,
+    "Value": 2023.91761957041,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 1993,
-    "Value": 1648027393416.28,
+    "Value": 1949.84390205857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 1992,
-    "Value": 1543281589676.27,
+    "Value": 1909.42241426079,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 1991,
-    "Value": 1426267233468.84,
+    "Value": 1844.1405409079,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia",
     "Year": 1990,
-    "Value": 1353079679311.94,
+    "Value": 1847.5781292082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2016,
-    "Value": 10709390399752,
+    "Value": 5621.82382239963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2015,
-    "Value": 9900822176718.11,
+    "Value": 5330.6561096369,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2014,
-    "Value": 9116234372652,
+    "Value": 5025.86336147089,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2013,
-    "Value": 8367484046796.53,
+    "Value": 4758.1395374198,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2012,
-    "Value": 7765110448105.99,
+    "Value": 4547.64990617106,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2011,
-    "Value": 7229809142187.01,
+    "Value": 4371.63816741898,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2010,
-    "Value": 6668189249765.15,
+    "Value": 4173.31015747065,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2009,
-    "Value": 6050167591878.9,
+    "Value": 3887.93971948857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2008,
-    "Value": 5585555233259.03,
+    "Value": 3669.82911635452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2007,
-    "Value": 5276706907474.34,
+    "Value": 3588.22991464812,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2006,
-    "Value": 4719773433776.03,
+    "Value": 3346.1079455464,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2005,
-    "Value": 4216469557214.47,
+    "Value": 3130.56805276744,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2004,
-    "Value": 3755966261290.01,
+    "Value": 2926.16243660011,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2003,
-    "Value": 3399175729221.74,
+    "Value": 2767.64319479112,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2002,
-    "Value": 3109646236708.64,
+    "Value": 2627.91000051258,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2001,
-    "Value": 2953422071943.64,
+    "Value": 2579.90071149867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 2000,
-    "Value": 2769789142455.46,
+    "Value": 2520.09982535513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 1999,
-    "Value": 2602041933372.38,
+    "Value": 2466.60192558804,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 1998,
-    "Value": 2380793564015.41,
+    "Value": 2334.99178142147,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 1997,
-    "Value": 2232457407744.32,
+    "Value": 2256.15489735156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 1996,
-    "Value": 2116665209984.88,
+    "Value": 2218.76900299005,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 1995,
-    "Value": 1946478575660.3,
+    "Value": 2119.59694216024,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 1994,
-    "Value": 1783822183220.92,
+    "Value": 2023.91761957041,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 1993,
-    "Value": 1648027393416.28,
+    "Value": 1949.84390205857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 1992,
-    "Value": 1543281589676.27,
+    "Value": 1909.42241426079,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 1991,
-    "Value": 1426267233468.84,
+    "Value": 1844.1405409079,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Asia (IDA & IBRD)",
     "Year": 1990,
-    "Value": 1353079679311.94,
+    "Value": 1847.5781292082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Sudan",
     "Year": 2015,
-    "Value": 22878424513.4547,
+    "Value": 1808.16171419844,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Sudan",
     "Year": 2014,
-    "Value": 24167572222.766,
+    "Value": 1989.56025643488,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Sudan",
     "Year": 2013,
-    "Value": 22966674909.0492,
+    "Value": 1985.4952032932,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Sudan",
     "Year": 2012,
-    "Value": 19978529362.4731,
+    "Value": 1813.33916917235,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Sudan",
     "Year": 2011,
-    "Value": 36383425753.1343,
+    "Value": 3482.0483956412,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Sudan",
     "Year": 2010,
-    "Value": 37382086136.978,
+    "Value": 3789.92344190339,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Sudan",
     "Year": 2009,
-    "Value": 35007899540.9173,
+    "Value": 3739.87427368652,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "South Sudan",
     "Year": 2008,
-    "Value": 33076445295.0014,
+    "Value": 3717.01137059358,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2016,
-    "Value": 1687614196501.72,
+    "Value": 33320.0351089424,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2015,
-    "Value": 1617121757515.14,
+    "Value": 32291.1551993266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2014,
-    "Value": 1566854228598.09,
+    "Value": 31195.4052422035,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2013,
-    "Value": 1519995554238.29,
+    "Value": 30678.9172969914,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2012,
-    "Value": 1496188357583.57,
+    "Value": 31109.1874649142,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2011,
-    "Value": 1498957471269.2,
+    "Value": 32068.2709273108,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2010,
-    "Value": 1488329473449.41,
+    "Value": 32507.0939660629,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2009,
-    "Value": 1501473571720.78,
+    "Value": 32652.5121822546,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2008,
-    "Value": 1537792307628.72,
+    "Value": 34163.9463911854,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2007,
-    "Value": 1474005277908.48,
+    "Value": 34329.6470032958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2006,
-    "Value": 1368291736010.62,
+    "Value": 33700.8521141386,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2005,
-    "Value": 1209299968291.43,
+    "Value": 32901.9877322306,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2004,
-    "Value": 1124101059741.44,
+    "Value": 32261.4444925784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2003,
-    "Value": 1056980259367.13,
+    "Value": 31815.4213391699,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2002,
-    "Value": 1009397665671.58,
+    "Value": 31395.2760183926,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2001,
-    "Value": 936694317793.802,
+    "Value": 30950.5732327814,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 2000,
-    "Value": 873445368610.84,
+    "Value": 29967.1314474464,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 1999,
-    "Value": 803988041287.32,
+    "Value": 28589.3085949046,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 1998,
-    "Value": 764800318044.468,
+    "Value": 27473.3069596232,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 1997,
-    "Value": 715449343934.24,
+    "Value": 26448.3786561369,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 1996,
-    "Value": 674634302122.23,
+    "Value": 25614.3894951727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 1995,
-    "Value": 644210635561.546,
+    "Value": 25051.2336818993,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 1994,
-    "Value": 614115249958.914,
+    "Value": 24486.8229291387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 1993,
-    "Value": 587321109949.456,
+    "Value": 24030.9776596201,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 1992,
-    "Value": 579650863079.597,
+    "Value": 24407.675543355,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 1991,
-    "Value": 561514371942.19,
+    "Value": 24301.6921936592,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Spain",
     "Year": 1990,
-    "Value": 529934259982.249,
+    "Value": 23758.7280977593,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2016,
-    "Value": 261071267901.035,
+    "Value": 11417.2564579237,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2015,
-    "Value": 246966143823.668,
+    "Value": 11061.8435849116,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2014,
-    "Value": 233041308146.932,
+    "Value": 10650.3886307795,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2013,
-    "Value": 218112750322.962,
+    "Value": 10238.7088125126,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2012,
-    "Value": 207596814057.445,
+    "Value": 9980.02157003863,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2011,
-    "Value": 186763228839.866,
+    "Value": 9193.35823543078,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2010,
-    "Value": 168798216717.806,
+    "Value": 8529.57026066714,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2009,
-    "Value": 154385960506.624,
+    "Value": 7945.07071603709,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2008,
-    "Value": 147985268316.781,
+    "Value": 7723.23816314378,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2007,
-    "Value": 136987350912.315,
+    "Value": 7339.19605632306,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2006,
-    "Value": 124943943113.471,
+    "Value": 6921.24498557397,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2005,
-    "Value": 112586302871.646,
+    "Value": 6476.2392055363,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2004,
-    "Value": 102668314563.011,
+    "Value": 6143.59195864135,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2003,
-    "Value": 94760978601.918,
+    "Value": 5874.01854998867,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2002,
-    "Value": 87698790039.7242,
+    "Value": 5590.03624077452,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2001,
-    "Value": 83079044367.5133,
+    "Value": 5418.43794370114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 2000,
-    "Value": 82502947379.3221,
+    "Value": 5541.9089663467,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 1999,
-    "Value": 76101245953.5353,
+    "Value": 5259.81340165395,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 1998,
-    "Value": 71863678737.9568,
+    "Value": 5069.66114820111,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 1997,
-    "Value": 67901831507.05,
+    "Value": 4866.84220696375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 1996,
-    "Value": 62740466923.4597,
+    "Value": 4599.85507460989,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 1995,
-    "Value": 59359980685.4263,
+    "Value": 4461.81802830691,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 1994,
-    "Value": 55115801676.6753,
+    "Value": 4263.97314427042,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 1993,
-    "Value": 51105442460.0535,
+    "Value": 4076.09234882456,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 1992,
-    "Value": 46695733107.3183,
+    "Value": 3853.387103995,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 1991,
-    "Value": 43730850593.4226,
+    "Value": 3733.2827625854,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sri Lanka",
     "Year": 1990,
-    "Value": 40460953521.1808,
+    "Value": 3612.33804475939,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2016,
-    "Value": 1446330822.69865,
+    "Value": 24463.6176078459,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2015,
-    "Value": 1397244147.70266,
+    "Value": 24169.8597877612,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2014,
-    "Value": 1329393148.23078,
+    "Value": 23483.0123814268,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2013,
-    "Value": 1232463031.80822,
+    "Value": 22399.0922436491,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2012,
-    "Value": 1141852964.86996,
+    "Value": 21319.2349593295,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2011,
-    "Value": 1127973937.87452,
+    "Value": 21689.3038856002,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2010,
-    "Value": 1079267843.42191,
+    "Value": 21412.201453108,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2009,
-    "Value": 1090777984.55665,
+    "Value": 22145.4968121143,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2008,
-    "Value": 1116268443.81604,
+    "Value": 23086.4714259289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2007,
-    "Value": 1029986946.25586,
+    "Value": 21959.3990512715,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2006,
-    "Value": 1005060470.43114,
+    "Value": 22254.3818312425,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2005,
-    "Value": 957748009.187824,
+    "Value": 22127.6471339884,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2004,
-    "Value": 853065722.353988,
+    "Value": 20614.6597919606,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2003,
-    "Value": 801334970.661565,
+    "Value": 20176.7388387598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2002,
-    "Value": 815137120.616463,
+    "Value": 21231.9941406404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2001,
-    "Value": 782604761.83232,
+    "Value": 20990.5273960292,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 2000,
-    "Value": 725526203.030404,
+    "Value": 20173.2728103565,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 1999,
-    "Value": 640849522.132513,
+    "Value": 18447.922997271,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 1998,
-    "Value": 610503373.028681,
+    "Value": 18047.43553117,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 1997,
-    "Value": 608006288.292116,
+    "Value": 18363.8481303093,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 1996,
-    "Value": 559210332.510183,
+    "Value": 17366.4640151541,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 1995,
-    "Value": 518655766.15709,
+    "Value": 16585.3825647702,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 1994,
-    "Value": 480421494.795129,
+    "Value": 15874.8811945559,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 1993,
-    "Value": 446677850.722966,
+    "Value": 15263.8161308905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 1992,
-    "Value": 407733918.164537,
+    "Value": 14431.7986657578,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 1991,
-    "Value": 382294761.946711,
+    "Value": 13957.2633111574,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Kitts and Nevis",
     "Year": 1990,
-    "Value": 378102942.712837,
+    "Value": 14326.2252441893,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2016,
-    "Value": 2305779370.88258,
+    "Value": 12010.5015102961,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2015,
-    "Value": 2255792368.42414,
+    "Value": 11954.3612196906,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2014,
-    "Value": 2187202936.09684,
+    "Value": 11768.7070504899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2013,
-    "Value": 2168196779.5336,
+    "Value": 11927.2638254812,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2012,
-    "Value": 2130152946.41182,
+    "Value": 11963.4178092857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2011,
-    "Value": 2105522738.84117,
+    "Value": 12112.4001267958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2010,
-    "Value": 1994983348.93497,
+    "Value": 11798.4257915794,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2009,
-    "Value": 1968342875.76214,
+    "Value": 11890.3913578791,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2008,
-    "Value": 1969248341.53747,
+    "Value": 12113.8417972487,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2007,
-    "Value": 1836143815.54842,
+    "Value": 11649.6184031617,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2006,
-    "Value": 1753650766.44,
+    "Value": 11552.2328069836,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2005,
-    "Value": 1592561235.63888,
+    "Value": 10925.1863956412,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2004,
-    "Value": 1550498502.86938,
+    "Value": 11077.8740017298,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2003,
-    "Value": 1401786532.99637,
+    "Value": 10372.4643201714,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2002,
-    "Value": 1312651551.50164,
+    "Value": 9981.62424943272,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2001,
-    "Value": 1288783246.81745,
+    "Value": 10032.1390183152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 2000,
-    "Value": 1309603371.80753,
+    "Value": 10527.168103403,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 1999,
-    "Value": 1283224373.94604,
+    "Value": 10670.6595588638,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 1998,
-    "Value": 1230981735.62128,
+    "Value": 10527.8290296035,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 1997,
-    "Value": 1144807383.5354,
+    "Value": 10034.455224304,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 1996,
-    "Value": 1134984716.58548,
+    "Value": 10260.0094798741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 1995,
-    "Value": 1083247866.21861,
+    "Value": 10103.9918902708,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 1994,
-    "Value": 1043409272.42555,
+    "Value": 10058.3046937634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 1993,
-    "Value": 1005634055.48792,
+    "Value": 10016.4552634971,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 1992,
-    "Value": 979230739.915039,
+    "Value": 10100.9166316672,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 1991,
-    "Value": 886219241.932188,
+    "Value": 9467.88432474562,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Lucia",
     "Year": 1990,
-    "Value": 854446850.12427,
+    "Value": 9566.82417581123,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2016,
-    "Value": 1256156820.73385,
+    "Value": 10623.3855218733,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2015,
-    "Value": 1217708930.69619,
+    "Value": 10447.5283888551,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2014,
-    "Value": 1188394014.20501,
+    "Value": 10315.8215213241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2013,
-    "Value": 1153183058.68163,
+    "Value": 10193.2726221624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2012,
-    "Value": 1114435424.11406,
+    "Value": 10009.130829096,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2011,
-    "Value": 1079375927.09453,
+    "Value": 9871.64857733634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2010,
-    "Value": 1061995124.3797,
+    "Value": 9915.57761891195,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2009,
-    "Value": 1085586379.3422,
+    "Value": 10265.4594518142,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2008,
-    "Value": 1100504460.08937,
+    "Value": 10494.0103411324,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2007,
-    "Value": 1011870607.7648,
+    "Value": 9848.7486364134,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2006,
-    "Value": 1001478559.92414,
+    "Value": 10019.8811264098,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2005,
-    "Value": 902258667.154726,
+    "Value": 9318.46317404478,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2004,
-    "Value": 852911767.237413,
+    "Value": 9107.74209713737,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2003,
-    "Value": 796962663.687529,
+    "Value": 8761.1711505005,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2002,
-    "Value": 725585469.547554,
+    "Value": 8150.90974466758,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2001,
-    "Value": 672115298.603464,
+    "Value": 7677.37151563375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 2000,
-    "Value": 646095288.086489,
+    "Value": 7554.63533308378,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 1999,
-    "Value": 621542982.629987,
+    "Value": 7434.16595218545,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 1998,
-    "Value": 596017201.38798,
+    "Value": 7235.13424584391,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 1997,
-    "Value": 566453318.364898,
+    "Value": 6945.6018816823,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 1996,
-    "Value": 538058214.278282,
+    "Value": 6705.94052713964,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 1995,
-    "Value": 521696883.047633,
+    "Value": 6617.84553782393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 1994,
-    "Value": 474204825.98444,
+    "Value": 6140.46202099942,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 1993,
-    "Value": 470190143.66177,
+    "Value": 6220.17534109538,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 1992,
-    "Value": 440535795.487668,
+    "Value": 5971.45322372375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 1991,
-    "Value": 404896696.267648,
+    "Value": 5623.31661084892,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "St. Vincent and the Grenadines",
     "Year": 1990,
-    "Value": 387453338.753688,
+    "Value": 5576.14920809816,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2016,
-    "Value": 3847602539191.46,
+    "Value": 3453.03070542884,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2015,
-    "Value": 3740872426604.42,
+    "Value": 3492.57169919761,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2014,
-    "Value": 3582790764096.37,
+    "Value": 3473.92755368719,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2013,
-    "Value": 3354205110372.26,
+    "Value": 3401.98918423361,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2012,
-    "Value": 3140953687621.2,
+    "Value": 3326.87113429345,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2011,
-    "Value": 2969258548068.21,
+    "Value": 3291.89768364243,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2010,
-    "Value": 2783040604960.76,
+    "Value": 3236.5635985611,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2009,
-    "Value": 2601491781845.01,
+    "Value": 3147.2810945317,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2008,
-    "Value": 2498701823993.06,
+    "Value": 3130.14539802246,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2007,
-    "Value": 2322661241855.9,
+    "Value": 3048.52398931421,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2006,
-    "Value": 2112000175895.35,
+    "Value": 2923.99196449325,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2005,
-    "Value": 1913718249273.89,
+    "Value": 2805.57653804031,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2004,
-    "Value": 1757495025660.88,
+    "Value": 2731.81381407257,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2003,
-    "Value": 1523650032415.67,
+    "Value": 2499.29545536033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2002,
-    "Value": 1421655089275.87,
+    "Value": 2442.53877570995,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2001,
-    "Value": 1359409958103.84,
+    "Value": 2435.10456488374,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 2000,
-    "Value": 1276236008963.67,
+    "Value": 2400.85714648199,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 1999,
-    "Value": 1204628372155.97,
+    "Value": 2379.70441379817,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 1998,
-    "Value": 1159823311545.67,
+    "Value": 2388.4081323036,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 1997,
-    "Value": 1118223850990.45,
+    "Value": 2389.47822470708,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 1996,
-    "Value": 1060666279046.8,
+    "Value": 2366.29809846718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 1995,
-    "Value": 988897185674.674,
+    "Value": 2307.26470014012,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 1994,
-    "Value": 938731837427.838,
+    "Value": 2297.12787776523,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 1993,
-    "Value": 902969343643.808,
+    "Value": 2319.28645225919,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 1992,
-    "Value": 878894815948.003,
+    "Value": 2376.2025102752,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 1991,
-    "Value": 869809687150.448,
+    "Value": 2473.7364473687,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa",
     "Year": 1990,
-    "Value": 840235062083.021,
+    "Value": 2539.21660517582,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2016,
-    "Value": 3844914877167.2,
+    "Value": 3450.93488485639,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2015,
-    "Value": 3738333581986.92,
+    "Value": 3490.5255555181,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2014,
-    "Value": 3580364054631.64,
+    "Value": 3471.8985669713,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2013,
-    "Value": 3351897601757.71,
+    "Value": 3399.96979886476,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2012,
-    "Value": 3138812461583.19,
+    "Value": 3324.91987350011,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2011,
-    "Value": 2967286586748.74,
+    "Value": 3290.03039253046,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2010,
-    "Value": 2781249845364.56,
+    "Value": 3234.81189692462,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2009,
-    "Value": 2599822065903.51,
+    "Value": 3145.58264125317,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2008,
-    "Value": 2497026089486.27,
+    "Value": 3128.37355808489,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2007,
-    "Value": 2320979913516.6,
+    "Value": 3046.63758627165,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2006,
-    "Value": 2110517617414.13,
+    "Value": 2922.25353169959,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2005,
-    "Value": 1912403942897.79,
+    "Value": 2803.95299076641,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2004,
-    "Value": 1756327442905.92,
+    "Value": 2730.30088537828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2003,
-    "Value": 1522478040360.06,
+    "Value": 2497.65773287363,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2002,
-    "Value": 1420432513546.03,
+    "Value": 2440.72726454035,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2001,
-    "Value": 1358220061188.1,
+    "Value": 2433.2600396659,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 2000,
-    "Value": 1275044757171.19,
+    "Value": 2398.90639422294,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 1999,
-    "Value": 1203480755572.53,
+    "Value": 2377.73007336428,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 1998,
-    "Value": 1158713715240.14,
+    "Value": 2386.41894706291,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 1997,
-    "Value": 1117211912275.39,
+    "Value": 2387.61322681129,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 1996,
-    "Value": 1059778520184.74,
+    "Value": 2364.61550557549,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 1995,
-    "Value": 988066163475.993,
+    "Value": 2305.61980480932,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 1994,
-    "Value": 937910601368.122,
+    "Value": 2295.41471515022,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 1993,
-    "Value": 902158488511.5,
+    "Value": 2317.50352714106,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 1992,
-    "Value": 878149547357.269,
+    "Value": 2374.49725858831,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 1991,
-    "Value": 869130625758.218,
+    "Value": 2472.13584098454,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (excluding high income)",
     "Year": 1990,
-    "Value": 839595808600.67,
+    "Value": 2537.62944671811,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2016,
-    "Value": 3847602539191.46,
+    "Value": 3453.03070542884,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2015,
-    "Value": 3740872426604.42,
+    "Value": 3492.57169919761,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2014,
-    "Value": 3582790764096.37,
+    "Value": 3473.92755368719,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2013,
-    "Value": 3354205110372.25,
+    "Value": 3401.98918423361,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2012,
-    "Value": 3140953687621.2,
+    "Value": 3326.87113429345,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2011,
-    "Value": 2969258548068.21,
+    "Value": 3291.89768364243,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2010,
-    "Value": 2783040604960.76,
+    "Value": 3236.5635985611,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2009,
-    "Value": 2601491781845.01,
+    "Value": 3147.2810945317,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2008,
-    "Value": 2498701823993.06,
+    "Value": 3130.14539802246,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2007,
-    "Value": 2322661241855.9,
+    "Value": 3048.52398931421,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2006,
-    "Value": 2112000175895.35,
+    "Value": 2923.99196449325,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2005,
-    "Value": 1913718249273.89,
+    "Value": 2805.57653804031,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2004,
-    "Value": 1757495025660.88,
+    "Value": 2731.81381407257,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2003,
-    "Value": 1523650032415.67,
+    "Value": 2499.29545536033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2002,
-    "Value": 1421655089275.87,
+    "Value": 2442.53877570995,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2001,
-    "Value": 1359409958103.84,
+    "Value": 2435.10456488374,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 2000,
-    "Value": 1276236008963.67,
+    "Value": 2400.85714648199,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 1999,
-    "Value": 1204628372155.97,
+    "Value": 2379.70441379817,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 1998,
-    "Value": 1159823311545.67,
+    "Value": 2388.4081323036,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 1997,
-    "Value": 1118223850990.45,
+    "Value": 2389.47822470708,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 1996,
-    "Value": 1060666279046.8,
+    "Value": 2366.29809846718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 1995,
-    "Value": 988897185674.674,
+    "Value": 2307.26470014012,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 1994,
-    "Value": 938731837427.838,
+    "Value": 2297.12787776523,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 1993,
-    "Value": 902969343643.809,
+    "Value": 2319.28645225919,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 1992,
-    "Value": 878894815948.003,
+    "Value": 2376.20251027521,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 1991,
-    "Value": 869809687150.447,
+    "Value": 2473.7364473687,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sub-Saharan Africa (IDA & IBRD)",
     "Year": 1990,
-    "Value": 840235062083.021,
+    "Value": 2539.21660517582,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2016,
-    "Value": 187226136667.139,
+    "Value": 4386.35257682309,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2015,
-    "Value": 176568859414.847,
+    "Value": 4290.37224949542,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2014,
-    "Value": 166505781932.987,
+    "Value": 4188.33481399507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2013,
-    "Value": 159301875661.353,
+    "Value": 4177.33565333641,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2012,
-    "Value": 150170470215.491,
+    "Value": 4097.06862211094,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2011,
-    "Value": 146689215152.158,
+    "Value": 3631.66345577089,
     "Value Footnotes": 2
   },
   {
     "Country or Area": "Sudan",
     "Year": 2010,
-    "Value": 146606716305.81,
+    "Value": 3366.09626107549,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2009,
-    "Value": 139981320353.44,
+    "Value": 3338.22897790026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2008,
-    "Value": 134563909169.944,
+    "Value": 3317.85603979627,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2007,
-    "Value": 122423623628.622,
+    "Value": 3158.47797249906,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2006,
-    "Value": 106929643208.769,
+    "Value": 2907.36095611183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2005,
-    "Value": 94256168924.11,
+    "Value": 2712.89040420772,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2004,
-    "Value": 84954983757.8478,
+    "Value": 2593.43288263893,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2003,
-    "Value": 79590721488.151,
+    "Value": 2566.53408525189,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2002,
-    "Value": 72432321961.7186,
+    "Value": 2449.97833236488,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2001,
-    "Value": 67029065331.8121,
+    "Value": 2367.773088547,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 2000,
-    "Value": 61535542493.3515,
+    "Value": 2286.65869110256,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 1999,
-    "Value": 56576192780.6922,
+    "Value": 2211.32199350847,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 1998,
-    "Value": 54045811025.9244,
+    "Value": 2205.5043257732,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 1997,
-    "Value": 51257155918.7007,
+    "Value": 2173.92827609986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 1996,
-    "Value": 45578490724.1614,
+    "Value": 2021.00034802078,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 1995,
-    "Value": 42259930390.3673,
+    "Value": 1960.64967066524,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 1994,
-    "Value": 39054403920.3458,
+    "Value": 1900.0375317416,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 1993,
-    "Value": 37859638904.4212,
+    "Value": 1931.63384416687,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 1992,
-    "Value": 35364096081.6966,
+    "Value": 1896.33056430382,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 1991,
-    "Value": 32441934972.2524,
+    "Value": 1826.26944582026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sudan",
     "Year": 1990,
-    "Value": 29203441165.3719,
+    "Value": 1743.44603933143,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2016,
-    "Value": 8356934048.23339,
+    "Value": 13877.9860066891,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2015,
-    "Value": 8698996308.75776,
+    "Value": 14766.7991795839,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2014,
-    "Value": 8835169756.69182,
+    "Value": 15306.6924367639,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2013,
-    "Value": 8657283108.53786,
+    "Value": 15419.3073789075,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2012,
-    "Value": 8276891763.35423,
+    "Value": 15132.2526091695,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2011,
-    "Value": 7914263443.50122,
+    "Value": 14887.9368149101,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2010,
-    "Value": 7325663731.4624,
+    "Value": 14211.8775163255,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2009,
-    "Value": 6881574791.91876,
+    "Value": 13655.7387015241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2008,
-    "Value": 6629902341.89779,
+    "Value": 13397.0202307943,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2007,
-    "Value": 6243651545.84194,
+    "Value": 13001.3831790987,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2006,
-    "Value": 5786041717.55058,
+    "Value": 12501.5330157946,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2005,
-    "Value": 5405876443.3951,
+    "Value": 12168.3335137445,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2004,
-    "Value": 5008435906.45944,
+    "Value": 11761.7793236324,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2003,
-    "Value": 4461450152.70025,
+    "Value": 10882.1313833981,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2002,
-    "Value": 4126232672.11527,
+    "Value": 10377.5537035745,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2001,
-    "Value": 3896308451.51133,
+    "Value": 10060.1857453178,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 2000,
-    "Value": 3643598023.38785,
+    "Value": 9731.05861917678,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 1999,
-    "Value": 3564980590.32024,
+    "Value": 9850.07463125933,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 1998,
-    "Value": 3542100946.35213,
+    "Value": 10053.8072371284,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 1997,
-    "Value": 3450106175.08802,
+    "Value": 10020.6762578446,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 1996,
-    "Value": 3208023112.95539,
+    "Value": 9601.65082713794,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 1995,
-    "Value": 3110864736.60561,
+    "Value": 9615.69464764118,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 1994,
-    "Value": 3014256772.62724,
+    "Value": 9656.93494414264,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 1993,
-    "Value": 2858621634.05524,
+    "Value": 9505.42395183699,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 1992,
-    "Value": 3010595478.48338,
+    "Value": 10425.336584671,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 1991,
-    "Value": 2949437974.68803,
+    "Value": 10636.2527638951,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Suriname",
     "Year": 1990,
-    "Value": 2777164206.71396,
+    "Value": 10545.0205492028,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2016,
-    "Value": 11187416157.8808,
+    "Value": 7723.6410594802,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2015,
-    "Value": 10897333933.0057,
+    "Value": 7758.49556272489,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2014,
-    "Value": 10738426380.7779,
+    "Value": 7870.97074814257,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2013,
-    "Value": 10349259077.5939,
+    "Value": 7865.4383711525,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2012,
-    "Value": 9570284931.96651,
+    "Value": 7528.84167338043,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2011,
-    "Value": 8973786731.61092,
+    "Value": 7323.99766548019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2010,
-    "Value": 8599019602.86413,
+    "Value": 7296.51111860929,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2009,
-    "Value": 8184753278.17064,
+    "Value": 7161.80682274961,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2008,
-    "Value": 7997892974.70022,
+    "Value": 7183.95907432905,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2007,
-    "Value": 7780097383.05792,
+    "Value": 7253.48921939062,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2006,
-    "Value": 7256554924.47042,
+    "Value": 7056.50912757369,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2005,
-    "Value": 6642244983.85737,
+    "Value": 6745.71780317638,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2004,
-    "Value": 6070998411.65314,
+    "Value": 6426.83917242838,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2003,
-    "Value": 5701898396.56206,
+    "Value": 6245.7765795714,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2002,
-    "Value": 5381604483.59412,
+    "Value": 6048.42324958476,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2001,
-    "Value": 5077825423.01536,
+    "Value": 5837.83566339645,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 2000,
-    "Value": 4912865982.40391,
+    "Value": 5839.26705082735,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 1999,
-    "Value": 4720471521.65139,
+    "Value": 5825.18582534033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 1998,
-    "Value": 4516058674.67395,
+    "Value": 5766.41892591352,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 1997,
-    "Value": 4354189246.73333,
+    "Value": 5743.2980137934,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 1996,
-    "Value": 4152089859.30926,
+    "Value": 5696.59463635823,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 1995,
-    "Value": 3926781139.00584,
+    "Value": 5605.56990680711,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 1994,
-    "Value": 3669478218.6481,
+    "Value": 5455.50407254775,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 1993,
-    "Value": 3508779157.52563,
+    "Value": 5429.93926477182,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 1992,
-    "Value": 3323989342.09545,
+    "Value": 5370.93353970683,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 1991,
-    "Value": 3148334310.78399,
+    "Value": 5322.98715059593,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Swaziland",
     "Year": 1990,
-    "Value": 2994207942.45019,
+    "Value": 5378.1677679676,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2016,
-    "Value": 485284049907.731,
+    "Value": 46568.1771455909,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2015,
-    "Value": 469295539331.294,
+    "Value": 45679.2779973863,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2014,
-    "Value": 451103575734.11,
+    "Value": 44167.6318669891,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2013,
-    "Value": 438479748201.87,
+    "Value": 43475.8013408384,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2012,
-    "Value": 425753757928.578,
+    "Value": 43308.2144684442,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2011,
-    "Value": 413450885918.452,
+    "Value": 43755.0604392612,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2010,
-    "Value": 390392382721.825,
+    "Value": 42942.5625032962,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2009,
-    "Value": 368645726989.02,
+    "Value": 40862.9701317373,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2008,
-    "Value": 385875885893.883,
+    "Value": 43466.1418421499,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2007,
-    "Value": 371163314298.902,
+    "Value": 44051.4676089092,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2006,
-    "Value": 339821163780.857,
+    "Value": 42918.010253542,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2005,
-    "Value": 306709165411.108,
+    "Value": 41227.308712458,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2004,
-    "Value": 301643205235.752,
+    "Value": 40257.9235316632,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2003,
-    "Value": 281920908297.466,
+    "Value": 38742.6802606045,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2002,
-    "Value": 272994495761.742,
+    "Value": 37980.9800520158,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2001,
-    "Value": 263842149329.804,
+    "Value": 37330.7049744333,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 2000,
-    "Value": 259738426001.449,
+    "Value": 36854.8687622119,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 1999,
-    "Value": 240476901750.502,
+    "Value": 35245.1377146563,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 1998,
-    "Value": 225552996638.883,
+    "Value": 33743.9609739759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 1997,
-    "Value": 216309607340.078,
+    "Value": 32393.492704298,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 1996,
-    "Value": 208649016181.861,
+    "Value": 31498.4403797262,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 1995,
-    "Value": 201148371488.683,
+    "Value": 31076.9048455169,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 1994,
-    "Value": 189416092831.675,
+    "Value": 30031.8225364101,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 1993,
-    "Value": 178185555674.651,
+    "Value": 29058.2355814899,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 1992,
-    "Value": 177715503170.391,
+    "Value": 29843.9701537683,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 1991,
-    "Value": 175791387034.109,
+    "Value": 30371.4092603186,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Sweden",
     "Year": 1990,
-    "Value": 172100859319.624,
+    "Value": 30933.6327264387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2016,
-    "Value": 534902853587.541,
+    "Value": 57427.8925421093,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2015,
-    "Value": 527160326084.765,
+    "Value": 57264.1573970635,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2014,
-    "Value": 506895080284.078,
+    "Value": 57218.0279263612,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2013,
-    "Value": 486238586276.179,
+    "Value": 56535.7400477582,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2012,
-    "Value": 462615082063.583,
+    "Value": 56149.6708620093,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2011,
-    "Value": 444548844577.953,
+    "Value": 56183.8325850081,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2010,
-    "Value": 415654365721.979,
+    "Value": 55866.3050707537,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2009,
-    "Value": 400818777856.688,
+    "Value": 54805.5792896896,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2008,
-    "Value": 402150962828.414,
+    "Value": 56755.8381307405,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2007,
-    "Value": 375575652577.55,
+    "Value": 56269.1565026942,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2006,
-    "Value": 337617316128.226,
+    "Value": 54531.9936996731,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2005,
-    "Value": 301740587045.255,
+    "Value": 52770.4689302242,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2004,
-    "Value": 289555205249.704,
+    "Value": 51505.0923669791,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2003,
-    "Value": 276759590873.411,
+    "Value": 50459.5029062084,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2002,
-    "Value": 274768529150.29,
+    "Value": 50815.1531556825,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2001,
-    "Value": 266121088688.705,
+    "Value": 51117.8874407516,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 2000,
-    "Value": 256828869365.048,
+    "Value": 50775.9763390062,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 1999,
-    "Value": 241567478128.904,
+    "Value": 49128.0335737854,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 1998,
-    "Value": 233860179912.438,
+    "Value": 48540.2729292941,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 1997,
-    "Value": 225412144250.686,
+    "Value": 47271.3555292296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 1996,
-    "Value": 215942151327.113,
+    "Value": 46301.8330422132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 1995,
-    "Value": 210519413302.156,
+    "Value": 46256.9705907555,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 1994,
-    "Value": 205231446465.096,
+    "Value": 46344.2603525896,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 1993,
-    "Value": 198435210808.96,
+    "Value": 46129.4418063966,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 1992,
-    "Value": 194068145081.445,
+    "Value": 46610.189795911,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 1991,
-    "Value": 189825939745.373,
+    "Value": 47147.5392941208,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Switzerland",
     "Year": 1990,
-    "Value": 185409072427.266,
+    "Value": 48181.7557750506,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2016,
-    "Value": 26024128951.6064,
+    "Value": 2762.58545284209,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2015,
-    "Value": 24037694342.8933,
+    "Value": 2640.58951957932,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2014,
-    "Value": 22433790798.9025,
+    "Value": 2546.50048351137,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2013,
-    "Value": 20654573839.5268,
+    "Value": 2440.58695071238,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2012,
-    "Value": 18925793765.0858,
+    "Value": 2324.36928688114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2011,
-    "Value": 17286955072.7244,
+    "Value": 2211.75382192544,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2010,
-    "Value": 15770264219.8643,
+    "Value": 2106.33875580206,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2009,
-    "Value": 14629087509.6117,
+    "Value": 2022.46098258312,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2008,
-    "Value": 13987308627.1845,
+    "Value": 1991.89316190828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2007,
-    "Value": 12713819079.5002,
+    "Value": 1886.66563026491,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2006,
-    "Value": 11488156610.0931,
+    "Value": 1788.11093580258,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2005,
-    "Value": 10416569969.9263,
+    "Value": 1706.82115882794,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2004,
-    "Value": 9458154638.54549,
+    "Value": 1633.32459521405,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2003,
-    "Value": 8345459218.17143,
+    "Value": 1511.41463627328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2002,
-    "Value": 7371441237.98615,
+    "Value": 1388.9172181587,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2001,
-    "Value": 6552338746.44528,
+    "Value": 1277.42144066165,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 2000,
-    "Value": 5813379712.82597,
+    "Value": 1179.86872345015,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 1999,
-    "Value": 5248419429.87029,
+    "Value": 1107.49606430507,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 1998,
-    "Value": 4984872062.24009,
+    "Value": 1084.50943657112,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 1997,
-    "Value": 4683147387.2124,
+    "Value": 1045.09374080279,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 1996,
-    "Value": 4527378627.46275,
+    "Value": 1042.51131417888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 1995,
-    "Value": 5337587767.19439,
+    "Value": 1269.93025215986,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 1994,
-    "Value": 5968650007.28533,
+    "Value": 1471.35642395968,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 1993,
-    "Value": 7426017661.93806,
+    "Value": 1898.22340609474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 1992,
-    "Value": 8676362870.00875,
+    "Value": 2308.2069248272,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 1991,
-    "Value": 11947871795.0984,
+    "Value": 3312.55300823083,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tajikistan",
     "Year": 1990,
-    "Value": 12446712432.3946,
+    "Value": 3644.6669224325,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2016,
-    "Value": 150314737205.171,
+    "Value": 2583.58967271423,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2015,
-    "Value": 138749500721.547,
+    "Value": 2490.95710056538,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2014,
-    "Value": 128330030431.689,
+    "Value": 2402.0993456211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2013,
-    "Value": 117858525369.905,
+    "Value": 2316.44305958676,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2012,
-    "Value": 108131684527.383,
+    "Value": 2227.8287135784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2011,
-    "Value": 100984255978.622,
+    "Value": 2186.13158170674,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2010,
-    "Value": 91693558658.3756,
+    "Value": 2090.58322467574,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2009,
-    "Value": 85171231203.3066,
+    "Value": 2028.60981325381,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2008,
-    "Value": 80211998963.2628,
+    "Value": 1986.91495448207,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2007,
-    "Value": 74520563189.059,
+    "Value": 1942.48861633205,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2006,
-    "Value": 66924027956.328,
+    "Value": 1847.60265095969,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2005,
-    "Value": 62037908171.6921,
+    "Value": 1820.07786009474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2004,
-    "Value": 55562656982.8642,
+    "Value": 1733.51732510217,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2003,
-    "Value": 50149845758.2519,
+    "Value": 1655.22115640557,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2002,
-    "Value": 46001605856.219,
+    "Value": 1593.24487202138,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2001,
-    "Value": 42277527448.8603,
+    "Value": 1528.5004357202,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 2000,
-    "Value": 38996583323.3603,
+    "Value": 1481.52790281666,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 1999,
-    "Value": 36336180085.3522,
+    "Value": 1449.36707247202,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 1998,
-    "Value": 34136179238.5193,
+    "Value": 1418.13301467281,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 1997,
-    "Value": 32562121514.9737,
+    "Value": 1402.61958876725,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 1996,
-    "Value": 30924038958.8155,
+    "Value": 1390.97079837783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 1995,
-    "Value": 29049508981.2976,
+    "Value": 1368.2116167074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 1994,
-    "Value": 27475169324.1618,
+    "Value": 1361.41235263674,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 1993,
-    "Value": 26487412251.3908,
+    "Value": 1384.17718407563,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 1992,
-    "Value": 25563607032.7518,
+    "Value": 1414.30672109553,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 1991,
-    "Value": 24848663127.7067,
+    "Value": 1454.33063954955,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tanzania",
     "Year": 1990,
-    "Value": 23560053608.1349,
+    "Value": 1472.58374991444,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2016,
-    "Value": 1164713821510.93,
+    "Value": 15683.032423484,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2015,
-    "Value": 1113971410432.72,
+    "Value": 15236.7064646295,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2014,
-    "Value": 1070533818637.76,
+    "Value": 14853.4645255668,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2013,
-    "Value": 1042129473436.57,
+    "Value": 14777.9782878173,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2012,
-    "Value": 998288533998.662,
+    "Value": 14448.329351157,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2011,
-    "Value": 914029309163.43,
+    "Value": 13535.1332681194,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2010,
-    "Value": 888080235460.14,
+    "Value": 13486.5624149548,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2009,
-    "Value": 816049899794.019,
+    "Value": 12605.373118766,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2008,
-    "Value": 815532397601.445,
+    "Value": 12757.1578402025,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2007,
-    "Value": 786274106453.439,
+    "Value": 12607.081108633,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2006,
-    "Value": 726410104497.896,
+    "Value": 12024.6718264241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2005,
-    "Value": 671403300381.792,
+    "Value": 11525.3773939815,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2004,
-    "Value": 624327609195.344,
+    "Value": 11134.141346242,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2003,
-    "Value": 571666033692.533,
+    "Value": 10547.8982172169,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2002,
-    "Value": 522896781581.57,
+    "Value": 9914.4303535827,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2001,
-    "Value": 485159173184.705,
+    "Value": 9417.9982543335,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 2000,
-    "Value": 458555456768.011,
+    "Value": 9189.06078089889,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 1999,
-    "Value": 429228080625.76,
+    "Value": 8889.05799541052,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 1998,
-    "Value": 404273905375.847,
+    "Value": 8598.28702533086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 1997,
-    "Value": 432986648587.43,
+    "Value": 9421.13310866019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 1996,
-    "Value": 437754737698.943,
+    "Value": 9802.57719654396,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 1995,
-    "Value": 406906676711.702,
+    "Value": 9381.02373339359,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 1994,
-    "Value": 368657365748.74,
+    "Value": 8763.39935788519,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 1993,
-    "Value": 334245996723.346,
+    "Value": 8189.1192319409,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 1992,
-    "Value": 301593607438.118,
+    "Value": 7633.86424249786,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 1991,
-    "Value": 272818848262.099,
+    "Value": 7134.41910023195,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Thailand",
     "Year": 1990,
-    "Value": 243215537786.212,
+    "Value": 6650.4397381059,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2016,
-    "Value": 8809299145.99533,
+    "Value": 20878.8694925568,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2015,
-    "Value": 8683943297.84296,
+    "Value": 21081.1124002994,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2014,
-    "Value": 8862972087.75074,
+    "Value": 22014.756048203,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2013,
-    "Value": 8816301474.32719,
+    "Value": 22583.1076877743,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2012,
-    "Value": 8725667093.55471,
+    "Value": 23029.4216849348,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2011,
-    "Value": 8311829625.99421,
+    "Value": 22674.7278158328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2010,
-    "Value": 8094158147.93728,
+    "Value": 22895.0657376506,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2009,
-    "Value": 7874671455.03307,
+    "Value": 22925.9672631567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2008,
-    "Value": 8156328768.67663,
+    "Value": 24350.3814024026,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2007,
-    "Value": 8189755356.92764,
+    "Value": 25392.081336573,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2006,
-    "Value": 7863698468.40219,
+    "Value": 25514.3242649749,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2005,
-    "Value": 7442000823.25192,
+    "Value": 25385.3867111372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2004,
-    "Value": 6973246687.96528,
+    "Value": 25063.5596078146,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2003,
-    "Value": 6727239462.40837,
+    "Value": 25377.6926760114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2002,
-    "Value": 6680204681.34922,
+    "Value": 26250.564866147,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2001,
-    "Value": 6405948503.23918,
+    "Value": 26067.0349475819,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 2000,
-    "Value": 6102974659.99189,
+    "Value": 25847.3467287936,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 1999,
-    "Value": 5729460629.29267,
+    "Value": 25182.6326195971,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 1998,
-    "Value": 5266833556.65216,
+    "Value": 23788.0879859178,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 1997,
-    "Value": 4975614997.8637,
+    "Value": 22961.2682067106,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 1996,
-    "Value": 4793046032.1045,
+    "Value": 22749.4126114252,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 1995,
-    "Value": 4516365066.13652,
+    "Value": 22111.1264187484,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 1994,
-    "Value": 4238499442.3229,
+    "Value": 21510.2554067805,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 1993,
-    "Value": 4023482059.06659,
+    "Value": 21217.3477588362,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 1992,
-    "Value": 3917917991.9735,
+    "Value": 21552.1018642924,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 1991,
-    "Value": 3982969370.82174,
+    "Value": 22840.0444471512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Bahamas",
     "Year": 1990,
-    "Value": 4022895108.58023,
+    "Value": 24281.345473518,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2016,
-    "Value": 3418290516.29613,
+    "Value": 1554.88413632161,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2015,
-    "Value": 3302045004.06188,
+    "Value": 1568.02291355603,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2014,
-    "Value": 3131946991.41978,
+    "Value": 1550.20546944792,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2013,
-    "Value": 3049286133.70397,
+    "Value": 1584.74033886659,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2012,
-    "Value": 2863683086.60945,
+    "Value": 1560.31722893985,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2011,
-    "Value": 2662777504.11076,
+    "Value": 1524.75602386833,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2010,
-    "Value": 2725998104.42681,
+    "Value": 1644.22861700077,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2009,
-    "Value": 2528113655.03144,
+    "Value": 1593.00323375703,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2008,
-    "Value": 2357037254.63398,
+    "Value": 1544.51682432489,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2007,
-    "Value": 2186313584.92789,
+    "Value": 1507.68597521277,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2006,
-    "Value": 2055018538.26601,
+    "Value": 1501.78821415637,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2005,
-    "Value": 1971601996.53412,
+    "Value": 1533.23682062651,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2004,
-    "Value": 1928298908.85578,
+    "Value": 1598.31239670496,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2003,
-    "Value": 1753101382.26532,
+    "Value": 1541.98181167833,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2002,
-    "Value": 1608334432.39018,
+    "Value": 1489.99921056037,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2001,
-    "Value": 1637227690.79328,
+    "Value": 1589.57269913061,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 2000,
-    "Value": 1512994538.48795,
+    "Value": 1549.57276330468,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 1999,
-    "Value": 1402210466.71287,
+    "Value": 1513.54280836104,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 1998,
-    "Value": 1298003358.9905,
+    "Value": 1464.74603095655,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 1997,
-    "Value": 1240645362.9017,
+    "Value": 1456.32765190613,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 1996,
-    "Value": 1162792166.85806,
+    "Value": 1428.12677577544,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 1995,
-    "Value": 1117105983.58845,
+    "Value": 1437.0066778266,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 1994,
-    "Value": 1084717224.09398,
+    "Value": 1464.82811554692,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 1993,
-    "Value": 1060477219.54989,
+    "Value": 1503.86639328718,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 1992,
-    "Value": 1005544062.75972,
+    "Value": 1502.56984932747,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 1991,
-    "Value": 951001659.765469,
+    "Value": 1499.72962306128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "The Gambia",
     "Year": 1990,
-    "Value": 892632672.272294,
+    "Value": 1506.39209066888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2016,
-    "Value": 2715409329.89539,
+    "Value": 1984.66076730392,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2015,
-    "Value": 2537425627.62805,
+    "Value": 1920.15047232755,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2014,
-    "Value": 2411734129.94204,
+    "Value": 1887.66611282658,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2013,
-    "Value": 2274015938.66404,
+    "Value": 1855.33604507759,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2012,
-    "Value": 2180453980.56532,
+    "Value": 1850.87258817305,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2011,
-    "Value": 2038638340.5271,
+    "Value": 1801.67644893396,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2010,
-    "Value": 1850574629.43302,
+    "Value": 1702.23271594834,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2009,
-    "Value": 1660213387.83997,
+    "Value": 1570.65318368229,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2008,
-    "Value": 1458129138.40512,
+    "Value": 1407.88121514069,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2007,
-    "Value": 1252540190.52561,
+    "Value": 1248.31120060767,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2006,
-    "Value": 1094794975.9749,
+    "Value": 1137.60358746151,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2005,
-    "Value": 1128217394.19052,
+    "Value": 1234.40917580866,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2004,
-    "Value": 1026491532.15404,
+    "Value": 1193.88978528114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2003,
-    "Value": 989055934.811055,
+    "Value": 1226.076190819,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2002,
-    "Value": 991702747.027475,
+    "Value": 1304.12666099835,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2001,
-    "Value": 1046473978.13774,
+    "Value": 1446.27006864684,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Timor-Leste",
     "Year": 2000,
-    "Value": 879680016.762845,
+    "Value": 1273.31056740272,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2016,
-    "Value": 11337576069.5477,
+    "Value": 1382.10974736663,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2015,
-    "Value": 10657186509.2415,
+    "Value": 1349.371568389,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2014,
-    "Value": 10016621876.3453,
+    "Value": 1315.3402595533,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2013,
-    "Value": 9294290177.57576,
+    "Value": 1275.1954508456,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2012,
-    "Value": 8797505605.91627,
+    "Value": 1259.33447441608,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2011,
-    "Value": 8241131319.98898,
+    "Value": 1233.834912194,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2010,
-    "Value": 7698450388.81623,
+    "Value": 1208.2812098328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2009,
-    "Value": 7313342264.20068,
+    "Value": 1193.51308313547,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2008,
-    "Value": 7012076136.58358,
+    "Value": 1184.60185124385,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2007,
-    "Value": 6727454495.99146,
+    "Value": 1190.58014147093,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2006,
-    "Value": 6406321794.62261,
+    "Value": 1195.74022905956,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2005,
-    "Value": 5973306079.85577,
+    "Value": 1180.41621747941,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2004,
-    "Value": 5719583829.38339,
+    "Value": 1197.98339930296,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2003,
-    "Value": 5451009596.01124,
+    "Value": 1204.28261198358,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2002,
-    "Value": 5092152977.38652,
+    "Value": 1178.00831489841,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2001,
-    "Value": 5061841787.81039,
+    "Value": 1221.46643106981,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 2000,
-    "Value": 5030900676.42099,
+    "Value": 1276.99034145973,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 1999,
-    "Value": 4957812018.41044,
+    "Value": 1325.65769841893,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 1998,
-    "Value": 4764833768.47837,
+    "Value": 1334.10606590513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 1997,
-    "Value": 4824639025.02682,
+    "Value": 1409.01668426149,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 1996,
-    "Value": 4147196523.17524,
+    "Value": 1270.08142663155,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 1995,
-    "Value": 3742177817.86022,
+    "Value": 1200.88084771793,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 1994,
-    "Value": 3399039737.5241,
+    "Value": 1143.03657646414,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 1993,
-    "Value": 2894539138.33107,
+    "Value": 1018.23832948675,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 1992,
-    "Value": 3329955272.10578,
+    "Value": 1226.92705408513,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 1991,
-    "Value": 3390712707.48336,
+    "Value": 1307.76168244421,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Togo",
     "Year": 1990,
-    "Value": 3304619211.91975,
+    "Value": 1350.13327603293,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2016,
-    "Value": 615436374.861243,
+    "Value": 5327.26719960567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2015,
-    "Value": 587818380.067493,
+    "Value": 5189.84245337396,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2014,
-    "Value": 560699948.076173,
+    "Value": 5031.62995127747,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2013,
-    "Value": 539630204.408936,
+    "Value": 4950.70925199794,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2012,
-    "Value": 548159536.871546,
+    "Value": 5128.53417996375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2011,
-    "Value": 533494964.58507,
+    "Value": 5101.45600452365,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2010,
-    "Value": 508539525.278994,
+    "Value": 4984.19362951029,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2009,
-    "Value": 485012536.329199,
+    "Value": 4836.41788299956,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2008,
-    "Value": 470577828.824345,
+    "Value": 4755.61025755074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2007,
-    "Value": 447649521.096058,
+    "Value": 4641.84217568518,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2006,
-    "Value": 454999143.341359,
+    "Value": 4875.43432264969,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2005,
-    "Value": 445051830.457664,
+    "Value": 4946.88130817517,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2004,
-    "Value": 424462370.250472,
+    "Value": 4900.63075459436,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2003,
-    "Value": 414560031.455585,
+    "Value": 4948.32097085783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2002,
-    "Value": 398061633.720213,
+    "Value": 4875.69656778435,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2001,
-    "Value": 379082904.018184,
+    "Value": 4741.90785017165,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 2000,
-    "Value": 357751030.278795,
+    "Value": 4601.73819141637,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 1999,
-    "Value": 338388312.730763,
+    "Value": 4474.11979925592,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 1998,
-    "Value": 320834102.475867,
+    "Value": 4327.15612525963,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 1997,
-    "Value": 308988785.824162,
+    "Value": 4230.4793590789,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 1996,
-    "Value": 304189682.011714,
+    "Value": 4251.70185113893,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 1995,
-    "Value": 298705579.532156,
+    "Value": 4264.23250501644,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 1994,
-    "Value": 282130503.685354,
+    "Value": 4122.0402403661,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 1993,
-    "Value": 263215677.680733,
+    "Value": 3935.28944943856,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 1992,
-    "Value": 247834459.580158,
+    "Value": 3799.3662634392,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 1991,
-    "Value": 241701807.390801,
+    "Value": 3796.29628853828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tonga",
     "Year": 1990,
-    "Value": 219814893.384055,
+    "Value": 3574.19523187212,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2016,
-    "Value": 44845443035.4673,
+    "Value": 30464.7591712597,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2015,
-    "Value": 45308258036.3346,
+    "Value": 31283.4580149669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2014,
-    "Value": 45083006504.5897,
+    "Value": 31595.5600105422,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2013,
-    "Value": 44544722224.6978,
+    "Value": 31925.77727218,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2012,
-    "Value": 42703441026.8986,
+    "Value": 31254.7887336251,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2011,
-    "Value": 41395401723.1008,
+    "Value": 31012.7164187128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2010,
-    "Value": 40677766313.2605,
+    "Value": 31260.9070471763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2009,
-    "Value": 38894355344.5733,
+    "Value": 30403.810016077,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2008,
-    "Value": 40373855857.8806,
+    "Value": 31951.0205997441,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2007,
-    "Value": 38298629062.8642,
+    "Value": 31047.5348427206,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2006,
-    "Value": 35612700879.3888,
+    "Value": 29777.5670461916,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2005,
-    "Value": 30520085495.4233,
+    "Value": 26429.3452767888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2004,
-    "Value": 27840083729.3488,
+    "Value": 25007.6683952055,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2003,
-    "Value": 25099719800.0882,
+    "Value": 23283.0229255385,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2002,
-    "Value": 21503580795.042,
+    "Value": 20443.8786283071,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2001,
-    "Value": 19621188232.7544,
+    "Value": 19021.8496291069,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 2000,
-    "Value": 18416315263.4284,
+    "Value": 18323.9582610106,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 1999,
-    "Value": 16844100235.5489,
+    "Value": 17184.4867826301,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 1998,
-    "Value": 15357782484.4791,
+    "Value": 15936.0418945112,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 1997,
-    "Value": 14051294197.7731,
+    "Value": 14760.3873234377,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 1996,
-    "Value": 12848293999.7785,
+    "Value": 13752.9180846635,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 1995,
-    "Value": 11777671343.9025,
+    "Value": 12871.460084082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 1994,
-    "Value": 11023657296.7048,
+    "Value": 12344.7553265033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 1993,
-    "Value": 10422298897.9097,
+    "Value": 11976.3295357936,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 1992,
-    "Value": 10330235864.5875,
+    "Value": 12220.9296350437,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 1991,
-    "Value": 10269155179.74,
+    "Value": 12502.1845554131,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Trinidad and Tobago",
     "Year": 1990,
-    "Value": 9678766338.37588,
+    "Value": 12255.4138857805,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2016,
-    "Value": 132226503347.195,
+    "Value": 10752.0168250857,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2015,
-    "Value": 129051207357.206,
+    "Value": 10749.8591674414,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2014,
-    "Value": 126216010141.897,
+    "Value": 10751.4460749743,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2013,
-    "Value": 120586431978.895,
+    "Value": 10579.0429428039,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2012,
-    "Value": 115353767232.588,
+    "Value": 10404.223293694,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2011,
-    "Value": 108913333410.658,
+    "Value": 10120.6771726065,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2010,
-    "Value": 108795978224.36,
+    "Value": 10436.3655998628,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2009,
-    "Value": 103837890460.257,
+    "Value": 10195.576513237,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2008,
-    "Value": 100011455446.514,
+    "Value": 10003.2994929286,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2007,
-    "Value": 94099629320.7603,
+    "Value": 9698.42363931683,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2006,
-    "Value": 85896886903.8183,
+    "Value": 9179.48914582559,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2005,
-    "Value": 79184001808.1924,
+    "Value": 8802.94311824389,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2004,
-    "Value": 74130969414.0828,
+    "Value": 8578.44165495614,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2003,
-    "Value": 67912256344.0084,
+    "Value": 8138.21105416286,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2002,
-    "Value": 63594068492.8406,
+    "Value": 7832.08084468383,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2001,
-    "Value": 61815037157.2642,
+    "Value": 7791.95555780265,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 2000,
-    "Value": 58227305821.8743,
+    "Value": 7573.92921259656,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 1999,
-    "Value": 54371012636.8822,
+    "Value": 7305.14699086897,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 1998,
-    "Value": 50494259418.675,
+    "Value": 6963.76080166337,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 1997,
-    "Value": 47671651963.4032,
+    "Value": 6727.4544995209,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 1996,
-    "Value": 44450929204.7321,
+    "Value": 6468.61699834668,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 1995,
-    "Value": 40742509413.685,
+    "Value": 6131.29760262048,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 1994,
-    "Value": 38993123943.4968,
+    "Value": 6095.68212700259,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 1993,
-    "Value": 37004437010.0057,
+    "Value": 6023.37956185213,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 1992,
-    "Value": 35369924828.673,
+    "Value": 6018.76666380854,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 1991,
-    "Value": 32077719515.518,
+    "Value": 5706.03366485327,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tunisia",
     "Year": 1990,
-    "Value": 29877809895.0661,
+    "Value": 5614.9383832106,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2016,
-    "Value": 2007466260893.39,
+    "Value": 23756.4842864984,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2015,
-    "Value": 1944646546505.59,
+    "Value": 23388.4813019367,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2014,
-    "Value": 1851026230778.7,
+    "Value": 22401.8804311394,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2013,
-    "Value": 1690856051701.68,
+    "Value": 21650.7567664874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2012,
-    "Value": 1539111515743.4,
+    "Value": 20282.0283759489,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2011,
-    "Value": 1443295182244.23,
+    "Value": 19660.8894895655,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2010,
-    "Value": 1261588231263.74,
+    "Value": 17959.2591065745,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2009,
-    "Value": 1104561492585.16,
+    "Value": 16783.4414679524,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2008,
-    "Value": 1130486451656.89,
+    "Value": 17836.8051929596,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2007,
-    "Value": 1033065283709.58,
+    "Value": 17901.4779322987,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2006,
-    "Value": 936690785335.343,
+    "Value": 17250.7717300974,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2005,
-    "Value": 807227201652.55,
+    "Value": 16309.6832526955,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2004,
-    "Value": 728003393846.414,
+    "Value": 15161.6202534548,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2003,
-    "Value": 634670817207.159,
+    "Value": 14020.9361088652,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2002,
-    "Value": 607794104365.151,
+    "Value": 13468.4990469539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2001,
-    "Value": 592032285377.262,
+    "Value": 12842.35786008,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 2000,
-    "Value": 605983308241.844,
+    "Value": 13862.0504342053,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 1999,
-    "Value": 545462779629.96,
+    "Value": 13197.7559718349,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 1998,
-    "Value": 557400034114.081,
+    "Value": 13874.0901921504,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 1997,
-    "Value": 520531494485.261,
+    "Value": 13776.0566719135,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 1996,
-    "Value": 476335296014.446,
+    "Value": 13010.2568886132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 1995,
-    "Value": 437888875726.293,
+    "Value": 12310.201844845,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 1994,
-    "Value": 400168521775.111,
+    "Value": 11594.018845056,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 1993,
-    "Value": 414443140945.211,
+    "Value": 12357.181585103,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 1992,
-    "Value": 374697738176.833,
+    "Value": 11665.2132680185,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 1991,
-    "Value": 345648326933.626,
+    "Value": 11289.9098645241,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkey",
     "Year": 1990,
-    "Value": 331416694772.344,
+    "Value": 11400.1781438225,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2016,
-    "Value": 95561023171.6344,
+    "Value": 15648.3731190269,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2015,
-    "Value": 88848600565.8813,
+    "Value": 14992.3231371601,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2014,
-    "Value": 82530923869.8163,
+    "Value": 14332.3657698371,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2013,
-    "Value": 73504873903.7824,
+    "Value": 13236.0396490193,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2012,
-    "Value": 65641226951.2501,
+    "Value": 12235.3686156727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2011,
-    "Value": 58014358231.6118,
+    "Value": 11212.5385130967,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2010,
-    "Value": 49556065690.8234,
+    "Value": 9942.4269559212,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2009,
-    "Value": 44833439597.9509,
+    "Value": 9248.88654876926,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2008,
-    "Value": 41937346902.3973,
+    "Value": 8844.63350890128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2007,
-    "Value": 35859220071.8351,
+    "Value": 7815.00851870301,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2006,
-    "Value": 31451328623.2226,
+    "Value": 7124.61084554834,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2005,
-    "Value": 27498116718.1891,
+    "Value": 6495.36789740789,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2004,
-    "Value": 23567607045.7435,
+    "Value": 5808.66339495376,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2003,
-    "Value": 21844587697.9027,
+    "Value": 5588.66585244217,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2002,
-    "Value": 20739569517.0896,
+    "Value": 5465.45838492272,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2001,
-    "Value": 20373608062.7949,
+    "Value": 5506.28863510048,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 2000,
-    "Value": 19090401207.4202,
+    "Value": 5333.08924150312,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 1999,
-    "Value": 17697758638.1326,
+    "Value": 5113.1523720177,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 1998,
-    "Value": 14962238782.4255,
+    "Value": 4441.33465526098,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 1997,
-    "Value": 13820357997.8489,
+    "Value": 4202.47720460623,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 1996,
-    "Value": 15336119979.2953,
+    "Value": 4818.17802151597,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 1995,
-    "Value": 14115437090.2072,
+    "Value": 4600.95057556818,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 1994,
-    "Value": 14899844446.4291,
+    "Value": 5069.65858979737,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 1993,
-    "Value": 17641280281.9774,
+    "Value": 6289.59880030189,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 1992,
-    "Value": 16976652717.478,
+    "Value": 6372.93651603837,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 1991,
-    "Value": 19519584833.4865,
+    "Value": 7713.44219358595,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Turkmenistan",
     "Year": 1990,
-    "Value": 19802771781.7567,
+    "Value": 8316.75697680075,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2016,
-    "Value": 40515385.4083641,
+    "Value": 3385.43422156193,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2015,
-    "Value": 38936868.0402368,
+    "Value": 3323.79725385961,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2014,
-    "Value": 37527618.8436702,
+    "Value": 3265.84697371187,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2013,
-    "Value": 36059746.6953111,
+    "Value": 3220.7021264022,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2012,
-    "Value": 35031855.8110367,
+    "Value": 3207.29350462536,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2011,
-    "Value": 34338316.8465706,
+    "Value": 3230.92932316246,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2010,
-    "Value": 31021363.4419704,
+    "Value": 3006.53679917393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2009,
-    "Value": 31507017.1302482,
+    "Value": 3117.54384948064,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2008,
-    "Value": 32719973.1165981,
+    "Value": 3294.0144453672,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2007,
-    "Value": 29718015.5278158,
+    "Value": 3079.37391887416,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2006,
-    "Value": 27219057.9940233,
+    "Value": 2925.77114475046,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2005,
-    "Value": 25854725.1320051,
+    "Value": 2895.92589695065,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2004,
-    "Value": 26032713.3309112,
+    "Value": 3050.14146379285,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2003,
-    "Value": 25683327.9105886,
+    "Value": 3132.1547644311,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2002,
-    "Value": 26049572.622782,
+    "Value": 3284.55736700579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2001,
-    "Value": 23780364.2840519,
+    "Value": 3083.83359716194,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 2000,
-    "Value": 22876678.6903414,
+    "Value": 3063.88454566904,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 1999,
-    "Value": 22586925.9695791,
+    "Value": 3118.7448409017,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 1998,
-    "Value": 22599898.4305104,
+    "Value": 3181.56810339223,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 1997,
-    "Value": 19356734.7882509,
+    "Value": 2763.18615470746,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 1996,
-    "Value": 17300418.5431449,
+    "Value": 2517.61281075175,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 1995,
-    "Value": 18067310.010548,
+    "Value": 2684.75246898297,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 1994,
-    "Value": 18630536.6676137,
+    "Value": 2838.48837916416,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 1993,
-    "Value": 16541294.1135528,
+    "Value": 2583.36849252838,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 1992,
-    "Value": 15518943.8670512,
+    "Value": 2494.17034566763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 1991,
-    "Value": 14761390.6581144,
+    "Value": 2441.50836072301,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Tuvalu",
     "Year": 1990,
-    "Value": 13788242.7394251,
+    "Value": 2369.54691856803,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2016,
-    "Value": 75484628669.1918,
+    "Value": 1687.0827362401,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2015,
-    "Value": 71217433706.9271,
+    "Value": 1665.94990533074,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2014,
-    "Value": 66978655166.0825,
+    "Value": 1637.27508138533,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2013,
-    "Value": 62601189785.0244,
+    "Value": 1610.81091328744,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2012,
-    "Value": 59473003925.5041,
+    "Value": 1608.43979938204,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2011,
-    "Value": 56239143509.1183,
+    "Value": 1602.54481121821,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2010,
-    "Value": 50370846387.3206,
+    "Value": 1515.8665813571,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2009,
-    "Value": 47107336785.8478,
+    "Value": 1485.0270852019,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2008,
-    "Value": 43774924599.5669,
+    "Value": 1439.11054752444,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2007,
-    "Value": 39493370772.1858,
+    "Value": 1370.27459538521,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2006,
-    "Value": 35484462102.644,
+    "Value": 1308.42164438395,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2005,
-    "Value": 31075379405.7426,
+    "Value": 1222.70321588202,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2004,
-    "Value": 28313674263.0624,
+    "Value": 1190.57444090593,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2003,
-    "Value": 25799715317.6568,
+    "Value": 1154.20071130339,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2002,
-    "Value": 23757432494.3384,
+    "Value": 1122.24962600175,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2001,
-    "Value": 21519049389.8724,
+    "Value": 1067.96120331173,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 2000,
-    "Value": 20002705771.1413,
+    "Value": 1049.77862479962,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 1999,
-    "Value": 18961901796.9892,
+    "Value": 1051.31204130692,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 1998,
-    "Value": 17284049006.9351,
+    "Value": 1004.06603071407,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 1997,
-    "Value": 16298978456.414,
+    "Value": 987.13832497411,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 1996,
-    "Value": 15247111886.7746,
+    "Value": 968.643605393912,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 1995,
-    "Value": 13728309928.1808,
+    "Value": 916.244865824997,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 1994,
-    "Value": 12058321821.6325,
+    "Value": 848.094973907692,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 1993,
-    "Value": 11096474272.4745,
+    "Value": 823.196991277474,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 1992,
-    "Value": 10005507884.2174,
+    "Value": 785.285690687204,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 1991,
-    "Value": 9459162667.89057,
+    "Value": 785.107414489184,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uganda",
     "Year": 1990,
-    "Value": 8672761941.5062,
+    "Value": 769.452484131381,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2016,
-    "Value": 352885130449.967,
+    "Value": 7668.0557761534,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2015,
-    "Value": 340580494090.133,
+    "Value": 7464.93983359294,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2014,
-    "Value": 373421097180.583,
+    "Value": 8243.47351509088,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2013,
-    "Value": 392560554565.575,
+    "Value": 8338.91505034601,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2012,
-    "Value": 386424725964.751,
+    "Value": 8322.17303436674,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2011,
-    "Value": 378531847053.314,
+    "Value": 8281.86712612352,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2010,
-    "Value": 351654858336.286,
+    "Value": 7824.49845171438,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2009,
-    "Value": 333408586369.34,
+    "Value": 7479.34216961634,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2008,
-    "Value": 388375175855.858,
+    "Value": 8739.68607684231,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2007,
-    "Value": 372339520057.541,
+    "Value": 8497.05949643502,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2006,
-    "Value": 336132707321.657,
+    "Value": 7828.08117885872,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2005,
-    "Value": 303926959079.486,
+    "Value": 7246.35102662269,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2004,
-    "Value": 286711335489.906,
+    "Value": 7004.32767608907,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2003,
-    "Value": 248919316078.967,
+    "Value": 6201.06328036988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2002,
-    "Value": 223082967621.666,
+    "Value": 5622.43984863069,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2001,
-    "Value": 208849946047.551,
+    "Value": 5291.68022509355,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 2000,
-    "Value": 186993140985.449,
+    "Value": 4797.38027699732,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 1999,
-    "Value": 172646596457.625,
+    "Value": 4484.73300625804,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 1998,
-    "Value": 170385140522.166,
+    "Value": 4451.54794416577,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 1997,
-    "Value": 171820466244.62,
+    "Value": 4497.39027526063,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 1996,
-    "Value": 174153851810.439,
+    "Value": 4594.43233101207,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 1995,
-    "Value": 190035087671.25,
+    "Value": 5059.82291520728,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 1994,
-    "Value": 212018846824.217,
+    "Value": 5717.52856925436,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 1993,
-    "Value": 269380723110.913,
+    "Value": 7382.29972223152,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 1992,
-    "Value": 306760473612.148,
+    "Value": 8611.47455872664,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 1991,
-    "Value": 332137583802.374,
+    "Value": 9563.8821357311,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Ukraine",
     "Year": 1990,
-    "Value": 350956133092.535,
+    "Value": 10463.9599550096,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2016,
-    "Value": 671116696632.776,
+    "Value": 67133.0655186919,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2015,
-    "Value": 643133945172.604,
+    "Value": 65975.3755468552,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2014,
-    "Value": 612772179817.892,
+    "Value": 64126.8920822393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2013,
-    "Value": 582823479191.17,
+    "Value": 62532.7349064233,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2012,
-    "Value": 542169341836.04,
+    "Value": 59813.0165240837,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2011,
-    "Value": 506507365091.304,
+    "Value": 58404.0155885493,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2010,
-    "Value": 466591250315.02,
+    "Value": 57579.8351654688,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2009,
-    "Value": 453543824050.82,
+    "Value": 61118.9037944407,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2008,
-    "Value": 475030915074.165,
+    "Value": 71724.2776097553,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2007,
-    "Value": 451481375138.671,
+    "Value": 79283.0526978478,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2006,
-    "Value": 426205376516.083,
+    "Value": 88592.2974179127,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2005,
-    "Value": 376467223120.308,
+    "Value": 92325.5199364203,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2004,
-    "Value": 347843204672.521,
+    "Value": 98639.8535937278,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2003,
-    "Value": 308976417985.92,
+    "Value": 98351.8530997246,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2002,
-    "Value": 278432172513.58,
+    "Value": 96445.7043338815,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2001,
-    "Value": 267707957715.207,
+    "Value": 99283.9693216618,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 2000,
-    "Value": 258131611335.594,
+    "Value": 103224.426650496,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 1999,
-    "Value": 227679120407.491,
+    "Value": 98315.2953397922,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 1998,
-    "Value": 217922827143.025,
+    "Value": 100592.575960953,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 1997,
-    "Value": 214955539104.766,
+    "Value": 105431.131908941,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 1996,
-    "Value": 195339398027.264,
+    "Value": 102338.740029525,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 1995,
-    "Value": 181323439815.915,
+    "Value": 101556.924552045,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 1994,
-    "Value": 166484584255.997,
+    "Value": 100101.448148062,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 1993,
-    "Value": 152498852532.308,
+    "Value": 98788.6868767283,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 1992,
-    "Value": 147099620586.237,
+    "Value": 103204.559264048,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 1991,
-    "Value": 139166115029.071,
+    "Value": 105775.480767259,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Arab Emirates",
     "Year": 1990,
-    "Value": 133534660654.093,
+    "Value": 111066.753956664,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2016,
-    "Value": 2798058628783.66,
+    "Value": 39309.3270821404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2015,
-    "Value": 2708049144530.17,
+    "Value": 38839.1669568199,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2014,
-    "Value": 2630220891009.16,
+    "Value": 38251.7924802929,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2013,
-    "Value": 2520760937104.46,
+    "Value": 37398.7972183927,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2012,
-    "Value": 2401857663682.2,
+    "Value": 36892.8503113158,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2011,
-    "Value": 2315781273900.51,
+    "Value": 36607.9810897257,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2010,
-    "Value": 2251771983210.17,
+    "Value": 36366.9831782522,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2009,
-    "Value": 2154109188724.82,
+    "Value": 36042.424228706,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2008,
-    "Value": 2240967890424.7,
+    "Value": 37903.3819323998,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2007,
-    "Value": 2164032803462.31,
+    "Value": 38384.2519713226,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2006,
-    "Value": 2099258377323.85,
+    "Value": 37793.6185013342,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2005,
-    "Value": 1959226645977.57,
+    "Value": 37159.7989562295,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2004,
-    "Value": 1903593327714.97,
+    "Value": 36292.1820341162,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2003,
-    "Value": 1792051637943.04,
+    "Value": 35656.1779984626,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2002,
-    "Value": 1710278788827.57,
+    "Value": 34669.5182383112,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2001,
-    "Value": 1623580671476.79,
+    "Value": 33981.3775929392,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 2000,
-    "Value": 1545684454328.32,
+    "Value": 33266.1164286608,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 1999,
-    "Value": 1418428010289.07,
+    "Value": 32205.1508944734,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 1998,
-    "Value": 1371570494957.81,
+    "Value": 31305.6862483084,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 1997,
-    "Value": 1337319288705.11,
+    "Value": 30441.839370203,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 1996,
-    "Value": 1264875820637.12,
+    "Value": 29335.696108937,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 1995,
-    "Value": 1184953645351.93,
+    "Value": 28682.3421558204,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 1994,
-    "Value": 1132768060998.34,
+    "Value": 28065.1854525458,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 1993,
-    "Value": 1067734601417.84,
+    "Value": 27085.7876568753,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 1992,
-    "Value": 1017215652684.5,
+    "Value": 26481.6315650866,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 1991,
-    "Value": 990840362348.537,
+    "Value": 26454.4098108301,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "United Kingdom",
     "Year": 1990,
-    "Value": 969455383728.748,
+    "Value": 26827.8422642227,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2016,
-    "Value": 18624475000000,
+    "Value": 53445.3705894169,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2015,
-    "Value": 18120714000000,
+    "Value": 53029.2933612438,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2014,
-    "Value": 17427609000000,
+    "Value": 51931.6121706486,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2013,
-    "Value": 16691517000000,
+    "Value": 51008.4599710083,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2012,
-    "Value": 16155255000000,
+    "Value": 50519.5266059597,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2011,
-    "Value": 15517926000000,
+    "Value": 49790.6654782305,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2010,
-    "Value": 14964372000000,
+    "Value": 49372.6192042539,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2009,
-    "Value": 14418739000000,
+    "Value": 48557.8676445276,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2008,
-    "Value": 14718582000000,
+    "Value": 50383.8405601926,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2007,
-    "Value": 14477635000000,
+    "Value": 51011.4250263085,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2006,
-    "Value": 13855888000000,
+    "Value": 50598.9483595843,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2005,
-    "Value": 13093726000000,
+    "Value": 49762.2379013619,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2004,
-    "Value": 12274928000000,
+    "Value": 48597.3373622248,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2003,
-    "Value": 11510670000000,
+    "Value": 47260.0419368009,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2002,
-    "Value": 10977514000000,
+    "Value": 46366.5779744928,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2001,
-    "Value": 10621824000000,
+    "Value": 45977.5499913714,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2000,
-    "Value": 10284779000000,
+    "Value": 45986.0527103166,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1999,
-    "Value": 9660624000000,
+    "Value": 44672.5494142099,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1998,
-    "Value": 9089168000000,
+    "Value": 43166.0818492918,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1997,
-    "Value": 8608515000000,
+    "Value": 41811.6387668025,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1996,
-    "Value": 8100201000000,
+    "Value": 40500.7954160455,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1995,
-    "Value": 7664060000000,
+    "Value": 39476.2658175258,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1994,
-    "Value": 7308755000000,
+    "Value": 38891.6981952607,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1993,
-    "Value": 6878718000000,
+    "Value": 37843.5732817864,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1992,
-    "Value": 6539299000000,
+    "Value": 37321.1290369821,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1991,
-    "Value": 6174043000000,
+    "Value": 36543.0849228687,
     "Value Footnotes": ""
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1990,
-    "Value": 5979589000000,
+    "Value": 37062.1302595789,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2016,
-    "Value": 43561835499191.6,
+    "Value": 15792.911793282,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2015,
-    "Value": 41313331431484.9,
+    "Value": 15268.6872017724,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2014,
-    "Value": 39650333916037.2,
+    "Value": 14845.3513369676,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2013,
-    "Value": 37358446148619.2,
+    "Value": 14334.7068207053,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2012,
-    "Value": 35025745472348.7,
+    "Value": 13738.5007109424,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2011,
-    "Value": 32738007701016,
+    "Value": 13182.6253796258,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2010,
-    "Value": 29775006595202.2,
+    "Value": 12486.7935217202,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2009,
-    "Value": 27242773436805.4,
+    "Value": 11682.7755799782,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2008,
-    "Value": 26321478564762.7,
+    "Value": 11560.379117096,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2007,
-    "Value": 23908354353327.9,
+    "Value": 10988.7222064939,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2006,
-    "Value": 21252774781328.3,
+    "Value": 10125.1784753192,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2005,
-    "Value": 18684668896570.9,
+    "Value": 9400.81634579795,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2004,
-    "Value": 16756471187370.2,
+    "Value": 8820.82292872278,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2003,
-    "Value": 15049741252228.8,
+    "Value": 8217.98172725828,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2002,
-    "Value": 13921130349060.1,
+    "Value": 7833.94603255403,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2001,
-    "Value": 13088949434113.9,
+    "Value": 7539.24636042226,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 2000,
-    "Value": 12351171893713.7,
+    "Value": 7344.80360526497,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 1999,
-    "Value": 11352307099227.8,
+    "Value": 6977.45283306859,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 1998,
-    "Value": 10801947675208.5,
+    "Value": 6815.95934077179,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 1997,
-    "Value": 10374242541555.6,
+    "Value": 6725.03204145883,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 1996,
-    "Value": 9681934608361.45,
+    "Value": 6467.71350440579,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 1995,
-    "Value": 9053641458075.01,
+    "Value": 6247.9628670101,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 1994,
-    "Value": 8578990341085.97,
+    "Value": 6118.16808420369,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 1993,
-    "Value": 8148732516116.46,
+    "Value": 6072.07285830901,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 1992,
-    "Value": 7524736760786.16,
+    "Value": 5973.46385945738,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 1991,
-    "Value": 7220214971923.25,
+    "Value": 6032.13353686677,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Upper middle income",
     "Year": 1990,
-    "Value": 6880630626649.33,
+    "Value": 6065.55269416999,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2016,
-    "Value": 74458059441.4898,
+    "Value": 20046.9268328536,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2015,
-    "Value": 72466834308.396,
+    "Value": 19831.4458942372,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2014,
-    "Value": 71424610474.9538,
+    "Value": 19827.5649843219,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2013,
-    "Value": 67964153509.8995,
+    "Value": 19270.576091809,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2012,
-    "Value": 63919673072.0115,
+    "Value": 18477.3791210225,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2011,
-    "Value": 60618737167.7352,
+    "Value": 17904.7458216669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2010,
-    "Value": 56477081173.6294,
+    "Value": 17082.4046549884,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2009,
-    "Value": 51756824627.3225,
+    "Value": 15900.8292528422,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2008,
-    "Value": 49275715711.3901,
+    "Value": 15307.8579506305,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2007,
-    "Value": 45091856452.8256,
+    "Value": 14330.2947164112,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2006,
-    "Value": 41226109385.447,
+    "Value": 13485.5548638694,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2005,
-    "Value": 38422509823.5656,
+    "Value": 12975.7564750612,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2004,
-    "Value": 34640523174.9753,
+    "Value": 12080.4562530067,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2003,
-    "Value": 32106819314.2785,
+    "Value": 11499.4096343641,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2002,
-    "Value": 31227637046.9954,
+    "Value": 11400.2243271492,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2001,
-    "Value": 33332795963.46,
+    "Value": 12358.0449933031,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 2000,
-    "Value": 33892990492.1848,
+    "Value": 12874.7647589213,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 1999,
-    "Value": 33791051940.5971,
+    "Value": 13175.4431736803,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 1998,
-    "Value": 33939900955.0897,
+    "Value": 13506.1112841848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 1997,
-    "Value": 32123877811.7289,
+    "Value": 13005.6389842347,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 1996,
-    "Value": 29096270930.1241,
+    "Value": 12066.2496696086,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 1995,
-    "Value": 27064954157.1537,
+    "Value": 11511.0894019271,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 1994,
-    "Value": 26901424313.6638,
+    "Value": 11764.799236535,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 1993,
-    "Value": 24553063234.8807,
+    "Value": 11047.2267188328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 1992,
-    "Value": 23361612237.0441,
+    "Value": 10840.7182894207,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 1991,
-    "Value": 21162424976.7654,
+    "Value": 10117.1970158186,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uruguay",
     "Year": 1990,
-    "Value": 19780719692.8392,
+    "Value": 9840.72006748132,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2016,
-    "Value": 207415249229.281,
+    "Value": 6038.92829875491,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2015,
-    "Value": 189983655266.427,
+    "Value": 5700.23602764231,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2014,
-    "Value": 174023623053.327,
+    "Value": 5370.86580208835,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2013,
-    "Value": 158596834200.794,
+    "Value": 5067.36026505121,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2012,
-    "Value": 144514993171.388,
+    "Value": 4765.86010917962,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2011,
-    "Value": 131147044195.496,
+    "Value": 4469.99748445762,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2010,
-    "Value": 118646462895.906,
+    "Value": 4239.70220839215,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2009,
-    "Value": 108032128949.147,
+    "Value": 4019.43579284453,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2008,
-    "Value": 99183976971.0145,
+    "Value": 3781.52895693245,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2007,
-    "Value": 89243855759.1806,
+    "Value": 3525.43555804099,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2006,
-    "Value": 79084274281.4436,
+    "Value": 3253.221058874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2005,
-    "Value": 71507004459.4774,
+    "Value": 3069.11516592975,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2004,
-    "Value": 64745693914.7011,
+    "Value": 2901.89552913946,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2003,
-    "Value": 58507903247.744,
+    "Value": 2725.69229267033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2002,
-    "Value": 55051854291.987,
+    "Value": 2646.4450725076,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2001,
-    "Value": 52134151107.6466,
+    "Value": 2575.99240380072,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 2000,
-    "Value": 48917982240.376,
+    "Value": 2503.65734625083,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 1999,
-    "Value": 46078622346.1818,
+    "Value": 2445.60927680924,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 1998,
-    "Value": 43513038866.0929,
+    "Value": 2370.19491031465,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 1997,
-    "Value": 41271218385.7619,
+    "Value": 2309.34958357281,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 1996,
-    "Value": 38571051237.2352,
+    "Value": 2236.97653537289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 1995,
-    "Value": 37246352009.6561,
+    "Value": 2242.05966345588,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 1994,
-    "Value": 36816735480.4459,
+    "Value": 2303.67220320274,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 1993,
-    "Value": 38026954733.4048,
+    "Value": 2478.20937624783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 1992,
-    "Value": 38017625792.5202,
+    "Value": 2594.85200674681,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 1991,
-    "Value": 41858456958.1569,
+    "Value": 2991.44616540407,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Uzbekistan",
     "Year": 1990,
-    "Value": 40710368868.1712,
+    "Value": 3071.02264741918,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2016,
-    "Value": 832991141.104063,
+    "Value": 2856.47531029292,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2015,
-    "Value": 790858818.807033,
+    "Value": 2806.7896863444,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2014,
-    "Value": 788692665.92681,
+    "Value": 2892.34160435097,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2013,
-    "Value": 757138796.280689,
+    "Value": 2890.1893902081,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2012,
-    "Value": 730716419.254986,
+    "Value": 2899.16441518651,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2011,
-    "Value": 705126498.576747,
+    "Value": 2915.29988538,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2010,
-    "Value": 682514069.965599,
+    "Value": 2948.03293729183,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2009,
-    "Value": 663470297.749689,
+    "Value": 2970.033065384,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2008,
-    "Value": 637355245.041781,
+    "Value": 2944.26145975446,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2007,
-    "Value": 587225946.180946,
+    "Value": 2833.64304478738,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2006,
-    "Value": 543866039.915348,
+    "Value": 2761.0236716848,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2005,
-    "Value": 486474246.643636,
+    "Value": 2609.53986421055,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2004,
-    "Value": 447574980.677664,
+    "Value": 2541.57986392185,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2003,
-    "Value": 418904935.702343,
+    "Value": 2507.80681407387,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2002,
-    "Value": 393807205.261331,
+    "Value": 2466.65497727428,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2001,
-    "Value": 408745027.522716,
+    "Value": 2663.6004845733,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 2000,
-    "Value": 414082998.395068,
+    "Value": 2822.9171208383,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 1999,
-    "Value": 382234029.627377,
+    "Value": 2719.72995711938,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 1998,
-    "Value": 375216603.249159,
+    "Value": 2760.38439127164,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 1997,
-    "Value": 355880194.027328,
+    "Value": 2693.10851286522,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 1996,
-    "Value": 333505841.554115,
+    "Value": 2614.76963911403,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 1995,
-    "Value": 320073890.194727,
+    "Value": 2609.43420414273,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 1994,
-    "Value": 310394128.338988,
+    "Value": 2646.64963105534,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 1993,
-    "Value": 278687184.870626,
+    "Value": 2493.58878348779,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 1992,
-    "Value": 270182217.044254,
+    "Value": 2547.88243956258,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 1991,
-    "Value": 257486452.447393,
+    "Value": 2557.05381233243,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vanuatu",
     "Year": 1990,
-    "Value": 241607234.076371,
+    "Value": 2549.28795435969,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2014,
-    "Value": 542221478965.13,
+    "Value": 16745.0219796981,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2013,
-    "Value": 554246429722.117,
+    "Value": 17665.2399979234,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2012,
-    "Value": 538208922298.835,
+    "Value": 17678.81249659,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2011,
-    "Value": 500326029131.469,
+    "Value": 16981.3354907118,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2010,
-    "Value": 470552831794.17,
+    "Value": 16544.9720552598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2009,
-    "Value": 471900699092.197,
+    "Value": 17053.9313125971,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2008,
-    "Value": 483837885930.887,
+    "Value": 17897.0984623898,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2007,
-    "Value": 450740054764.567,
+    "Value": 17275.959356947,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2006,
-    "Value": 403715740363.329,
+    "Value": 16149.480337739,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2005,
-    "Value": 356489084333.542,
+    "Value": 14948.1251071126,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2004,
-    "Value": 313073478243.551,
+    "Value": 13785.2182204838,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2003,
-    "Value": 257590625112.442,
+    "Value": 11860.7328607691,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2002,
-    "Value": 273787594862.529,
+    "Value": 13090.592055248,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2001,
-    "Value": 295847358414.696,
+    "Value": 14627.4273040916,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 2000,
-    "Value": 279759803713.538,
+    "Value": 14413.0633183409,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 1999,
-    "Value": 263808961257.559,
+    "Value": 14166.4648798175,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 1998,
-    "Value": 276330905899.658,
+    "Value": 15359.5228264995,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 1997,
-    "Value": 272562719187.949,
+    "Value": 15618.8395597621,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 1996,
-    "Value": 251926246765.754,
+    "Value": 14981.6252752361,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 1995,
-    "Value": 247900090123.585,
+    "Value": 15323.4983929262,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 1994,
-    "Value": 233604084811.671,
+    "Value": 15054.6577841796,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 1993,
-    "Value": 234239754597.564,
+    "Value": 15752.5068032958,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 1992,
-    "Value": 228167750220.356,
+    "Value": 16059.9759448218,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 1991,
-    "Value": 210335165930.937,
+    "Value": 15490.0764869912,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Venezuela",
     "Year": 1990,
-    "Value": 185509763934.999,
+    "Value": 14450.6838400955,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2016,
-    "Value": 595368159347.916,
+    "Value": 5837.62870356959,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2015,
-    "Value": 553491803883.736,
+    "Value": 5554.85805564661,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2014,
-    "Value": 513271091960.746,
+    "Value": 5264.82809971072,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2013,
-    "Value": 475754446778.265,
+    "Value": 5024.43890182073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2012,
-    "Value": 444113766345.741,
+    "Value": 4821.13723082384,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2011,
-    "Value": 414339040368.18,
+    "Value": 4632.76596523658,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2010,
-    "Value": 382112549760.687,
+    "Value": 4408.16861192198,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2009,
-    "Value": 354717577204.438,
+    "Value": 4185.01979241841,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2008,
-    "Value": 334014283627.395,
+    "Value": 4009.95932073598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2007,
-    "Value": 310034809923.765,
+    "Value": 3831.24321744876,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2006,
-    "Value": 281899592796.377,
+    "Value": 3609.68303701039,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2005,
-    "Value": 255657378345.426,
+    "Value": 3405.67919485849,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2004,
-    "Value": 230305925904.982,
+    "Value": 3196.29721493583,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2003,
-    "Value": 208434173452.706,
+    "Value": 3000.31115552546,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2002,
-    "Value": 191170184846.659,
+    "Value": 2833.77096342951,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2001,
-    "Value": 177086531827.525,
+    "Value": 2692.12509731393,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 2000,
-    "Value": 163043701562.966,
+    "Value": 2562.10486507948,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 1999,
-    "Value": 149283792061.402,
+    "Value": 2426.28247873729,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 1998,
-    "Value": 140334704100.294,
+    "Value": 2343.44023905062,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 1997,
-    "Value": 131261550320.378,
+    "Value": 2244.3108444328,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 1996,
-    "Value": 119325307366.446,
+    "Value": 2104.50511173647,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 1995,
-    "Value": 107175777679.201,
+    "Value": 1954.77675441082,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 1994,
-    "Value": 95842292089.7693,
+    "Value": 1815.27590521021,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 1993,
-    "Value": 86223834452.7583,
+    "Value": 1699.22215313303,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 1992,
-    "Value": 77929020063.8838,
+    "Value": 1603.90382215979,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 1991,
-    "Value": 70128810523.7725,
+    "Value": 1507.19172776076,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Vietnam",
     "Year": 1990,
-    "Value": 64051732955.2774,
+    "Value": 1452.87747911376,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2016,
-    "Value": 23125731132.949,
+    "Value": 4389.22672961375,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2015,
-    "Value": 22195598344.0062,
+    "Value": 4339.10369305975,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2014,
-    "Value": 19503683621.9453,
+    "Value": 4319.76973894425,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2013,
-    "Value": 19409673184.4063,
+    "Value": 4457.56483933275,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2012,
-    "Value": 19955277667.833,
+    "Value": 4492.98291862695,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2011,
-    "Value": 17107576519.9196,
+    "Value": 4356.34182492654,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2010,
-    "Value": 15581068423.4042,
+    "Value": 3993.18035586567,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2009,
-    "Value": 14975945694.9496,
+    "Value": 3802.64231536784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2008,
-    "Value": 12480572043.9479,
+    "Value": 3602.1754761822,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2007,
-    "Value": 13211610188.485,
+    "Value": 3495.04253397313,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2006,
-    "Value": 13095275504.4078,
+    "Value": 3363.80570729259,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2005,
-    "Value": 13315278583.5138,
+    "Value": 3590.9351888777,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2004,
-    "Value": 11628118994.8996,
+    "Value": 3324.83442729888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2003,
-    "Value": 10421121609.8549,
+    "Value": 3091.16639211,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2002,
-    "Value": 9322845065.83521,
+    "Value": 2781.34196183404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2001,
-    "Value": 9313909910.74532,
+    "Value": 3260.54465971635,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 2000,
-    "Value": 9734732359.4284,
+    "Value": 3688.34211625918,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 1999,
-    "Value": 10568033453.2789,
+    "Value": 4137.84389323741,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 1998,
-    "Value": 8824184972.26419,
+    "Value": 3920.32004056571,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 1997,
-    "Value": 6930413535.39931,
+    "Value": 3517.56997648714,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 1996,
-    "Value": 5498298007.94801,
+    "Value": 3208.11990936287,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 1995,
-    "Value": 5033359226.15721,
+    "Value": 3314.76114871001,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "West Bank and Gaza",
     "Year": 1994,
-    "Value": 4602562963.41159,
+    "Value": 3236.19634836158,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2016,
-    "Value": 120719246018887,
+    "Value": 15067.2815757531,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2015,
-    "Value": 115488255462341,
+    "Value": 14766.537605517,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2014,
-    "Value": 110871292627137,
+    "Value": 14454.3023915598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2013,
-    "Value": 105468879063027,
+    "Value": 14126.1613827113,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2012,
-    "Value": 100006527950719,
+    "Value": 13823.2914178335,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2011,
-    "Value": 95068974543148.2,
+    "Value": 13552.2438685787,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2010,
-    "Value": 89008721145391.9,
+    "Value": 13176.1551164888,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2009,
-    "Value": 83424119802336.7,
+    "Value": 12668.455155568,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2008,
-    "Value": 82637163064809,
+    "Value": 12873.592994207,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2007,
-    "Value": 78041071403221.2,
+    "Value": 12671.6173410322,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2006,
-    "Value": 72004494410978.1,
+    "Value": 12165.5808935334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2005,
-    "Value": 65723375341472.9,
+    "Value": 11691.863739033,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2004,
-    "Value": 60926613311424,
+    "Value": 11302.341485525,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2003,
-    "Value": 56267576716030,
+    "Value": 10857.2293006771,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2002,
-    "Value": 53253568239297.3,
+    "Value": 10594.2456578027,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2001,
-    "Value": 50850221213199.7,
+    "Value": 10444.6624842067,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 2000,
-    "Value": 48503896237509.9,
+    "Value": 10335.6210670694,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 1999,
-    "Value": 45158721141878.5,
+    "Value": 9997.74196629776,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 1998,
-    "Value": 42974203339665.7,
+    "Value": 9787.5921038455,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 1997,
-    "Value": 41415447122226.1,
+    "Value": 9686.29597116624,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 1996,
-    "Value": 39156970129874,
+    "Value": 9449.04454213726,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 1995,
-    "Value": 36975190619550,
+    "Value": 9231.64467270461,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 1994,
-    "Value": 35048223568063.7,
+    "Value": 9070.97222560526,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 1993,
-    "Value": 33227586064474.3,
+    "Value": 8943.19878317909,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 1992,
-    "Value": 31632104256973.7,
+    "Value": 8911.93939064032,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 1991,
-    "Value": 30249148527460.8,
+    "Value": 8893.17989781456,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "World",
     "Year": 1990,
-    "Value": 28803895248548.2,
+    "Value": 8913.36618520635,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2016,
-    "Value": 69166632429.6107,
+    "Value": 2325.06995998438,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2015,
-    "Value": 75697950798.2011,
+    "Value": 2641.04582911357,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2014,
-    "Value": 104148216530.79,
+    "Value": 3766.8060009874,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2013,
-    "Value": 102505466209.609,
+    "Value": 3872.78995681253,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2012,
-    "Value": 96234421057.6193,
+    "Value": 3793.41285709918,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2011,
-    "Value": 92285415711.8955,
+    "Value": 3805.23799409817,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2010,
-    "Value": 103589965611.765,
+    "Value": 4478.7436902936,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2009,
-    "Value": 95021210788.6043,
+    "Value": 4272.81175228042,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2008,
-    "Value": 90794694366.7798,
+    "Value": 4227.58038721879,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2007,
-    "Value": 85914141362.7955,
+    "Value": 4192.21107137334,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2006,
-    "Value": 80983378360.101,
+    "Value": 4170.09525004636,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2005,
-    "Value": 76155085464.701,
+    "Value": 4155.37584199685,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2004,
-    "Value": 69873904585.3138,
+    "Value": 4046.56946584534,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2003,
-    "Value": 65405617998.5426,
+    "Value": 4002.93714125906,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2002,
-    "Value": 61810602309.2584,
+    "Value": 3969.06907674335,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2001,
-    "Value": 58571167613.97,
+    "Value": 3928.64908482275,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 2000,
-    "Value": 55167743680.5952,
+    "Value": 3893.82276112119,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 1999,
-    "Value": 50799913235.9208,
+    "Value": 3771.92240843137,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 1998,
-    "Value": 48213898062.6437,
+    "Value": 3738.3566464744,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 1997,
-    "Value": 44993640733.5064,
+    "Value": 3631.24740786523,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 1996,
-    "Value": 42037502062.8088,
+    "Value": 3563.55724735512,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 1995,
-    "Value": 39455111900.9855,
+    "Value": 3532.14446630784,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 1994,
-    "Value": 36575421873.043,
+    "Value": 3485.5026195752,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 1993,
-    "Value": 33557546727.0968,
+    "Value": 3423.3427544218,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 1992,
-    "Value": 31516404114.4798,
+    "Value": 3462.46261597022,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 1991,
-    "Value": 28476728343.361,
+    "Value": 3367.63089383682,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Yemen",
     "Year": 1990,
-    "Value": 25927654446.7208,
+    "Value": 3327.1026971146,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2016,
-    "Value": 65255039541.126,
+    "Value": 3646.96232248295,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2015,
-    "Value": 62188170852.9905,
+    "Value": 3627.20204093772,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2014,
-    "Value": 59775639302.8782,
+    "Value": 3632.50375331402,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2013,
-    "Value": 56087980476.6623,
+    "Value": 3576.68069115885,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2012,
-    "Value": 52538435071.8755,
+    "Value": 3509.41331946289,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2011,
-    "Value": 47945443548.246,
+    "Value": 3361.11206867093,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2010,
-    "Value": 44499351077.3636,
+    "Value": 3279.27716144476,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2009,
-    "Value": 39857780124.7318,
+    "Value": 3060.06778933748,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2008,
-    "Value": 36217946838.381,
+    "Value": 2881.81182531237,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2007,
-    "Value": 32958963864.661,
+    "Value": 2748.85804755073,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2006,
-    "Value": 29629747891.2156,
+    "Value": 2607.13277632234,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2005,
-    "Value": 26640956610.4257,
+    "Value": 2482.58201771245,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2004,
-    "Value": 24068937296.7576,
+    "Value": 2378.30043901729,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2003,
-    "Value": 21885729117.6387,
+    "Value": 2282.29919076599,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2002,
-    "Value": 20064381490.16,
+    "Value": 2191.96181380669,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2001,
-    "Value": 18908983630.9441,
+    "Value": 2154.86298406002,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 2000,
-    "Value": 17554327529.7081,
+    "Value": 2102.98316943151,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 1999,
-    "Value": 16519927774.5409,
+    "Value": 2081.72011805762,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 1998,
-    "Value": 15547922281.551,
+    "Value": 2047.09165670114,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 1997,
-    "Value": 15440560402.6138,
+    "Value": 2115.31914491814,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 1996,
-    "Value": 14623018439.5615,
+    "Value": 2096.66040411506,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 1995,
-    "Value": 13520099702.4571,
+    "Value": 2029.48134857011,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 1994,
-    "Value": 12870918681.7362,
+    "Value": 2025.75405831303,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 1993,
-    "Value": 13792368910.9225,
+    "Value": 2275.01416184782,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 1992,
-    "Value": 12614403095.0776,
+    "Value": 2184.88074527988,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 1991,
-    "Value": 12550499570.6832,
+    "Value": 2280.71694422267,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zambia",
     "Year": 1990,
-    "Value": 12150601761.2953,
+    "Value": 2341.93306322727,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2016,
-    "Value": 32738155206.7002,
+    "Value": 1879.62811953763,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2015,
-    "Value": 32127927340.824,
+    "Value": 1912.28026439598,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2014,
-    "Value": 31255173718.2717,
+    "Value": 1925.13870961539,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2013,
-    "Value": 30064634343.4059,
+    "Value": 1929.76500375765,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2012,
-    "Value": 28036449440.8806,
+    "Value": 1871.36634869111,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2011,
-    "Value": 23984528514.274,
+    "Value": 1667.13794951653,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2010,
-    "Value": 20355325256.3469,
+    "Value": 1474.87713733128,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2009,
-    "Value": 17862437288.5417,
+    "Value": 1336.21265041978,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2008,
-    "Value": 15825634441.7374,
+    "Value": 1215.02042076783,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2007,
-    "Value": 18852144630.7449,
+    "Value": 1501.0783905254,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2006,
-    "Value": 19059746818.51,
+    "Value": 1582.40912355679,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2005,
-    "Value": 19154672545.3224,
+    "Value": 1662.4856916738,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2004,
-    "Value": 19681589556.956,
+    "Value": 1785.60897180656,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2003,
-    "Value": 20335898778.6855,
+    "Value": 1917.25175396346,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2002,
-    "Value": 24020643830.6299,
+    "Value": 2334.44882923145,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2001,
-    "Value": 25966981580.0814,
+    "Value": 2590.18454066232,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 2000,
-    "Value": 25028096739.9639,
+    "Value": 2583.49100079193,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 1999,
-    "Value": 25243495011.3106,
+    "Value": 2699.85752090534,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 1998,
-    "Value": 25068022440.4354,
+    "Value": 2761.31853678101,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 1997,
-    "Value": 24103455177.8467,
+    "Value": 2725.88870072404,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 1996,
-    "Value": 23079205510.2932,
+    "Value": 2698.91729999729,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 1995,
-    "Value": 20537597656.5744,
+    "Value": 2488.29802838053,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 1994,
-    "Value": 20086259740.9403,
+    "Value": 2529.82667062428,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 1993,
-    "Value": 18004915151.0643,
+    "Value": 2360.79328447156,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 1992,
-    "Value": 17403496107.4213,
+    "Value": 2384.97202613578,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 1991,
-    "Value": 18701679494.5542,
+    "Value": 2681.49508887555,
     "Value Footnotes": ""
   },
   {
     "Country or Area": "Zimbabwe",
     "Year": 1990,
-    "Value": 17150514700.0823,
-    "Value Footnotes": ""
-  },
-  {
-    "Country or Area": "footnoteSeqID",
-    "Year": "Footnote",
-    "Value": "",
-    "Value Footnotes": ""
-  },
-  {
-    "Country or Area": 2,
-    "Year": "Excludes South Sudan after July 9, 2011.",
-    "Value": "",
+    "Value": 2605.7949441349,
     "Value Footnotes": ""
   }
-]
+]`;

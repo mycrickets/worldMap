@@ -1,4 +1,4 @@
-[
+export const GINIWorldBankEstimate:string = `[
   {
     "Country or Area": "Albania",
     "Year": 2012,
@@ -7842,67 +7842,67 @@
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2016,
     "Value": 41.5,
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2013,
     "Value": 41,
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2010,
     "Value": 40.4,
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2007,
     "Value": 41.1,
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2004,
     "Value": 40.5,
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 2000,
     "Value": 40.4,
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1997,
     "Value": 40.8,
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1994,
     "Value": 40.2,
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1991,
     "Value": 38.2,
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1986,
     "Value": 37.5,
     "Value Footnotes": 5
   },
   {
-    "Country or Area": "United States",
+    "Country or Area": "United States of America",
     "Year": 1979,
     "Value": 34.6,
     "Value Footnotes": 5
@@ -8333,4 +8333,4 @@
     "Value": "",
     "Value Footnotes": ""
   }
-]
+]`;

@@ -1,4 +1,4 @@
-[
+export const GDExpRNDPercGDP:string = `[
   {
     "Reference Area": "Albania",
     "Time Period": 2008,
@@ -9232,7 +9232,7 @@
     "Observation Value": 0.70543
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9240,7 +9240,7 @@
     "Observation Value": 1.18691
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9248,7 +9248,7 @@
     "Observation Value": 1.13279
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9256,7 +9256,7 @@
     "Observation Value": 1.12562
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9264,7 +9264,7 @@
     "Observation Value": 1.09069
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9272,7 +9272,7 @@
     "Observation Value": 1.1302
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9280,7 +9280,7 @@
     "Observation Value": 1.25192
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9288,7 +9288,7 @@
     "Observation Value": 1.04435
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9296,7 +9296,7 @@
     "Observation Value": 1.11611
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9304,7 +9304,7 @@
     "Observation Value": 1.07294
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9312,7 +9312,7 @@
     "Observation Value": 1.06797
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9320,7 +9320,7 @@
     "Observation Value": 1.15133
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9328,7 +9328,7 @@
     "Observation Value": 1.28604
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9336,7 +9336,7 @@
     "Observation Value": 1.24782
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9344,7 +9344,7 @@
     "Observation Value": 1.17694
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9352,7 +9352,7 @@
     "Observation Value": 1.04984
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9360,7 +9360,7 @@
     "Observation Value": 0.99624
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 1998,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9368,7 +9368,7 @@
     "Observation Value": 0.95384
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 1997,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9376,7 +9376,7 @@
     "Observation Value": 1.04374
   },
   {
-    "Reference Area": "Russian Federation",
+    "Reference Area": "Russia",
     "Time Period": 1996,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -12175,4 +12175,4 @@
     "Units of measurement": "Percent",
     "Observation Value": 0.01104
   }
-]
+]`;
