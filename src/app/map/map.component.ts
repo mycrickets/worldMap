@@ -22,16 +22,11 @@ const Datamap = require('datamaps');
   styleUrls: ['./map.component.css']
 })
 export class MapComponent implements OnInit {
-
-  model={
-    firstname: "",
-    lastname: ""
-  };
-
   onSubmit(){
 
   }
 
+  dataPoints: object;
   eduDurationYearToValue: Map<number,number>;
   eduDurationParsed: Map<string, Map<number,number>>;
   totalEduDuration: Map<string, Map<number,number>>;
@@ -39,6 +34,7 @@ export class MapComponent implements OnInit {
   IDToYears: Map<string, Map<number, number>>;
   year: number;
   parsedData: string;
+  title: string;
 
   getMaxValue(year){
     let max = -1000000000;
@@ -145,7 +141,18 @@ export class MapComponent implements OnInit {
     return countryToColor;
   }
 
-  ngOnInit(){
+  ngOnInit(selectedData=null, selectedYear=null, ratio=false){
+
+    this.dataPoints = {
+      "Compulsory Education Duration": CompEduDuration,
+      "Compulsory Education Starting Age": CompEduStartAge,
+      "Gross Expense on Research and Development as a Percentage of GDP": GDExpRNDPercGDP,
+      "GDP Per Capita in 2011 USDollars": GDPCapitaConst2011,
+      "GDP Per Capita in Current US Dollars": GDPCapitaCurrent,
+      "Total GDP in 2011 US Dollars": GDPConst2011,
+      "Total GDP in Current US Dollars": GDPCurrent,
+    };
+
     this.IDToYears = new Map<string, Map<number, number>>();
     this.nameToID = new Map<string, string>();
     this.totalEduDuration = new Map<string, Map<number, number>>();
@@ -153,19 +160,13 @@ export class MapComponent implements OnInit {
     this.eduDurationParsed = new Map<string, Map<number, number>>();
     this.year = 2010;
     let year = this.year;
+    let choice = "Compulsory Education Duration";
 
     let perc;
     let obvsValue;
     let maxColorArray;
 
-    //CompEduDuration
-    //CompEduStartAge
-    //GDExpRNDPercGDP
-    //GDPCapitaConst2011
-    //GDPCapitaCurrent
-    //GDPConst2011
-    //GDPCurrent
-    let summation = JSON.parse(CompEduDuration);
+    let summation = JSON.parse(this.dataPoints[choice]);
     this.parsedData = "";
     if (summation[0]['Units of measurement'] == "Percent") {
       perc = true;
@@ -240,19 +241,23 @@ export class MapComponent implements OnInit {
         dataType: summation[0]['Units of measurement']
       };
     }
-    this.model.lastname = year.toString();
+
+    this.title = choice + " in " + this.year.toString();
+    document.getElementById("title-sentence").innerText = this.title;
+
     window.addEventListener('resize', function () {
       map.resize();
     });
     let map = new Datamap({
-      element: document.getElementById('container1'),
+      element: document.getElementById('map-container'),
       responsive: true,
       projection: 'mercator',
       fills: {defaultFill: d3.rgb(0, 0, 0)},
       data: dataset,
       geographyConfig: {
-        borderColor: '#DEDEDE',
-        highlightBorderWidth: 2,
+        borderColor: '434244',
+        borderWidth: .5,
+        highlightBorderWidth: 1,
         // don't change color on mouse hover
         highlightFillColor: function (geo) {
           return geo['fillColor'] || '#F5F5F5';
@@ -263,7 +268,14 @@ export class MapComponent implements OnInit {
         popupTemplate: function (geo, data) {
           // don't show tooltip if country don't present in dataset
           if (!data) {
-            return;
+            return ['<div class="hoverinfo">',
+              '<strong>', 'There is no data for this country', '</strong>',
+              '</div>'].join('')
+          }
+          if (data.scoreGiven == null){
+            return ['<div class="hoverinfo">',
+              '<strong>', 'There is no data for ', geo.properties.name, ' in ', year, '</strong>',
+              '</div>'].join('')
           }
           // tooltip content
           return ['<div class="hoverinfo">',
@@ -275,8 +287,5 @@ export class MapComponent implements OnInit {
     });
   }
 
-  constructor() {
-
-  }
-
+  constructor() { }
 }

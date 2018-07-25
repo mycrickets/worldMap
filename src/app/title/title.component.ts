@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import { MapComponent } from "../map/map.component";
 
 @Component({
   selector: 'app-title',
@@ -7,7 +8,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class TitleComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+
+  }
 
   ngOnInit() {
   }

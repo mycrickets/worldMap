@@ -1,5 +1,25 @@
-<p>
-  tabs works!
-</p>
-<app-one-tab></app-one-tab>
-<app-ratio-tab></app-ratio-tab>
+<main class="tabs is-centered is-boxed is-large">
+  <ul>
+    <li id="one" class="is-active" (click)="clickOne()">
+      <a>One</a>
+    </li>
+    <li id="ratio" class="" (click)="clickRatio()">
+      <a>Ratio</a>
+    </li>
+  </ul>
+</main>
+<div id="one-info">
+  <app-one-tab></app-one-tab>
+</div>
+<div id="ratio-info" class="is-hidden">
+  <app-ratio-tab></app-ratio-tab>
+</div>
+
+<!--<form>-->
+  <!--<div class="form-group">-->
+    <!--<button type="submit" class="btn btn-success">-->
+      <!--Submit-->
+    <!--</button>-->
+  <!--</div>-->
+<!--</form>-->
+

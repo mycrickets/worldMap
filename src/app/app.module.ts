@@ -33,7 +33,7 @@ import { AuthorInfoComponent } from './author-info/author-info.component';
     AuthorPageComponent,
     MainPageComponent,
     AboutInfoComponent,
-    AuthorInfoComponent
+    AuthorInfoComponent,
   ],
   imports: [
     BrowserModule,

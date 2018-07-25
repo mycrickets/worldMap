@@ -1,5 +1,10 @@
 <nav class="navbar is-light" role = "navigation" aria-label="main navigation">
   <div class="navbar-brand">
+    <div class="navbar-start is-hidden-desktop">
+      <a class="navbar-item">
+        <i><strong>WORLD MAP</strong></i>
+      </a>
+    </div>
     <div class="navbar-burger burger" onclick="document.querySelector('.navbar-menu').classList.toggle('is-active');">
       <span></span>
       <span></span>
@@ -10,7 +15,8 @@
   <div class="navbar-menu has-text-centered">
     <div class="navbar-start">
       <a class="navbar-item" routerLink="/main">
-        <i><strong>WORLD MAP</strong></i>
+        <a class="is-hidden-touch has-text-black"><i><strong>WORLD MAP</strong></i></a>
+        <a class="is-hidden-desktop has-text-black"><i><strong>HOME</strong></i></a>
       </a>
       <a class="navbar-item" routerLink="/about">
         <i><strong>ABOUT</strong></i>
