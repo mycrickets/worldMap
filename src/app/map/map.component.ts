@@ -1,7 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {CompEduDuration} from "../../assets/CompEduDuration";
 import * as d3 from "d3";
-import {AppComponent} from "../app.component";
 
 import { CompEduStartAge } from "../../assets/CompEduStartAge";
 import { GDExpRNDPercGDP } from "../../assets/GDExpRNDPercGDP";
@@ -22,11 +21,7 @@ const Datamap = require('datamaps');
   styleUrls: ['./map.component.css']
 })
 export class MapComponent implements OnInit {
-  onSubmit(){
 
-  }
-
-  dataPoints: object;
   eduDurationYearToValue: Map<number,number>;
   eduDurationParsed: Map<string, Map<number,number>>;
   totalEduDuration: Map<string, Map<number,number>>;
@@ -35,6 +30,7 @@ export class MapComponent implements OnInit {
   year: number;
   parsedData: string;
   title: string;
+  choices: object[];
 
   getMaxValue(year){
     let max = -1000000000;
@@ -141,32 +137,50 @@ export class MapComponent implements OnInit {
     return countryToColor;
   }
 
+  removePreviousMap(){
+    document.getElementById('map-container').children.item(0).remove();
+    document.getElementById('map-container').children.item(0).remove();
+  }
+
   ngOnInit(selectedData=null, selectedYear=null, ratio=false){
 
-    this.dataPoints = {
-      "Compulsory Education Duration": CompEduDuration,
-      "Compulsory Education Starting Age": CompEduStartAge,
-      "Gross Expense on Research and Development as a Percentage of GDP": GDExpRNDPercGDP,
-      "GDP Per Capita in 2011 USDollars": GDPCapitaConst2011,
-      "GDP Per Capita in Current US Dollars": GDPCapitaCurrent,
-      "Total GDP in 2011 US Dollars": GDPConst2011,
-      "Total GDP in Current US Dollars": GDPCurrent,
-    };
+    this.choices = [
+      {'name': "Compulsory Education Duration", 'file': CompEduDuration},
+      {'name': "Compulsory Education Starting Age", 'file': CompEduStartAge},
+      {'name': "Gross Expense on R&D as a Percentage of GDP", 'file': GDExpRNDPercGDP},
+      {'name': "GDP Per Capita in 2011 US Dollars", 'file': GDPCapitaConst2011},
+      {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaCurrent},
+      {'name': "Total GDP in 2011 US Dollars", 'file': GDPConst2011},
+      {'name': "Total GDP in Current US Dollars", 'file': GDPCurrent},
+      {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate}
+    ];
 
     this.IDToYears = new Map<string, Map<number, number>>();
     this.nameToID = new Map<string, string>();
     this.totalEduDuration = new Map<string, Map<number, number>>();
     this.eduDurationYearToValue = new Map<number, number>();
     this.eduDurationParsed = new Map<string, Map<number, number>>();
-    this.year = 2010;
-    let year = this.year;
-    let choice = "Compulsory Education Duration";
+    this.year = selectedYear;
+    let choice = selectedData;
 
     let perc;
     let obvsValue;
     let maxColorArray;
 
-    let summation = JSON.parse(this.dataPoints[choice]);
+    if(choice == null){
+      choice = "Compulsory Education Duration";
+    }
+    if(this.year == null){
+      this.year = 2010;
+    }
+    let year = this.year;
+    let k = 0;
+    for(let i = 0; i < this.choices.length; i++){
+      if(this.choices[i]['name'] == choice){
+        k = i;
+      }
+    }
+    let summation = JSON.parse(this.choices[k]['file']);
     this.parsedData = "";
     if (summation[0]['Units of measurement'] == "Percent") {
       perc = true;
@@ -248,6 +262,7 @@ export class MapComponent implements OnInit {
     window.addEventListener('resize', function () {
       map.resize();
     });
+
     let map = new Datamap({
       element: document.getElementById('map-container'),
       responsive: true,

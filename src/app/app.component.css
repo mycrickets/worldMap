@@ -1,0 +1,16 @@
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: 1fr auto;
+}
+.footer {
+  grid-row-start: 2;
+  grid-row-end: 3;
+}
+
+h1, title, subtitle {
+  font-family: 'EB Garamond', serif;
+}

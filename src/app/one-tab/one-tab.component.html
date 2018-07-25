@@ -1,3 +1,21 @@
-<p>
-  one-tab works!
-</p>
+<div class="has-text-centered">
+  <form (submit)="oneTabSubmit()">
+    <div class="form-group">
+      <div class="level">
+        <div class="select">
+          <select style="width:300px; max-width:350px;" id="dataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selection" name="selection" [ngModelOptions]="{ updateOn: 'submit'}">
+            <option *ngFor="let option of choices" [value]="option.name">{{option.name}}</option>
+          </select>
+        </div>
+      </div>
+      {{selection}}
+      <div class="level">
+        <div class="level-item">
+          <button type="submit" class="btn btn-success">
+          Submit
+          </button>
+        </div>
+      </div>
+    </div>
+  </form>
+</div>

@@ -24,7 +24,6 @@
     "core-js": "^2.5.4",
     "d3": "^5.5.0",
     "datamaps": "^0.5.9",
-    "ng5-slider": "^1.0.1",
     "papaparse": "^4.5.0",
     "rxjs": "^6.0.0",
     "underscore": "^1.9.1",
