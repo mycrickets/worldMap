@@ -1,5 +1,21 @@
 <p>Year: {{year}}</p>
 <p>Information: {{parsedData}}</p>
 
-<p>Value: {{value}}</p>
-<ng5-slider [(value)]="value" [options]="options"></ng5-slider>
+<div>
+  <form (ngSubmit)="onSubmit()" #form01>
+    <div class="form-group">
+      <label for="firstname">testing what is name</label>
+      <input type="text" class="form-control" id="firstname" required [(ngModel)]="model.firstname" name="firstname" #firstname="ngModel" [ngModelOptions]="{ updateOn: 'submit'}">
+      <div class="alert alert-danger">
+        first name is required
+      </div>
+      <button type="submit" class="btn btn-success">
+        Submit
+      </button>
+    </div>
+  </form>
+  <p>
+    {{model.firstname}}
+    {{model.lastname}}
+  </p>
+</div>

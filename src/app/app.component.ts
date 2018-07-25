@@ -9,7 +9,6 @@ import { GDPConst2011 } from "../assets/GDPConst2011";
 import { GDPCurrent } from "../assets/GDPCurrent";
 import { GINIWorldBankEstimate } from "../assets/GINIWorldBankEstimate";
 import * as d3 from "d3";
-import {Options} from "ng5-slider";
 
 declare var require: any;
 
@@ -22,13 +21,15 @@ const Datamap = require('datamaps');
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  value: number = 2005;
-  options: Options = {
-    floor: 1995,
-    ceil: 2015
+  model={
+    firstname: "",
+    lastname: ""
   };
 
-  choices: string[];
+  onSubmit(){
+
+  }
+
   eduDurationYearToValue: Map<number,number>;
   eduDurationParsed: Map<string, Map<number,number>>;
   totalEduDuration: Map<string, Map<number,number>>;
@@ -150,8 +151,7 @@ export class AppComponent {
     this.totalEduDuration = new Map<string, Map<number, number>>();
     this.eduDurationYearToValue = new Map<number, number>();
     this.eduDurationParsed = new Map<string, Map<number, number>>();
-    this.choices = ["CompEduDuration", "CompEduStartAge", "GDExpRNDPercGDP", "GDPCapitaCurrent", "GDPCurrent", "GINIWorldBankEstimate"];
-    this.year = this.value;
+    this.year = 2010;
     let year = this.year;
 
     let perc;
@@ -236,6 +236,7 @@ export class AppComponent {
       let thisID = countryIDS.next().value;
       dataset[thisID] = { scoreGiven: this.IDToYears.get(thisID).get(year), fillColor: countryColor.get(thisID), dataType: summation[0]['Units of measurement'] };
     }
+    this.model.lastname = year.toString();
     window.addEventListener('resize', function() {
       map.resize();
     });
