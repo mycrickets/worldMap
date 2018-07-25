@@ -1,4 +1,4 @@
-<p>Year: {{year}}</p>
+<!--<p>Year: {{year}}</p>
 <p>Information: {{parsedData}}</p>
 
 <div>
@@ -18,4 +18,24 @@
     {{model.firstname}}
     {{model.lastname}}
   </p>
-</div>
+</div>-->
+<body>
+  <app-navbar></app-navbar>
+  <router-outlet></router-outlet>
+  <section class="hero is-light">
+    <div class="hero">
+      <div class="level">
+        <div class="level-item">
+          <ul class="has-text-centered">
+            <br/>
+            <li>Created by Caleb Ricketts, 2018</li>
+            <li>Powered by <a href="https://bulma.io" target="_blank" class="has-text-link">Bulma</a>, and <a href="https://angular.io" target="_blank" class="has-text-link">Angular</a>
+            </li>
+            <li><a routerLink="/author" class="has-text-link">Talk to me</a></li>
+            <br/>
+          </ul>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>

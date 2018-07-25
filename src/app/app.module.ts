@@ -12,6 +12,10 @@ import { MapComponent } from './map/map.component';
 import { TabsComponent } from './tabs/tabs.component';
 import { OneTabComponent } from './one-tab/one-tab.component';
 import { RatioTabComponent } from './ratio-tab/ratio-tab.component';
+import { AboutPageComponent } from './about-page/about-page.component';
+import { AuthorPageComponent } from './author-page/author-page.component';
+import { AppRoutingModule } from './app-routing.module';
+import { MainPageComponent } from './main-page/main-page.component';
 
 @NgModule({
   declarations: [
@@ -22,12 +26,16 @@ import { RatioTabComponent } from './ratio-tab/ratio-tab.component';
     MapComponent,
     TabsComponent,
     OneTabComponent,
-    RatioTabComponent
+    RatioTabComponent,
+    AboutPageComponent,
+    AuthorPageComponent,
+    MainPageComponent
   ],
   imports: [
     BrowserModule,
     FormsModule,
-    ReactiveFormsModule
+    ReactiveFormsModule,
+    AppRoutingModule
   ],
   providers: [],
   bootstrap: [AppComponent]

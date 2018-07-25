@@ -21,7 +21,7 @@ const Datamap = require('datamaps');
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  model={
+  /**model={
     firstname: "",
     lastname: ""
   };
@@ -269,5 +269,5 @@ export class AppComponent {
         }
       },
     });
-  }
+  }*/
 }
