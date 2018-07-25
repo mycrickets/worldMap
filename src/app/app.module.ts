@@ -16,6 +16,8 @@ import { AboutPageComponent } from './about-page/about-page.component';
 import { AuthorPageComponent } from './author-page/author-page.component';
 import { AppRoutingModule } from './app-routing.module';
 import { MainPageComponent } from './main-page/main-page.component';
+import { AboutInfoComponent } from './about-info/about-info.component';
+import { AuthorInfoComponent } from './author-info/author-info.component';
 
 @NgModule({
   declarations: [
@@ -29,7 +31,9 @@ import { MainPageComponent } from './main-page/main-page.component';
     RatioTabComponent,
     AboutPageComponent,
     AuthorPageComponent,
-    MainPageComponent
+    MainPageComponent,
+    AboutInfoComponent,
+    AuthorInfoComponent
   ],
   imports: [
     BrowserModule,
