@@ -15,25 +15,26 @@ export class OneTabComponent implements OnInit {
   min:number;
   selectedYear:number;
   descriptor:string;
+  info:string;
 
   oneTabSubmit(){
-    console.log();
-    let mapcomp = new MapComponent;
+    let mapcomp = new MapComponent();
     mapcomp.removePreviousMap();
     mapcomp.ngOnInit(this.selection, this.selectedYear);
     this.choices = mapcomp.choices;
     this.maxmin = mapcomp.maxmin;
-    console.log(this.maxmin);
+    //console.log(this.maxmin);
     this.max = mapcomp.getMaxValue(this.selectedYear);
     this.min = mapcomp.getMinValue(this.selectedYear);
     this.years = mapcomp.allYears;
+    this.info = mapcomp.info;
     this.descriptor = mapcomp.descriptor;
   }
 
   constructor() { }
 
   ngOnInit() {
-    this.selection="GDP Per Capita in Current US Dollars";
+    this.selection="GINI Index (World Bank Estimate)";
     this.selectedYear=2010;
     let mapcomp = new MapComponent;
     mapcomp.removePreviousMap();
@@ -43,6 +44,7 @@ export class OneTabComponent implements OnInit {
     this.years = mapcomp.allYears;
     this.max = mapcomp.getMaxValue(this.selectedYear);
     this.min = mapcomp.getMinValue(this.selectedYear);
+    this.info = mapcomp.info;
     this.descriptor = mapcomp.descriptor;
   }
 }

@@ -2064,13 +2064,13 @@ export const GINIWorldBankEstimate:string = `[
     "Value Footnotes": 6
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2012,
     "Value": 42.1,
     "Value Footnotes": 1
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2004,
     "Value": 42.2,
     "Value Footnotes": 1

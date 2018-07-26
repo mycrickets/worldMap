@@ -7296,163 +7296,163 @@ export const GDPCapitaCurrent:string = `[
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2016,
     "Value": 801.630119736065,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2015,
     "Value": 798.742655360412,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2014,
     "Value": 763.85805255915,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2013,
     "Value": 708.608471970415,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2012,
     "Value": 664.801780089217,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2011,
     "Value": 629.856388836565,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2010,
     "Value": 597.076987349427,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2009,
     "Value": 569.535006308888,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2008,
     "Value": 568.083477865222,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2007,
     "Value": 542.061728658384,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2006,
     "Value": 513.37969086873,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2005,
     "Value": 488.388086946654,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2004,
     "Value": 460.247641423181,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2003,
     "Value": 433.079475306457,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2002,
     "Value": 414.722773266483,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2001,
     "Value": 408.574400444067,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 2000,
     "Value": 419.463913592424,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 1999,
     "Value": 451.884303986381,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 1998,
     "Value": 475.897495067878,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 1997,
     "Value": 489.592699106425,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 1996,
     "Value": 522.636140865822,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 1995,
     "Value": 533.218253337197,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 1994,
     "Value": 535.720278509118,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 1993,
     "Value": 566.087071157879,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 1992,
     "Value": 664.448873357432,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 1991,
     "Value": 754.782482590742,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Dem. Rep. Congo",
+    "Country or Area": "Democratic Republic of the Congo",
     "Year": 1990,
     "Value": 827.600330402252,
     "Units of measurement": "USD"
@@ -37161,18 +37161,6 @@ export const GDPCapitaCurrent:string = `[
     "Country or Area": "Zimbabwe",
     "Year": 1990,
     "Value": 1684.21137034247,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "footnoteSeqID",
-    "Year": "Footnote",
-    "Value": "",
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": 2,
-    "Year": "Excludes South Sudan after July 9, 2011.",
-    "Value": "",
     "Units of measurement": "USD"
   }
 ]`;

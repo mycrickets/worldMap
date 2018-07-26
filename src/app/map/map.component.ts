@@ -38,6 +38,11 @@ export class MapComponent implements OnInit {
   yearType: string;
   maxmin: object;
   descriptor: string;
+  info: string;
+
+  generateRatioMap(begYear, endYear, selectedData) {
+    return null;
+  }
 
   getMaxValue(year){
     year = parseInt(year);
@@ -65,19 +70,24 @@ export class MapComponent implements OnInit {
     return min
   }
 
-  static getColorArray(max, min, something){
+  static getColorArray(max, min, isLargeArray=false, isReverseColor=false){
     let r = 255;
     let g = 0;
     let b = 0;
     let denom = max-min;
-    if(something) {
+    if(isLargeArray) {
       let divvy = 15;
       let colorArray = new Array(15);
       let chg = 510/15;
       for(let i = 0; i < divvy; i++){
         if(g < 255){
           g += chg;
-          colorArray[i] = d3.rgb(r, Math.floor(g), b);
+          if(isReverseColor){
+            colorArray[i] = d3.rgb(Math.floor(g), r, b);
+          } else{
+            colorArray[i] = d3.rgb(r, Math.floor(g), b);
+          }
+
         }
         if(g > 255){
           g -= (g-255)
@@ -87,7 +97,12 @@ export class MapComponent implements OnInit {
           if(r < 0){
             r = 0;
           }
-          colorArray[i] = d3.rgb(Math.floor(r), g, b);
+          if(isReverseColor){
+            colorArray[i] = d3.rgb(g, Math.floor(r), b);
+          } else{
+            colorArray[i] = d3.rgb(Math.floor(r), g, b);
+          }
+
         }
       }
       return colorArray
@@ -97,7 +112,11 @@ export class MapComponent implements OnInit {
     for(let i = 0; i < denom; i++){
       if(g < 255){
         g += chg;
-        colorArray[i] = d3.rgb(r, Math.floor(g), b);
+        if(isReverseColor){
+          colorArray[i] = d3.rgb(Math.floor(g), r, b);
+        } else{
+          colorArray[i] = d3.rgb(r, Math.floor(g), b);
+        }
       }
       if(g > 255){
         g -= (g-255)
@@ -107,7 +126,11 @@ export class MapComponent implements OnInit {
         if(r < 0){
           r = 0;
         }
-        colorArray[i] = d3.rgb(Math.floor(r), g, b);
+        if(isReverseColor){
+          colorArray[i] = d3.rgb(Math.floor(g), r, b);
+        } else{
+          colorArray[i] = d3.rgb(r, Math.floor(g), b);
+        }
       }
     }
     return colorArray
@@ -130,7 +153,7 @@ export class MapComponent implements OnInit {
     for(let i = 0; i < this.IDToYears.size; i++){
       let thisyear = countryKeys.next().value;
       let countryScore = this.IDToYears.get(thisyear).get(year);
-      let thisColor = colors[(countryScore % divvy) - 1];
+      let thisColor = colors[countryScore-(this.getMinValue(year)+1)];
       if(countryScore == this.getMaxValue(year)){
         thisColor = colors[divvy-1];
       }
@@ -140,7 +163,7 @@ export class MapComponent implements OnInit {
       if(countryScore != null){
         countryToColor.set(thisyear, thisColor);
       } else{
-        countryToColor.set(thisyear, d3.rgb(0, 0, 0));
+        countryToColor.set(thisyear, d3.rgb('#878E99'));
       }
     }
     return countryToColor;
@@ -152,13 +175,9 @@ export class MapComponent implements OnInit {
   }
 
   getAllYears(data, timePeriod){
+
     let years = [];
-    let timeValue;
-    if(timePeriod != null){
-      timeValue = 'Time Period'
-    } else{
-      timeValue = 'Year'
-    }
+    let timeValue = this.yearType;
     for(let i = 0; i < _.size(data); i++){
       if(!years.includes(data[i][timeValue])){
         years.push(data[i][timeValue]);
@@ -192,18 +211,18 @@ export class MapComponent implements OnInit {
     for(let i = 0; i < _.size(dataYear); i++){
       let dataPointValue = dataYear[i][this.dataType];
       let dataPointName = dataYear[i][this.nameType];
-      if (Math.floor(dataPointValue.toString().length) >= 8) {
-        dataPointValue /= 10000000
+      if (Math.floor(dataPointValue).toString().length >= 8) {
+        dataPointValue = Math.floor(dataPointValue / 1000000000);
       }
       if(perc){
         dataPointValue = Math.floor(10 * dataPointValue);
       }
-      if(dataPointValue == max){
+      if(Math.floor(dataPointValue) == max){
         if(!extremaCountries['max'].includes(dataPointName)) {
           extremaCountries['max'].push(dataPointName);
         }
       }
-      if(dataPointValue == min){
+      if(Math.floor(dataPointValue) == min){
         if(!extremaCountries['min'].includes(dataPointName)) {
           extremaCountries['min'].push(dataPointName);
         }
@@ -215,24 +234,18 @@ export class MapComponent implements OnInit {
   ngOnInit(selectedData=null, selectedYear=null, ratio=false){
 
     this.choices = [
-      {'name': "Compulsory Education Duration", 'file': CompEduDuration},
-      {'name': "Compulsory Education Starting Age", 'file': CompEduStartAge},
-      {'name': "Gross Expense on R&D as a Percentage of GDP", 'file': GDExpRNDPercGDP},
-      {'name': "GDP Per Capita in 2011 US Dollars", 'file': GDPCapitaConst2011},
-      {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaCurrent},
-      {'name': "Total GDP in 2011 US Dollars", 'file': GDPConst2011},
-      {'name': "Total GDP in Current US Dollars", 'file': GDPCurrent},
-      {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate}
+      {'name': "Compulsory Education Duration", 'file': CompEduDuration, 'info': null},
+      {'name': "Compulsory Education Starting Age", 'file': CompEduStartAge, 'info': null},
+      {'name': "Gross Expense on R&D as a Percentage of GDP", 'file': GDExpRNDPercGDP, 'info': null},
+      {'name': "GDP Per Capita in 2011 US Dollars", 'file': GDPCapitaConst2011, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'},
+      {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaCurrent, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'},
+      {'name': "Total GDP in 2011 US Dollars", 'file': GDPConst2011, 'info': 'https://www.investopedia.com/terms/g/gdp.asp'},
+      {'name': "Total GDP in Current US Dollars", 'file': GDPCurrent, 'info': 'https://www.investopedia.com/terms/g/gdp.asp'},
+      {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'}
     ];
-
-    this.IDToYears = new Map<string, Map<number, number>>();
-    this.nameToID = new Map<string, string>();
-    this.totalEduDuration = new Map<string, Map<number, number>>();
-    this.eduDurationYearToValue = new Map<number, number>();
-    this.eduDurationParsed = new Map<string, Map<number, number>>();
-    this.year = parseInt(selectedYear);
     let choice = selectedData;
 
+    let isReverseColor = false;
     let perc;
     let obvsValue;
     let maxColorArray;
@@ -240,10 +253,6 @@ export class MapComponent implements OnInit {
     if(choice == null){
       choice = "Compulsory Education Duration";
     }
-    if(selectedYear == null){
-      this.year = 2010;
-    }
-    let year = this.year;
     let k = 0;
     for(let i = 0; i < this.choices.length; i++){
       if(this.choices[i]['name'] == choice){
@@ -251,37 +260,59 @@ export class MapComponent implements OnInit {
       }
     }
     let summation = JSON.parse(this.choices[k]['file']);
-    this.allYears = this.getAllYears(summation, summation[0]['Time Period']);
     this.parsedData = "";
     if (summation[0]['Units of measurement'] == "Percent") {
       perc = true;
     }
     if (summation[0]['Value'] != null) {
-      obvsValue = true;
+      this.dataType = 'Value';
+      this.nameType = 'Country or Area';
+      this.yearType = 'Year';
+    } else {
+      this.dataType = 'Observation Value';
+      this.nameType = 'Reference Area';
+      this.yearType = 'Time Period';
     }
     let GDP = false;
-    if(this.choices[k]['name'].includes("Total GDP") /*&& !this.choices[k]['name'].includes("Capita")*/){
+    if(this.choices[k]['name'].includes("Total GDP")){
       GDP = true
     }
+    if(this.choices[k]['name'].includes("GINI")){
+      isReverseColor = true;
+    }
+    this.info = this.choices[k]['info'];
+
+
+
+    if(ratio) {
+      //wew lad
+      let begYear = parseInt(selectedYear[0]);
+      let endYear = parseInt(selectedYear[1]);
+      let dataBeg = this.getDataForYear(summation, begYear);
+      let dataEnd = this.getDataForYear(summation, endYear);
+      
+    }
+
+
+
+    this.IDToYears = new Map<string, Map<number, number>>();
+    this.nameToID = new Map<string, string>();
+    this.totalEduDuration = new Map<string, Map<number, number>>();
+    this.eduDurationYearToValue = new Map<number, number>();
+    this.eduDurationParsed = new Map<string, Map<number, number>>();
+    this.year = parseInt(selectedYear);
+
+    if(selectedYear == null){
+      this.year = 2010;
+    }
+    let year = this.year;
+
     for (let i = 0; i < _.size(summation); i++) {
-      let name = summation[i]['Reference Area'];
-      let year = summation[i]['Time Period'];
-      let value = summation[i]['Observation Value'];
-      if (obvsValue) {
-        this.dataType = 'Value';
-        this.nameType = 'Country or Area';
-        this.yearType = 'Year';
-        value = summation[i]['Value'];
-        name = summation[i]['Country or Area'];
-        year = summation[i]['Year'];
-      }
-      else {
-        this.dataType = 'Observation Value';
-        this.nameType = 'Reference Area';
-        this.yearType = 'Time Period';
-      }
+      let name = summation[i][this.nameType];
+      let year = summation[i][this.yearType];
+      let value = summation[i][this.dataType];
       if(GDP){
-        value /= 10000000;
+        value = Math.floor(value / 1000000000);
       }
       if (perc) {
         value = Math.floor(10 * value);
@@ -296,6 +327,7 @@ export class MapComponent implements OnInit {
       }
       this.totalEduDuration.set(name, this.eduDurationYearToValue)
     }
+    this.allYears = this.getAllYears(summation, summation[0][this.yearType]);
     this.maxmin = this.getMaxMinCountry(summation, year);
     let max = this.getMaxValue(year);
     let min = this.getMinValue(year);
@@ -327,14 +359,21 @@ export class MapComponent implements OnInit {
       }
     }
 
-    let colorArray = MapComponent.getColorArray(max, min, maxColorArray);
+    let colorArray = MapComponent.getColorArray(max, min, maxColorArray, isReverseColor);
     let countryColor = this.getCountryColor(year, colorArray);
     let dataset = {};
     let countryIDS = countryColor.keys();
     for (let i = 0; i < countryColor.size; i++) {
       let thisID = countryIDS.next().value;
+      let finScore = this.IDToYears.get(thisID).get(year);
+      let finScoreString;
+      try{
+        finScoreString = finScore.toLocaleString();
+        finScore = finScoreString;
+      }
+      catch(error){}
       dataset[thisID] = {
-        scoreGiven: this.IDToYears.get(thisID).get(year),
+        scoreGiven: finScore,
         fillColor: countryColor.get(thisID),
         dataType: summation[0]['Units of measurement']
       };
@@ -343,38 +382,39 @@ export class MapComponent implements OnInit {
     this.title = choice + " in " + this.year.toString();
     document.getElementById("title-sentence").innerText = this.title;
 
-
     this.descriptor = dataset['USA'].dataType;
     if(this.descriptor == null){
-      this.descriptor = "Units"
+      this.descriptor = "Units";
+      let countryIDS = countryColor.keys();
+      for(let i = 0; i < _.size(dataset); i++){
+        let thisID = countryIDS.next().value;
+        dataset[thisID]['dataType'] = "Units"
+      }
     }
 
     window.addEventListener('resize', function () {
       map.resize();
     });
+    let defaultFill = '#182233';
 
     let map = new Datamap({
       element: document.getElementById('map-container'),
       responsive: true,
       projection: 'mercator',
-      fills: {defaultFill: d3.rgb(0, 0, 0)},
+      fills: {defaultFill: defaultFill},
       data: dataset,
       geographyConfig: {
         borderColor: '434244',
         borderWidth: .5,
         highlightBorderWidth: 1,
-        // don't change color on mouse hover
         highlightFillColor: function (geo) {
-          return geo['fillColor'] || '#F5F5F5';
+          return geo['fillColor'] || defaultFill;
         },
-        // only change border
         highlightBorderColor: '#B7B7B7',
-        // show desired information in tooltip
         popupTemplate: function (geo, data) {
-          // don't show tooltip if country don't present in dataset
           if (!data) {
             return ['<div class="hoverinfo">',
-              '<strong>', 'There is no data for this country', '</strong>',
+              '<strong>', 'There is no data for this country from this dataset.', '</strong>',
               '</div>'].join('')
           }
           if (data.scoreGiven == null){
@@ -382,7 +422,6 @@ export class MapComponent implements OnInit {
               '<strong>', 'There is no data for ', geo.properties.name, ' in ', year, '</strong>',
               '</div>'].join('')
           }
-          // tooltip content
           return ['<div class="hoverinfo">',
             '<strong>', geo.properties.name, '</strong>',
             '<br>Count: <strong>', data.scoreGiven, ' ', data.dataType, '</strong>',
@@ -391,6 +430,5 @@ export class MapComponent implements OnInit {
       },
     });
   }
-
   constructor() { }
 }

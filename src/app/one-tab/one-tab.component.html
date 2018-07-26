@@ -24,7 +24,7 @@
       <div class="columns">
         <div class="column">
           <div class="title is-6">
-            MAX ({{max}} {{descriptor}})
+            MAX ({{max.toLocaleString()}} {{descriptor}})
           </div>
           <div class="scrollable">
             <section *ngFor="let country of maxmin['max']">{{country}}</section>
@@ -32,11 +32,18 @@
         </div>
         <div class="column">
           <div class="title is-6">
-            MIN ({{min}} {{descriptor}})
+            MIN ({{min.toLocaleString()}} {{descriptor}})
           </div>
           <div class="scrollable">
             <section *ngFor="let country of maxmin['min']">{{country}}</section>
           </div>
+        </div>
+      </div>
+      <div *ngIf="info != null">
+        <div class="column">
+          <p>
+            Find more information about the {{selection}} <a href="{{info}}" target="_blank">here</a>
+          </p>
         </div>
       </div>
       <br/>
