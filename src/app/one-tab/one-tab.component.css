@@ -1,0 +1,6 @@
+div.scrollable {
+  background-color: aliceblue;
+  width: auto;
+  height: 175px;
+  overflow: scroll;
+}

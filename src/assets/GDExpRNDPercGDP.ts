@@ -8928,7 +8928,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.46991
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -8936,7 +8936,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 4.29163
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -8944,7 +8944,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 4.14852
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -8952,7 +8952,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 4.02553
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -8960,7 +8960,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 3.74362
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -8968,7 +8968,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 3.46594
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -8976,7 +8976,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 3.29323
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -8984,7 +8984,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 3.12344
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -8992,7 +8992,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 3.00034
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9000,7 +9000,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 2.83066
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9008,7 +9008,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 2.62617
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9016,7 +9016,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 2.53248
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9024,7 +9024,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 2.3515
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9032,7 +9032,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 2.27381
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9040,7 +9040,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 2.34108
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9048,7 +9048,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 2.18023
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9056,7 +9056,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 2.06208
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 1998,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9064,7 +9064,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 2.14865
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 1997,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -9072,7 +9072,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 2.28548
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 1996,
     "Sex": "Not applicable",
     "Age group": "Not applicable",

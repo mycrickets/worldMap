@@ -1,21 +1,45 @@
 <div class="has-text-centered">
   <form (submit)="oneTabSubmit()">
     <div class="form-group">
-      <div class="level">
-        <div class="select">
-          <select style="width:300px; max-width:350px;" id="dataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selection" name="selection" [ngModelOptions]="{ updateOn: 'submit'}">
-            <option *ngFor="let option of choices" [value]="option.name">{{option.name}}</option>
-          </select>
-        </div>
+      <div class="select is-centered">
+        <select style="width:300px; max-width:350px;" id="dataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selection" name="selection" [ngModelOptions]="{ updateOn: 'submit'}">
+          <option *ngFor="let option of choices" [value]="option.name">{{option.name}}</option>
+        </select>
       </div>
-      {{selection}}
+      <br/>
+      <div class="select is-centered">
+        <select style="width:300px; max-width:350px;" id="yearSelection" title="Which year do you want to view" [(ngModel)]="selectedYear" name="selectedYear" [ngModelOptions]="{ updateOn: 'blur'}">
+          <option *ngFor="let year of years" [value]="year">{{year}}</option>
+        </select>
+      </div>
+      <br/>
       <div class="level">
         <div class="level-item">
+          <br/>
           <button type="submit" class="btn btn-success">
           Submit
           </button>
         </div>
       </div>
+      <div class="columns">
+        <div class="column">
+          <div class="title is-6">
+            MAX ({{max}} {{descriptor}})
+          </div>
+          <div class="scrollable">
+            <section *ngFor="let country of maxmin['max']">{{country}}</section>
+          </div>
+        </div>
+        <div class="column">
+          <div class="title is-6">
+            MIN ({{min}} {{descriptor}})
+          </div>
+          <div class="scrollable">
+            <section *ngFor="let country of maxmin['min']">{{country}}</section>
+          </div>
+        </div>
+      </div>
+      <br/>
     </div>
   </form>
 </div>

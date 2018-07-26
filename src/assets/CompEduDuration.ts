@@ -4,7 +4,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12,7 +12,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20,7 +20,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -28,7 +28,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -36,7 +36,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -44,7 +44,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -52,7 +52,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -60,7 +60,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -68,7 +68,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -76,7 +76,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -84,7 +84,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -92,7 +92,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -100,7 +100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -108,7 +108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -116,7 +116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -124,7 +124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -132,7 +132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -140,7 +140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -148,7 +148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -156,7 +156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -164,7 +164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -172,7 +172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -180,7 +180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -188,7 +188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -196,7 +196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -204,7 +204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -212,7 +212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -220,7 +220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -228,7 +228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -236,7 +236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -244,7 +244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -252,7 +252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -260,7 +260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -268,7 +268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -276,7 +276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -284,7 +284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -292,7 +292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -300,7 +300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -308,7 +308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -316,7 +316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -324,7 +324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -332,7 +332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -340,7 +340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -348,7 +348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -356,7 +356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -364,7 +364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -372,7 +372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -380,7 +380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -388,7 +388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -396,7 +396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -404,7 +404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -412,7 +412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -420,7 +420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -428,7 +428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -436,7 +436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -444,7 +444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -452,7 +452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -460,7 +460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -468,7 +468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -476,7 +476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -484,7 +484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -492,7 +492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -500,7 +500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -508,7 +508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -516,7 +516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -524,7 +524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -532,7 +532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -540,7 +540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -548,7 +548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 4
   },
   {
@@ -556,7 +556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 4
   },
   {
@@ -564,7 +564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 4
   },
   {
@@ -572,7 +572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 4
   },
   {
@@ -580,7 +580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 4
   },
   {
@@ -588,7 +588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 4
   },
   {
@@ -596,7 +596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 4
   },
   {
@@ -604,7 +604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 4
   },
   {
@@ -612,7 +612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -620,7 +620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -628,7 +628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -636,7 +636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -644,7 +644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -652,7 +652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -660,7 +660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -668,7 +668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -676,7 +676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -684,7 +684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -692,7 +692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -700,7 +700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -708,7 +708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -716,7 +716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -724,7 +724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -732,7 +732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -740,7 +740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -748,7 +748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -756,7 +756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -764,7 +764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -772,7 +772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -780,7 +780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -788,7 +788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -796,7 +796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -804,7 +804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -812,7 +812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -820,7 +820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -828,7 +828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -836,7 +836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -844,7 +844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -852,7 +852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -860,7 +860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -868,7 +868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -876,7 +876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -884,7 +884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -892,7 +892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -900,7 +900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -908,7 +908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -916,7 +916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -924,7 +924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -932,7 +932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -940,7 +940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -948,7 +948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -956,7 +956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -964,7 +964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -972,7 +972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -980,7 +980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -988,7 +988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -996,7 +996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1004,7 +1004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1012,7 +1012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1020,7 +1020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1028,7 +1028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1036,7 +1036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1044,7 +1044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1052,7 +1052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1060,7 +1060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1068,7 +1068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1076,7 +1076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1084,7 +1084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1092,7 +1092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1100,7 +1100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1108,7 +1108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1116,7 +1116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1124,7 +1124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -1132,7 +1132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -1140,7 +1140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -1148,7 +1148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -1156,7 +1156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1164,7 +1164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1172,7 +1172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1180,7 +1180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1188,7 +1188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1196,7 +1196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1204,7 +1204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1212,7 +1212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1220,7 +1220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1228,7 +1228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1236,7 +1236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1244,7 +1244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1252,7 +1252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1260,7 +1260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1268,7 +1268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1276,7 +1276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1284,7 +1284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1292,7 +1292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1300,7 +1300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1308,7 +1308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1316,7 +1316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1324,7 +1324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1332,7 +1332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1340,7 +1340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1348,7 +1348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1356,7 +1356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1364,7 +1364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1372,7 +1372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -1380,7 +1380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1388,7 +1388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1396,7 +1396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1404,7 +1404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1412,7 +1412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1420,7 +1420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1428,7 +1428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1436,7 +1436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1444,7 +1444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1452,7 +1452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1460,7 +1460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1468,7 +1468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1476,7 +1476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1484,7 +1484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1492,7 +1492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1500,7 +1500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1508,7 +1508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1516,7 +1516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1524,7 +1524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1532,7 +1532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1540,7 +1540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1548,7 +1548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1556,7 +1556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1564,7 +1564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1572,7 +1572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1580,7 +1580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1588,7 +1588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1596,7 +1596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1604,7 +1604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1612,7 +1612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1620,7 +1620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1628,135 +1628,135 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Bahamas",
+    "Reference Area": "The Bahamas",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -1764,7 +1764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1772,7 +1772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1780,7 +1780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1788,7 +1788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1796,7 +1796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1804,7 +1804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1812,7 +1812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1820,7 +1820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1828,7 +1828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1836,7 +1836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1844,7 +1844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -1852,7 +1852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1860,7 +1860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1868,7 +1868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1876,7 +1876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1884,7 +1884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -1892,7 +1892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1900,7 +1900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1908,7 +1908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1916,7 +1916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1924,7 +1924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1932,7 +1932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1940,7 +1940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1948,7 +1948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1956,7 +1956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1964,7 +1964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1972,7 +1972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1980,7 +1980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1988,7 +1988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -1996,7 +1996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -2004,7 +2004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -2012,7 +2012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -2020,7 +2020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2028,7 +2028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2036,7 +2036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2044,7 +2044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2052,7 +2052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2060,7 +2060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2068,7 +2068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2076,7 +2076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2084,7 +2084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2092,7 +2092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2100,7 +2100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2108,7 +2108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2116,7 +2116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2124,7 +2124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2132,7 +2132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2140,7 +2140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -2148,7 +2148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2156,7 +2156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2164,7 +2164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2172,7 +2172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2180,7 +2180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2188,7 +2188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2196,7 +2196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2204,7 +2204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2212,7 +2212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2220,7 +2220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2228,7 +2228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2236,7 +2236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2244,7 +2244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2252,7 +2252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2260,7 +2260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2268,7 +2268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -2276,7 +2276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2284,7 +2284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2292,7 +2292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2300,7 +2300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2308,7 +2308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2316,7 +2316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2324,7 +2324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2332,7 +2332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2340,7 +2340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2348,7 +2348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2356,7 +2356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2364,7 +2364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2372,7 +2372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2380,7 +2380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2388,7 +2388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2396,7 +2396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -2404,7 +2404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2412,7 +2412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2420,7 +2420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2428,7 +2428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2436,7 +2436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2444,7 +2444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2452,7 +2452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2460,7 +2460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2468,7 +2468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2476,7 +2476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2484,7 +2484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2492,7 +2492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2500,7 +2500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2508,7 +2508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2516,7 +2516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2524,7 +2524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2532,7 +2532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2540,7 +2540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2548,7 +2548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2556,7 +2556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2564,7 +2564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2572,7 +2572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2580,7 +2580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2588,7 +2588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2596,7 +2596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2604,7 +2604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2612,7 +2612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2620,7 +2620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2628,7 +2628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2636,7 +2636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2644,7 +2644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2652,7 +2652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -2660,7 +2660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2668,7 +2668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2676,7 +2676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2684,7 +2684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2692,7 +2692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2700,7 +2700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2708,7 +2708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2716,7 +2716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2724,7 +2724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2732,7 +2732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2740,7 +2740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2748,7 +2748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2756,7 +2756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2764,7 +2764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2772,7 +2772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2780,7 +2780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -2788,7 +2788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2796,7 +2796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2804,7 +2804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2812,7 +2812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2820,7 +2820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2828,7 +2828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2836,7 +2836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2844,7 +2844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2852,7 +2852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2860,7 +2860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2868,7 +2868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2876,7 +2876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2884,7 +2884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2892,7 +2892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2900,7 +2900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2908,7 +2908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -2916,7 +2916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -2924,7 +2924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -2932,7 +2932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -2940,7 +2940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -2948,7 +2948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -2956,7 +2956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -2964,7 +2964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2972,7 +2972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2980,7 +2980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2988,7 +2988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -2996,7 +2996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3004,7 +3004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3012,7 +3012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3020,7 +3020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3028,7 +3028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3036,7 +3036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3044,7 +3044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3052,7 +3052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3060,7 +3060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3068,7 +3068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3076,7 +3076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3084,7 +3084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3092,7 +3092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3100,7 +3100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3108,7 +3108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3116,7 +3116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3124,7 +3124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3132,7 +3132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3140,7 +3140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3148,7 +3148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3156,7 +3156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3164,7 +3164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3172,7 +3172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3180,7 +3180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3188,7 +3188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3196,7 +3196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3204,7 +3204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3212,7 +3212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3220,7 +3220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3228,7 +3228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3236,7 +3236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3244,7 +3244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3252,7 +3252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3260,7 +3260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3268,7 +3268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3276,7 +3276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3284,7 +3284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3292,7 +3292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3300,7 +3300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -3308,7 +3308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -3316,7 +3316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -3324,7 +3324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -3332,7 +3332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -3340,7 +3340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -3348,7 +3348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3356,7 +3356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3364,7 +3364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3372,7 +3372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3380,7 +3380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3388,7 +3388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3396,7 +3396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3404,7 +3404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3412,7 +3412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3420,7 +3420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -3428,7 +3428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3436,7 +3436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3444,7 +3444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3452,7 +3452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3460,7 +3460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3468,7 +3468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3476,7 +3476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3484,7 +3484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3492,7 +3492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3500,7 +3500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3508,7 +3508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3516,7 +3516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3524,7 +3524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3532,7 +3532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3540,7 +3540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3548,7 +3548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -3556,7 +3556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3564,7 +3564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3572,7 +3572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3580,7 +3580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3588,7 +3588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3596,7 +3596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3604,7 +3604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3612,7 +3612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3620,7 +3620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3628,7 +3628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3636,7 +3636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3644,7 +3644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3652,7 +3652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3660,7 +3660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3668,7 +3668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3676,7 +3676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3684,7 +3684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -3692,7 +3692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -3700,7 +3700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -3708,7 +3708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -3716,7 +3716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3724,7 +3724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3732,7 +3732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3740,7 +3740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3748,7 +3748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3756,7 +3756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3764,7 +3764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3772,7 +3772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3780,7 +3780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3788,7 +3788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3796,7 +3796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3804,7 +3804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -3812,7 +3812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3820,7 +3820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3828,7 +3828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3836,7 +3836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3844,7 +3844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3852,7 +3852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3860,7 +3860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3868,7 +3868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3876,7 +3876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3884,7 +3884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3892,7 +3892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3900,7 +3900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3908,7 +3908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3916,7 +3916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3924,7 +3924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3932,7 +3932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -3940,7 +3940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3948,7 +3948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3956,7 +3956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3964,7 +3964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3972,7 +3972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3980,7 +3980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3988,7 +3988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -3996,7 +3996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4004,7 +4004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4012,7 +4012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4020,7 +4020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4028,7 +4028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4036,7 +4036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4044,7 +4044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4052,7 +4052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4060,7 +4060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4068,7 +4068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4076,7 +4076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4084,7 +4084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4092,7 +4092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4100,7 +4100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4108,7 +4108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4116,7 +4116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4124,7 +4124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4132,7 +4132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4140,7 +4140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4148,7 +4148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4156,7 +4156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4164,7 +4164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4172,7 +4172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4180,7 +4180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4188,7 +4188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4196,7 +4196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4204,7 +4204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4212,7 +4212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4220,7 +4220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4228,7 +4228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4236,7 +4236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4244,7 +4244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4252,7 +4252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4260,7 +4260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4268,7 +4268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4276,7 +4276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4284,7 +4284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4292,7 +4292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4300,7 +4300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4308,7 +4308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4316,7 +4316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4324,7 +4324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4332,7 +4332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4340,7 +4340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4348,7 +4348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4356,7 +4356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4364,7 +4364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4372,7 +4372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4380,7 +4380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4388,7 +4388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4396,7 +4396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4404,7 +4404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4412,7 +4412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4420,7 +4420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4428,7 +4428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4436,7 +4436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4444,7 +4444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4452,7 +4452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4460,7 +4460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4468,7 +4468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4476,7 +4476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4484,7 +4484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4492,7 +4492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4500,7 +4500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4508,7 +4508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4516,7 +4516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4524,7 +4524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4532,7 +4532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4540,7 +4540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4548,7 +4548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4556,7 +4556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4564,7 +4564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4572,7 +4572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -4580,7 +4580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4588,7 +4588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4596,7 +4596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4604,7 +4604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4612,7 +4612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4620,7 +4620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4628,7 +4628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4636,7 +4636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4644,7 +4644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4652,7 +4652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4660,7 +4660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4668,7 +4668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4676,7 +4676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4684,7 +4684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4692,7 +4692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4700,7 +4700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4708,7 +4708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4716,7 +4716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4724,7 +4724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4732,7 +4732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4740,7 +4740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4748,7 +4748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4756,7 +4756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4764,7 +4764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4772,7 +4772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4780,7 +4780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4788,7 +4788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4796,7 +4796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4804,7 +4804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4812,7 +4812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4820,7 +4820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4828,7 +4828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4836,7 +4836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4844,7 +4844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4852,7 +4852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4860,7 +4860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4868,7 +4868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4876,7 +4876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4884,7 +4884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4892,7 +4892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4900,7 +4900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -4908,7 +4908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4916,7 +4916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4924,7 +4924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4932,7 +4932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4940,7 +4940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4948,7 +4948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4956,7 +4956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -4964,7 +4964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -4972,7 +4972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -4980,7 +4980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4988,7 +4988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -4996,7 +4996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -5004,7 +5004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -5012,7 +5012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -5020,7 +5020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -5028,7 +5028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -5036,7 +5036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -5044,7 +5044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -5052,7 +5052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -5060,7 +5060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -5068,7 +5068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -5076,7 +5076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -5084,7 +5084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -5092,7 +5092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5100,7 +5100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5108,7 +5108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5116,7 +5116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5124,7 +5124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5132,7 +5132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5140,7 +5140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5148,7 +5148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5156,7 +5156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5164,7 +5164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5172,7 +5172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5180,7 +5180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5188,7 +5188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5196,7 +5196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5204,7 +5204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -5212,7 +5212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5220,7 +5220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5228,7 +5228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5236,7 +5236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5244,7 +5244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5252,7 +5252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5260,7 +5260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5268,7 +5268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5276,7 +5276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5284,7 +5284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5292,7 +5292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5300,7 +5300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5308,7 +5308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5316,7 +5316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5324,7 +5324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5332,7 +5332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5340,7 +5340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5348,7 +5348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5356,7 +5356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5364,7 +5364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5372,7 +5372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5380,7 +5380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5388,7 +5388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5396,7 +5396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5404,7 +5404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5412,7 +5412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5420,7 +5420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5428,7 +5428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5436,7 +5436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5444,7 +5444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5452,7 +5452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -5460,135 +5460,135 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Congo",
+    "Reference Area": "Republic of the Congo",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5596,7 +5596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5604,7 +5604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5612,7 +5612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5620,7 +5620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5628,7 +5628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5636,7 +5636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5644,7 +5644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5652,7 +5652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5660,7 +5660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5668,7 +5668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5676,7 +5676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5684,7 +5684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5692,7 +5692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5700,7 +5700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5708,7 +5708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5716,7 +5716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -5724,7 +5724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5732,7 +5732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5740,7 +5740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5748,7 +5748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5756,7 +5756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5764,7 +5764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5772,7 +5772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5780,7 +5780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5788,7 +5788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5796,7 +5796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5804,7 +5804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5812,7 +5812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5820,7 +5820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5828,7 +5828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5836,7 +5836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -5844,135 +5844,135 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Côte d'Ivoire",
+    "Reference Area": "Ivory Coast",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -5980,7 +5980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -5988,7 +5988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -5996,7 +5996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6004,7 +6004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6012,7 +6012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6020,7 +6020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6028,7 +6028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6036,7 +6036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6044,7 +6044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6052,7 +6052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6060,7 +6060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6068,7 +6068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6076,7 +6076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6084,7 +6084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6092,7 +6092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6100,7 +6100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -6108,7 +6108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6116,7 +6116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6124,7 +6124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6132,7 +6132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6140,7 +6140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6148,7 +6148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6156,7 +6156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6164,7 +6164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6172,7 +6172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6180,7 +6180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6188,7 +6188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6196,7 +6196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6204,7 +6204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6212,7 +6212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6220,7 +6220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6228,7 +6228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6236,7 +6236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6244,7 +6244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6252,7 +6252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6260,7 +6260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6268,7 +6268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6276,7 +6276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6284,7 +6284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6292,7 +6292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6300,7 +6300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6308,7 +6308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6316,7 +6316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6324,7 +6324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6332,7 +6332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6340,7 +6340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6348,7 +6348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6356,7 +6356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6364,7 +6364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6372,7 +6372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6380,7 +6380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6388,7 +6388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6396,7 +6396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6404,7 +6404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6412,7 +6412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6420,7 +6420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6428,7 +6428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6436,135 +6436,135 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "Democratic People's Republic of Korea",
+    "Reference Area": "North Korea",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -6572,7 +6572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6580,7 +6580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6588,7 +6588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6596,7 +6596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6604,7 +6604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6612,7 +6612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6620,7 +6620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6628,7 +6628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6636,7 +6636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6644,7 +6644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6652,7 +6652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6660,7 +6660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6668,7 +6668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6676,7 +6676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6684,7 +6684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6692,7 +6692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -6700,7 +6700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6708,7 +6708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6716,7 +6716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6724,7 +6724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6732,7 +6732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6740,7 +6740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6748,7 +6748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6756,7 +6756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6764,7 +6764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6772,7 +6772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6780,7 +6780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6788,7 +6788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6796,7 +6796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6804,7 +6804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6812,7 +6812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6820,7 +6820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -6828,7 +6828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6836,7 +6836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6844,7 +6844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6852,7 +6852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6860,7 +6860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6868,7 +6868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6876,7 +6876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6884,7 +6884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6892,7 +6892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6900,7 +6900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6908,7 +6908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6916,7 +6916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6924,7 +6924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6932,7 +6932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6940,7 +6940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -6948,7 +6948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -6956,7 +6956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -6964,7 +6964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -6972,7 +6972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -6980,7 +6980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -6988,7 +6988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -6996,7 +6996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7004,7 +7004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7012,7 +7012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7020,7 +7020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7028,7 +7028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7036,7 +7036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7044,7 +7044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7052,7 +7052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7060,7 +7060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7068,7 +7068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7076,7 +7076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -7084,7 +7084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -7092,7 +7092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
@@ -7100,7 +7100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7108,7 +7108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
@@ -7116,7 +7116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
@@ -7124,7 +7124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7132,7 +7132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7140,7 +7140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7148,7 +7148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7156,7 +7156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7164,7 +7164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7172,7 +7172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7180,7 +7180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7188,7 +7188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7196,7 +7196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7204,7 +7204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7212,7 +7212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
@@ -7220,7 +7220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
@@ -7228,7 +7228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
@@ -7236,7 +7236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
@@ -7244,7 +7244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7252,7 +7252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7260,7 +7260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7268,7 +7268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7276,7 +7276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7284,7 +7284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7292,7 +7292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7300,7 +7300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7308,7 +7308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7316,7 +7316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7324,7 +7324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7332,7 +7332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -7340,7 +7340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -7348,7 +7348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7356,7 +7356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7364,7 +7364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7372,7 +7372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7380,7 +7380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7388,7 +7388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7396,7 +7396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7404,7 +7404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7412,7 +7412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7420,7 +7420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7428,7 +7428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7436,7 +7436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7444,7 +7444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7452,7 +7452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7460,7 +7460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7468,7 +7468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -7476,7 +7476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -7484,7 +7484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7492,7 +7492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7500,7 +7500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7508,7 +7508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7516,7 +7516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7524,7 +7524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7532,7 +7532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7540,7 +7540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7548,7 +7548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7556,7 +7556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7564,7 +7564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7572,7 +7572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7580,7 +7580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7588,7 +7588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7596,7 +7596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -7604,7 +7604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -7612,7 +7612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -7620,7 +7620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -7628,7 +7628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -7636,7 +7636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -7644,7 +7644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -7652,7 +7652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -7660,7 +7660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -7668,7 +7668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -7676,7 +7676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -7684,7 +7684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -7692,7 +7692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -7700,7 +7700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -7708,7 +7708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -7716,7 +7716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -7724,7 +7724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7732,7 +7732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7740,7 +7740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7748,7 +7748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7756,7 +7756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7764,7 +7764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7772,7 +7772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7780,7 +7780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7788,7 +7788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7796,7 +7796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7804,7 +7804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7812,7 +7812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7820,7 +7820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7828,7 +7828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7836,7 +7836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7844,7 +7844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7852,7 +7852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7860,7 +7860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7868,7 +7868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7876,7 +7876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7884,7 +7884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7892,7 +7892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7900,7 +7900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7908,7 +7908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7916,7 +7916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7924,7 +7924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7932,7 +7932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7940,7 +7940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7948,7 +7948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7956,7 +7956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7964,7 +7964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7972,7 +7972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -7980,7 +7980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7988,7 +7988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -7996,7 +7996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8004,7 +8004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8012,7 +8012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8020,7 +8020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8028,7 +8028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8036,7 +8036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8044,7 +8044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8052,7 +8052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8060,7 +8060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8068,7 +8068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8076,7 +8076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8084,7 +8084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8092,7 +8092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8100,7 +8100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8108,7 +8108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8116,7 +8116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8124,7 +8124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8132,7 +8132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8140,7 +8140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8148,7 +8148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8156,7 +8156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8164,7 +8164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8172,7 +8172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8180,7 +8180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8188,7 +8188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8196,7 +8196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8204,7 +8204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8212,7 +8212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8220,7 +8220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8228,7 +8228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8236,7 +8236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8244,7 +8244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8252,7 +8252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8260,7 +8260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8268,7 +8268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -8276,7 +8276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8284,7 +8284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8292,7 +8292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8300,7 +8300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8308,7 +8308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8316,7 +8316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8324,7 +8324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8332,7 +8332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8340,7 +8340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8348,7 +8348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8356,7 +8356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8364,7 +8364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8372,7 +8372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8380,7 +8380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8388,7 +8388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8396,7 +8396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8404,7 +8404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8412,7 +8412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8420,7 +8420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8428,7 +8428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8436,7 +8436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8444,7 +8444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8452,7 +8452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8460,7 +8460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8468,7 +8468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8476,7 +8476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8484,7 +8484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8492,7 +8492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8500,7 +8500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8508,7 +8508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8516,7 +8516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8524,7 +8524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -8532,7 +8532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8540,7 +8540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8548,7 +8548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8556,7 +8556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8564,7 +8564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8572,7 +8572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8580,7 +8580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8588,7 +8588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8596,7 +8596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8604,7 +8604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8612,7 +8612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8620,7 +8620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8628,7 +8628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8636,7 +8636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8644,7 +8644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8652,7 +8652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -8660,7 +8660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8668,7 +8668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8676,7 +8676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8684,7 +8684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8692,7 +8692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8700,7 +8700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8708,7 +8708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8716,7 +8716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8724,7 +8724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8732,7 +8732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8740,7 +8740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8748,7 +8748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8756,7 +8756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8764,7 +8764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8772,7 +8772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8780,7 +8780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8788,7 +8788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8796,7 +8796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8804,7 +8804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8812,7 +8812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8820,7 +8820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8828,7 +8828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8836,7 +8836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8844,7 +8844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8852,7 +8852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8860,7 +8860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -8868,7 +8868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -8876,7 +8876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -8884,7 +8884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -8892,7 +8892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -8900,7 +8900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -8908,7 +8908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -8916,7 +8916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -8924,7 +8924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -8932,7 +8932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -8940,7 +8940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -8948,7 +8948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -8956,7 +8956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -8964,7 +8964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -8972,7 +8972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -8980,7 +8980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -8988,7 +8988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -8996,7 +8996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9004,7 +9004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9012,7 +9012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9020,7 +9020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9028,7 +9028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9036,7 +9036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9044,7 +9044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -9052,7 +9052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -9060,7 +9060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -9068,7 +9068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -9076,7 +9076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -9084,7 +9084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -9092,7 +9092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -9100,7 +9100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -9108,7 +9108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9116,7 +9116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9124,7 +9124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9132,7 +9132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9140,7 +9140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9148,7 +9148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9156,7 +9156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9164,7 +9164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9172,7 +9172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9180,7 +9180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9188,7 +9188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9196,7 +9196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9204,7 +9204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9212,7 +9212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9220,7 +9220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9228,7 +9228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9236,7 +9236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9244,7 +9244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9252,7 +9252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9260,7 +9260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9268,7 +9268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9276,7 +9276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9284,7 +9284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9292,7 +9292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9300,7 +9300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9308,7 +9308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9316,7 +9316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9324,7 +9324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9332,7 +9332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9340,7 +9340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9348,7 +9348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9356,7 +9356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9364,7 +9364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9372,7 +9372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9380,7 +9380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9388,7 +9388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9396,7 +9396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9404,7 +9404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9412,7 +9412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9420,7 +9420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9428,7 +9428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9436,7 +9436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9444,7 +9444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9452,7 +9452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9460,7 +9460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9468,7 +9468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9476,7 +9476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9484,7 +9484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9492,7 +9492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9500,7 +9500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9508,7 +9508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9516,7 +9516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9524,7 +9524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9532,7 +9532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9540,7 +9540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -9548,7 +9548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9556,7 +9556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9564,7 +9564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9572,7 +9572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -9580,7 +9580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
@@ -9588,7 +9588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9596,7 +9596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9604,7 +9604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9612,7 +9612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9620,7 +9620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9628,7 +9628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9636,7 +9636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9644,7 +9644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9652,7 +9652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9660,7 +9660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9668,7 +9668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9676,7 +9676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9684,7 +9684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9692,7 +9692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9700,7 +9700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -9708,7 +9708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9716,7 +9716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9724,7 +9724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9732,7 +9732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9740,7 +9740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9748,7 +9748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9756,7 +9756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9764,7 +9764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9772,7 +9772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9780,7 +9780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9788,7 +9788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9796,7 +9796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9804,7 +9804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9812,7 +9812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9820,7 +9820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9828,7 +9828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9836,7 +9836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9844,7 +9844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9852,7 +9852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9860,7 +9860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9868,7 +9868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9876,7 +9876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9884,7 +9884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9892,7 +9892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9900,7 +9900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9908,7 +9908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9916,7 +9916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9924,7 +9924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9932,7 +9932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9940,7 +9940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -9948,7 +9948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9956,7 +9956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9964,7 +9964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9972,7 +9972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9980,7 +9980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9988,7 +9988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -9996,7 +9996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10004,7 +10004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10012,7 +10012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10020,7 +10020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10028,7 +10028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10036,7 +10036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10044,7 +10044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10052,7 +10052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10060,7 +10060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10068,7 +10068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10076,7 +10076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10084,7 +10084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10092,7 +10092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10100,7 +10100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10108,7 +10108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10116,7 +10116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10124,7 +10124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10132,7 +10132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10140,7 +10140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10148,7 +10148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10156,7 +10156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10164,7 +10164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10172,7 +10172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10180,7 +10180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10188,7 +10188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10196,7 +10196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10204,7 +10204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10212,7 +10212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -10220,7 +10220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10228,7 +10228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10236,7 +10236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10244,7 +10244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10252,7 +10252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10260,7 +10260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10268,7 +10268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10276,7 +10276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10284,7 +10284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10292,7 +10292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10300,7 +10300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10308,7 +10308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10316,7 +10316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10324,7 +10324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10332,7 +10332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10340,7 +10340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10348,7 +10348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10356,7 +10356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10364,7 +10364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10372,7 +10372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10380,7 +10380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10388,7 +10388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10396,7 +10396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10404,7 +10404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10412,7 +10412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10420,7 +10420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10428,7 +10428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10436,7 +10436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10444,7 +10444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10452,7 +10452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10460,7 +10460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10468,7 +10468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10476,7 +10476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10484,7 +10484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10492,7 +10492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10500,7 +10500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10508,7 +10508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10516,7 +10516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10524,7 +10524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10532,7 +10532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10540,7 +10540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10548,7 +10548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10556,7 +10556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10564,7 +10564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10572,7 +10572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10580,7 +10580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10588,7 +10588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10596,7 +10596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10604,7 +10604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -10612,7 +10612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -10620,7 +10620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -10628,7 +10628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -10636,7 +10636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10644,7 +10644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10652,7 +10652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10660,7 +10660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10668,7 +10668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10676,7 +10676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10684,7 +10684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10692,7 +10692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10700,7 +10700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10708,7 +10708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10716,7 +10716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10724,7 +10724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -10732,7 +10732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10740,7 +10740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10748,7 +10748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10756,7 +10756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10764,7 +10764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10772,7 +10772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10780,7 +10780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10788,7 +10788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10796,7 +10796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10804,7 +10804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10812,7 +10812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10820,7 +10820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10828,7 +10828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10836,7 +10836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10844,7 +10844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10852,7 +10852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -10860,7 +10860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -10868,7 +10868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -10876,7 +10876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -10884,7 +10884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -10892,7 +10892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -10900,7 +10900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -10908,7 +10908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10916,7 +10916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10924,7 +10924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10932,7 +10932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10940,7 +10940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10948,7 +10948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10956,7 +10956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10964,7 +10964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10972,7 +10972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10980,7 +10980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -10988,7 +10988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -10996,7 +10996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11004,7 +11004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11012,7 +11012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11020,7 +11020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11028,7 +11028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11036,7 +11036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11044,7 +11044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11052,7 +11052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11060,7 +11060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11068,7 +11068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11076,7 +11076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11084,7 +11084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11092,7 +11092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -11100,7 +11100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -11108,135 +11108,135 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Iran, Islamic Republic of",
+    "Reference Area": "Iran",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -11244,7 +11244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11252,7 +11252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11260,7 +11260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11268,7 +11268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11276,7 +11276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11284,7 +11284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11292,7 +11292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11300,7 +11300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11308,7 +11308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11316,7 +11316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11324,7 +11324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11332,7 +11332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11340,7 +11340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11348,7 +11348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11356,7 +11356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11364,7 +11364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11372,7 +11372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11380,7 +11380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11388,7 +11388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11396,7 +11396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11404,7 +11404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11412,7 +11412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11420,7 +11420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11428,7 +11428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11436,7 +11436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11444,7 +11444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11452,7 +11452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11460,7 +11460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11468,7 +11468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11476,7 +11476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11484,7 +11484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -11492,7 +11492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -11500,7 +11500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -11508,7 +11508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -11516,7 +11516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -11524,7 +11524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -11532,7 +11532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -11540,7 +11540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -11548,7 +11548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -11556,7 +11556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -11564,7 +11564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -11572,7 +11572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -11580,7 +11580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -11588,7 +11588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -11596,7 +11596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -11604,7 +11604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -11612,7 +11612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -11620,7 +11620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -11628,7 +11628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11636,7 +11636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11644,7 +11644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11652,7 +11652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11660,7 +11660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11668,7 +11668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11676,7 +11676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11684,7 +11684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11692,7 +11692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11700,7 +11700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11708,7 +11708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11716,7 +11716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -11724,7 +11724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -11732,7 +11732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -11740,7 +11740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -11748,7 +11748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -11756,7 +11756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11764,7 +11764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11772,7 +11772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11780,7 +11780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11788,7 +11788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11796,7 +11796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11804,7 +11804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11812,7 +11812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11820,7 +11820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11828,7 +11828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11836,7 +11836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11844,7 +11844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11852,7 +11852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11860,7 +11860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11868,7 +11868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11876,7 +11876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -11884,7 +11884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11892,7 +11892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11900,7 +11900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11908,7 +11908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11916,7 +11916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11924,7 +11924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11932,7 +11932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11940,7 +11940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11948,7 +11948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11956,7 +11956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11964,7 +11964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11972,7 +11972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11980,7 +11980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11988,7 +11988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -11996,7 +11996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12004,7 +12004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12012,7 +12012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12020,7 +12020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12028,7 +12028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12036,7 +12036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12044,7 +12044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12052,7 +12052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12060,7 +12060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12068,7 +12068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12076,7 +12076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12084,7 +12084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12092,7 +12092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12100,7 +12100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12108,7 +12108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12116,7 +12116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12124,7 +12124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12132,7 +12132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12140,7 +12140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12148,7 +12148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12156,7 +12156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12164,7 +12164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12172,7 +12172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12180,7 +12180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12188,7 +12188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12196,7 +12196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -12204,7 +12204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12212,7 +12212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12220,7 +12220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12228,7 +12228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12236,7 +12236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12244,7 +12244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12252,7 +12252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12260,7 +12260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12268,7 +12268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -12276,7 +12276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -12284,7 +12284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12292,7 +12292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12300,7 +12300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12308,7 +12308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12316,7 +12316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12324,7 +12324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12332,7 +12332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12340,7 +12340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12348,7 +12348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12356,7 +12356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12364,7 +12364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12372,7 +12372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12380,7 +12380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12388,7 +12388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12396,7 +12396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12404,7 +12404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12412,7 +12412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12420,7 +12420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12428,7 +12428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12436,7 +12436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12444,7 +12444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12452,7 +12452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12460,7 +12460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12468,7 +12468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12476,7 +12476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12484,7 +12484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12492,7 +12492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12500,7 +12500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12508,7 +12508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12516,7 +12516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -12524,7 +12524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12532,7 +12532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12540,7 +12540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12548,7 +12548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12556,7 +12556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12564,7 +12564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12572,7 +12572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12580,7 +12580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12588,7 +12588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12596,7 +12596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12604,7 +12604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12612,7 +12612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12620,7 +12620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12628,7 +12628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12636,7 +12636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12644,7 +12644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12652,7 +12652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12660,7 +12660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12668,7 +12668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12676,7 +12676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12684,7 +12684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12692,7 +12692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12700,7 +12700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12708,7 +12708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12716,7 +12716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12724,7 +12724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12732,7 +12732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12740,7 +12740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12748,7 +12748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12756,7 +12756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12764,7 +12764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -12772,135 +12772,135 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Lao People's Democratic Republic",
+    "Reference Area": "Laos",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -12908,7 +12908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -12916,7 +12916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -12924,7 +12924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -12932,7 +12932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -12940,7 +12940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -12948,7 +12948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -12956,7 +12956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -12964,7 +12964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -12972,7 +12972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -12980,7 +12980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -12988,7 +12988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -12996,7 +12996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -13004,7 +13004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -13012,7 +13012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -13020,7 +13020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -13028,7 +13028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -13036,7 +13036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13044,7 +13044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13052,7 +13052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13060,7 +13060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13068,7 +13068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13076,7 +13076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13084,7 +13084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13092,7 +13092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13100,7 +13100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13108,7 +13108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13116,7 +13116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13124,7 +13124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13132,7 +13132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13140,7 +13140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13148,7 +13148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13156,7 +13156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13164,7 +13164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -13172,7 +13172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -13180,7 +13180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -13188,7 +13188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -13196,7 +13196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -13204,7 +13204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13212,7 +13212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13220,7 +13220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13228,7 +13228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13236,7 +13236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13244,7 +13244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13252,7 +13252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13260,7 +13260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13268,7 +13268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13276,7 +13276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13284,7 +13284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13292,7 +13292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13300,7 +13300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13308,7 +13308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13316,7 +13316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13324,7 +13324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13332,7 +13332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13340,7 +13340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13348,7 +13348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13356,7 +13356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13364,7 +13364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13372,7 +13372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13380,7 +13380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13388,7 +13388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13396,7 +13396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13404,7 +13404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -13412,135 +13412,135 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Libyan Arab Jamahiriya",
+    "Reference Area": "Libya",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13548,7 +13548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13556,7 +13556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13564,7 +13564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13572,7 +13572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13580,7 +13580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13588,7 +13588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13596,7 +13596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13604,7 +13604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13612,7 +13612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13620,7 +13620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13628,7 +13628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13636,7 +13636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13644,7 +13644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13652,7 +13652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13660,7 +13660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13668,7 +13668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13676,7 +13676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13684,7 +13684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13692,7 +13692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13700,7 +13700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13708,7 +13708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13716,7 +13716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13724,7 +13724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13732,7 +13732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13740,7 +13740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13748,7 +13748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13756,7 +13756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13764,7 +13764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13772,7 +13772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13780,7 +13780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13788,7 +13788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13796,7 +13796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -13804,7 +13804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -13812,7 +13812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -13820,7 +13820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -13828,7 +13828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -13836,7 +13836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -13844,7 +13844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -13852,7 +13852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13860,7 +13860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13868,7 +13868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13876,7 +13876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13884,7 +13884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13892,7 +13892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13900,7 +13900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13908,7 +13908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13916,7 +13916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13924,7 +13924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -13932,7 +13932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -13940,7 +13940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -13948,7 +13948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -13956,7 +13956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -13964,7 +13964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -13972,7 +13972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -13980,7 +13980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -13988,7 +13988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -13996,7 +13996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -14004,7 +14004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -14012,7 +14012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -14020,7 +14020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -14028,7 +14028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -14036,7 +14036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -14044,7 +14044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -14052,7 +14052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -14060,7 +14060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14068,7 +14068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14076,7 +14076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14084,7 +14084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14092,7 +14092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14100,7 +14100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14108,7 +14108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14116,7 +14116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14124,7 +14124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14132,7 +14132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14140,7 +14140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14148,7 +14148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14156,7 +14156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14164,7 +14164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14172,7 +14172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14180,7 +14180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -14188,7 +14188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14196,7 +14196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14204,7 +14204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14212,7 +14212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14220,7 +14220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14228,7 +14228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14236,7 +14236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14244,7 +14244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14252,7 +14252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14260,7 +14260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14268,7 +14268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14276,7 +14276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14284,7 +14284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14292,7 +14292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14300,7 +14300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14308,7 +14308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14316,7 +14316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14324,7 +14324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14332,7 +14332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14340,7 +14340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14348,7 +14348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14356,7 +14356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14364,7 +14364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14372,7 +14372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14380,7 +14380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14388,7 +14388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14396,7 +14396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14404,7 +14404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14412,7 +14412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14420,7 +14420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14428,7 +14428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14436,7 +14436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14444,7 +14444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14452,7 +14452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14460,7 +14460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14468,7 +14468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14476,7 +14476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14484,7 +14484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14492,7 +14492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14500,7 +14500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14508,7 +14508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14516,7 +14516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14524,7 +14524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14532,7 +14532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14540,7 +14540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14548,7 +14548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14556,7 +14556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14564,7 +14564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14572,7 +14572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14580,7 +14580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14588,7 +14588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14596,7 +14596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14604,7 +14604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14612,7 +14612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14620,7 +14620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14628,7 +14628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14636,7 +14636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14644,7 +14644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14652,7 +14652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14660,7 +14660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14668,7 +14668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14676,7 +14676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14684,7 +14684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14692,7 +14692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14700,7 +14700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14708,7 +14708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14716,7 +14716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14724,7 +14724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14732,7 +14732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14740,7 +14740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14748,7 +14748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14756,7 +14756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14764,7 +14764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14772,7 +14772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14780,7 +14780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14788,7 +14788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14796,7 +14796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14804,7 +14804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14812,7 +14812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -14820,7 +14820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14828,7 +14828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14836,7 +14836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14844,7 +14844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14852,7 +14852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14860,7 +14860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14868,7 +14868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14876,7 +14876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14884,7 +14884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14892,7 +14892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14900,7 +14900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14908,7 +14908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14916,7 +14916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14924,7 +14924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14932,7 +14932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14940,7 +14940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -14948,7 +14948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -14956,7 +14956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14964,7 +14964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14972,7 +14972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14980,7 +14980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14988,7 +14988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -14996,7 +14996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15004,7 +15004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15012,7 +15012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15020,7 +15020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15028,7 +15028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15036,7 +15036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15044,7 +15044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15052,7 +15052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15060,7 +15060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15068,7 +15068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15076,7 +15076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15084,7 +15084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15092,7 +15092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15100,7 +15100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15108,7 +15108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15116,7 +15116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15124,7 +15124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15132,7 +15132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15140,7 +15140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15148,7 +15148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15156,7 +15156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15164,7 +15164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15172,7 +15172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15180,7 +15180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15188,7 +15188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15196,7 +15196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15204,7 +15204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -15212,7 +15212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -15220,7 +15220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -15228,7 +15228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -15236,7 +15236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15244,7 +15244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15252,7 +15252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15260,7 +15260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15268,7 +15268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15276,7 +15276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15284,7 +15284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15292,7 +15292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15300,7 +15300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15308,7 +15308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15316,7 +15316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15324,7 +15324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15332,7 +15332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15340,7 +15340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15348,7 +15348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15356,7 +15356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15364,7 +15364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15372,7 +15372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15380,7 +15380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15388,7 +15388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15396,7 +15396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15404,7 +15404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15412,7 +15412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15420,7 +15420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15428,7 +15428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15436,7 +15436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15444,7 +15444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15452,7 +15452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15460,7 +15460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -15468,7 +15468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15476,7 +15476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15484,7 +15484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15492,7 +15492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15500,7 +15500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15508,7 +15508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15516,7 +15516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15524,7 +15524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15532,7 +15532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15540,7 +15540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15548,7 +15548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15556,7 +15556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15564,7 +15564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15572,7 +15572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15580,7 +15580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15588,7 +15588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15596,7 +15596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15604,7 +15604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15612,7 +15612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15620,7 +15620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15628,7 +15628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15636,7 +15636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15644,7 +15644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15652,7 +15652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15660,7 +15660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -15668,7 +15668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -15676,7 +15676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -15684,7 +15684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -15692,7 +15692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -15700,7 +15700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -15708,7 +15708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -15716,7 +15716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -15724,7 +15724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -15732,7 +15732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15740,7 +15740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15748,7 +15748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15756,7 +15756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15764,7 +15764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -15772,7 +15772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -15780,7 +15780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -15788,7 +15788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15796,7 +15796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15804,7 +15804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15812,7 +15812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15820,7 +15820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15828,7 +15828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15836,7 +15836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15844,7 +15844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15852,7 +15852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15860,7 +15860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15868,7 +15868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15876,7 +15876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15884,7 +15884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15892,7 +15892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -15900,7 +15900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15908,7 +15908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15916,7 +15916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15924,7 +15924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15932,7 +15932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15940,7 +15940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15948,7 +15948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -15956,7 +15956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -15964,7 +15964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -15972,7 +15972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -15980,7 +15980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -15988,7 +15988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -15996,7 +15996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16004,7 +16004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16012,7 +16012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16020,7 +16020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16028,7 +16028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16036,7 +16036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16044,7 +16044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16052,7 +16052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16060,7 +16060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16068,7 +16068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16076,7 +16076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16084,7 +16084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16092,7 +16092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16100,7 +16100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16108,7 +16108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16116,7 +16116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16124,7 +16124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16132,7 +16132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16140,7 +16140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -16148,7 +16148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -16156,7 +16156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16164,7 +16164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16172,7 +16172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16180,7 +16180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16188,7 +16188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16196,7 +16196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16204,7 +16204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16212,7 +16212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16220,7 +16220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16228,7 +16228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16236,7 +16236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16244,7 +16244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16252,7 +16252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16260,7 +16260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16268,7 +16268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16276,7 +16276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16284,7 +16284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16292,7 +16292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16300,7 +16300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16308,7 +16308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16316,7 +16316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16324,7 +16324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16332,7 +16332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16340,7 +16340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16348,7 +16348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16356,7 +16356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16364,7 +16364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16372,7 +16372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16380,7 +16380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16388,7 +16388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16396,7 +16396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16404,7 +16404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -16412,7 +16412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16420,7 +16420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16428,7 +16428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16436,7 +16436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16444,7 +16444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16452,7 +16452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16460,7 +16460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16468,7 +16468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16476,7 +16476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16484,7 +16484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16492,7 +16492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16500,7 +16500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16508,7 +16508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16516,7 +16516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16524,7 +16524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16532,7 +16532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -16540,7 +16540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -16548,7 +16548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -16556,7 +16556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -16564,7 +16564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -16572,7 +16572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16580,7 +16580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16588,7 +16588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16596,7 +16596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16604,7 +16604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16612,7 +16612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16620,7 +16620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16628,7 +16628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16636,7 +16636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16644,7 +16644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16652,7 +16652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16660,7 +16660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -16668,7 +16668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16676,7 +16676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16684,7 +16684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16692,7 +16692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16700,7 +16700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16708,7 +16708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16716,7 +16716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16724,7 +16724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16732,7 +16732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16740,7 +16740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16748,7 +16748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16756,7 +16756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16764,7 +16764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16772,7 +16772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16780,7 +16780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16788,7 +16788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -16796,7 +16796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16804,7 +16804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16812,7 +16812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16820,7 +16820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16828,7 +16828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16836,7 +16836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16844,7 +16844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16852,7 +16852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16860,7 +16860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16868,7 +16868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16876,7 +16876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16884,7 +16884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16892,7 +16892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16900,7 +16900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16908,7 +16908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -16916,23 +16916,15 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
-  },
-  {
-    "Reference Area": "Netherlands Antilles",
-    "Time Period": 2015,
-    "Sex": "Not applicable",
-    "Age group": "Not applicable",
-    "Units of measurement": "Number",
-    "Observation Value": 13
   },
   {
     "Reference Area": "Netherlands Antilles",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -16940,7 +16932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -16948,7 +16940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -16956,7 +16948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -16964,7 +16956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -16972,7 +16964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -16980,7 +16972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -16988,7 +16980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -16996,7 +16988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -17004,7 +16996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -17012,7 +17004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -17020,7 +17012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -17028,7 +17020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -17036,7 +17028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -17044,7 +17036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -17052,7 +17044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -17060,7 +17052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17068,7 +17060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17076,7 +17068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17084,7 +17076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17092,7 +17084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17100,7 +17092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17108,7 +17100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17116,7 +17108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17124,7 +17116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17132,7 +17124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17140,7 +17132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17148,7 +17140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17156,7 +17148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17164,7 +17156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17172,7 +17164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17180,7 +17172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17188,7 +17180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17196,7 +17188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -17204,7 +17196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -17212,7 +17204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -17220,7 +17212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -17228,7 +17220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -17236,7 +17228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -17244,7 +17236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -17252,7 +17244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -17260,7 +17252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -17268,7 +17260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -17276,7 +17268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -17284,7 +17276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -17292,7 +17284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -17300,7 +17292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -17308,7 +17300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -17316,7 +17308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -17324,7 +17316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17332,7 +17324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17340,7 +17332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17348,7 +17340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17356,7 +17348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17364,7 +17356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17372,7 +17364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17380,7 +17372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17388,7 +17380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17396,7 +17388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17404,7 +17396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17412,7 +17404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17420,7 +17412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17428,7 +17420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17436,7 +17428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17444,7 +17436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17452,7 +17444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17460,7 +17452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17468,7 +17460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17476,7 +17468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17484,7 +17476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17492,7 +17484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17500,7 +17492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17508,7 +17500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17516,7 +17508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17524,7 +17516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17532,7 +17524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -17540,7 +17532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17548,7 +17540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17556,7 +17548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17564,7 +17556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17572,7 +17564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17580,7 +17572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17588,7 +17580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17596,7 +17588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17604,7 +17596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17612,7 +17604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17620,7 +17612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17628,7 +17620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17636,7 +17628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17644,7 +17636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17652,7 +17644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17660,7 +17652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17668,7 +17660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17676,7 +17668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17684,7 +17676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17692,7 +17684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17700,7 +17692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -17708,7 +17700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17716,7 +17708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17724,7 +17716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17732,7 +17724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17740,7 +17732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17748,7 +17740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17756,7 +17748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17764,7 +17756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17772,7 +17764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17780,7 +17772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17788,7 +17780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17796,7 +17788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17804,7 +17796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17812,7 +17804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17820,7 +17812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17828,7 +17820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17836,7 +17828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17844,7 +17836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17852,7 +17844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17860,7 +17852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17868,7 +17860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17876,7 +17868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17884,7 +17876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17892,7 +17884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17900,7 +17892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17908,7 +17900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17916,7 +17908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17924,7 +17916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17932,7 +17924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17940,7 +17932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17948,7 +17940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17956,7 +17948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17964,7 +17956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -17972,7 +17964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17980,7 +17972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17988,7 +17980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -17996,7 +17988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18004,7 +17996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18012,7 +18004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18020,7 +18012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18028,7 +18020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18036,7 +18028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18044,7 +18036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18052,7 +18044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18060,7 +18052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18068,7 +18060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18076,7 +18068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18084,7 +18076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18092,7 +18084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18100,7 +18092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18108,7 +18100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18116,7 +18108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18124,7 +18116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18132,7 +18124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18140,7 +18132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18148,7 +18140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18156,7 +18148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18164,7 +18156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18172,7 +18164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18180,7 +18172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18188,7 +18180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18196,7 +18188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18204,7 +18196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18212,7 +18204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18220,7 +18212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18228,7 +18220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18236,7 +18228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18244,7 +18236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18252,7 +18244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18260,7 +18252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18268,7 +18260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18276,7 +18268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18284,7 +18276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18292,7 +18284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18300,7 +18292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18308,7 +18300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18316,7 +18308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18324,7 +18316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18332,7 +18324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18340,7 +18332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18348,7 +18340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18356,7 +18348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18364,7 +18356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18372,7 +18364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18380,7 +18372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18388,7 +18380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18396,7 +18388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18404,7 +18396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18412,7 +18404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18420,7 +18412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18428,7 +18420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18436,7 +18428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18444,7 +18436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18452,7 +18444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18460,7 +18452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18468,7 +18460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18476,7 +18468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -18484,7 +18476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18492,7 +18484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18500,7 +18492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18508,7 +18500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18516,7 +18508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18524,7 +18516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18532,7 +18524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18540,7 +18532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18548,7 +18540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18556,7 +18548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18564,7 +18556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18572,7 +18564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18580,7 +18572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18588,7 +18580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18596,7 +18588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18604,7 +18596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -18612,7 +18604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -18620,7 +18612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -18628,7 +18620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -18636,7 +18628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -18644,7 +18636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18652,7 +18644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18660,7 +18652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18668,7 +18660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18676,7 +18668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18684,7 +18676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18692,7 +18684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18700,7 +18692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18708,7 +18700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18716,7 +18708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18724,7 +18716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18732,7 +18724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -18740,7 +18732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -18748,7 +18740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -18756,7 +18748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -18764,7 +18756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18772,7 +18764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18780,7 +18772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18788,7 +18780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18796,7 +18788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18804,7 +18796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18812,7 +18804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18820,7 +18812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18828,7 +18820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18836,7 +18828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18844,7 +18836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18852,7 +18844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18860,7 +18852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -18868,7 +18860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -18876,7 +18868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -18884,7 +18876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18892,7 +18884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18900,7 +18892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18908,7 +18900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18916,7 +18908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18924,7 +18916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18932,7 +18924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18940,7 +18932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18948,7 +18940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18956,7 +18948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18964,7 +18956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18972,7 +18964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18980,7 +18972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18988,7 +18980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -18996,7 +18988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19004,7 +18996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19012,7 +19004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19020,7 +19012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19028,7 +19020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19036,7 +19028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19044,7 +19036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19052,7 +19044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19060,7 +19052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19068,7 +19060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19076,7 +19068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19084,7 +19076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19092,7 +19084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19100,7 +19092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19108,7 +19100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19116,7 +19108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -19124,7 +19116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19132,7 +19124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19140,7 +19132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19148,7 +19140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19156,7 +19148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19164,7 +19156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19172,7 +19164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19180,7 +19172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19188,7 +19180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19196,7 +19188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19204,7 +19196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19212,7 +19204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19220,7 +19212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19228,7 +19220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19236,7 +19228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19244,7 +19236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19252,7 +19244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -19260,7 +19252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -19268,7 +19260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -19276,7 +19268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -19284,7 +19276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -19292,7 +19284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -19300,7 +19292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 16
   },
   {
@@ -19308,7 +19300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 16
   },
   {
@@ -19316,7 +19308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 16
   },
   {
@@ -19324,7 +19316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 16
   },
   {
@@ -19332,7 +19324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 16
   },
   {
@@ -19340,7 +19332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 16
   },
   {
@@ -19348,7 +19340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 16
   },
   {
@@ -19356,7 +19348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 16
   },
   {
@@ -19364,7 +19356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -19372,7 +19364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -19380,7 +19372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19388,7 +19380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19396,7 +19388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19404,7 +19396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19412,7 +19404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19420,7 +19412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19428,7 +19420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19436,7 +19428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19444,7 +19436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19452,7 +19444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19460,7 +19452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19468,7 +19460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19476,7 +19468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19484,7 +19476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -19492,7 +19484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -19500,127 +19492,127 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Republic of Korea",
+    "Reference Area": "South Korea",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19628,7 +19620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -19636,7 +19628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19644,7 +19636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19652,7 +19644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19660,7 +19652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19668,7 +19660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19676,7 +19668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19684,7 +19676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19692,7 +19684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19700,7 +19692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19708,7 +19700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19716,7 +19708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19724,7 +19716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19732,7 +19724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -19740,7 +19732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -19748,7 +19740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -19756,7 +19748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -19764,7 +19756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19772,7 +19764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19780,7 +19772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19788,7 +19780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19796,7 +19788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19804,7 +19796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19812,7 +19804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19820,7 +19812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19828,7 +19820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19836,7 +19828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19844,7 +19836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19852,7 +19844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19860,7 +19852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19868,7 +19860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19876,7 +19868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19884,7 +19876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -19892,7 +19884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19900,7 +19892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19908,7 +19900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19916,7 +19908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19924,7 +19916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19932,7 +19924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19940,7 +19932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19948,7 +19940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19956,7 +19948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19964,7 +19956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19972,7 +19964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19980,7 +19972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19988,7 +19980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -19996,7 +19988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20004,7 +19996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20012,7 +20004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20020,7 +20012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -20028,7 +20020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20036,7 +20028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20044,7 +20036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20052,7 +20044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20060,7 +20052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20068,7 +20060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20076,7 +20068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20084,7 +20076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20092,7 +20084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20100,7 +20092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20108,7 +20100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20116,7 +20108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20124,7 +20116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20132,7 +20124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20140,7 +20132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20148,7 +20140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20156,7 +20148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20164,7 +20156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20172,7 +20164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20180,7 +20172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20188,7 +20180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20196,7 +20188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20204,7 +20196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20212,7 +20204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20220,7 +20212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20228,7 +20220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20236,7 +20228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20244,7 +20236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20252,7 +20244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20260,7 +20252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20268,7 +20260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20276,7 +20268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20284,7 +20276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -20292,7 +20284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -20300,7 +20292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -20308,7 +20300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -20316,7 +20308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -20324,7 +20316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -20332,7 +20324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -20340,7 +20332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -20348,7 +20340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -20356,7 +20348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -20364,7 +20356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -20372,7 +20364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -20380,7 +20372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -20388,7 +20380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -20396,7 +20388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -20404,7 +20396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -20412,7 +20404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20420,7 +20412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20428,7 +20420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20436,7 +20428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20444,7 +20436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20452,7 +20444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20460,7 +20452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20468,7 +20460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20476,7 +20468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20484,7 +20476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20492,7 +20484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20500,7 +20492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20508,7 +20500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20516,7 +20508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20524,7 +20516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20532,7 +20524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -20540,7 +20532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20548,7 +20540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20556,7 +20548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20564,7 +20556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20572,7 +20564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20580,7 +20572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20588,7 +20580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20596,7 +20588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20604,7 +20596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20612,7 +20604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20620,7 +20612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20628,7 +20620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20636,7 +20628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20644,7 +20636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20652,7 +20644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20660,7 +20652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -20668,7 +20660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20676,7 +20668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20684,7 +20676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20692,7 +20684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20700,7 +20692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20708,7 +20700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20716,7 +20708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20724,7 +20716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20732,7 +20724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20740,7 +20732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20748,7 +20740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20756,7 +20748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20764,7 +20756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20772,7 +20764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20780,7 +20772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20788,7 +20780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20796,7 +20788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20804,7 +20796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20812,7 +20804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20820,7 +20812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20828,7 +20820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20836,7 +20828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20844,7 +20836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20852,7 +20844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20860,7 +20852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20868,7 +20860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20876,7 +20868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -20884,7 +20876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20892,7 +20884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20900,7 +20892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20908,7 +20900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20916,7 +20908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20924,7 +20916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20932,7 +20924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20940,7 +20932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20948,7 +20940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20956,7 +20948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20964,7 +20956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -20972,7 +20964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20980,7 +20972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20988,7 +20980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -20996,7 +20988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21004,135 +20996,135 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
-    "Reference Area": "Serbia",
+    "Reference Area": "Republic of Serbia",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -21140,7 +21132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21148,7 +21140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21156,7 +21148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21164,7 +21156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21172,7 +21164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21180,7 +21172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21188,7 +21180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21196,7 +21188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21204,7 +21196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21212,7 +21204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21220,7 +21212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21228,7 +21220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21236,7 +21228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21244,7 +21236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21252,7 +21244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21260,7 +21252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21268,7 +21260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21276,7 +21268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21284,7 +21276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21292,7 +21284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21300,7 +21292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21308,7 +21300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21316,7 +21308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21324,7 +21316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21332,7 +21324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21340,7 +21332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21348,7 +21340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21356,7 +21348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21364,7 +21356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21372,7 +21364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21380,7 +21372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21388,7 +21380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21396,7 +21388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21404,7 +21396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21412,7 +21404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21420,7 +21412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21428,7 +21420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21436,7 +21428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21444,7 +21436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21452,7 +21444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21460,7 +21452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21468,7 +21460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21476,7 +21468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21484,7 +21476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21492,7 +21484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21500,7 +21492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21508,7 +21500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -21516,7 +21508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21524,7 +21516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21532,7 +21524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21540,7 +21532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21548,7 +21540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21556,7 +21548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21564,7 +21556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21572,7 +21564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21580,7 +21572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21588,7 +21580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21596,7 +21588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21604,7 +21596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21612,7 +21604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21620,7 +21612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21628,7 +21620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21636,7 +21628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21644,7 +21636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -21652,7 +21644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21660,7 +21652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21668,7 +21660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21676,7 +21668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21684,7 +21676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21692,7 +21684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21700,7 +21692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21708,7 +21700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21716,7 +21708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21724,7 +21716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21732,7 +21724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21740,7 +21732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21748,7 +21740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21756,7 +21748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21764,7 +21756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21772,7 +21764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -21780,7 +21772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21788,7 +21780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21796,7 +21788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21804,7 +21796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21812,7 +21804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21820,7 +21812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21828,7 +21820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21836,7 +21828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21844,7 +21836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21852,7 +21844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21860,7 +21852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21868,7 +21860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21876,7 +21868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21884,7 +21876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21892,7 +21884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21900,7 +21892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21908,7 +21900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21916,7 +21908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21924,7 +21916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21932,7 +21924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21940,7 +21932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21948,7 +21940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21956,7 +21948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21964,7 +21956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21972,7 +21964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21980,7 +21972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21988,7 +21980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -21996,7 +21988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22004,7 +21996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22012,7 +22004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22020,7 +22012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22028,7 +22020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22036,7 +22028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22044,7 +22036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22052,7 +22044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22060,7 +22052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22068,7 +22060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22076,7 +22068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22084,7 +22076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22092,7 +22084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22100,7 +22092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22108,7 +22100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22116,7 +22108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22124,7 +22116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22132,7 +22124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22140,7 +22132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22148,7 +22140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22156,7 +22148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22164,7 +22156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22172,7 +22164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22180,7 +22172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22188,7 +22180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22196,7 +22188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22204,7 +22196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22212,7 +22204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22220,7 +22212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22228,7 +22220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22236,7 +22228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22244,7 +22236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22252,7 +22244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22260,7 +22252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22268,7 +22260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22276,7 +22268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22284,7 +22276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22292,7 +22284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22300,7 +22292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22308,7 +22300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22316,7 +22308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22324,7 +22316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22332,7 +22324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22340,7 +22332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -22348,7 +22340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22356,7 +22348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22364,7 +22356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22372,7 +22364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22380,7 +22372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22388,7 +22380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22396,7 +22388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22404,7 +22396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22412,7 +22404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22420,7 +22412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22428,7 +22420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22436,7 +22428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22444,7 +22436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22452,7 +22444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22460,7 +22452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22468,7 +22460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22476,7 +22468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22484,7 +22476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22492,7 +22484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22500,7 +22492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22508,7 +22500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -22516,7 +22508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22524,7 +22516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22532,7 +22524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22540,7 +22532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22548,7 +22540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22556,7 +22548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22564,7 +22556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22572,7 +22564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22580,7 +22572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22588,7 +22580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22596,7 +22588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22604,7 +22596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22612,7 +22604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22620,7 +22612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22628,7 +22620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22636,7 +22628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22644,7 +22636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22652,7 +22644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22660,7 +22652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22668,7 +22660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22676,7 +22668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22684,7 +22676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22692,7 +22684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22700,7 +22692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22708,7 +22700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22716,7 +22708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22724,7 +22716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -22732,7 +22724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -22740,7 +22732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -22748,7 +22740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -22756,7 +22748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -22764,7 +22756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -22772,7 +22764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22780,7 +22772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22788,7 +22780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22796,7 +22788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22804,7 +22796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22812,7 +22804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22820,7 +22812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22828,7 +22820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22836,7 +22828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22844,7 +22836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22852,7 +22844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -22860,7 +22852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22868,7 +22860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22876,7 +22868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22884,7 +22876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22892,7 +22884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22900,7 +22892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22908,7 +22900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22916,7 +22908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22924,7 +22916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22932,7 +22924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22940,7 +22932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22948,7 +22940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22956,7 +22948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22964,7 +22956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22972,7 +22964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22980,7 +22972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -22988,7 +22980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -22996,7 +22988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -23004,7 +22996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -23012,7 +23004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -23020,7 +23012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -23028,7 +23020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -23036,7 +23028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -23044,7 +23036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -23052,7 +23044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23060,7 +23052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23068,7 +23060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23076,7 +23068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23084,7 +23076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23092,7 +23084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23100,7 +23092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23108,135 +23100,135 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "Syrian Arab Republic",
+    "Reference Area": "Syria",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -23244,7 +23236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23252,7 +23244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23260,7 +23252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23268,7 +23260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23276,7 +23268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23284,7 +23276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23292,7 +23284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23300,7 +23292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23308,7 +23300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23316,7 +23308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23324,7 +23316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23332,7 +23324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23340,7 +23332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23348,7 +23340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23356,7 +23348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23364,7 +23356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23372,7 +23364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23380,7 +23372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23388,7 +23380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23396,7 +23388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23404,7 +23396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23412,7 +23404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23420,7 +23412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23428,7 +23420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23436,7 +23428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23444,7 +23436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23452,7 +23444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23460,7 +23452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23468,7 +23460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23476,7 +23468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23484,95 +23476,95 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23580,7 +23572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23588,7 +23580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23596,7 +23588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23604,7 +23596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23612,7 +23604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23620,7 +23612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23628,7 +23620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -23636,7 +23628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23644,7 +23636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23652,7 +23644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23660,7 +23652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23668,7 +23660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23676,7 +23668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23684,7 +23676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23692,7 +23684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23700,7 +23692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23708,7 +23700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23716,7 +23708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23724,7 +23716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23732,7 +23724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23740,7 +23732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23748,7 +23740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23756,7 +23748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23764,7 +23756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23772,7 +23764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23780,7 +23772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23788,7 +23780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23796,7 +23788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23804,7 +23796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23812,7 +23804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23820,7 +23812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23828,7 +23820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -23836,7 +23828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23844,7 +23836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23852,7 +23844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23860,7 +23852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23868,7 +23860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23876,7 +23868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23884,7 +23876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23892,7 +23884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23900,7 +23892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23908,7 +23900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23916,7 +23908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23924,7 +23916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -23932,7 +23924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23940,7 +23932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23948,7 +23940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23956,7 +23948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -23964,7 +23956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
@@ -23972,7 +23964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
@@ -23980,7 +23972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -23988,7 +23980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -23996,7 +23988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24004,7 +23996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24012,7 +24004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24020,7 +24012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24028,7 +24020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24036,7 +24028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24044,7 +24036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24052,7 +24044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24060,7 +24052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24068,7 +24060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24076,7 +24068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24084,7 +24076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24092,7 +24084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24100,7 +24092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24108,7 +24100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24116,7 +24108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24124,7 +24116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24132,7 +24124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24140,7 +24132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24148,7 +24140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24156,7 +24148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24164,7 +24156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24172,7 +24164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24180,7 +24172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24188,7 +24180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24196,7 +24188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24204,7 +24196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24212,7 +24204,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -24220,7 +24212,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24228,7 +24220,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24236,7 +24228,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24244,7 +24236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24252,7 +24244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24260,7 +24252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24268,7 +24260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24276,7 +24268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24284,7 +24276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24292,7 +24284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24300,7 +24292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24308,7 +24300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24316,7 +24308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24324,7 +24316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -24332,7 +24324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -24340,7 +24332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -24348,7 +24340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24356,7 +24348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24364,7 +24356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24372,7 +24364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24380,7 +24372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24388,7 +24380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24396,7 +24388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24404,7 +24396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24412,7 +24404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24420,7 +24412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24428,7 +24420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24436,7 +24428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24444,7 +24436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24452,7 +24444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -24460,7 +24452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -24468,7 +24460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -24476,7 +24468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -24484,7 +24476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -24492,7 +24484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -24500,7 +24492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24508,7 +24500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24516,7 +24508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24524,7 +24516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24532,7 +24524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24540,7 +24532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24548,7 +24540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24556,7 +24548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24564,7 +24556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24572,7 +24564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -24580,7 +24572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24588,7 +24580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24596,7 +24588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24604,7 +24596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24612,7 +24604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24620,7 +24612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24628,7 +24620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24636,7 +24628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24644,7 +24636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24652,7 +24644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24660,7 +24652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24668,7 +24660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24676,7 +24668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24684,7 +24676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24692,7 +24684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24700,7 +24692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 13
   },
   {
@@ -24708,7 +24700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24716,7 +24708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24724,7 +24716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24732,7 +24724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24740,7 +24732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24748,7 +24740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24756,7 +24748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 8
   },
   {
@@ -24764,7 +24756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24772,7 +24764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24780,7 +24772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24788,7 +24780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24796,7 +24788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24804,7 +24796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24812,7 +24804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24820,7 +24812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24828,7 +24820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24836,7 +24828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -24844,7 +24836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -24852,7 +24844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -24860,7 +24852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -24868,7 +24860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -24876,7 +24868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -24884,7 +24876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -24892,7 +24884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24900,7 +24892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24908,7 +24900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24916,7 +24908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24924,7 +24916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24932,7 +24924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24940,7 +24932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24948,7 +24940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24956,7 +24948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -24964,7 +24956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -24972,7 +24964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -24980,7 +24972,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -24988,7 +24980,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -24996,7 +24988,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25004,7 +24996,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25012,7 +25004,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25020,7 +25012,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25028,7 +25020,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25036,7 +25028,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25044,7 +25036,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25052,7 +25044,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25060,7 +25052,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -25068,7 +25060,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -25076,7 +25068,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -25084,7 +25076,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
@@ -25092,7 +25084,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25100,7 +25092,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25108,7 +25100,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25116,7 +25108,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25124,7 +25116,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25132,7 +25124,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25140,7 +25132,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25148,7 +25140,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25156,7 +25148,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25164,7 +25156,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25172,7 +25164,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25180,7 +25172,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25188,7 +25180,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25196,7 +25188,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25204,7 +25196,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
@@ -25212,135 +25204,135 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 6
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
-    "Reference Area": "United Kingdom of Great Britain and Northern Ireland",
+    "Reference Area": "United Kingdom",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25348,7 +25340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25356,7 +25348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25364,7 +25356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25372,7 +25364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25380,7 +25372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25388,7 +25380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25396,7 +25388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25404,7 +25396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25412,7 +25404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25420,7 +25412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25428,7 +25420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25436,7 +25428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25444,7 +25436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25452,7 +25444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25460,7 +25452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25468,7 +25460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -25476,7 +25468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25484,7 +25476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25492,7 +25484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25500,7 +25492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25508,7 +25500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25516,7 +25508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25524,7 +25516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25532,7 +25524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25540,7 +25532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25548,7 +25540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25556,7 +25548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25564,7 +25556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25572,7 +25564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25580,7 +25572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25588,7 +25580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25596,7 +25588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25604,7 +25596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -25612,7 +25604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -25620,7 +25612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -25628,7 +25620,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -25636,7 +25628,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -25644,7 +25636,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -25652,7 +25644,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
@@ -25660,7 +25652,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -25668,7 +25660,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -25676,7 +25668,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -25684,7 +25676,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -25692,7 +25684,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -25700,7 +25692,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -25708,7 +25700,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -25716,7 +25708,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -25724,7 +25716,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -25732,7 +25724,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25740,7 +25732,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25748,7 +25740,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25756,7 +25748,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 12
   },
   {
@@ -25764,7 +25756,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25772,7 +25764,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25780,7 +25772,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25788,7 +25780,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25796,7 +25788,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25804,7 +25796,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25812,7 +25804,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25820,7 +25812,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25828,7 +25820,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25836,7 +25828,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25844,7 +25836,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25852,7 +25844,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 11
   },
   {
@@ -25860,7 +25852,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25868,7 +25860,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25876,7 +25868,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25884,7 +25876,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25892,7 +25884,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25900,7 +25892,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25908,7 +25900,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25916,7 +25908,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25924,7 +25916,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25932,7 +25924,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25940,7 +25932,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25948,7 +25940,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25956,7 +25948,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25964,7 +25956,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25972,7 +25964,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -25980,263 +25972,263 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 15
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
-    "Reference Area": "Venezuela (Bolivarian Republic of)",
+    "Reference Area": "Venezuela",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 14
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 10
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
-    "Reference Area": "Viet Nam",
+    "Reference Area": "Vietnam",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 5
   },
   {
@@ -26244,7 +26236,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26252,7 +26244,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26260,7 +26252,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26268,7 +26260,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26276,7 +26268,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26284,7 +26276,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26292,7 +26284,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26300,7 +26292,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26308,7 +26300,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26316,7 +26308,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26324,7 +26316,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26332,7 +26324,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26340,7 +26332,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26348,7 +26340,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26356,7 +26348,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26364,7 +26356,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 9
   },
   {
@@ -26372,7 +26364,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26380,7 +26372,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26388,7 +26380,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26396,7 +26388,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26404,7 +26396,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26412,7 +26404,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26420,7 +26412,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26428,7 +26420,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26436,7 +26428,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26444,7 +26436,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26452,7 +26444,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26460,7 +26452,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26468,7 +26460,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26476,7 +26468,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26484,7 +26476,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26492,7 +26484,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 0
   },
   {
@@ -26500,7 +26492,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2014,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26508,7 +26500,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26516,7 +26508,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26524,7 +26516,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26532,7 +26524,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26540,7 +26532,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26548,7 +26540,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26556,7 +26548,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26564,7 +26556,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26572,7 +26564,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2005,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26580,7 +26572,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26588,7 +26580,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26596,7 +26588,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26604,7 +26596,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26612,7 +26604,7 @@ export const CompEduDuration:string = `[
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   },
   {
@@ -26620,7 +26612,7 @@ export const CompEduDuration:string = `[
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
-    "Units of measurement": "Number",
+    "Units of measurement": "Years",
     "Observation Value": 7
   }
 ]`;
