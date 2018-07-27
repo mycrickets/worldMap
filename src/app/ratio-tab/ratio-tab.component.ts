@@ -10,32 +10,36 @@ export class RatioTabComponent implements OnInit {
   choices:object;
   years:number[];
   selectedData:string;
+  info:string;
   yearBeg:number;
   yearEnd:number;
   max:number;
   min:number;
   descriptor:string;
+  isRatio: boolean = true;
 
 
   ratioTabSubmit(){
     let mapcomp = new MapComponent;
     mapcomp.removePreviousMap();
-    mapcomp.generateRatioMap(this.yearBeg, this.yearEnd, this.selectedData);
+    mapcomp.ngOnInit(this.selectedData, [this.yearBeg, this.yearEnd], this.isRatio);
     this.choices = mapcomp.choices;
     this.years = mapcomp.allYears;
     this.descriptor = mapcomp.descriptor;
+    this.info=mapcomp.info;
   }
 
   constructor() { }
 
   ngOnInit() {
     let mapcomp = new MapComponent;
-    this.selectedData = "Compulsory Education Duration";
+    this.selectedData = "GINI Index (World Bank Estimate)";
     this.yearBeg = 2010;
     this.yearEnd = 2011;
     this.years = mapcomp.allYears;
     this.choices = mapcomp.choices;
     this.descriptor = mapcomp.descriptor
+    this.info=mapcomp.info;
   }
 
 }

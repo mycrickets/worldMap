@@ -40,8 +40,14 @@ export class MapComponent implements OnInit {
   descriptor: string;
   info: string;
 
-  generateRatioMap(begYear, endYear, selectedData) {
-    return null;
+
+  getMaxValueFromData(data){
+    let max = -1000000000;
+
+  }
+
+  getMinValueFromData(data){
+
   }
 
   getMaxValue(year){
@@ -87,7 +93,6 @@ export class MapComponent implements OnInit {
           } else{
             colorArray[i] = d3.rgb(r, Math.floor(g), b);
           }
-
         }
         if(g > 255){
           g -= (g-255)
@@ -102,7 +107,6 @@ export class MapComponent implements OnInit {
           } else{
             colorArray[i] = d3.rgb(Math.floor(r), g, b);
           }
-
         }
       }
       return colorArray
@@ -231,6 +235,42 @@ export class MapComponent implements OnInit {
     return extremaCountries
   }
 
+  getIndexOfCountry(data, countryName){
+    for(let i = 0; i < _.size(data); i++){
+      if(data[i][this.nameType].includes(countryName)){
+        return i;
+      }
+    }
+    return null;
+  }
+
+  generateRatioDataSet(begData, endData) {
+    let results = [];
+    for(let i = 0; i < _.size(begData); i++) {
+      let index = this.getIndexOfCountry(endData, begData[i][this.nameType]);
+      //await this.sleep(3000);
+      let dataPoint = {};
+      if(index != null) {
+        let begIndex = begData[i];
+        let endIndex = endData[index];
+        dataPoint['isComplete'] = true;
+        dataPoint[this.nameType] = begIndex[this.nameType];
+        dataPoint[this.yearType] = (endIndex[this.yearType] - begIndex[this.yearType]);
+        dataPoint['Units of Measurement'] = "Percent";
+        dataPoint[this.dataType] = ((endIndex[this.dataType] - begIndex[this.dataType]) / begIndex[this.dataType]) * 100;
+      } else {
+        dataPoint['isComplete'] = false;
+        dataPoint[this.nameType] = begData[i][this.nameType];
+      }
+      results.push(dataPoint);
+    }
+    return results;
+  }
+
+  async sleep(ms) {
+    return new Promise(resolve => setTimeout(resolve, ms))
+  }
+
   ngOnInit(selectedData=null, selectedYear=null, ratio=false){
 
     this.choices = [
@@ -247,7 +287,6 @@ export class MapComponent implements OnInit {
 
     let isReverseColor = false;
     let perc;
-    let obvsValue;
     let maxColorArray;
 
     if(choice == null){
@@ -290,145 +329,151 @@ export class MapComponent implements OnInit {
       let endYear = parseInt(selectedYear[1]);
       let dataBeg = this.getDataForYear(summation, begYear);
       let dataEnd = this.getDataForYear(summation, endYear);
-      
-    }
+      let map = this.generateRatioDataSet(dataBeg, dataEnd);
+      console.log(map);
 
 
 
-    this.IDToYears = new Map<string, Map<number, number>>();
-    this.nameToID = new Map<string, string>();
-    this.totalEduDuration = new Map<string, Map<number, number>>();
-    this.eduDurationYearToValue = new Map<number, number>();
-    this.eduDurationParsed = new Map<string, Map<number, number>>();
-    this.year = parseInt(selectedYear);
+    } else {
 
-    if(selectedYear == null){
-      this.year = 2010;
-    }
-    let year = this.year;
 
-    for (let i = 0; i < _.size(summation); i++) {
-      let name = summation[i][this.nameType];
-      let year = summation[i][this.yearType];
-      let value = summation[i][this.dataType];
-      if(GDP){
-        value = Math.floor(value / 1000000000);
+      this.IDToYears = new Map<string, Map<number, number>>();
+      this.nameToID = new Map<string, string>();
+      this.totalEduDuration = new Map<string, Map<number, number>>();
+      this.eduDurationYearToValue = new Map<number, number>();
+      this.eduDurationParsed = new Map<string, Map<number, number>>();
+      this.year = parseInt(selectedYear);
+
+      if (selectedYear == null) {
+        this.year = 2010;
       }
-      if (perc) {
-        value = Math.floor(10 * value);
-      }
-      value = Math.floor(value);
-      if (this.eduDurationParsed.get(name) != null) {
-        this.eduDurationParsed.get(name).set(year, value);
-      } else {
-        this.eduDurationYearToValue = new Map<number, number>();
-        this.eduDurationParsed = new Map<string, Map<number, number>>();
-        this.eduDurationParsed.set(name, this.eduDurationYearToValue.set(year, value));
-      }
-      this.totalEduDuration.set(name, this.eduDurationYearToValue)
-    }
-    this.allYears = this.getAllYears(summation, summation[0][this.yearType]);
-    this.maxmin = this.getMaxMinCountry(summation, year);
-    let max = this.getMaxValue(year);
-    let min = this.getMinValue(year);
-    try {
-      let temp = new Array(max - min)
-    } catch (error) {
-      maxColorArray = true;
-    }
+      let year = this.year;
 
-    let names = this.getCountryNames();
-    let countries = Datamap.prototype.worldTopo.objects.world.geometries;
-    for (let i = 0; i < names.length; i++) {
-      for (let j = 0; j < _.size(countries); j++) {
-        if (names[i] == countries[j].properties.name || countries[j].properties.name.includes(names[i])) {
-          this.nameToID.set(names[i], countries[j].id);
+      for (let i = 0; i < _.size(summation); i++) {
+        let name = summation[i][this.nameType];
+        let year = summation[i][this.yearType];
+        let value = summation[i][this.dataType];
+        if (GDP) {
+          value = Math.floor(value / 1000000000);
+        }
+        if (perc) {
+          value = Math.floor(10 * value);
+        }
+        value = Math.floor(value);
+        if (this.eduDurationParsed.get(name) != null) {
+          this.eduDurationParsed.get(name).set(year, value);
+        } else {
+          this.eduDurationYearToValue = new Map<number, number>();
+          this.eduDurationParsed = new Map<string, Map<number, number>>();
+          this.eduDurationParsed.set(name, this.eduDurationYearToValue.set(year, value));
+        }
+        this.totalEduDuration.set(name, this.eduDurationYearToValue)
+      }
+      this.allYears = this.getAllYears(summation, summation[0][this.yearType]);
+      this.maxmin = this.getMaxMinCountry(summation, year);
+      let max = this.getMaxValue(year);
+      let min = this.getMinValue(year);
+      try {
+        let temp = new Array(max - min)
+      } catch (error) {
+        maxColorArray = true;
+      }
+
+      let names = this.getCountryNames();
+      let countries = Datamap.prototype.worldTopo.objects.world.geometries;
+      for (let i = 0; i < names.length; i++) {
+        for (let j = 0; j < _.size(countries); j++) {
+          if (names[i] == countries[j].properties.name || countries[j].properties.name.includes(names[i])) {
+            this.nameToID.set(names[i], countries[j].id);
+          }
         }
       }
-    }
 
-    let durationIDS = this.totalEduDuration.entries();
-    for (let i = 0; i < this.totalEduDuration.size; i++) {
-      let nameIDS = this.nameToID.entries();
-      let thisduration = durationIDS.next();
-      for (let j = 0; j < this.nameToID.size; j++) {
-        let thisname = nameIDS.next();
-        if (thisname.value[0] == thisduration.value[0]) {
-          this.IDToYears.set(thisname.value[1], thisduration.value[1])
+      let durationIDS = this.totalEduDuration.entries();
+      for (let i = 0; i < this.totalEduDuration.size; i++) {
+        let nameIDS = this.nameToID.entries();
+        let thisduration = durationIDS.next();
+        for (let j = 0; j < this.nameToID.size; j++) {
+          let thisname = nameIDS.next();
+          if (thisname.value[0] == thisduration.value[0]) {
+            this.IDToYears.set(thisname.value[1], thisduration.value[1])
+          }
         }
       }
-    }
 
-    let colorArray = MapComponent.getColorArray(max, min, maxColorArray, isReverseColor);
-    let countryColor = this.getCountryColor(year, colorArray);
-    let dataset = {};
-    let countryIDS = countryColor.keys();
-    for (let i = 0; i < countryColor.size; i++) {
-      let thisID = countryIDS.next().value;
-      let finScore = this.IDToYears.get(thisID).get(year);
-      let finScoreString;
-      try{
-        finScoreString = finScore.toLocaleString();
-        finScore = finScoreString;
-      }
-      catch(error){}
-      dataset[thisID] = {
-        scoreGiven: finScore,
-        fillColor: countryColor.get(thisID),
-        dataType: summation[0]['Units of measurement']
-      };
-    }
-
-    this.title = choice + " in " + this.year.toString();
-    document.getElementById("title-sentence").innerText = this.title;
-
-    this.descriptor = dataset['USA'].dataType;
-    if(this.descriptor == null){
-      this.descriptor = "Units";
+      let colorArray = MapComponent.getColorArray(max, min, maxColorArray, isReverseColor);
+      let countryColor = this.getCountryColor(year, colorArray);
+      let dataset = {};
       let countryIDS = countryColor.keys();
-      for(let i = 0; i < _.size(dataset); i++){
+      for (let i = 0; i < countryColor.size; i++) {
         let thisID = countryIDS.next().value;
-        dataset[thisID]['dataType'] = "Units"
-      }
-    }
-
-    window.addEventListener('resize', function () {
-      map.resize();
-    });
-    let defaultFill = '#182233';
-
-    let map = new Datamap({
-      element: document.getElementById('map-container'),
-      responsive: true,
-      projection: 'mercator',
-      fills: {defaultFill: defaultFill},
-      data: dataset,
-      geographyConfig: {
-        borderColor: '434244',
-        borderWidth: .5,
-        highlightBorderWidth: 1,
-        highlightFillColor: function (geo) {
-          return geo['fillColor'] || defaultFill;
-        },
-        highlightBorderColor: '#B7B7B7',
-        popupTemplate: function (geo, data) {
-          if (!data) {
-            return ['<div class="hoverinfo">',
-              '<strong>', 'There is no data for this country from this dataset.', '</strong>',
-              '</div>'].join('')
-          }
-          if (data.scoreGiven == null){
-            return ['<div class="hoverinfo">',
-              '<strong>', 'There is no data for ', geo.properties.name, ' in ', year, '</strong>',
-              '</div>'].join('')
-          }
-          return ['<div class="hoverinfo">',
-            '<strong>', geo.properties.name, '</strong>',
-            '<br>Count: <strong>', data.scoreGiven, ' ', data.dataType, '</strong>',
-            '</div>'].join('');
+        let finScore = this.IDToYears.get(thisID).get(year);
+        let finScoreString;
+        try {
+          finScoreString = finScore.toLocaleString();
+          finScore = finScoreString;
         }
-      },
-    });
+        catch (error) {
+        }
+        dataset[thisID] = {
+          scoreGiven: finScore,
+          fillColor: countryColor.get(thisID),
+          dataType: summation[0]['Units of measurement']
+        };
+      }
+
+      this.title = choice + " in " + this.year.toString();
+      document.getElementById("title-sentence").innerText = this.title;
+
+      this.descriptor = dataset['USA'].dataType;
+      if (this.descriptor == null) {
+        this.descriptor = "Units";
+        let countryIDS = countryColor.keys();
+        for (let i = 0; i < _.size(dataset); i++) {
+          let thisID = countryIDS.next().value;
+          dataset[thisID]['dataType'] = "Units"
+        }
+      }
+
+      window.addEventListener('resize', function () {
+        map.resize();
+      });
+      let defaultFill = '#182233';
+
+      console.log(dataset);
+      let map = new Datamap({
+        element: document.getElementById('map-container'),
+        responsive: true,
+        projection: 'mercator',
+        fills: {defaultFill: defaultFill},
+        data: dataset,
+        geographyConfig: {
+          borderColor: '434244',
+          borderWidth: .5,
+          highlightBorderWidth: 1,
+          highlightFillColor: function (geo) {
+            return geo['fillColor'] || defaultFill;
+          },
+          highlightBorderColor: '#B7B7B7',
+          popupTemplate: function (geo, data) {
+            if (!data) {
+              return ['<div class="hoverinfo">',
+                '<strong>', 'There is no data for this country from this dataset.', '</strong>',
+                '</div>'].join('')
+            }
+            if (data.scoreGiven == null) {
+              return ['<div class="hoverinfo">',
+                '<strong>', 'There is no data for ', geo.properties.name, ' in ', year, '</strong>',
+                '</div>'].join('')
+            }
+            return ['<div class="hoverinfo">',
+              '<strong>', geo.properties.name, '</strong>',
+              '<br>Count: <strong>', data.scoreGiven, ' ', data.dataType, '</strong>',
+              '</div>'].join('');
+          }
+        },
+      });
+    }
   }
   constructor() { }
 }

@@ -1,17 +1,17 @@
 <main class="tabs is-centered is-boxed is-large">
   <ul>
-    <li id="one" class="is-active" (click)="clickOne()">
+    <li id="one" class="" (click)="clickOne()">
       <a>One</a>
     </li>
-    <li id="ratio" class="" (click)="clickRatio()">
+    <li id="ratio" class="is-active" (click)="clickRatio()">
       <a>Ratio</a>
     </li>
   </ul>
 </main>
-<div id="one-info">
+<div id="one-info" class="is-hidden">
   <app-one-tab></app-one-tab>
 </div>
-<div id="ratio-info" class="is-hidden">
+<div id="ratio-info" class="">
   <app-ratio-tab></app-ratio-tab>
 </div>
 
