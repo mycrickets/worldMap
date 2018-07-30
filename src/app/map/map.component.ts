@@ -264,7 +264,6 @@ export class MapComponent implements OnInit {
     let results = [];
     for(let i = 0; i < _.size(begData); i++) {
       let index = this.getIndexOfCountry(endData, begData[i][this.nameType]);
-      //await this.sleep(3000);
       let dataPoint = {};
       if(index != null) {
         let begIndex = begData[i];
@@ -290,8 +289,11 @@ export class MapComponent implements OnInit {
   getColorForIndCountry(name, data, colors) {
     let result = null;
     let index = this.getIndexOfCountry(data, name);
-    let value = data[index].value;
-
+    let value = data[index][this.dataType];
+    let colorIndex = value + Math.abs(Math.round(this.getMinValueFromData(data)));
+    console.log(colorIndex, "color index abs");
+    //let colorModIndex = (value (this.getMinValueFromData(data) < 0 ? + Math.abs(Math.round(this.getMinValueFromData(data))) : - Math.abs(Math.round(this.getMinValueFromData(data))))) % _.size(colors);
+    //console.log(colorModIndex, "color index modulo");
     return result
   }
 
@@ -356,10 +358,25 @@ export class MapComponent implements OnInit {
       let maxValue = this.getMaxValueFromData(ratioMap);
       let minValue = this.getMinValueFromData(ratioMap);
       let allRatioColors = this.getColorArray(maxValue, minValue);
-      console.log(ratioMap);
+      console.log(ratioMap, "ratio map");
+      console.log(allRatioColors, "all ratio colors");
       let dataset = {};
-      for (let i = 0; i < _.size(ratioMap); i++){
 
+      let countries = Datamap.prototype.worldTopo.objects.world.geometries;
+
+      for (let i = 0; i < _.size(ratioMap); i++){
+        if(ratioMap[i]['isComplete']) {
+          let indColor = this.getColorForIndCountry(ratioMap[i][this.nameType], ratioMap, allRatioColors);
+          let name = ratioMap[i][this.nameType];
+          let ID;
+          for(let j = 0; j < _.size(countries); j++){
+            if (name == countries[j].properties.name || countries[j].properties.name.includes(name)) {
+              ID = countries[j].id;
+            }
+          }
+          console.log(name, ID, "name to ID")
+          //works
+        }
       }
     } else {
 
