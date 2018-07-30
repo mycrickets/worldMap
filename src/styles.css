@@ -1,9 +1,8 @@
-/* You can add global styles to this file, and also import other style files */
-
 body {
   min-height: 100%;
   display: grid;
   grid-template-rows: 1fr auto;
+
 }
 .footer {
   grid-row-start: 2;
@@ -11,13 +10,15 @@ body {
 }
 
 h1, title, subtitle {
-  font-family: 'EB Garamond', serif;
+  font-family: "Times New Roman", Times, serif;
 }
 
-page {
+site {
   user-experience: no-bugs;
 }
 
 href{
   color: -webkit-link;
 }
+
+

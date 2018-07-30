@@ -21,7 +21,7 @@ export class RatioTabComponent implements OnInit {
 
   ratioTabSubmit(){
     let mapcomp = new MapComponent;
-    mapcomp.removePreviousMap();
+    //mapcomp.removePreviousMap();
     mapcomp.ngOnInit(this.selectedData, [this.yearBeg, this.yearEnd], this.isRatio);
     this.choices = mapcomp.choices;
     this.years = mapcomp.allYears;

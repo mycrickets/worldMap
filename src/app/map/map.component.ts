@@ -43,11 +43,22 @@ export class MapComponent implements OnInit {
 
   getMaxValueFromData(data){
     let max = -1000000000;
-
+    for (let item in data) {
+      if (data[item][this.dataType] != null && data[item][this.dataType] > max) {
+        max = data[item][this.dataType];
+      }
+    }
+    return max;
   }
 
   getMinValueFromData(data){
-
+    let min = 1000000000;
+    for (let item in data) {
+      if (data[item][this.dataType] != null && data[item][this.dataType] < min) {
+        min = data[item][this.dataType];
+      }
+    }
+    return min;
   }
 
   getMaxValue(year){
@@ -76,11 +87,18 @@ export class MapComponent implements OnInit {
     return min
   }
 
-  static getColorArray(max, min, isLargeArray=false, isReverseColor=false){
+  getColorArray(max, min, isReverseColor=false){
     let r = 255;
     let g = 0;
     let b = 0;
     let denom = max-min;
+    let isLargeArray = false;
+    try{
+      let temp = new Array(denom);
+      isLargeArray = false;
+    } catch(error){
+      isLargeArray = true;
+    }
     if(isLargeArray) {
       let divvy = 15;
       let colorArray = new Array(15);
@@ -178,13 +196,11 @@ export class MapComponent implements OnInit {
     document.getElementById('map-container').children.item(0).remove();
   }
 
-  getAllYears(data, timePeriod){
-
+  getAllYears(data){
     let years = [];
-    let timeValue = this.yearType;
     for(let i = 0; i < _.size(data); i++){
-      if(!years.includes(data[i][timeValue])){
-        years.push(data[i][timeValue]);
+      if(!years.includes(data[i][this.yearType])){
+        years.push(data[i][this.yearType]);
       }
     }
     return years.sort();
@@ -257,7 +273,7 @@ export class MapComponent implements OnInit {
         dataPoint[this.nameType] = begIndex[this.nameType];
         dataPoint[this.yearType] = (endIndex[this.yearType] - begIndex[this.yearType]);
         dataPoint['Units of Measurement'] = "Percent";
-        dataPoint[this.dataType] = ((endIndex[this.dataType] - begIndex[this.dataType]) / begIndex[this.dataType]) * 100;
+        dataPoint[this.dataType] = Math.round(((endIndex[this.dataType] - begIndex[this.dataType]) / begIndex[this.dataType]) * 100);
       } else {
         dataPoint['isComplete'] = false;
         dataPoint[this.nameType] = begData[i][this.nameType];
@@ -269,6 +285,14 @@ export class MapComponent implements OnInit {
 
   async sleep(ms) {
     return new Promise(resolve => setTimeout(resolve, ms))
+  }
+
+  getColorForIndCountry(name, data, colors) {
+    let result = null;
+    let index = this.getIndexOfCountry(data, name);
+    let value = data[index].value;
+
+    return result
   }
 
   ngOnInit(selectedData=null, selectedYear=null, ratio=false){
@@ -321,21 +345,23 @@ export class MapComponent implements OnInit {
     }
     this.info = this.choices[k]['info'];
 
-
+    let defaultFill = '#182233';
 
     if(ratio) {
-      //wew lad
       let begYear = parseInt(selectedYear[0]);
       let endYear = parseInt(selectedYear[1]);
       let dataBeg = this.getDataForYear(summation, begYear);
       let dataEnd = this.getDataForYear(summation, endYear);
-      let map = this.generateRatioDataSet(dataBeg, dataEnd);
-      console.log(map);
+      let ratioMap = this.generateRatioDataSet(dataBeg, dataEnd);
+      let maxValue = this.getMaxValueFromData(ratioMap);
+      let minValue = this.getMinValueFromData(ratioMap);
+      let allRatioColors = this.getColorArray(maxValue, minValue);
+      console.log(ratioMap);
+      let dataset = {};
+      for (let i = 0; i < _.size(ratioMap); i++){
 
-
-
+      }
     } else {
-
 
       this.IDToYears = new Map<string, Map<number, number>>();
       this.nameToID = new Map<string, string>();
@@ -369,15 +395,10 @@ export class MapComponent implements OnInit {
         }
         this.totalEduDuration.set(name, this.eduDurationYearToValue)
       }
-      this.allYears = this.getAllYears(summation, summation[0][this.yearType]);
+      this.allYears = this.getAllYears(summation);
       this.maxmin = this.getMaxMinCountry(summation, year);
       let max = this.getMaxValue(year);
       let min = this.getMinValue(year);
-      try {
-        let temp = new Array(max - min)
-      } catch (error) {
-        maxColorArray = true;
-      }
 
       let names = this.getCountryNames();
       let countries = Datamap.prototype.worldTopo.objects.world.geometries;
@@ -401,7 +422,7 @@ export class MapComponent implements OnInit {
         }
       }
 
-      let colorArray = MapComponent.getColorArray(max, min, maxColorArray, isReverseColor);
+      let colorArray = this.getColorArray(max, min, isReverseColor);
       let countryColor = this.getCountryColor(year, colorArray);
       let dataset = {};
       let countryIDS = countryColor.keys();
@@ -438,9 +459,8 @@ export class MapComponent implements OnInit {
       window.addEventListener('resize', function () {
         map.resize();
       });
-      let defaultFill = '#182233';
 
-      console.log(dataset);
+      console.log(dataset, "dataset");
       let map = new Datamap({
         element: document.getElementById('map-container'),
         responsive: true,
