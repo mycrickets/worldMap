@@ -3258,19 +3258,19 @@ export const GINIWorldBankEstimate:string = `[
     "Value Footnotes": 2
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2010,
     "Value": 50.7,
     "Value Footnotes": 1
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2002,
     "Value": 35.6,
     "Value Footnotes": 1
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1993,
     "Value": 43.6,
     "Value Footnotes": 1

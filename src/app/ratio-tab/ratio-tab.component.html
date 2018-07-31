@@ -7,18 +7,30 @@
       <div class="columns">
         <div class="column">
           <div>
-            {{yearBeg}}
+            <div class="select is-centered">
+              <select style="width:150px; max-width:175px;" id="yearEndSelection" title="Which year do you want to view" [(ngModel)]="yearBeg" name="yearBeg" [ngModelOptions]="{ updateOn: 'blur'}">
+                <option *ngFor="let year of years" [value]="year">{{year}}</option>
+              </select>
+            </div>
           </div>
         </div>
         <div class="column">
           <div>
-            {{yearEnd}}
+            <div class="select is-centered">
+              <select style="width:150px; max-width:175px;" id="yearBegSelection" title="Which year do you want to view" [(ngModel)]="yearEnd" name="yearEnd" [ngModelOptions]="{ updateOn: 'blur'}">
+                <option *ngFor="let year of years" [value]="year">{{year}}</option>
+              </select>
+            </div>
           </div>
         </div>
       </div>
       <div class="level">
         <div class="level-item">
-          {{selectedData}}
+          <div class="select is-centered">
+            <select style="width:300px; max-width:350px;" id="dataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selectedData" name="selectedData" [ngModelOptions]="{ updateOn: 'submit'}">
+              <option *ngFor="let option of choices" [value]="option.name">{{option.name}}</option>
+            </select>
+          </div>
         </div>
       </div>
       <div class="level has-text-centered">

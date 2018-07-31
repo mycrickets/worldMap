@@ -23,7 +23,6 @@ export class OneTabComponent implements OnInit {
     mapcomp.ngOnInit(this.selection, this.selectedYear);
     this.choices = mapcomp.choices;
     this.maxmin = mapcomp.maxmin;
-    //console.log(this.maxmin);
     this.max = mapcomp.getMaxValue(this.selectedYear);
     this.min = mapcomp.getMinValue(this.selectedYear);
     this.years = mapcomp.allYears;

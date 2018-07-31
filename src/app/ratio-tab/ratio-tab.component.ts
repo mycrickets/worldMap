@@ -21,25 +21,27 @@ export class RatioTabComponent implements OnInit {
 
   ratioTabSubmit(){
     let mapcomp = new MapComponent;
-    //mapcomp.removePreviousMap();
+    mapcomp.removePreviousMap();
     mapcomp.ngOnInit(this.selectedData, [this.yearBeg, this.yearEnd], this.isRatio);
     this.choices = mapcomp.choices;
     this.years = mapcomp.allYears;
     this.descriptor = mapcomp.descriptor;
-    this.info=mapcomp.info;
+    this.info = mapcomp.info;
   }
 
   constructor() { }
 
   ngOnInit() {
-    let mapcomp = new MapComponent;
     this.selectedData = "GINI Index (World Bank Estimate)";
     this.yearBeg = 2010;
     this.yearEnd = 2011;
+    let mapcomp = new MapComponent;
+    mapcomp.removePreviousMap();
+    mapcomp.ngOnInit(this.selectedData, [this.yearBeg, this.yearEnd], true);
     this.years = mapcomp.allYears;
     this.choices = mapcomp.choices;
-    this.descriptor = mapcomp.descriptor
-    this.info=mapcomp.info;
+    this.descriptor = mapcomp.descriptor;
+    this.info = mapcomp.info;
   }
 
 }

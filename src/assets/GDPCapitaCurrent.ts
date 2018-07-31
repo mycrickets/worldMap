@@ -9809,816 +9809,7 @@ export const GDPCapitaCurrent:string = `[
     "Value": 421.378823580782,
     "Units of measurement": "USD"
   },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2016,
-    "Value": 42063.7940645434,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2015,
-    "Value": 40854.5328459452,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2014,
-    "Value": 39918.7847118503,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2013,
-    "Value": 38988.0834180448,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2012,
-    "Value": 37805.1226336629,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2011,
-    "Value": 37437.948427596,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2010,
-    "Value": 35853.5583899663,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2009,
-    "Value": 34853.2208649495,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2008,
-    "Value": 35758.7671901867,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2007,
-    "Value": 34425.7109951329,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2006,
-    "Value": 32539.1647462189,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2005,
-    "Value": 30126.5826670288,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2004,
-    "Value": 29093.8200921305,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2003,
-    "Value": 27977.0870783926,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2002,
-    "Value": 27561.1398800547,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2001,
-    "Value": 26535.7017371561,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 2000,
-    "Value": 25339.5988179608,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 1999,
-    "Value": 23854.3020530599,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 1998,
-    "Value": 22943.9044457496,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 1997,
-    "Value": 21922.0474546947,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 1996,
-    "Value": 21060.0522045282,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 1995,
-    "Value": 20421.4409935693,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 1994,
-    "Value": 19567.3251991362,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 1993,
-    "Value": 18752.8100801711,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 1992,
-    "Value": 18517.8955065217,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 1991,
-    "Value": 17936.4353810989,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Euro area",
-    "Year": 1990,
-    "Value": 16963.4565147991,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2016,
-    "Value": 31366.8670683832,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2015,
-    "Value": 30641.7264229506,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2014,
-    "Value": 30245.4558262274,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2013,
-    "Value": 29489.309279847,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2012,
-    "Value": 28487.802397606,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2011,
-    "Value": 27769.8298674557,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2010,
-    "Value": 26017.0934913271,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2009,
-    "Value": 24941.3574786327,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2008,
-    "Value": 25661.374715192,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2007,
-    "Value": 24018.1292853487,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2006,
-    "Value": 22426.5088987515,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2005,
-    "Value": 20270.0890471321,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2004,
-    "Value": 19230.1220464508,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2003,
-    "Value": 18107.341098966,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2002,
-    "Value": 17447.3840584808,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2001,
-    "Value": 16654.4447182508,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 2000,
-    "Value": 15857.3218416856,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 1999,
-    "Value": 14715.8799773312,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 1998,
-    "Value": 14158.6818241916,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 1997,
-    "Value": 13659.6722712599,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 1996,
-    "Value": 13081.3599332985,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 1995,
-    "Value": 12635.9804659504,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 1994,
-    "Value": 12179.7950061695,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 1993,
-    "Value": 11962.0995231147,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 1992,
-    "Value": 11891.0252212068,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 1991,
-    "Value": 11860.2333074118,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia",
-    "Year": 1990,
-    "Value": 11567.4367967377,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2016,
-    "Value": 19516.0829837288,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2015,
-    "Value": 19200.9593815614,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2014,
-    "Value": 19390.5031444723,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2013,
-    "Value": 18925.3281970024,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2012,
-    "Value": 18214.0336432537,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2011,
-    "Value": 17307.7203557377,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2010,
-    "Value": 15247.0828078126,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2009,
-    "Value": 14242.3639127697,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2008,
-    "Value": 14745.0821491483,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2007,
-    "Value": 12850.3721545853,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2006,
-    "Value": 11535.7885708458,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2005,
-    "Value": 9646.64455176311,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2004,
-    "Value": 8598.42366506393,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2003,
-    "Value": 7682.1437764967,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2002,
-    "Value": 6953.40703107071,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2001,
-    "Value": 6494.22671340715,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 2000,
-    "Value": 6126.56012630706,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 1999,
-    "Value": 5486.15049576466,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 1998,
-    "Value": 5315.37190820286,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 1997,
-    "Value": 5273.82583071452,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 1996,
-    "Value": 5060.09010878001,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 1995,
-    "Value": 4975.71305930644,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 1994,
-    "Value": 4982.50003743863,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 1993,
-    "Value": 5504.90497764867,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 1992,
-    "Value": 5745.11558515094,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 1991,
-    "Value": 6284.33034067913,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (excluding high income)",
-    "Year": 1990,
-    "Value": 6469.79524123513,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2016,
-    "Value": 20172.0612278983,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2015,
-    "Value": 19821.0197459895,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2014,
-    "Value": 19914.6180168632,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2013,
-    "Value": 19417.1134127444,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2012,
-    "Value": 18693.8410336381,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2011,
-    "Value": 17783.3482985436,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2010,
-    "Value": 15748.712639915,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2009,
-    "Value": 14676.3293411484,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2008,
-    "Value": 15055.5251901275,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2007,
-    "Value": 13193.7509665744,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2006,
-    "Value": 11851.3372160427,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2005,
-    "Value": 10018.9186964783,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2004,
-    "Value": 9014.89597880992,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2003,
-    "Value": 8083.94598039946,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2002,
-    "Value": 7377.87991080268,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2001,
-    "Value": 6900.05784995196,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 2000,
-    "Value": 6524.19398341671,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 1999,
-    "Value": 5888.8081623409,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 1998,
-    "Value": 5683.62112035006,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 1997,
-    "Value": 5597.26055172468,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 1996,
-    "Value": 5343.49726519603,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 1995,
-    "Value": 5214.18577309859,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 1994,
-    "Value": 5161.61724014095,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 1993,
-    "Value": 5590.2274055848,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 1992,
-    "Value": 5773.80960772493,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 1991,
-    "Value": 6237.13410754912,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Europe & Central Asia (IDA & IBRD)",
-    "Year": 1990,
-    "Value": 6429.4276387241,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2016,
-    "Value": 39610.8668073401,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2015,
-    "Value": 38448.446532756,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2014,
-    "Value": 37498.9500648717,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2013,
-    "Value": 36488.7481805564,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2012,
-    "Value": 35275.7475712066,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2011,
-    "Value": 34726.2067192605,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2010,
-    "Value": 33272.1325753103,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2009,
-    "Value": 32147.4691385838,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2008,
-    "Value": 32948.1316502154,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2007,
-    "Value": 31527.5285192953,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2006,
-    "Value": 29769.8136659029,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2005,
-    "Value": 27519.7717097856,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2004,
-    "Value": 26574.2313368358,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2003,
-    "Value": 25339.9462378879,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2002,
-    "Value": 24748.3312907693,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2001,
-    "Value": 23704.554162481,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 2000,
-    "Value": 22587.3812588814,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 1999,
-    "Value": 21157.4444864272,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 1998,
-    "Value": 20363.9724947784,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 1997,
-    "Value": 19525.1055803548,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 1996,
-    "Value": 18717.6444987043,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 1995,
-    "Value": 18005.8972908233,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 1994,
-    "Value": 17194.0560650914,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 1993,
-    "Value": 16407.9288662927,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 1992,
-    "Value": 16098.120830957,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 1991,
-    "Value": 15636.5543361012,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "European Union",
-    "Year": 1990,
-    "Value": 14994.7740033956,
-    "Units of measurement": "USD"
-  },
+  
   {
     "Country or Area": "Fiji",
     "Year": 2016,
@@ -10941,168 +10132,6 @@ export const GDPCapitaCurrent:string = `[
     "Country or Area": "Finland",
     "Year": 1990,
     "Value": 18158.9385770366,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2016,
-    "Value": 4254.34870787026,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2015,
-    "Value": 4068.52152635132,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2014,
-    "Value": 4014.65515930578,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2013,
-    "Value": 3900.87645592689,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2012,
-    "Value": 3710.1570428729,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2011,
-    "Value": 3491.57089837899,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2010,
-    "Value": 3692.10166539586,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2009,
-    "Value": 3513.40032136344,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2008,
-    "Value": 3405.58391154105,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2007,
-    "Value": 3238.97824934312,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2006,
-    "Value": 3066.90679588912,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2005,
-    "Value": 2850.32230703085,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2004,
-    "Value": 2652.11174346362,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2003,
-    "Value": 2298.45429197776,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2002,
-    "Value": 2443.49516692825,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2001,
-    "Value": 2475.40777266094,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 2000,
-    "Value": 2407.50184576223,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 1999,
-    "Value": 2355.06719863721,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 1998,
-    "Value": 2197.4533613605,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 1997,
-    "Value": 1966.27751420698,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 1996,
-    "Value": 1827.10744423003,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 1995,
-    "Value": 1719.05917238039,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 1994,
-    "Value": 1670.37283199778,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 1993,
-    "Value": 1619.59466222855,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 1992,
-    "Value": 1510.87252149497,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 1991,
-    "Value": 1420.64670280757,
-    "Units of measurement": "USD"
-  },
-  {
-    "Country or Area": "Fragile and conflict affected situations",
-    "Year": 1990,
-    "Value": 1808.32873610343,
     "Units of measurement": "USD"
   },
   {
@@ -12564,163 +11593,163 @@ export const GDPCapitaCurrent:string = `[
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2016,
     "Value": 1608.70437902519,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2015,
     "Value": 1540.29303317721,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2014,
     "Value": 1472.97785724413,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2013,
     "Value": 1470.89968288805,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2012,
     "Value": 1438.98105859398,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2011,
     "Value": 1475.38909048806,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2010,
     "Value": 1372.0353014013,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2009,
     "Value": 1327.1154145494,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2008,
     "Value": 1306.40834026786,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2007,
     "Value": 1271.40600985338,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2006,
     "Value": 1228.2638539625,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2005,
     "Value": 1191.60003065699,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2004,
     "Value": 1132.22895964315,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2003,
     "Value": 1095.97110533584,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2002,
     "Value": 1091.33300870022,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2001,
     "Value": 1107.80379241306,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2000,
     "Value": 1080.62245934964,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1999,
     "Value": 1020.60864710433,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1998,
     "Value": 1012.33491295226,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1997,
     "Value": 1416.69496123379,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1996,
     "Value": 1331.16615634807,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1995,
     "Value": 1194.0160100438,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1994,
     "Value": 1144.05180189932,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1993,
     "Value": 1110.37800309765,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1992,
     "Value": 1088.02163652622,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1991,
     "Value": 1078.2151895104,
     "Units of measurement": "USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1990,
     "Value": 1017.24498793844,
     "Units of measurement": "USD"

@@ -11106,163 +11106,163 @@ export const GDPConst2011:string = `[
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2016,
     "Value": 2708443938.3871,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2015,
     "Value": 2561010351.38714,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2014,
     "Value": 2413029004.07313,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2013,
     "Value": 2389976571.94977,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2012,
     "Value": 2314614599.78087,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2011,
     "Value": 2354948198.33888,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2010,
     "Value": 2178796347.37027,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2009,
     "Value": 2080510387.86627,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2008,
     "Value": 2013819187.60735,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2007,
     "Value": 1951235698.62927,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2006,
     "Value": 1890639792.62414,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2005,
     "Value": 1847956612.469,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2004,
     "Value": 1772358007.47186,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2003,
     "Value": 1724731244.5543,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2002,
     "Value": 1714981400.77289,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2001,
     "Value": 1732045120.01801,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 2000,
     "Value": 1694944367.25761,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1999,
     "Value": 1607694964.62941,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1998,
     "Value": 1591374820.5339,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1997,
     "Value": 2213316233.49163,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1996,
     "Value": 2078231205.15646,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1995,
     "Value": 1862214341.60011,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1994,
     "Value": 1783730212.12339,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1993,
     "Value": 1728420747.83908,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1992,
     "Value": 1692870468.01612,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1991,
     "Value": 1674451501.97679,
     "Units of measurement": "Billion USD"
   },
   {
-    "Country or Area": "Guinea-Bissau",
+    "Country or Area": "Guinea Bissau",
     "Year": 1990,
     "Value": 1593198384.02834,
     "Units of measurement": "Billion USD"
