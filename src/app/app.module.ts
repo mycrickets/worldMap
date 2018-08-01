@@ -18,6 +18,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { MainPageComponent } from './main-page/main-page.component';
 import { AboutInfoComponent } from './about-info/about-info.component';
 import { AuthorInfoComponent } from './author-info/author-info.component';
+import {HashLocationStrategy, LocationStrategy} from "@angular/common";
 
 @NgModule({
   declarations: [
@@ -41,7 +42,9 @@ import { AuthorInfoComponent } from './author-info/author-info.component';
     ReactiveFormsModule,
     AppRoutingModule
   ],
-  providers: [],
+  providers: [
+    {provide: LocationStrategy, useClass: HashLocationStrategy}
+  ],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
