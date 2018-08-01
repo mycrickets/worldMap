@@ -1,8 +1,14 @@
 <div class="has-text-centered is-centered is-gapless">
   <form (submit)="ratioTabSubmit()">
     <div class="form-group">
-      <div class="title is-5">
-        Data
+      <div class="level">
+        <div class="level-item">
+          <div class="select is-centered">
+            <select style="width:300px; max-width:350px;" id="dataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selectedData" name="selectedData" [ngModelOptions]="{ updateOn: 'submit'}">
+              <option *ngFor="let option of choices" [value]="option.name">{{option.name}}</option>
+            </select>
+          </div>
+        </div>
       </div>
       <div class="columns">
         <div class="column">
@@ -24,15 +30,7 @@
           </div>
         </div>
       </div>
-      <div class="level">
-        <div class="level-item">
-          <div class="select is-centered">
-            <select style="width:300px; max-width:350px;" id="dataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selectedData" name="selectedData" [ngModelOptions]="{ updateOn: 'submit'}">
-              <option *ngFor="let option of choices" [value]="option.name">{{option.name}}</option>
-            </select>
-          </div>
-        </div>
-      </div>
+
       <div class="level has-text-centered">
         <div class="level-item">
           <button type="submit" class="btn btn-success">
@@ -42,20 +40,28 @@
       </div>
       <div class="columns">
         <div class="column">
-          <div>
-            max
+          <div class="title is-6">
+            MAX ({{max.toLocaleString()}}% Change)
           </div>
           <div class="scrollable">
-            max countries here
+            <section *ngFor="let country of maxmin['max']">{{country}}</section>
           </div>
         </div>
         <div class="column">
-          <div>
-            min
+          <div class="title is-6">
+            MIN ({{min.toLocaleString()}}% Change)
           </div>
           <div class="scrollable">
-            min countries here
+            <section *ngFor="let country of maxmin['min']">{{country}}</section>
           </div>
+        </div>
+      </div>
+      <br/>
+      <div *ngIf="info != null">
+        <div class="column">
+          <p>
+            Find more information about the {{selectedData}} <a href="{{info}}" target="_blank">here</a>
+          </p>
         </div>
       </div>
 

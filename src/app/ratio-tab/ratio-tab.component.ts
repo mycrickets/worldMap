@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { MapComponent } from "../map/map.component";
+import {OneTabComponent} from "../one-tab/one-tab.component";
 
 @Component({
   selector: 'app-ratio-tab',
@@ -15,6 +16,7 @@ export class RatioTabComponent implements OnInit {
   yearEnd:number;
   max:number;
   min:number;
+  maxmin:object;
   descriptor:string;
   isRatio: boolean = true;
 
@@ -27,6 +29,9 @@ export class RatioTabComponent implements OnInit {
     this.years = mapcomp.allYears;
     this.descriptor = mapcomp.descriptor;
     this.info = mapcomp.info;
+    this.maxmin = mapcomp.maxmin;
+    this.max = mapcomp.max;
+    this.min = mapcomp.min;
   }
 
   constructor() { }
@@ -42,6 +47,10 @@ export class RatioTabComponent implements OnInit {
     this.choices = mapcomp.choices;
     this.descriptor = mapcomp.descriptor;
     this.info = mapcomp.info;
+    this.maxmin = mapcomp.maxmin;
+    this.max = mapcomp.max;
+    this.min = mapcomp.min;
+    let something = new OneTabComponent();
+    something.ngOnInit()
   }
-
 }
