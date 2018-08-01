@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 import { FormsModule } from "@angular/forms";
 import { ReactiveFormsModule } from "@angular/forms";
 
-
 import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { DisplayComponent } from './display/display.component';
@@ -18,7 +17,7 @@ import { AppRoutingModule } from './app-routing.module';
 import { MainPageComponent } from './main-page/main-page.component';
 import { AboutInfoComponent } from './about-info/about-info.component';
 import { AuthorInfoComponent } from './author-info/author-info.component';
-import {HashLocationStrategy, LocationStrategy} from "@angular/common";
+import { HashLocationStrategy, LocationStrategy } from "@angular/common";
 
 @NgModule({
   declarations: [
