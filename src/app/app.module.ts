@@ -18,6 +18,7 @@ import { MainPageComponent } from './main-page/main-page.component';
 import { AboutInfoComponent } from './about-info/about-info.component';
 import { AuthorInfoComponent } from './author-info/author-info.component';
 import { HashLocationStrategy, LocationStrategy } from "@angular/common";
+import { GraphTabComponent } from './graph-tab/graph-tab.component';
 
 @NgModule({
   declarations: [
@@ -34,6 +35,7 @@ import { HashLocationStrategy, LocationStrategy } from "@angular/common";
     MainPageComponent,
     AboutInfoComponent,
     AuthorInfoComponent,
+    GraphTabComponent,
   ],
   imports: [
     BrowserModule,
