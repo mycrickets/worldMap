@@ -4,6 +4,27 @@
 <script src="http://datamaps.github.io/scripts/datamaps.world.min.js?v=1"></script>
 <div class="level">
   <div class="level-item">
-    <div id="map-container" style="position: center; width: 100%; max-height: 450px;"></div>
+    <div id="map-container" class=""></div>
+    <div id="graph-container" class="is-hidden">
+      <div class="tile is-ancestor has-text-centered">
+        <div class="tile is-vertical is-parent">
+          <div class="tile is-child box" id="line-graph-container">
+            <canvas id="scatter-plot"></canvas>
+          </div>
+          <div class="tile is-parent">
+            <div class="tile is-child box" id="world-info-container">
+              <p id="formula"></p>
+              <p id="r"></p>
+              <p id="rSqr"></p>
+              <p id="mErr"></p>
+              <p id="bErr"></p>
+            </div>
+            <div class="tile is-child box" id="output-container">
+              bottom right
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
   </div>
 </div>

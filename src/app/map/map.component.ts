@@ -23,7 +23,6 @@ const Datamap = require('datamaps');
   styleUrls: ['./map.component.css']
 })
 export class MapComponent implements OnInit {
-
   eduDurationYearToValue: Map<number,number>;
   eduDurationParsed: Map<string, Map<number,number>>;
   totalEduDuration: Map<string, Map<number,number>>;
@@ -195,8 +194,12 @@ export class MapComponent implements OnInit {
   }
 
   removePreviousMap(){
-    document.getElementById('map-container').children.item(0).remove();
-    document.getElementById('map-container').children.item(0).remove();
+    if(_.size(document.getElementById('map-container').children) >= 2) {
+      document.getElementById('graph-container').classList.add('is-hidden');
+      document.getElementById('map-container').classList.remove('is-hidden');
+      document.getElementById('map-container').children.item(0).remove();
+      document.getElementById('map-container').children.item(0).remove();
+    }
   }
 
   getAllYears(data){

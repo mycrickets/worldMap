@@ -1,3 +1,53 @@
-<p>
-  graph-tab works!
-</p>
+<div class="has-text-centered">
+  <form (submit)="graphTabSubmit()">
+    <div class="form-group">
+      <div class="level">
+        <div class="level-item">
+          <div class="select">
+            <select style="width:300px; max-width:350px;" id="firstDataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selectedX" name="selectedX" [ngModelOptions]="{ updateOn: 'submit'}">
+              <option *ngFor="let option of choices" [value]="option.name">{{option.name}}</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="level">
+        <div class="level-item">
+          <div class="select">
+            <select style="width:300px; max-width:350px;" id="secondDataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selectedY" name="selectedY" [ngModelOptions]="{ updateOn: 'submit'}">
+              <option *ngFor="let option of choices" [value]="option.name">{{option.name}}</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <br/>
+      from
+      <div class="level">
+        <div class="level-item">
+          <div class="select">
+            <select style="width:150px; max-width:175px;" id="firstYearSelection" title="Which year do you want to view" [(ngModel)]="begYear" name="begYear" [ngModelOptions]="{ updateOn: 'blur'}">
+              <option *ngFor="let year of years" [value]="year">{{year}}</option>
+            </select>
+          </div>
+        </div>
+        to
+        <div class="level-item">
+          <div class="select">
+            <select style="width:150px; max-width:175px;" id="secondYearSelection" title="Which year do you want to view" [(ngModel)]="endYear" name="endYear" [ngModelOptions]="{ updateOn: 'blur'}">
+              <option *ngFor="let year of years" [value]="year">{{year}}</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <br/>
+      <div class="level">
+        <div class="level-item">
+          <br/>
+          <button type="submit" class="btn btn-success">
+            Submit
+          </button>
+        </div>
+      </div>
+      <br/>
+    </div>
+  </form>
+</div>

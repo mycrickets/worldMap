@@ -5,10 +5,16 @@ export class LinRegMap{
   selectedY: string;
   dataX: object;
   dataY: object;
+  country: string;
 
-  constructor(dataX, dataY){
+  constructor(dataX, dataY, begYear, endYear, country){
     this.dataX = dataX;
     this.dataY = dataY;
+    this.begYear = begYear;
+    this.endYear = endYear;
+    this.country = country;
+
+
   }
 
 }

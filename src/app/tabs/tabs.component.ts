@@ -16,7 +16,7 @@ export class TabsComponent implements OnInit {
     document.getElementById('ratio').classList.remove('is-active');
     document.getElementById('graph').classList.remove('is-active');
     document.getElementById('one-info').classList.remove('is-hidden');
-    document.getElementById('graph-info').classList.remove('is-hidden');
+    document.getElementById('graph-info').classList.add('is-hidden');
     document.getElementById('ratio-info').classList.add('is-hidden');
   }
 
@@ -25,7 +25,7 @@ export class TabsComponent implements OnInit {
     document.getElementById('one').classList.remove('is-active');
     document.getElementById('graph').classList.remove('is-active');
     document.getElementById('ratio-info').classList.remove('is-hidden');
-    document.getElementById('graph-info').classList.remove('is-hidden');
+    document.getElementById('graph-info').classList.add('is-hidden');
     document.getElementById('one-info').classList.add('is-hidden');
   }
 

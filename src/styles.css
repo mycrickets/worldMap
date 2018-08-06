@@ -1,5 +1,9 @@
+html {
+  height: 100%;
+}
+
 body {
-  min-height: 100%;
+  /*min-height: 100%;*/
   display: grid;
   grid-template-rows: 1fr auto;
 
@@ -21,4 +25,18 @@ href{
   color: -webkit-link;
 }
 
-
+/*https://philipwalton.github.io/solved-by-flexbox/demos/sticky-footer/*/
+.Site {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+}
+.Site-header,
+.Site-footer {
+  flex: none;
+}
+.Site-content {
+  flex: 1 0 auto;
+  padding: 0 0 0px;
+  width: 100%;
+}
