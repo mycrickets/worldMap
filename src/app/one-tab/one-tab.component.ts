@@ -33,7 +33,7 @@ export class OneTabComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.selection="GINI Index (World Bank Estimate)";
+    this.selection="Gross Expense on R&D as a Percentage of GDP";
     this.selectedYear=2010;
     let mapcomp = new MapComponent;
     mapcomp.removePreviousMap();

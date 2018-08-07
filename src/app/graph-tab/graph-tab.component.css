@@ -1,0 +1,6 @@
+div.small-scrollable {
+  border: solid darkgray;
+  max-height: 75px;
+  width: 300px;
+  overflow: scroll;
+}

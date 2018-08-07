@@ -9,6 +9,7 @@ import {CompEduStartAge} from "../../assets/CompEduStartAge";
 import {GDExpRNDPercGDP} from "../../assets/GDExpRNDPercGDP";
 import {GDPConst2011} from "../../assets/GDPConst2011";
 import * as d3 from "d3";
+import {proxy} from "@angular/core/testing/src/testing_internal";
 
 declare var require: any;
 const chart = require('chart.js');
@@ -43,7 +44,20 @@ export class GraphTabComponent implements OnInit {
   formula:string;
   bErr:number;
   mErr:number;
+  amount:number[];
+  size:string;
+  selectedAmt:number;
+  countries:string[];
 
+
+  showCountryOptions(){
+    let list = document.getElementById("country-container").classList;
+    if(list.contains('is-hidden')){
+      list.remove('is-hidden');
+    } else{
+      list.add('is-hidden');
+    }
+  }
 
   getIndexForAxis(axis){
     if (axis == "x"){
@@ -125,10 +139,24 @@ export class GraphTabComponent implements OnInit {
     return finalData
   }
 
+  uniqueAdd(arr, dataArr){
+    for(let i = 0; i < _.size(dataArr); i++){
+      let data = dataArr[i];
+      this.getType(data);
+      for(let j = 0; j < _.size(data); j++){
+        if(!arr.includes(data[j][this.nameType])){
+          arr.push(data[j][this.nameType])
+        }
+      }
+    }
+    arr.sort();
+  }
+
   createPoints(xData, yData){
     let dataset = [];
     let prunedX = this.prune(xData, xData, yData);
     let prunedY = this.prune(yData, xData, yData);
+    this.uniqueAdd(this.countries, [prunedX, prunedY]);
     for(let i = 0; i < _.size(prunedX); i++){
       let standard = {
         x: 0,
@@ -212,7 +240,139 @@ export class GraphTabComponent implements OnInit {
     return "";
   }
 
+  createDataset(labelArr, dataArr, colorArr, opts){
+    let amt = _.size(dataArr);
+    let results = [];
+    for(let i = 0; i < amt; i++){
+      let outline = {
+        label: labelArr[i],
+        data: dataArr[i],
+        pointBackgroundColor: colorArr[i]
+      };
+      let fin = Object.assign({}, outline, opts[i]);
+      results.push(fin)
+    }
+    return results;
+  }
+
+  createGraph(dataset, tooltip=false){
+    let final = {
+      type: 'scatter',
+      data: {
+        datasets: dataset,
+      },
+      options: {
+        tooltips:{
+          callbacks: {}
+        },
+        animation: false,
+        scales:{
+          xAxes: [{
+            scaleLabel: {
+              display: true,
+              labelString: this.selectedX + this.descriptorX
+            }
+          }],
+          yAxes: [{
+            scaleLabel: {
+              display: true,
+              labelString: this.selectedY + this.descriptorY
+            }
+          }],
+        },
+        pan: {
+          enabled: true,
+          mode: 'xy'
+        },
+        zoom: {
+          enabled: true,
+          drag: true,
+          mode: 'xy'
+        }
+      }
+    };
+    if(tooltip){
+        final.options.tooltips.callbacks =
+          {label: function(tooltipItem, data){
+          return "(" + tooltipItem.xLabel.toLocaleString() + ", " + tooltipItem.yLabel.toLocaleString() + ")";
+        },
+        title: function(tooltipItem, data){
+          let choices = [
+            {'name': "Compulsory Education Duration", 'file': CompEduDuration, 'info': null},
+            {'name': "Compulsory Education Starting Age", 'file': CompEduStartAge, 'info': null},
+            {'name': "Gross Expense on R&D as a Percentage of GDP", 'file': GDExpRNDPercGDP, 'info': null},
+            {'name': "GDP Per Capita, PPP, in 2011 US Dollars", 'file': GDPCapitaConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+            {'name': "GDP Per Capita, PPP, in Current US Dollars", 'file': GDPCapitaCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+            {'name': "Total GDP, PPP, in 2011 US Dollars", 'file': GDPConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+            {'name': "Total GDP, PPP, in Current US Dollars", 'file': GDPCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+            {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'},
+            {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'}
+          ];
+          let titleSplit = data.datasets[0].label.split(" vs ");
+          let dataX = null;
+          let dataY = null;
+          for(let i = 0; i < _.size(choices); i++){
+            if(choices[i]['name'] == titleSplit[0].trim()){
+              dataX = JSON.parse(choices[i]['file']);
+            }
+            if(choices[i]['name'] == titleSplit[1].trim()){
+              dataY = JSON.parse(choices[i]['file']);
+            }
+          }
+          let name = "";
+          for(let i = 0; i < _.size(choices); i++){
+            let file = dataX;
+            for(let j = 0; j < _.size(file); j++){
+              if(file[j]['Value'] == tooltipItem[0].xLabel){
+                for(let k = 0; k < _.size(dataY); k++){
+                  if(dataY[k]['Value'] == tooltipItem[0].yLabel){
+                    name = file[j]['Country or Area'];
+                    if (name == null){
+                      name = dataY[k]['Country or Area']
+                    }
+                    return name + ", " + file[j]['Year'];
+                  }
+                  if(dataY[k]['Observation Value'] == tooltipItem[0].yLabel){
+                    name = file[j]['Country or Area'];
+                    if (name == null){
+                      name = dataY[k]['Reference Area']
+                    }
+                    return name + ", " + file[j]['Year'];
+                  }
+                }
+              }
+              if(file[j]['Observation Value'] == tooltipItem[0].xLabel){
+                for(let k = 0; k < _.size(dataY); k++){
+                  if(dataY[k]['Value'] == tooltipItem[0].yLabel){
+                    name = dataY[k]['Country or Area'];
+                    if (name == null){
+                      name = file[j]['Reference Area'];
+                    }
+                    return name + ", " + file[j]['Time Period'];
+                  }
+                  if(dataY[k]['Observation Value'] == tooltipItem[0].yLabel){
+                    name = file[j]['Reference Area'];
+                    if (name == null){
+                      name = dataY[k]['Reference Area']
+                    }
+                    return name + ", " + file[j]['Time Period'];
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+    return final;
+  }
+
   fillRange(bg, ed){
+    if (bg > ed){
+      let temp = bg;
+      bg = ed;
+      ed = temp;
+    }
     let range = [];
     for(let i = parseInt(bg); i <= parseInt(ed); i++){
       range.push(i);
@@ -228,6 +388,8 @@ export class GraphTabComponent implements OnInit {
   removePreviousGraph(){
     $('#scatter-plot').remove();
     $('#line-graph-container').append('<canvas id="scatter-plot"></canvas>');
+    $('#bottom-plot').remove();
+    $('#output-container').append('<canvas id="bottom-plot"></canvas>');
   }
 
   async sleep(ms) {
@@ -246,8 +408,9 @@ export class GraphTabComponent implements OnInit {
       {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'},
       {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'}
     ];
-    this.begYear = 2010;
-    this.endYear = 2011;
+    this.begYear = 2000;
+    this.endYear = 2010;
+    this.selectedAmt = 1;
     this.selectedX = "Gross Expense on R&D as a Percentage of GDP";
     this.selectedY = "GDP Per Capita in Current US Dollars";
     let x = this.getIndexForAxis("x");
@@ -256,6 +419,9 @@ export class GraphTabComponent implements OnInit {
     this.dataY = JSON.parse(this.choices[y]['file']);
     this.years = this.getYearsForData(this.dataX, this.dataY);
     this.i=0;
+    this.amount = this.fillRange(1, 5);
+    this.countries = [];
+    let triggerFunc = this.createPoints(this.getDataBetweenYears(this.begYear, this.endYear, this.dataX), this.getDataBetweenYears(this.begYear, this.endYear, this.dataY))
   }
 
 
@@ -288,11 +454,18 @@ export class GraphTabComponent implements OnInit {
     let ret = {};
 
     let f = lsq(LSRLX, LSRLY, true, ret);
-    console.log(ret);
     let LSRLData = [];
     for(let i = 0; i < this.getMaxValue(LSRLX); i+=(1/35 * this.getMaxValue(LSRLX))){
       LSRLData.push({x: i, y: f(i)});
     }
+
+    let residData = [];
+    for(let i = 0; i < _.size(finalDatasetData); i++){
+      let residX = finalDatasetData[i]['x'];
+      let residY = finalDatasetData[i]['y'];
+      residData.push({x: residX, y: residY-f(residX)})
+    }
+
     this.formula = "y = " + ret['m'].toFixed(5) + " * x + " + ret['b'].toFixed(5);
     this.r = 0;
     this.rSqr = this.r * this.r;
@@ -305,120 +478,33 @@ export class GraphTabComponent implements OnInit {
     document.getElementById('bErr').innerText = "" + this.bErr;
     document.getElementById('mErr').innerText = "" + this.mErr;
 
-    let finalDatasets = [{
-      label: this.selectedX + '\n vs \n' + this.selectedY,
-      data: finalDatasetData,
-      pointBackgroundColor: colors
-    },
-      {
-        label: "Least Squared Regression Line",
-        data: LSRLData,
-        type: 'line',
-        showLine: true,
-        backgroundColor: '#F0F0F0',
-        fill: false
-      }];
+    let finalDatasets = this.createDataset([
+      this.selectedX + '\n vs \n' + this.selectedY,
+      "Least Squared Regression Line"],
+      [finalDatasetData,
+      LSRLData],
+      [colors,
+      'F0F0F0'],
+      [{}, {type: 'line',
+      showLine: true,
+      backgroundColor: '#F0F0F0',
+      fill: false}]);
 
-    let finalChart = {
-      type: 'scatter',
-      data: {
-        datasets: finalDatasets,
-      },
-      options: {
-        tooltips:{
-          callbacks:{
-            label: function(tooltipItem, data){
-              return "(" + tooltipItem.xLabel.toLocaleString() + ", " + tooltipItem.yLabel.toLocaleString() + ")";
-            },
-            title: function(tooltipItem, data){
-              let choices = [
-                {'name': "Compulsory Education Duration", 'file': CompEduDuration, 'info': null},
-                {'name': "Compulsory Education Starting Age", 'file': CompEduStartAge, 'info': null},
-                {'name': "Gross Expense on R&D as a Percentage of GDP", 'file': GDExpRNDPercGDP, 'info': null},
-                {'name': "GDP Per Capita, PPP, in 2011 US Dollars", 'file': GDPCapitaConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-                {'name': "GDP Per Capita, PPP, in Current US Dollars", 'file': GDPCapitaCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-                {'name': "Total GDP, PPP, in 2011 US Dollars", 'file': GDPConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-                {'name': "Total GDP, PPP, in Current US Dollars", 'file': GDPCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-                {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'},
-                {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'}
-              ];
-              let titleSplit = data.datasets[0].label.split(" vs ");
-              let dataX = null;
-              let dataY = null;
-              for(let i = 0; i < _.size(choices); i++){
-                if(choices[i]['name'] == titleSplit[0]){
-                  dataX = JSON.parse(choices[i]['file']);
-                }
-                if(choices[i]['name'] == titleSplit[1]){
-                  dataY = JSON.parse(choices[i]['file']);
-                }
-              }
-              let name = "";
-              for(let i = 0; i < _.size(choices); i++){
-                let file = dataX;
-                for(let j = 0; j < _.size(file); j++){
-                  if(file[j]['Value'] == tooltipItem[0].xLabel){
-                    for(let k = 0; k < _.size(dataY); k++){
-                      if(dataY[k]['Value'] == tooltipItem[0].yLabel){
-                        name = file[j]['Country or Area'];
-                        if (name == null){
-                          name = dataY[k]['Country or Area']
-                        }
-                        return name + ", " + file[j]['Year'];
-                      }
-                      if(dataY[k]['Observation Value'] == tooltipItem[0].yLabel){
-                        name = file[j]['Country or Area'];
-                        if (name == null){
-                          name = dataY[k]['Reference Area']
-                        }
-                        return name + ", " + file[j]['Year'];
-                      }
-                    }
-                  }
-                  if(file[j]['Observation Value'] == tooltipItem[0].xLabel){
-                    for(let k = 0; k < _.size(dataY); k++){
-                      if(dataY[k]['Value'] == tooltipItem[0].yLabel){
-                        name = dataY[k]['Country or Area'];
-                        if (name == null){
-                          name = file[j]['Reference Area'];
-                        }
-                        return name + ", " + file[j]['Time Period'];
-                      }
-                      if(dataY[k]['Observation Value'] == tooltipItem[0].yLabel){
-                        name = file[j]['Reference Area'];
-                        if (name == null){
-                          name = dataY[k]['Reference Area']
-                        }
-                        return name + ", " + file[j]['Time Period'];
-                      }
-                    }
-                  }
-                }
-              }
-            }
-          }
-        },
-        scales:{
-          xAxes: [{
-            scaleLabel: {
-              display: true,
-              labelString: this.selectedX + this.descriptorX
-            }
-          }],
-          yAxes: [{
-            scaleLabel: {
-              display: true,
-              labelString: this.selectedY + this.descriptorY
-            }
-          }],
+    let finalResid = this.createDataset([
+      this.selectedX + '\n vs \n' + this.selectedY],
+      [residData],
+      [colors],
+      [{}]
+      );
 
-        },
-      }
-    };
+    let finalChart = this.createGraph(finalDatasets, true);
+    let residualChart = this.createGraph(finalResid, false);
 
     document.getElementById("title-sentence").innerText = finalDatasets[0].label + " \nfrom " + this.begYear + " to " + this.endYear;
 
+    const resid = document.getElementById("bottom-plot");
     const ctx = document.getElementById("scatter-plot");
     this.chart = new chart.Chart(ctx, finalChart);
+    new chart.Chart(resid, residualChart);
   }
 }

@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import {CompEduDuration} from "../../assets/CompEduDuration";
+import {GraphContainerComponent} from "../graph-container/graph-container.component";
 import * as d3 from "d3";
 
 import { CompEduStartAge } from "../../assets/CompEduStartAge";

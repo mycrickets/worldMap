@@ -37,9 +37,9 @@ export class RatioTabComponent implements OnInit {
   constructor() { }
 
   ngOnInit() {
-    this.selectedData = "GINI Index (World Bank Estimate)";
-    this.yearBeg = 2010;
-    this.yearEnd = 2011;
+    this.selectedData = "Gross Expense on R&D as a Percentage of GDP";
+    this.yearBeg = 2000;
+    this.yearEnd = 2010;
     let mapcomp = new MapComponent;
     mapcomp.removePreviousMap();
     mapcomp.ngOnInit(this.selectedData, [this.yearBeg, this.yearEnd], true);

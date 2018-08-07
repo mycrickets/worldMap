@@ -19,6 +19,7 @@ import { AboutInfoComponent } from './about-info/about-info.component';
 import { AuthorInfoComponent } from './author-info/author-info.component';
 import { HashLocationStrategy, LocationStrategy } from "@angular/common";
 import { GraphTabComponent } from './graph-tab/graph-tab.component';
+import { GraphContainerComponent } from './graph-container/graph-container.component';
 
 @NgModule({
   declarations: [
@@ -36,6 +37,7 @@ import { GraphTabComponent } from './graph-tab/graph-tab.component';
     AboutInfoComponent,
     AuthorInfoComponent,
     GraphTabComponent,
+    GraphContainerComponent,
   ],
   imports: [
     BrowserModule,

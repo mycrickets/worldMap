@@ -11,3 +11,11 @@
   height: 100%;
   max-width: 1000px;
 }
+
+div.scrollable {
+  border: solid darkgray;
+  background-color: darkgray;
+  max-height: 600px;
+  width: 900px;
+  overflow: scroll;
+}
