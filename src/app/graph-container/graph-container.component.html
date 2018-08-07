@@ -1,20 +1,27 @@
 <div class="tile is-ancestor has-text-centered">
   <div class="tile is-vertical is-parent">
-    <div class="tile is-child box" id="line-graph-container">
-      <p>Scatter Plot</p>
-      <canvas id="scatter-plot"></canvas>
-    </div>
-    <div class="tile is-child box" id="output-container">
-      <p>Residual Plot</p>
-      <canvas id="bottom-plot"></canvas>
-    </div>
-    <div class="tile is-parent">
+    <div class="tile is-vertical is-parent" id="mult-container">
+      <div class="tile is-child box" id="line-graph-container">
+        <p>Scatter Plot</p>
+        <canvas id="scatter-plot"></canvas>
+      </div>
+      <div class="tile is-child box" id="output-container">
+        <p>Residual Plot</p>
+        <canvas id="bottom-plot"></canvas>
+      </div>
       <div class="tile is-child box" id="world-info-container">
         <p id="formula"></p>
         <p id="r"></p>
         <p id="rSqr"></p>
         <p id="mErr"></p>
         <p id="bErr"></p>
+      </div>
+      <div *ngIf="message!=0">
+        <div *ngFor="let i of fillRange(1, message)" class="tile is-child box" id="country-{{i}}">
+          {{i}}
+          {{selectedCountries[i-1]}}
+          <canvas id="country-canvas-{{i}}"></canvas>
+        </div>
       </div>
     </div>
   </div>

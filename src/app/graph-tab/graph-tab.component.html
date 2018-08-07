@@ -48,7 +48,7 @@
           <input type="checkbox" title="Residual plot viewable?" id="residual-check"> Residual Plot<p></p>
           <input type="checkbox" title="statistical plot viewable?" id="stat-check"> Statistical Output<p></p>
           <input type="checkbox" title="country opts viewable?" id="country-check" (click)="showCountryOptions()"> Specific Country Output
-          <div id="country-container" class="">
+          <div id="country-container" class="is-hidden">
             <p></p>Amount of Countries to view:
             <div class="select">
               <select style="width:150px; max-width:175px;" id="amt-countries" title="How many countries?" [(ngModel)]="selectedAmt" name="selectedAmt" [ngModelOptions]="{ updateOn: 'blur'}">
@@ -57,21 +57,22 @@
             </div>
             <div class="small-scrollable">
               <div *ngFor="let number of fillRange(1, selectedAmt)">
-                <div class="level">
-                  <div class="level-item">
-                    <div class="select">
-                      <select style="width:150px; max-width:175px;" id="country-choice" title="Which country do you want to view" [(ngModel)]="countries[number-1]" name="countries{{number-1}}" [ngModelOptions]="{ updateOn: 'blur'}">
-                        <option *ngFor="let ch of countries" [value]="ch">{{ch}}</option>
-                      </select>
-                    </div>
-                    <div class="level-item">
-                      <input type="checkbox" title="scatter plot viewable?" id="scatter{{number-1}}"> Scatter Plot<p></p>
-                    </div>
-                    <div class="level-item">
-                      <input type="checkbox" title="Residual plot viewable?" id="residual{{number-1}}"> Residual Plot<p></p>
-                    </div>
+                <div class="has-text-centered">
+                  <div class="select">
+                    <select style="width:150px; max-width:175px;" id="country-choice{{number}}" title="Which country do you want to view" [(ngModel)]="selectedCountries[number-1]" name="selectedCountries{{number-1}}" [ngModelOptions]="{ updateOn: 'blur'}">
+                      <option *ngFor="let ch of countries" [value]="ch">{{ch}}</option>
+                    </select>
                   </div>
                 </div>
+                <div class="level is-marginless">
+                  <div class="level-item">
+                    <input type="checkbox" title="scatter plot viewable?" id="scatter{{number-1}}" (click)="transferScatter(number)"> Scatter Plot<p></p>
+                  </div>
+                  <div class="level-item">
+                    <input type="checkbox" title="Residual plot viewable?" id="residual{{number-1}}" (click)="transferResid(number)"> Residual Plot<p></p>
+                  </div>
+                </div>
+                <p class="has-text-centered">- - - - - - - - - - - - - - -</p>
               </div>
             </div>
           </div>
@@ -80,7 +81,7 @@
       <div class="level">
         <div class="level-item">
           <br/>
-          <button type="submit" class="btn btn-success">
+          <button (click)="newMessage()" type="submit" class="btn btn-success">
             Submit
           </button>
         </div>

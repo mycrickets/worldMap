@@ -9,7 +9,7 @@ import {CompEduStartAge} from "../../assets/CompEduStartAge";
 import {GDExpRNDPercGDP} from "../../assets/GDExpRNDPercGDP";
 import {GDPConst2011} from "../../assets/GDPConst2011";
 import * as d3 from "d3";
-import {proxy} from "@angular/core/testing/src/testing_internal";
+import {DataService} from "../data-service/data.service";
 
 declare var require: any;
 const chart = require('chart.js');
@@ -48,15 +48,39 @@ export class GraphTabComponent implements OnInit {
   size:string;
   selectedAmt:number;
   countries:string[];
+  selectedCountries:string[];
+  scatterTicker:boolean[]=[false, false, false, false, false];
+  residTicker:boolean[]=[false, false, false, false, false];
+  message:number;
+  countryData:object[]=[];
+
+  constructor(private data: DataService) {
+  }
+
+  newMessage() {
+
+  }
+
+  transferScatter(num){
+    this.scatterTicker[num-1] = !this.scatterTicker[num-1]
+  }
+
+  transferResid(num){
+    this.residTicker[num-1] = !this.residTicker[num-1]
+  }
 
 
   showCountryOptions(){
     let list = document.getElementById("country-container").classList;
     if(list.contains('is-hidden')){
       list.remove('is-hidden');
+      this.selectedAmt=1;
     } else{
       list.add('is-hidden');
+      this.selectedAmt=0;
     }
+    this.scatterTicker=[false, false, false, false, false];
+    this.residTicker=[false, false, false, false, false];
   }
 
   getIndexForAxis(axis){
@@ -153,6 +177,7 @@ export class GraphTabComponent implements OnInit {
   }
 
   createPoints(xData, yData){
+    this.countryData = [];
     let dataset = [];
     let prunedX = this.prune(xData, xData, yData);
     let prunedY = this.prune(yData, xData, yData);
@@ -167,7 +192,11 @@ export class GraphTabComponent implements OnInit {
       this.getType(yData);
       standard.y = prunedY[i][this.dataType];
       dataset.push(standard);
+      standard['name'] = prunedY[i][this.nameType];
+      standard['year'] = prunedY[i][this.yearType];
+      this.countryData.push(standard);
     }
+    this.countryData.sort();
     return dataset;
   }
 
@@ -367,6 +396,17 @@ export class GraphTabComponent implements OnInit {
     return final;
   }
 
+  getDataFromCountryName(data, name){
+    let results = [];
+    this.getType(data);
+    for(let i = 0; i < _.size(data); i++){
+      if(data[i]['name'] == name){
+        results.push(data[i]);
+      }
+    }
+    return results.sort();
+  }
+
   fillRange(bg, ed){
     if (bg > ed){
       let temp = bg;
@@ -397,6 +437,8 @@ export class GraphTabComponent implements OnInit {
   }
 
   ngOnInit() {
+    this.data.currentMessage.subscribe(message => this.message = message);
+    this.data.currentCountriesList.subscribe(selectedCountries => this.selectedCountries = selectedCountries);
     this.choices = [
       {'name': "Compulsory Education Duration", 'file': CompEduDuration, 'info': null},
       {'name': "Compulsory Education Starting Age", 'file': CompEduStartAge, 'info': null},
@@ -410,7 +452,7 @@ export class GraphTabComponent implements OnInit {
     ];
     this.begYear = 2000;
     this.endYear = 2010;
-    this.selectedAmt = 1;
+    this.selectedAmt = 0;
     this.selectedX = "Gross Expense on R&D as a Percentage of GDP";
     this.selectedY = "GDP Per Capita in Current US Dollars";
     let x = this.getIndexForAxis("x");
@@ -422,12 +464,18 @@ export class GraphTabComponent implements OnInit {
     this.amount = this.fillRange(1, 5);
     this.countries = [];
     let triggerFunc = this.createPoints(this.getDataBetweenYears(this.begYear, this.endYear, this.dataX), this.getDataBetweenYears(this.begYear, this.endYear, this.dataY))
+    this.selectedCountries = [];
+    for(let i = 0; i < this.selectedAmt; i++){
+      this.selectedCountries[i] = this.countries[i]
+    }
   }
 
 
   async graphTabSubmit() {
+    this.data.changeMessage(parseInt(String(this.selectedAmt)));
+    this.data.changeCountriesList(this.selectedCountries);
+
     this.i++;
-    await this.sleep(1000);
     this.showGraph();
     this.removePreviousGraph();
 
@@ -506,5 +554,32 @@ export class GraphTabComponent implements OnInit {
     const ctx = document.getElementById("scatter-plot");
     this.chart = new chart.Chart(ctx, finalChart);
     new chart.Chart(resid, residualChart);
+
+    for(let i = 0; i < this.selectedAmt; i++){
+      //loop is ind country
+      let residualCheck = this.residTicker[i];
+      let scatterCheck = this.scatterTicker[i];
+      let countryName = this.selectedCountries[i];
+      let thiscountryData = this.getDataFromCountryName(this.countryData, countryName);
+      let colors = this.getBackgroundColor(thiscountryData);
+
+      if(scatterCheck){
+        const countryGraph = this.createDataset(
+          [countryName],
+          [thiscountryData],
+          [colors],
+          [{}]
+          );
+        let countryChart = this.createGraph(countryGraph, true);
+        const countryCanvas = document.getElementById('country-canvas-'+(i+1));
+        console.log(countryCanvas);
+        console.log(document.getElementById('world-info-container'))
+        // new chart.Chart(countryCanvas, countryChart)
+      }
+
+      if(residualCheck){
+
+      }
+    }
   }
 }

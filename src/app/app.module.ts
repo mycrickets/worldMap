@@ -20,6 +20,7 @@ import { AuthorInfoComponent } from './author-info/author-info.component';
 import { HashLocationStrategy, LocationStrategy } from "@angular/common";
 import { GraphTabComponent } from './graph-tab/graph-tab.component';
 import { GraphContainerComponent } from './graph-container/graph-container.component';
+import {DataService} from "./data-service/data.service";
 
 @NgModule({
   declarations: [
@@ -46,7 +47,8 @@ import { GraphContainerComponent } from './graph-container/graph-container.compo
     AppRoutingModule
   ],
   providers: [
-    {provide: LocationStrategy, useClass: HashLocationStrategy}
+    {provide: LocationStrategy, useClass: HashLocationStrategy},
+    DataService
   ],
   bootstrap: [AppComponent]
 })

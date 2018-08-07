@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 import {CompEduDuration} from "../../assets/CompEduDuration";
 import {GraphContainerComponent} from "../graph-container/graph-container.component";
 import * as d3 from "d3";
@@ -24,6 +24,7 @@ const Datamap = require('datamaps');
   styleUrls: ['./map.component.css']
 })
 export class MapComponent implements OnInit {
+
   eduDurationYearToValue: Map<number,number>;
   eduDurationParsed: Map<string, Map<number,number>>;
   totalEduDuration: Map<string, Map<number,number>>;
