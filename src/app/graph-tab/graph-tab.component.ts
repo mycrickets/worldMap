@@ -10,6 +10,7 @@ import {GDExpRNDPercGDP} from "../../assets/GDExpRNDPercGDP";
 import {GDPConst2011} from "../../assets/GDPConst2011";
 import * as d3 from "d3";
 import {DataService} from "../data-service/data.service";
+import {P} from "@angular/core/src/render3";
 
 declare var require: any;
 const chart = require('chart.js');
@@ -51,14 +52,13 @@ export class GraphTabComponent implements OnInit {
   selectedCountries:string[];
   scatterTicker:boolean[]=[false, false, false, false, false];
   residTicker:boolean[]=[false, false, false, false, false];
+  oneLSRLTicker:boolean=false;
+  oneResidTicker:boolean=false;
+  oneResultTicker:boolean=false;
   message:number;
   countryData:object[]=[];
 
   constructor(private data: DataService) {
-  }
-
-  newMessage() {
-
   }
 
   transferScatter(num){
@@ -69,6 +69,17 @@ export class GraphTabComponent implements OnInit {
     this.residTicker[num-1] = !this.residTicker[num-1]
   }
 
+  hitLSRL(){
+    this.oneLSRLTicker = !this.oneLSRLTicker;
+  }
+
+  hitResid(){
+    this.oneResidTicker = !this.oneResidTicker;
+  }
+
+  hitResult(){
+    this.oneResultTicker = !this.oneResultTicker;
+  }
 
   showCountryOptions(){
     let list = document.getElementById("country-container").classList;
@@ -470,6 +481,13 @@ export class GraphTabComponent implements OnInit {
     }
   }
 
+  updateDataServices(){
+    this.data.changeIsScatter(this.scatterTicker);
+    this.data.changeIsResid(this.residTicker);
+    this.data.changeIsOneLSRL(this.oneLSRLTicker);
+    this.data.changeIsOneResid(this.oneResidTicker);
+    this.data.changeIsOneResult(this.oneResultTicker);
+  }
 
   async graphTabSubmit() {
     this.data.changeMessage(parseInt(String(this.selectedAmt)));
@@ -520,23 +538,31 @@ export class GraphTabComponent implements OnInit {
     this.bErr = ret['bErr'].toFixed(5);
     this.mErr = ret['mErr'].toFixed(5);
 
-    document.getElementById('r').innerText = "" + this.r.toFixed(5);
-    document.getElementById('rSqr').innerText = "" + this.rSqr.toFixed(5);
-    document.getElementById('formula').innerText = "" + this.formula;
-    document.getElementById('bErr').innerText = "" + this.bErr;
-    document.getElementById('mErr').innerText = "" + this.mErr;
+    if(this.oneResultTicker) {
+      document.getElementById('r').innerText = "" + this.r.toFixed(5);
+      document.getElementById('rSqr').innerText = "" + this.rSqr.toFixed(5);
+      document.getElementById('formula').innerText = "" + this.formula;
+      document.getElementById('bErr').innerText = "" + this.bErr;
+      document.getElementById('mErr').innerText = "" + this.mErr;
+    }
 
-    let finalDatasets = this.createDataset([
-      this.selectedX + '\n vs \n' + this.selectedY,
-      "Least Squared Regression Line"],
-      [finalDatasetData,
-      LSRLData],
-      [colors,
-      'F0F0F0'],
-      [{}, {type: 'line',
-      showLine: true,
-      backgroundColor: '#F0F0F0',
-      fill: false}]);
+    let title = [
+      this.selectedX + '\n vs \n' + this.selectedY];
+    let data = [finalDatasetData];
+    let color:any[] = [colors];
+    let opts = [{}];
+
+    if(this.oneLSRLTicker){
+      title.push("Least Squared Regression Line");
+      data.push(LSRLData);
+      color.push("F0F0F0");
+      opts.push({type: 'line',
+        showLine: true,
+        backgroundColor: '#F0F0F0',
+        fill: false});
+    }
+
+    let finalDatasets = this.createDataset(title, data, color, opts);
 
     let finalResid = this.createDataset([
       this.selectedX + '\n vs \n' + this.selectedY],
@@ -549,36 +575,72 @@ export class GraphTabComponent implements OnInit {
     let residualChart = this.createGraph(finalResid, false);
 
     document.getElementById("title-sentence").innerText = finalDatasets[0].label + " \nfrom " + this.begYear + " to " + this.endYear;
-
-    const resid = document.getElementById("bottom-plot");
+    if(this.oneResidTicker) {
+      const resid = document.getElementById("bottom-plot");
+      new chart.Chart(resid, residualChart);
+    }
     const ctx = document.getElementById("scatter-plot");
     this.chart = new chart.Chart(ctx, finalChart);
-    new chart.Chart(resid, residualChart);
 
     for(let i = 0; i < this.selectedAmt; i++){
+      let countryCanvas = null;
       //loop is ind country
       let residualCheck = this.residTicker[i];
       let scatterCheck = this.scatterTicker[i];
       let countryName = this.selectedCountries[i];
       let thiscountryData = this.getDataFromCountryName(this.countryData, countryName);
       let colors = this.getBackgroundColor(thiscountryData);
+      let LSRLX = [];
+      let LSRLY = [];
+      let countryResidData = [];
+      let ret = {};
+      for(let i = 0; i < _.size(thiscountryData); i++){
+        LSRLX.push(thiscountryData[i].x);
+        LSRLY.push(thiscountryData[i].y);
+        let f = lsq(LSRLX, LSRLY, true, ret);
+        let LSRLData = [];
+        for(let i = 0; i < this.getMaxValue(LSRLX); i+=(1/35 * this.getMaxValue(LSRLX))){
+          LSRLData.push({x: i, y: f(i)});
+        }
+        countryResidData = [];
+        for(let i = 0; i < _.size(thiscountryData); i++){
+          let residX = thiscountryData[i]['x'];
+          let residY = thiscountryData[i]['y'];
+          countryResidData.push({x: residX, y: residY-f(residX)})
+        }
+      }
 
-      if(scatterCheck){
+      let formula = "y = " + ret['m'].toFixed(5) + " * x + " + ret['b'].toFixed(5);
+      let r = 0;
+      let rSqr = r * r;
+      let bErr = ret['bErr'].toFixed(5);
+      let mErr = ret['mErr'].toFixed(5);
+      document.getElementById('country-formula-' + (i + 1)).innerText = formula;
+      document.getElementById('country-r-' + (i + 1)).innerText = String(r);
+      document.getElementById('country-rSqr-' + (i + 1)).innerText = String(rSqr);
+      document.getElementById('country-bErr-' + (i + 1)).innerText = String(bErr);
+      document.getElementById('country-mErr-' + (i + 1)).innerText = String(mErr);
+      if (scatterCheck) {
         const countryGraph = this.createDataset(
-          [countryName],
+          [countryName + " Scatter Plot"],
           [thiscountryData],
           [colors],
           [{}]
-          );
-        let countryChart = this.createGraph(countryGraph, true);
-        const countryCanvas = document.getElementById('country-canvas-'+(i+1));
-        console.log(countryCanvas);
-        console.log(document.getElementById('world-info-container'))
-        // new chart.Chart(countryCanvas, countryChart)
+        );
+        let countryChart = this.createGraph(countryGraph, false);
+        countryCanvas = document.getElementById('country-canvas-' + (i + 1));
+        new chart.Chart(countryCanvas, countryChart)
       }
-
       if(residualCheck){
-
+        const residGraph = this.createDataset(
+          [countryName + " Residual Plot"],
+          [countryResidData],
+          [colors],
+          [{}]
+        );
+        let residChart = this.createGraph(residGraph, false);
+        let residCanvas = document.getElementById('resid-canvas-' + (i + 1));
+        new chart.Chart(residCanvas, residChart);
       }
     }
   }

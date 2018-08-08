@@ -4,6 +4,7 @@
   <form (submit)="graphTabSubmit()">
     <div class="form-group">
       <div class="level">
+        X Axis
         <div class="level-item">
           <div class="select">
             <select style="width:300px; max-width:350px;" id="firstDataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selectedX" name="selectedX" [ngModelOptions]="{ updateOn: 'submit'}">
@@ -13,6 +14,7 @@
         </div>
       </div>
       <div class="level">
+        Y Axis
         <div class="level-item">
           <div class="select">
             <select style="width:300px; max-width:350px;" id="secondDataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selectedY" name="selectedY" [ngModelOptions]="{ updateOn: 'submit'}">
@@ -22,8 +24,8 @@
         </div>
       </div>
       <br/>
-      from
       <div class="level">
+        From
         <div class="level-item">
           <div class="select">
             <select style="width:150px; max-width:175px;" id="firstYearSelection" title="Which year do you want to view" [(ngModel)]="begYear" name="begYear" [ngModelOptions]="{ updateOn: 'blur'}">
@@ -31,7 +33,9 @@
             </select>
           </div>
         </div>
-        to
+      </div>
+      <div class="level">
+        To&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <div class="level-item">
           <div class="select">
             <select style="width:150px; max-width:175px;" id="secondYearSelection" title="Which year do you want to view" [(ngModel)]="endYear" name="endYear" [ngModelOptions]="{ updateOn: 'blur'}">
@@ -43,10 +47,10 @@
       <br/>
       <div class="columns">
         <div class="column has-text-left">
-          <p class="has-text-centered">Output</p>
-          <input type="checkbox" title="scatter plot viewable?" id="scatter-check"> Scatter Plot<p></p>
-          <input type="checkbox" title="Residual plot viewable?" id="residual-check"> Residual Plot<p></p>
-          <input type="checkbox" title="statistical plot viewable?" id="stat-check"> Statistical Output<p></p>
+          <p class="has-text-centered">Output Options</p><p></p>
+          <input type="checkbox" title="LSRL viewable?" (click)="hitLSRL()"> Least Square Regression Line<p></p>
+          <input type="checkbox" title="Residual plot viewable?" id="residual-check" (click)="hitResid()"> Residual Plot<p></p>
+          <input type="checkbox" title="statistical plot viewable?" id="stat-check" (click)="hitResult()"> Statistical Output<p></p>
           <input type="checkbox" title="country opts viewable?" id="country-check" (click)="showCountryOptions()"> Specific Country Output
           <div id="country-container" class="is-hidden">
             <p></p>Amount of Countries to view:
@@ -81,7 +85,7 @@
       <div class="level">
         <div class="level-item">
           <br/>
-          <button (click)="newMessage()" type="submit" class="btn btn-success">
+          <button type="submit" (click)="updateDataServices()" class="btn btn-success">
             Submit
           </button>
         </div>

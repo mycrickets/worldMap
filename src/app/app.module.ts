@@ -20,7 +20,12 @@ import { AuthorInfoComponent } from './author-info/author-info.component';
 import { HashLocationStrategy, LocationStrategy } from "@angular/common";
 import { GraphTabComponent } from './graph-tab/graph-tab.component';
 import { GraphContainerComponent } from './graph-container/graph-container.component';
-import {DataService} from "./data-service/data.service";
+import { DataService } from "./data-service/data.service";
+import { CanvasChartComponent } from './canvas-chart/canvas-chart.component';
+import { ResidCanvasChartComponent } from './resid-canvas-chart/resid-canvas-chart.component';
+
+declare var require: any;
+require('chartjs-plugin-zoom');
 
 @NgModule({
   declarations: [
@@ -39,6 +44,8 @@ import {DataService} from "./data-service/data.service";
     AuthorInfoComponent,
     GraphTabComponent,
     GraphContainerComponent,
+    CanvasChartComponent,
+    ResidCanvasChartComponent,
   ],
   imports: [
     BrowserModule,
