@@ -10864,7 +10864,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.11918
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2013,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10872,7 +10872,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.44099
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2012,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10880,7 +10880,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.32676
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2011,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10888,7 +10888,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.22276
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2010,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10896,7 +10896,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.21634
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2009,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10904,7 +10904,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.19679
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2008,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10912,7 +10912,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.22358
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2007,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10920,7 +10920,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.17093
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2006,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10928,7 +10928,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.19373
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2004,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10936,7 +10936,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.23237
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2003,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10944,7 +10944,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.21064
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2002,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10952,7 +10952,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.24461
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2001,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10960,7 +10960,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.2931
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 2000,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10968,7 +10968,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.41888
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 1999,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10976,7 +10976,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.3451
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 1998,
     "Sex": "Not applicable",
     "Age group": "Not applicable",
@@ -10984,7 +10984,7 @@ export const GDExpRNDPercGDP:string = `[
     "Observation Value": 0.4296
   },
   {
-    "Reference Area": "The former Yugoslav Republic of Macedonia",
+    "Reference Area": "Macedonia",
     "Time Period": 1997,
     "Sex": "Not applicable",
     "Age group": "Not applicable",

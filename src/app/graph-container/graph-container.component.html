@@ -1,0 +1,44 @@
+<div class="tile is-ancestor has-text-centered">
+  <div class="tile is-vertical is-parent">
+    <div class="tile is-vertical is-parent" id="mult-container">
+      <div class="tile is-child box" id="line-graph-container">
+        <p>Scatter Plot</p>
+        <canvas id="scatter-plot"></canvas>
+      </div>
+      <div *ngIf="isBoolean(isOneResid)">
+        <div class="tile is-child box" id="output-container">
+          <p>Residual Plot</p>
+          <canvas id="bottom-plot"></canvas>
+        </div>
+      </div>
+      <div *ngIf="isBoolean(isOneResult)">
+        <div class="tile is-child box" id="world-info-container">
+          LSRL Formula: <p id="formula"></p>
+          R: <p id="r"></p>
+          R Squared: <p id="rSqr"></p>
+          Standard Error in the Slope: <p id="mErr"></p>
+          Standard Error in the Intercept: <p id="bErr"></p>
+        </div>
+      </div>
+      <div *ngIf="message!=0">
+        <div *ngFor="let i of fillRange(1, message)" class="tile is-child box" id="country-{{i}}">
+          {{selectedCountries[i-1]}}
+          <div id="country-stat-{{i}}">
+            LSRL Formula: <p id="country-formula-{{i}}"></p>
+            R: <p id="country-r-{{i}}"></p>
+            R Squared: <p id="country-rSqr-{{i}}"></p>
+            Standard Error in the Slope: <p id="country-bErr-{{i}}"></p>
+            Standard Error in the Intercept: <p id="country-mErr-{{i}}"></p>
+          </div>
+          <div *ngIf="isBoolean(isScatter[i-1])">
+            <app-canvas-chart [canvas]="i"></app-canvas-chart>
+          </div>
+          <br/>
+          <div *ngIf="isBoolean(isResid[i-1])">
+            <app-resid-canvas-chart [canvas]="i"></app-resid-canvas-chart>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

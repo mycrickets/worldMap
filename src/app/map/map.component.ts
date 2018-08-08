@@ -1,5 +1,6 @@
-import { Component, OnInit } from '@angular/core';
+import {Component, Input, OnInit} from '@angular/core';
 import {CompEduDuration} from "../../assets/CompEduDuration";
+import {GraphContainerComponent} from "../graph-container/graph-container.component";
 import * as d3 from "d3";
 
 import { CompEduStartAge } from "../../assets/CompEduStartAge";
@@ -195,8 +196,12 @@ export class MapComponent implements OnInit {
   }
 
   removePreviousMap(){
-    document.getElementById('map-container').children.item(0).remove();
-    document.getElementById('map-container').children.item(0).remove();
+    if(_.size(document.getElementById('map-container').children) >= 2) {
+      document.getElementById('graph-container').classList.add('is-hidden');
+      document.getElementById('map-container').classList.remove('is-hidden');
+      document.getElementById('map-container').children.item(0).remove();
+      document.getElementById('map-container').children.item(0).remove();
+    }
   }
 
   getAllYears(data){

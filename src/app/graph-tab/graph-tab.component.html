@@ -1,0 +1,96 @@
+<script type="text/javascript" src="graph-tab.component.ts"></script>
+
+<div class="has-text-centered">
+  <form (submit)="graphTabSubmit()">
+    <div class="form-group">
+      <div class="level">
+        X Axis
+        <div class="level-item">
+          <div class="select">
+            <select style="width:300px; max-width:350px;" id="firstDataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selectedX" name="selectedX" [ngModelOptions]="{ updateOn: 'submit'}">
+              <option *ngFor="let option of choices" [value]="option.name">{{option.name}}</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="level">
+        Y Axis
+        <div class="level-item">
+          <div class="select">
+            <select style="width:300px; max-width:350px;" id="secondDataSelectionLocation" title="Which data set do you want to view" [(ngModel)]="selectedY" name="selectedY" [ngModelOptions]="{ updateOn: 'submit'}">
+              <option *ngFor="let option of choices" [value]="option.name">{{option.name}}</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <br/>
+      <div class="level">
+        From
+        <div class="level-item">
+          <div class="select">
+            <select style="width:150px; max-width:175px;" id="firstYearSelection" title="Which year do you want to view" [(ngModel)]="begYear" name="begYear" [ngModelOptions]="{ updateOn: 'blur'}">
+              <option *ngFor="let year of years" [value]="year">{{year}}</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <div class="level">
+        To&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <div class="level-item">
+          <div class="select">
+            <select style="width:150px; max-width:175px;" id="secondYearSelection" title="Which year do you want to view" [(ngModel)]="endYear" name="endYear" [ngModelOptions]="{ updateOn: 'blur'}">
+              <option *ngFor="let year of years" [value]="year">{{year}}</option>
+            </select>
+          </div>
+        </div>
+      </div>
+      <br/>
+      <div class="columns">
+        <div class="column has-text-left">
+          <p class="has-text-centered">Output Options</p><p></p>
+          <input type="checkbox" title="LSRL viewable?" (click)="hitLSRL()"> Least Square Regression Line<p></p>
+          <input type="checkbox" title="Residual plot viewable?" id="residual-check" (click)="hitResid()"> Residual Plot<p></p>
+          <input type="checkbox" title="statistical plot viewable?" id="stat-check" (click)="hitResult()"> Statistical Output<p></p>
+          <input type="checkbox" title="country opts viewable?" id="country-check" (click)="showCountryOptions()"> Specific Country Output
+          <div id="country-container" class="is-hidden">
+            <p></p>Amount of Countries to view:
+            <div class="select">
+              <select style="width:150px; max-width:175px;" id="amt-countries" title="How many countries?" [(ngModel)]="selectedAmt" name="selectedAmt" [ngModelOptions]="{ updateOn: 'blur'}">
+                <option *ngFor="let num of amount" [value]="num">{{num}}</option>
+              </select>
+            </div>
+            <div class="small-scrollable">
+              <div *ngFor="let number of fillRange(1, selectedAmt)">
+                <div class="has-text-centered">
+                  <div class="select">
+                    <select style="width:150px; max-width:175px;" id="country-choice{{number}}" title="Which country do you want to view" [(ngModel)]="selectedCountries[number-1]" name="selectedCountries{{number-1}}" [ngModelOptions]="{ updateOn: 'blur'}">
+                      <option *ngFor="let ch of countries" [value]="ch">{{ch}}</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="level is-marginless">
+                  <div class="level-item">
+                    <input type="checkbox" title="scatter plot viewable?" id="scatter{{number-1}}" (click)="transferScatter(number)"> Scatter Plot<p></p>
+                  </div>
+                  <div class="level-item">
+                    <input type="checkbox" title="Residual plot viewable?" id="residual{{number-1}}" (click)="transferResid(number)"> Residual Plot<p></p>
+                  </div>
+                </div>
+                <p class="has-text-centered">- - - - - - - - - - - - - - -</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="level">
+        <div class="level-item">
+          <br/>
+          <button type="submit" (click)="updateDataServices()" class="btn btn-success">
+            Submit
+          </button>
+        </div>
+      </div>
+      <br/>
+    </div>
+  </form>
+</div>

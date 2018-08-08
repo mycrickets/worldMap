@@ -1,23 +1,26 @@
-<body>
+<body class="Site">
   <app-navbar></app-navbar>
-  <router-outlet></router-outlet>
+  <main class="Site-content">
+    <router-outlet></router-outlet>
+  </main>
 
   <br/>
-
-  <section class="hero is-light">
-    <div class="hero">
-      <div class="level">
-        <div class="level-item">
-          <ul class="has-text-centered">
-            <br/>
-            <li>All statistics obtained from <a href="http://data.un.org/Explorer.aspx?d=UNESCO" class="has-text-link" target="_blank">UNESCO</a></li>
-            <li>Powered by <a href="https://bulma.io" target="_blank" class="has-text-link">Bulma</a>, <a href="https://github.com/d3" target="_blank" class="has-text-link">d3</a>, and <a href="https://angular.io" target="_blank" class="has-text-link">Angular</a></li>
-            <li>Created by Caleb Ricketts, 2018</li>
-            <li><a routerLink="/author" class="has-text-link">Talk to me</a></li>
-            <br/>
-          </ul>
+  <div class="Site-footer">
+    <section class="hero is-light">
+      <div class="hero">
+        <div class="level">
+          <div class="level-item">
+            <ul class="has-text-centered">
+              <br/>
+              <li>All statistics obtained from <a href="http://data.un.org/Explorer.aspx?d=UNESCO" class="has-text-link" target="_blank">UNESCO</a></li>
+              <li>Powered by <a href="https://bulma.io" target="_blank" class="has-text-link">Bulma</a>, <a href="https://github.com/d3" target="_blank" class="has-text-link">d3</a>, and <a href="https://angular.io" target="_blank" class="has-text-link">Angular</a></li>
+              <li>Created by Caleb Ricketts, 2018</li>
+              <li><a routerLink="/author" class="has-text-link">Talk to me</a></li>
+              <br/>
+            </ul>
+          </div>
         </div>
       </div>
-    </div>
-  </section>
+    </section>
+  </div>
 </body>
