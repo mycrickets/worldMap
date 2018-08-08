@@ -11,6 +11,7 @@ import {GDPConst2011} from "../../assets/GDPConst2011";
 import * as d3 from "d3";
 import {DataService} from "../data-service/data.service";
 import {P} from "@angular/core/src/render3";
+import {NumberOfNewspaperTitles} from "../../assets/NumberOfNewspaperTitles";
 
 declare var require: any;
 const chart = require('chart.js');
@@ -346,7 +347,8 @@ export class GraphTabComponent implements OnInit {
             {'name': "Total GDP, PPP, in 2011 US Dollars", 'file': GDPConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
             {'name': "Total GDP, PPP, in Current US Dollars", 'file': GDPCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
             {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'},
-            {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'}
+            {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'},
+            {'name': "Number of Newspaper Titles", 'file': NumberOfNewspaperTitles},
           ];
           let titleSplit = data.datasets[0].label.split(" vs ");
           let dataX = null;
@@ -459,7 +461,8 @@ export class GraphTabComponent implements OnInit {
       {'name': "Total GDP, PPP, in 2011 US Dollars", 'file': GDPConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
       {'name': "Total GDP, PPP, in Current US Dollars", 'file': GDPCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
       {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'},
-      {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'}
+      {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'},
+      {'name': "Number of Newspaper Titles", 'file': NumberOfNewspaperTitles},
     ];
     this.begYear = 2000;
     this.endYear = 2010;

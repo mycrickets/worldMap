@@ -12,6 +12,7 @@ import { GDPCurrent } from "../../assets/GDPCurrent";
 import { GINIWorldBankEstimate } from "../../assets/GINIWorldBankEstimate";
 import { GDPConst2010 } from "../../assets/GDPConst2010";
 import { GDPCapitaUSDConst } from "../../assets/GDPCapitaUSDConst";
+import { NumberOfNewspaperTitles } from "../../assets/NumberOfNewspaperTitles";
 
 declare var require: any;
 
@@ -354,7 +355,8 @@ export class MapComponent implements OnInit {
       {'name': "Total GDP, PPP, in Current US Dollars", 'file': GDPCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
       {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'},
       /*{'name': "Total GDP in Constant 2010 US Dollars", 'file': GDPConst2010, 'info': 'https://www.investopedia.com/terms/g/gdp.asp'},*/
-      {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'}
+      {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'},
+      {'name': "Number of Newspaper Titles", 'file': NumberOfNewspaperTitles},
     ];
     let choice = selectedData;
 
