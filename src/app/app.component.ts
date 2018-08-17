@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import {CookieJarComponent} from './cookie-jar/cookie-jar.component';
 
 @Component({
   selector: 'app-root',
@@ -11,4 +12,8 @@ export class AppComponent {
 
   constructor() { }
 
+  isNew(){
+    let cj = new CookieJarComponent();
+    return !cj.isReturning()
+  }
 }

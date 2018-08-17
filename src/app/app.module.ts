@@ -23,6 +23,8 @@ import { GraphContainerComponent } from './graph-container/graph-container.compo
 import { DataService } from "./data-service/data.service";
 import { CanvasChartComponent } from './canvas-chart/canvas-chart.component';
 import { ResidCanvasChartComponent } from './resid-canvas-chart/resid-canvas-chart.component';
+import { SplashPathComponent } from './splash-path/splash-path.component';
+import { CookieJarComponent } from './cookie-jar/cookie-jar.component';
 
 declare var require: any;
 require('chartjs-plugin-zoom');
@@ -46,6 +48,8 @@ require('chartjs-plugin-zoom');
     GraphContainerComponent,
     CanvasChartComponent,
     ResidCanvasChartComponent,
+    SplashPathComponent,
+    CookieJarComponent,
   ],
   imports: [
     BrowserModule,

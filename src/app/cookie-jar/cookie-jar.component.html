@@ -1,0 +1,20 @@
+<div class="modal is-active" id="modal-box">
+  <div class="modal-background"></div>
+  <div class="modal-card">
+    <header class="modal-card-head">
+      <p class="modal-card-title">A Small Note</p>
+      <button class="delete" (click)="yesCookies()" aria-label="close"></button>
+    </header>
+    <section class="modal-card-body">
+      <p>This website uses cookies to see if this is your first time here or a returning user!</p>
+      <p>If you do NOT want cookies in your browser, please click "No Thanks" below. Otherwise, enjoy your stay! </p>
+    </section>
+    <footer class="modal-card-foot">
+      <button class="button is-success" (click)="yesCookies()">Continue</button>
+      <button class="button" (click)="noCookies()">No Thanks</button>
+    </footer>
+  </div>
+</div>
+
+<div class="modal" id="splash-container">
+</div>
