@@ -1,4 +1,4 @@
-export const CompEduDuration:string = `[
+export const CompEduDuration = `[
   {
     "Reference Area": "Afghanistan",
     "Time Period": 2014,
