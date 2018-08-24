@@ -1,17 +1,18 @@
 import { Component, OnInit } from '@angular/core';
-import {GDPCapitaUSDConst} from "../../assets/GDPCapitaUSDConst";
-import {GDPCapitaConst2011} from "../../assets/GDPCapitaConst2011";
-import {GDPCapitaCurrent} from "../../assets/GDPCapitaCurrent";
-import {CompEduDuration} from "../../assets/CompEduDuration";
-import {GINIWorldBankEstimate} from "../../assets/GINIWorldBankEstimate";
-import {GDPCurrent} from "../../assets/GDPCurrent";
-import {CompEduStartAge} from "../../assets/CompEduStartAge";
-import {GDExpRNDPercGDP} from "../../assets/GDExpRNDPercGDP";
-import {GDPConst2011} from "../../assets/GDPConst2011";
-import * as d3 from "d3";
-import {DataService} from "../data-service/data.service";
-import {P} from "@angular/core/src/render3";
-import {NumberOfNewspaperTitles} from "../../assets/NumberOfNewspaperTitles";
+import {GDPCapitaUSDConst} from '../../assets/GDPCapitaUSDConst';
+import {GDPCapitaConst2011} from '../../assets/GDPCapitaConst2011';
+import {GDPCapitaCurrent} from '../../assets/GDPCapitaCurrent';
+import {CompEduDuration} from '../../assets/CompEduDuration';
+import {GINIWorldBankEstimate} from '../../assets/GINIWorldBankEstimate';
+import {GDPCurrent} from '../../assets/GDPCurrent';
+import {CompEduStartAge} from '../../assets/CompEduStartAge';
+import {GDExpRNDPercGDP} from '../../assets/GDExpRNDPercGDP';
+import {GDPConst2011} from '../../assets/GDPConst2011';
+import * as d3 from 'd3';
+import {DataService} from '../data-service/data.service';
+import {P} from '@angular/core/src/render3';
+import {NumberOfNewspaperTitles} from '../../assets/NumberOfNewspaperTitles';
+import {SecondaryEducationAmt} from '../../assets/SecondaryEducationAmt';
 
 declare var require: any;
 const chart = require('chart.js');
@@ -35,77 +36,76 @@ export class GraphTabComponent implements OnInit {
   choices: object;
   descriptorX: string;
   descriptorY: string;
-  years:number[];
-  dataType:string;
-  yearType:string;
-  nameType:string;
-  chart:object;
-  i:number;
-  r:number;
-  rSqr:number;
-  formula:string;
-  bErr:number;
-  mErr:number;
-  amount:number[];
-  size:string;
-  selectedAmt:number;
-  countries:string[];
-  selectedCountries:string[];
-  scatterTicker:boolean[]=[false, false, false, false, false];
-  residTicker:boolean[]=[false, false, false, false, false];
-  oneLSRLTicker:boolean=false;
-  oneResidTicker:boolean=false;
-  oneResultTicker:boolean=false;
-  message:number;
-  countryData:object[]=[];
+  years: number[];
+  dataType: string;
+  yearType: string;
+  nameType: string;
+  chart: object;
+  i: number;
+  r: number;
+  rSqr: number;
+  formula: string;
+  bErr: number;
+  mErr: number;
+  amount: number[];
+  size: string;
+  selectedAmt: number;
+  countries: string[];
+  selectedCountries: string[];
+  scatterTicker: boolean[] = [false, false, false, false, false];
+  residTicker: boolean[] = [false, false, false, false, false];
+  oneLSRLTicker = false;
+  oneResidTicker = false;
+  oneResultTicker = false;
+  message: number;
+  countryData: object[] = [];
 
   constructor(private data: DataService) {
   }
 
-  transferScatter(num){
-    this.scatterTicker[num-1] = !this.scatterTicker[num-1]
+  transferScatter(num) {
+    this.scatterTicker[num - 1] = !this.scatterTicker[num - 1];
   }
 
-  transferResid(num){
-    this.residTicker[num-1] = !this.residTicker[num-1]
+  transferResid(num) {
+    this.residTicker[num - 1] = !this.residTicker[num - 1];
   }
 
-  hitLSRL(){
+  hitLSRL() {
     this.oneLSRLTicker = !this.oneLSRLTicker;
   }
 
-  hitResid(){
+  hitResid() {
     this.oneResidTicker = !this.oneResidTicker;
   }
 
-  hitResult(){
+  hitResult() {
     this.oneResultTicker = !this.oneResultTicker;
   }
 
-  showCountryOptions(){
-    let list = document.getElementById("country-container").classList;
-    if(list.contains('is-hidden')){
+  showCountryOptions() {
+    const list = document.getElementById('country-container').classList;
+    if (list.contains('is-hidden')) {
       list.remove('is-hidden');
-      this.selectedAmt=1;
-    } else{
+      this.selectedAmt = 1;
+    } else {
       list.add('is-hidden');
-      this.selectedAmt=0;
+      this.selectedAmt = 0;
     }
-    this.scatterTicker=[false, false, false, false, false];
-    this.residTicker=[false, false, false, false, false];
+    this.scatterTicker = [false, false, false, false, false];
+    this.residTicker = [false, false, false, false, false];
   }
 
-  getIndexForAxis(axis){
-    if (axis == "x"){
-      for(let i = 0; i < _.size(this.choices); i++){
-        if(this.choices[i]['name'] == this.selectedX){
+  getIndexForAxis(axis) {
+    if (axis == 'x') {
+      for (let i = 0; i < _.size(this.choices); i++) {
+        if (this.choices[i]['name'] == this.selectedX) {
           return i;
         }
       }
-    }
-    else if(axis == "y") {
-      for(let i = 0; i < _.size(this.choices); i++){
-        if(this.choices[i]['name'] == this.selectedY){
+    } else if (axis == 'y') {
+      for (let i = 0; i < _.size(this.choices); i++) {
+        if (this.choices[i]['name'] == this.selectedY) {
           return i;
         }
       }
@@ -113,89 +113,89 @@ export class GraphTabComponent implements OnInit {
     return null;
   }
 
-  getType(data, global=false, name=false, rtData=false, year=false){
-    if(!global) {
+  getType(data, global= false, name= false, rtData= false, year= false) {
+    if (!global) {
       if (data[0]['Time Period'] != null) {
-        this.yearType = "Time Period";
-        this.dataType = "Observation Value";
-        this.nameType = "Reference Area";
+        this.yearType = 'Time Period';
+        this.dataType = 'Observation Value';
+        this.nameType = 'Reference Area';
       } else {
-        this.yearType = "Year";
-        this.dataType = "Value";
-        this.nameType = "Country or Area";
+        this.yearType = 'Year';
+        this.dataType = 'Value';
+        this.nameType = 'Country or Area';
       }
     } else {
-      if(name){
-        if(data[0]['Reference Area'] != null){
-          return "Reference Area";
+      if (name) {
+        if (data[0]['Reference Area'] != null) {
+          return 'Reference Area';
         }
-        return "Country or Area";
+        return 'Country or Area';
       }
-      if(rtData){
-        if(data[0]['Observation Value'] != null){
-          return "Observation Value";
+      if (rtData) {
+        if (data[0]['Observation Value'] != null) {
+          return 'Observation Value';
         }
-        return "Value";
+        return 'Value';
       }
-      if(year){
-        if(data[0]['Time Period'] != null){
-          return "Time Period";
+      if (year) {
+        if (data[0]['Time Period'] != null) {
+          return 'Time Period';
         }
-        return "Year";
+        return 'Year';
       }
     }
   }
 
-  getYearsForData(one, two){
-    let years = [];
+  getYearsForData(one, two) {
+    const years = [];
     this.getType(one);
-    for(let i = 0; i < _.size(one); i++){
-      if(!years.includes(one[i][this.yearType])){
-        years.push(one[i][this.yearType])
+    for (let i = 0; i < _.size(one); i++) {
+      if (!years.includes(one[i][this.yearType])) {
+        years.push(one[i][this.yearType]);
       }
     }
     this.getType(two);
-    for(let i = 0; i < _.size(two); i++){
-      if(!years.includes(two[i][this.yearType])){
-        years.push(two[i][this.yearType])
+    for (let i = 0; i < _.size(two); i++) {
+      if (!years.includes(two[i][this.yearType])) {
+        years.push(two[i][this.yearType]);
       }
     }
     return years.sort();
   }
 
-  getDataBetweenYears(bgYear, edYear, data){
+  getDataBetweenYears(bgYear, edYear, data) {
     this.getType(data);
-    let finalData = [];
-    let range = this.fillRange(bgYear, edYear);
-    for(let j = 0; j < _.size(data); j++){
-      if(range.includes(parseInt(data[j][this.yearType]))){
+    const finalData = [];
+    const range = this.fillRange(bgYear, edYear);
+    for (let j = 0; j < _.size(data); j++) {
+      if (range.includes(parseInt(data[j][this.yearType], 10))) {
         finalData.push(data[j]);
       }
     }
-    return finalData
+    return finalData;
   }
 
-  uniqueAdd(arr, dataArr){
-    for(let i = 0; i < _.size(dataArr); i++){
-      let data = dataArr[i];
+  uniqueAdd(arr, dataArr) {
+    for (let i = 0; i < _.size(dataArr); i++) {
+      const data = dataArr[i];
       this.getType(data);
-      for(let j = 0; j < _.size(data); j++){
-        if(!arr.includes(data[j][this.nameType])){
-          arr.push(data[j][this.nameType])
+      for (let j = 0; j < _.size(data); j++) {
+        if (!arr.includes(data[j][this.nameType])) {
+          arr.push(data[j][this.nameType]);
         }
       }
     }
     arr.sort();
   }
 
-  createPoints(xData, yData){
+  createPoints(xData, yData) {
     this.countryData = [];
-    let dataset = [];
-    let prunedX = this.prune(xData, xData, yData);
-    let prunedY = this.prune(yData, xData, yData);
+    const dataset = [];
+    const prunedX = this.prune(xData, xData, yData);
+    const prunedY = this.prune(yData, xData, yData);
     this.uniqueAdd(this.countries, [prunedX, prunedY]);
-    for(let i = 0; i < _.size(prunedX); i++){
-      let standard = {
+    for (let i = 0; i < _.size(prunedX); i++) {
+      const standard = {
         x: 0,
         y: 0,
       };
@@ -212,15 +212,15 @@ export class GraphTabComponent implements OnInit {
     return dataset;
   }
 
-  prune(choice, x, y){
-    let post = [];
+  prune(choice, x, y) {
+    const post = [];
     this.getType(x);
-    for(let i = 0; i < _.size(x); i++){
-      for(let j = 0; j < _.size(y); j++){
-        if(x[i][this.nameType] == y[j][this.getType(y, true, true)] && x[i][this.yearType] == y[j][this.getType(y, true, false, false, true)]){
-          if(choice === x){
+    for (let i = 0; i < _.size(x); i++) {
+      for (let j = 0; j < _.size(y); j++) {
+        if (x[i][this.nameType] == y[j][this.getType(y, true, true)] && x[i][this.yearType] == y[j][this.getType(y, true, false, false, true)]) {
+          if (choice === x) {
             post.push(x[i]);
-          } else if(choice === y){
+          } else if (choice === y) {
             post.push(y[j]);
           }
         }
@@ -229,23 +229,23 @@ export class GraphTabComponent implements OnInit {
     return post;
   }
 
-  getBackgroundColor(data){
+  getBackgroundColor(data) {
     let r = 1;
     let g = 1;
     let b = 1;
-    let denom = _.size(data);
-    let colorArray = new Array(denom);
-    let chg = (255*3)/denom;
-    for(let i = 0; i < denom; i++){
-      if(g < 255 && g > 0){
+    const denom = _.size(data);
+    const colorArray = new Array(denom);
+    const chg = (255 * 3) / denom;
+    for (let i = 0; i < denom; i++) {
+      if (g < 255 && g > 0) {
         g += chg;
       } else {
         g = 0;
-        if(r < 255 && r > 0) {
+        if (r < 255 && r > 0) {
           r += chg;
         } else {
           r = 0;
-          if(b < 255 && b > 0) {
+          if (b < 255 && b > 0) {
             b += chg;
             if (b >= 255) {
               b = 255;
@@ -255,59 +255,59 @@ export class GraphTabComponent implements OnInit {
       }
       colorArray[i] = d3.rgb(Math.floor(r), Math.floor(g), Math.floor(b));
     }
-    return colorArray
+    return colorArray;
   }
 
-  getMaxValue(data){
+  getMaxValue(data) {
     let max = 0;
-    for(let i = 0; i < _.size(data); i++){
-      if (parseInt(data[i]) > max){
-        max = parseInt(data[i]);
+    for (let i = 0; i < _.size(data); i++) {
+      if (parseInt(data[i], 10) > max) {
+        max = parseInt(data[i], 10);
       }
     }
     return max;
   }
 
-  getDescriptor(data){
-    let measurement = data[0]['Units of measurement'];
-    if(measurement != null){
-      return " (in " + measurement + ")";
+  getDescriptor(data) {
+    const measurement = data[0]['Units of measurement'];
+    if (measurement != null) {
+      return ' (in ' + measurement + ')';
     }
-    if(data[0]['Item'] != null){
-      if(data[0]['Item'].includes("(GDP)")) {
-        return " (in USD)"
+    if (data[0]['Item'] != null) {
+      if (data[0]['Item'].includes('(GDP)')) {
+        return ' (in USD)';
       }
     }
-    return "";
+    return '';
   }
 
-  createDataset(labelArr, dataArr, colorArr, opts){
-    let amt = _.size(dataArr);
-    let results = [];
-    for(let i = 0; i < amt; i++){
-      let outline = {
+  createDataset(labelArr, dataArr, colorArr, opts) {
+    const amt = _.size(dataArr);
+    const results = [];
+    for (let i = 0; i < amt; i++) {
+      const outline = {
         label: labelArr[i],
         data: dataArr[i],
         pointBackgroundColor: colorArr[i]
       };
-      let fin = Object.assign({}, outline, opts[i]);
-      results.push(fin)
+      const fin = Object.assign({}, outline, opts[i]);
+      results.push(fin);
     }
     return results;
   }
 
-  createGraph(dataset, tooltip=false){
-    let final = {
+  createGraph(dataset, tooltip= false) {
+    const final = {
       type: 'scatter',
       data: {
         datasets: dataset,
       },
       options: {
-        tooltips:{
+        tooltips: {
           callbacks: {}
         },
         animation: false,
-        scales:{
+        scales: {
           xAxes: [{
             scaleLabel: {
               display: true,
@@ -332,113 +332,113 @@ export class GraphTabComponent implements OnInit {
         }
       }
     };
-    if(tooltip){
-        final.options.tooltips.callbacks =
-          {label: function(tooltipItem, data){
-          return "(" + tooltipItem.xLabel.toLocaleString() + ", " + tooltipItem.yLabel.toLocaleString() + ")";
+    if (tooltip) {
+        final.options.tooltips.callbacks = {label: function(tooltipItem, data) {
+          return '(' + tooltipItem.xLabel.toLocaleString() + ', ' + tooltipItem.yLabel.toLocaleString() + ')';
         },
-        title: function(tooltipItem, data){
-          let choices = [
-            {'name': "Compulsory Education Duration", 'file': CompEduDuration, 'info': null},
-            {'name': "Compulsory Education Starting Age", 'file': CompEduStartAge, 'info': null},
-            {'name': "Gross Expense on R&D as a Percentage of GDP", 'file': GDExpRNDPercGDP, 'info': null},
-            {'name': "GDP Per Capita, PPP, in 2011 US Dollars", 'file': GDPCapitaConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-            {'name': "GDP Per Capita, PPP, in Current US Dollars", 'file': GDPCapitaCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-            {'name': "Total GDP, PPP, in 2011 US Dollars", 'file': GDPConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-            {'name': "Total GDP, PPP, in Current US Dollars", 'file': GDPCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-            {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'},
-            {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'},
-            {'name': "Number of Newspaper Titles", 'file': NumberOfNewspaperTitles},
+        title: function(tooltipItem, data) {
+          const choices = [
+            {'name': 'Compulsory Education Duration', 'file': CompEduDuration, 'info': null},
+            {'name': 'Compulsory Education Starting Age', 'file': CompEduStartAge, 'info': null},
+            {'name': 'Gross Expense on R&D as a Percentage of GDP', 'file': GDExpRNDPercGDP, 'info': null},
+            {'name': 'GDP Per Capita, PPP, in 2011 US Dollars', 'file': GDPCapitaConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+            {'name': 'GDP Per Capita, PPP, in Current US Dollars', 'file': GDPCapitaCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+            {'name': 'Total GDP, PPP, in 2011 US Dollars', 'file': GDPConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+            {'name': 'Total GDP, PPP, in Current US Dollars', 'file': GDPCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+            {'name': 'GINI Index (World Bank Estimate)', 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'},
+            {'name': 'GDP Per Capita in Current US Dollars', 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'},
+            {'name': 'Number of Newspaper Titles', 'file': NumberOfNewspaperTitles},
+            {'name': 'Secondary Education Amount', 'file': SecondaryEducationAmt},
           ];
-          let titleSplit = data.datasets[0].label.split(" vs ");
+          const titleSplit = data.datasets[0].label.split(' vs ');
           let dataX = null;
           let dataY = null;
-          for(let i = 0; i < _.size(choices); i++){
-            if(choices[i]['name'] == titleSplit[0].trim()){
+          for (let i = 0; i < _.size(choices); i++) {
+            if (choices[i]['name'] == titleSplit[0].trim()) {
               dataX = JSON.parse(choices[i]['file']);
             }
-            if(choices[i]['name'] == titleSplit[1].trim()){
+            if (choices[i]['name'] == titleSplit[1].trim()) {
               dataY = JSON.parse(choices[i]['file']);
             }
           }
-          let name = "";
-          for(let i = 0; i < _.size(choices); i++){
-            let file = dataX;
-            for(let j = 0; j < _.size(file); j++){
-              if(file[j]['Value'] == tooltipItem[0].xLabel){
-                for(let k = 0; k < _.size(dataY); k++){
-                  if(dataY[k]['Value'] == tooltipItem[0].yLabel){
+          let name = '';
+          for (let i = 0; i < _.size(choices); i++) {
+            const file = dataX;
+            for (let j = 0; j < _.size(file); j++) {
+              if (file[j]['Value'] == tooltipItem[0].xLabel) {
+                for (let k = 0; k < _.size(dataY); k++) {
+                  if (dataY[k]['Value'] == tooltipItem[0].yLabel) {
                     name = file[j]['Country or Area'];
-                    if (name == null){
-                      name = dataY[k]['Country or Area']
+                    if (name == null) {
+                      name = dataY[k]['Country or Area'];
                     }
-                    return name + ", " + file[j]['Year'];
+                    return name + ', ' + file[j]['Year'];
                   }
-                  if(dataY[k]['Observation Value'] == tooltipItem[0].yLabel){
+                  if (dataY[k]['Observation Value'] == tooltipItem[0].yLabel) {
                     name = file[j]['Country or Area'];
-                    if (name == null){
-                      name = dataY[k]['Reference Area']
+                    if (name == null) {
+                      name = dataY[k]['Reference Area'];
                     }
-                    return name + ", " + file[j]['Year'];
+                    return name + ', ' + file[j]['Year'];
                   }
                 }
               }
-              if(file[j]['Observation Value'] == tooltipItem[0].xLabel){
-                for(let k = 0; k < _.size(dataY); k++){
-                  if(dataY[k]['Value'] == tooltipItem[0].yLabel){
+              if (file[j]['Observation Value'] == tooltipItem[0].xLabel) {
+                for (let k = 0; k < _.size(dataY); k++) {
+                  if (dataY[k]['Value'] == tooltipItem[0].yLabel) {
                     name = dataY[k]['Country or Area'];
-                    if (name == null){
+                    if (name == null) {
                       name = file[j]['Reference Area'];
                     }
-                    return name + ", " + file[j]['Time Period'];
+                    return name + ', ' + file[j]['Time Period'];
                   }
-                  if(dataY[k]['Observation Value'] == tooltipItem[0].yLabel){
+                  if (dataY[k]['Observation Value'] == tooltipItem[0].yLabel) {
                     name = file[j]['Reference Area'];
-                    if (name == null){
-                      name = dataY[k]['Reference Area']
+                    if (name == null) {
+                      name = dataY[k]['Reference Area'];
                     }
-                    return name + ", " + file[j]['Time Period'];
+                    return name + ', ' + file[j]['Time Period'];
                   }
                 }
               }
             }
           }
         }
-      }
+      };
     }
     return final;
   }
 
-  getDataFromCountryName(data, name){
-    let results = [];
+  getDataFromCountryName(data, name) {
+    const results = [];
     this.getType(data);
-    for(let i = 0; i < _.size(data); i++){
-      if(data[i]['name'] == name){
+    for (let i = 0; i < _.size(data); i++) {
+      if (data[i]['name'] == name) {
         results.push(data[i]);
       }
     }
     return results.sort();
   }
 
-  fillRange(bg, ed){
-    if (bg > ed){
-      let temp = bg;
+  fillRange(bg, ed) {
+    if (bg > ed) {
+      const temp = bg;
       bg = ed;
       ed = temp;
     }
-    let range = [];
-    for(let i = parseInt(bg); i <= parseInt(ed); i++){
+    const range = [];
+    for (let i = parseInt(bg, 10); i <= parseInt(ed, 10); i++) {
       range.push(i);
     }
     return range;
   }
 
-  showGraph(){
+  showGraph() {
     document.getElementById('map-container').classList.add('is-hidden');
     document.getElementById('graph-container').classList.remove('is-hidden');
   }
 
-  removePreviousGraph(){
+  removePreviousGraph() {
     $('#scatter-plot').remove();
     $('#line-graph-container').append('<canvas id="scatter-plot"></canvas>');
     $('#bottom-plot').remove();
@@ -446,45 +446,45 @@ export class GraphTabComponent implements OnInit {
   }
 
   async sleep(ms) {
-    return new Promise(resolve => setTimeout(resolve, ms))
+    return new Promise(resolve => setTimeout(resolve, ms));
   }
 
   ngOnInit() {
     this.data.currentMessage.subscribe(message => this.message = message);
     this.data.currentCountriesList.subscribe(selectedCountries => this.selectedCountries = selectedCountries);
     this.choices = [
-      {'name': "Compulsory Education Duration", 'file': CompEduDuration, 'info': null},
-      {'name': "Compulsory Education Starting Age", 'file': CompEduStartAge, 'info': null},
-      {'name': "Gross Expense on R&D as a Percentage of GDP", 'file': GDExpRNDPercGDP, 'info': null},
-      {'name': "GDP Per Capita, PPP, in 2011 US Dollars", 'file': GDPCapitaConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-      {'name': "GDP Per Capita, PPP, in Current US Dollars", 'file': GDPCapitaCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-      {'name': "Total GDP, PPP, in 2011 US Dollars", 'file': GDPConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-      {'name': "Total GDP, PPP, in Current US Dollars", 'file': GDPCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
-      {'name': "GINI Index (World Bank Estimate)", 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'},
-      {'name': "GDP Per Capita in Current US Dollars", 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'},
-      {'name': "Number of Newspaper Titles", 'file': NumberOfNewspaperTitles},
+      {'name': 'Compulsory Education Duration', 'file': CompEduDuration, 'info': null},
+      {'name': 'Compulsory Education Starting Age', 'file': CompEduStartAge, 'info': null},
+      {'name': 'Gross Expense on R&D as a Percentage of GDP', 'file': GDExpRNDPercGDP, 'info': null},
+      {'name': 'GDP Per Capita, PPP, in 2011 US Dollars', 'file': GDPCapitaConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+      {'name': 'GDP Per Capita, PPP, in Current US Dollars', 'file': GDPCapitaCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+      {'name': 'Total GDP, PPP, in 2011 US Dollars', 'file': GDPConst2011, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+      {'name': 'Total GDP, PPP, in Current US Dollars', 'file': GDPCurrent, 'info': 'https://www.investopedia.com/updates/purchasing-power-parity-ppp/'},
+      {'name': 'GINI Index (World Bank Estimate)', 'file': GINIWorldBankEstimate, 'info': 'https://www.investopedia.com/terms/g/gini-index.asp'},
+      {'name': 'GDP Per Capita in Current US Dollars', 'file': GDPCapitaUSDConst, 'info': 'https://www.investopedia.com/terms/p/per-capita-gdp.asp'},
+      {'name': 'Number of Newspaper Titles', 'file': NumberOfNewspaperTitles},
     ];
     this.begYear = 2000;
     this.endYear = 2010;
     this.selectedAmt = 0;
-    this.selectedX = "Gross Expense on R&D as a Percentage of GDP";
-    this.selectedY = "GDP Per Capita in Current US Dollars";
-    let x = this.getIndexForAxis("x");
-    let y = this.getIndexForAxis("y");
+    this.selectedX = 'Gross Expense on R&D as a Percentage of GDP';
+    this.selectedY = 'GDP Per Capita in Current US Dollars';
+    const x = this.getIndexForAxis('x');
+    const y = this.getIndexForAxis('y');
     this.dataX = JSON.parse(this.choices[x]['file']);
     this.dataY = JSON.parse(this.choices[y]['file']);
     this.years = this.getYearsForData(this.dataX, this.dataY);
-    this.i=0;
+    this.i = 0;
     this.amount = this.fillRange(1, 5);
     this.countries = [];
-    let triggerFunc = this.createPoints(this.getDataBetweenYears(this.begYear, this.endYear, this.dataX), this.getDataBetweenYears(this.begYear, this.endYear, this.dataY))
+    const triggerFunc = this.createPoints(this.getDataBetweenYears(this.begYear, this.endYear, this.dataX), this.getDataBetweenYears(this.begYear, this.endYear, this.dataY));
     this.selectedCountries = [];
-    for(let i = 0; i < this.selectedAmt; i++){
-      this.selectedCountries[i] = this.countries[i]
+    for (let i = 0; i < this.selectedAmt; i++) {
+      this.selectedCountries[i] = this.countries[i];
     }
   }
 
-  updateDataServices(){
+  updateDataServices() {
     this.data.changeIsScatter(this.scatterTicker);
     this.data.changeIsResid(this.residTicker);
     this.data.changeIsOneLSRL(this.oneLSRLTicker);
@@ -493,131 +493,131 @@ export class GraphTabComponent implements OnInit {
   }
 
   async graphTabSubmit() {
-    this.data.changeMessage(parseInt(String(this.selectedAmt)));
+    this.data.changeMessage(parseInt(String(this.selectedAmt), 10));
     this.data.changeCountriesList(this.selectedCountries);
 
     this.i++;
     this.showGraph();
     this.removePreviousGraph();
 
-    let x = this.getIndexForAxis("x");
-    let y = this.getIndexForAxis("y");
+    const x = this.getIndexForAxis('x');
+    const y = this.getIndexForAxis('y');
     this.dataX = JSON.parse(this.choices[x]['file']);
     this.dataY = JSON.parse(this.choices[y]['file']);
 
-    let yearlyDataX = this.getDataBetweenYears(this.begYear, this.endYear, this.dataX);
-    let yearlyDataY = this.getDataBetweenYears(this.begYear, this.endYear, this.dataY);
+    const yearlyDataX = this.getDataBetweenYears(this.begYear, this.endYear, this.dataX);
+    const yearlyDataY = this.getDataBetweenYears(this.begYear, this.endYear, this.dataY);
 
     this.descriptorX = this.getDescriptor(this.dataX);
     this.descriptorY = this.getDescriptor(this.dataY);
 
-    let finalDatasetData = this.createPoints(yearlyDataX, yearlyDataY);
-    let colors = this.getBackgroundColor(finalDatasetData);
+    const finalDatasetData = this.createPoints(yearlyDataX, yearlyDataY);
+    const colors = this.getBackgroundColor(finalDatasetData);
 
-    let LSRLX = [];
-    let LSRLY = [];
-    for(let i = 0; i < _.size(finalDatasetData); i++){
+    const LSRLX = [];
+    const LSRLY = [];
+    for (let i = 0; i < _.size(finalDatasetData); i++) {
       LSRLX.push(finalDatasetData[i].x);
       LSRLY.push(finalDatasetData[i].y);
     }
-    let ret = {};
+    const ret = {};
 
-    let f = lsq(LSRLX, LSRLY, true, ret);
-    let LSRLData = [];
-    for(let i = 0; i < this.getMaxValue(LSRLX); i+=(1/35 * this.getMaxValue(LSRLX))){
+    const f = lsq(LSRLX, LSRLY, true, ret);
+    const LSRLData = [];
+    for (let i = 0; i < this.getMaxValue(LSRLX); i += (1 / 35 * this.getMaxValue(LSRLX))) {
       LSRLData.push({x: i, y: f(i)});
     }
 
-    let residData = [];
-    for(let i = 0; i < _.size(finalDatasetData); i++){
-      let residX = finalDatasetData[i]['x'];
-      let residY = finalDatasetData[i]['y'];
-      residData.push({x: residX, y: residY-f(residX)})
+    const residData = [];
+    for (let i = 0; i < _.size(finalDatasetData); i++) {
+      const residX = finalDatasetData[i]['x'];
+      const residY = finalDatasetData[i]['y'];
+      residData.push({x: residX, y: residY - f(residX)});
     }
 
-    this.formula = "y = " + ret['m'].toFixed(5) + " * x + " + ret['b'].toFixed(5);
+    this.formula = 'y = ' + ret['m'].toFixed(5) + ' * x + ' + ret['b'].toFixed(5);
     this.r = 0;
     this.rSqr = this.r * this.r;
     this.bErr = ret['bErr'].toFixed(5);
     this.mErr = ret['mErr'].toFixed(5);
 
-    if(this.oneResultTicker) {
-      document.getElementById('r').innerText = "" + this.r.toFixed(5);
-      document.getElementById('rSqr').innerText = "" + this.rSqr.toFixed(5);
-      document.getElementById('formula').innerText = "" + this.formula;
-      document.getElementById('bErr').innerText = "" + this.bErr;
-      document.getElementById('mErr').innerText = "" + this.mErr;
+    if (this.oneResultTicker) {
+      document.getElementById('r').innerText = '' + this.r.toFixed(5);
+      document.getElementById('rSqr').innerText = '' + this.rSqr.toFixed(5);
+      document.getElementById('formula').innerText = '' + this.formula;
+      document.getElementById('bErr').innerText = '' + this.bErr;
+      document.getElementById('mErr').innerText = '' + this.mErr;
     }
 
-    let title = [
+    const title = [
       this.selectedX + '\n vs \n' + this.selectedY];
-    let data = [finalDatasetData];
-    let color:any[] = [colors];
-    let opts = [{}];
+    const data = [finalDatasetData];
+    const color: any[] = [colors];
+    const opts = [{}];
 
-    if(this.oneLSRLTicker){
-      title.push("Least Squared Regression Line");
+    if (this.oneLSRLTicker) {
+      title.push('Least Squared Regression Line');
       data.push(LSRLData);
-      color.push("F0F0F0");
+      color.push('F0F0F0');
       opts.push({type: 'line',
         showLine: true,
         backgroundColor: '#F0F0F0',
         fill: false});
     }
 
-    let finalDatasets = this.createDataset(title, data, color, opts);
+    const finalDatasets = this.createDataset(title, data, color, opts);
 
-    let finalResid = this.createDataset([
+    const finalResid = this.createDataset([
       this.selectedX + '\n vs \n' + this.selectedY],
       [residData],
       [colors],
       [{}]
       );
 
-    let finalChart = this.createGraph(finalDatasets, true);
-    let residualChart = this.createGraph(finalResid, false);
+    const finalChart = this.createGraph(finalDatasets, true);
+    const residualChart = this.createGraph(finalResid, false);
 
-    document.getElementById("title-sentence").innerText = finalDatasets[0].label + " \nfrom " + this.begYear + " to " + this.endYear;
-    if(this.oneResidTicker) {
-      const resid = document.getElementById("bottom-plot");
+    document.getElementById('title-sentence').innerText = finalDatasets[0].label + ' \nfrom ' + this.begYear + ' to ' + this.endYear;
+    if (this.oneResidTicker) {
+      const resid = document.getElementById('bottom-plot');
       new chart.Chart(resid, residualChart);
     }
-    const ctx = document.getElementById("scatter-plot");
+    const ctx = document.getElementById('scatter-plot');
     this.chart = new chart.Chart(ctx, finalChart);
 
-    for(let i = 0; i < this.selectedAmt; i++){
+    for (let i = 0; i < this.selectedAmt; i++) {
       let countryCanvas = null;
       //loop is ind country
-      let residualCheck = this.residTicker[i];
-      let scatterCheck = this.scatterTicker[i];
-      let countryName = this.selectedCountries[i];
-      let thiscountryData = this.getDataFromCountryName(this.countryData, countryName);
-      let colors = this.getBackgroundColor(thiscountryData);
-      let LSRLX = [];
-      let LSRLY = [];
+      const residualCheck = this.residTicker[i];
+      const scatterCheck = this.scatterTicker[i];
+      const countryName = this.selectedCountries[i];
+      const thiscountryData = this.getDataFromCountryName(this.countryData, countryName);
+      const colors = this.getBackgroundColor(thiscountryData);
+      const LSRLX = [];
+      const LSRLY = [];
       let countryResidData = [];
-      let ret = {};
-      for(let i = 0; i < _.size(thiscountryData); i++){
+      const ret = {};
+      for (let i = 0; i < _.size(thiscountryData); i++) {
         LSRLX.push(thiscountryData[i].x);
         LSRLY.push(thiscountryData[i].y);
-        let f = lsq(LSRLX, LSRLY, true, ret);
-        let LSRLData = [];
-        for(let i = 0; i < this.getMaxValue(LSRLX); i+=(1/35 * this.getMaxValue(LSRLX))){
+        const f = lsq(LSRLX, LSRLY, true, ret);
+        const LSRLData = [];
+        for (let i = 0; i < this.getMaxValue(LSRLX); i += (1 / 35 * this.getMaxValue(LSRLX))) {
           LSRLData.push({x: i, y: f(i)});
         }
         countryResidData = [];
-        for(let i = 0; i < _.size(thiscountryData); i++){
-          let residX = thiscountryData[i]['x'];
-          let residY = thiscountryData[i]['y'];
-          countryResidData.push({x: residX, y: residY-f(residX)})
+        for (let i = 0; i < _.size(thiscountryData); i++) {
+          const residX = thiscountryData[i]['x'];
+          const residY = thiscountryData[i]['y'];
+          countryResidData.push({x: residX, y: residY - f(residX)});
         }
       }
 
-      let formula = "y = " + ret['m'].toFixed(5) + " * x + " + ret['b'].toFixed(5);
-      let r = 0;
-      let rSqr = r * r;
-      let bErr = ret['bErr'].toFixed(5);
-      let mErr = ret['mErr'].toFixed(5);
+      const formula = 'y = ' + ret['m'].toFixed(5) + ' * x + ' + ret['b'].toFixed(5);
+      const r = 0;
+      const rSqr = r * r;
+      const bErr = ret['bErr'].toFixed(5);
+      const mErr = ret['mErr'].toFixed(5);
       document.getElementById('country-formula-' + (i + 1)).innerText = formula;
       document.getElementById('country-r-' + (i + 1)).innerText = String(r);
       document.getElementById('country-rSqr-' + (i + 1)).innerText = String(rSqr);
@@ -625,24 +625,24 @@ export class GraphTabComponent implements OnInit {
       document.getElementById('country-mErr-' + (i + 1)).innerText = String(mErr);
       if (scatterCheck) {
         const countryGraph = this.createDataset(
-          [countryName + " Scatter Plot"],
+          [countryName + ' Scatter Plot'],
           [thiscountryData],
           [colors],
           [{}]
         );
-        let countryChart = this.createGraph(countryGraph, false);
+        const countryChart = this.createGraph(countryGraph, false);
         countryCanvas = document.getElementById('country-canvas-' + (i + 1));
-        new chart.Chart(countryCanvas, countryChart)
+        new chart.Chart(countryCanvas, countryChart);
       }
-      if(residualCheck){
+      if (residualCheck) {
         const residGraph = this.createDataset(
-          [countryName + " Residual Plot"],
+          [countryName + ' Residual Plot'],
           [countryResidData],
           [colors],
           [{}]
         );
-        let residChart = this.createGraph(residGraph, false);
-        let residCanvas = document.getElementById('resid-canvas-' + (i + 1));
+        const residChart = this.createGraph(residGraph, false);
+        const residCanvas = document.getElementById('resid-canvas-' + (i + 1));
         new chart.Chart(residCanvas, residChart);
       }
     }
