@@ -10,7 +10,6 @@ import {GDExpRNDPercGDP} from '../../assets/GDExpRNDPercGDP';
 import {GDPConst2011} from '../../assets/GDPConst2011';
 import * as d3 from 'd3';
 import {DataService} from '../data-service/data.service';
-import {P} from '@angular/core/src/render3';
 import {NumberOfNewspaperTitles} from '../../assets/NumberOfNewspaperTitles';
 import {SecondaryEducationAmt} from '../../assets/SecondaryEducationAmt';
 

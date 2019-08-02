@@ -8,7 +8,7 @@ import {Component, Input, OnInit, ViewChild} from '@angular/core';
 export class ResidCanvasChartComponent implements OnInit {
 
   @Input() canvas;
-  @ViewChild('id') id:number;
+  @ViewChild('id', { static: false }) id:number;
 
   constructor() { }
 
