@@ -96,15 +96,13 @@ export class GraphTabComponent implements OnInit {
   }
 
   getIndexForAxis(axis) {
-    if (axis == 'x') {
+    let axistype = {
+      'x': this.selectedX,
+      'y': this.selectedY
+    };
+    if(axistype[axis]) {
       for (let i = 0; i < _.size(this.choices); i++) {
-        if (this.choices[i]['name'] == this.selectedX) {
-          return i;
-        }
-      }
-    } else if (axis == 'y') {
-      for (let i = 0; i < _.size(this.choices); i++) {
-        if (this.choices[i]['name'] == this.selectedY) {
+        if (this.choices[i]['name'] == axistype[axis]) {
           return i;
         }
       }
