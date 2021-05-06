@@ -31,7 +31,7 @@
     "least-squares": "0.0.2",
     "papaparse": "^4.5.0",
     "rxjs": "^6.0.0",
-    "underscore": "^1.9.1",
+    "underscore": "^1.12.1",
     "zone.js": "^0.9.1"
   },
   "devDependencies": {
