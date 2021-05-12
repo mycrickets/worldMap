@@ -22,7 +22,7 @@
     "@angular/platform-browser-dynamic": "^8.0.3",
     "@angular/router": "^8.0.3",
     "bulma": "^0.7.1",
-    "chart.js": "^2.7.2",
+    "chart.js": "^2.9.4",
     "chartjs-plugin-zoom": "^0.6.3",
     "core-js": "^2.5.4",
     "d3": "^5.5.0",
