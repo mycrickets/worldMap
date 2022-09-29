@@ -25,7 +25,7 @@
     "chart.js": "^2.7.2",
     "chartjs-plugin-zoom": "^0.6.3",
     "core-js": "^2.5.4",
-    "d3": "^5.5.0",
+    "d3": "^7.6.1",
     "datamaps": "^0.5.9",
     "jquery": "^3.3.1",
     "least-squares": "0.0.2",
